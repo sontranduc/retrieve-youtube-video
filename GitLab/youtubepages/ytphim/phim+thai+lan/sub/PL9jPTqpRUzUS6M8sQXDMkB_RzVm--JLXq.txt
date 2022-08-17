@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "HFR4bAsCkSTz93uJ52n02bK2lVE",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WMbR7vVwU4-L0glSwvssTsAN2fc",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2018-06-06T05:23:14Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Phim Võ Thuật Mới Nhất 2017 - Võ Thuật Thái Lan - Thuyết Minh",
+                "description": "phim võ thuật mới nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eh6pdZ03u4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eh6pdZ03u4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eh6pdZ03u4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eh6pdZ03u4c"
+                },
+                "videoOwnerChannelTitle": "Tuấn Phạm",
+                "videoOwnerChannelId": "UCbzVaSHBQRknkr61vIIuvuQ"
+            },
+            "contentDetails": {
+                "videoId": "eh6pdZ03u4c",
+                "videoPublishedAt": "2017-08-31T12:36:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5_TyGISbAYSLiqD-EGDNd-iQDUY",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2018-06-07T18:03:46Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TIaGmtIM5t0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TIaGmtIM5t0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Az60vD1Gy9a44LA2W9YFYTv9YX0",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2018-06-08T14:10:12Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "review sữa rửa mặt cetaphil và hazeline /  cetaphil cleaner and hazeline review",
+                "description": "các b hãy follow facebook m nhé để mình có thêm động lực làm thêm nhiều video mớihttps://www.facebook.com/profile.php?id=100012378272189",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dV_TXg7JtmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dV_TXg7JtmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dV_TXg7JtmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dV_TXg7JtmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dV_TXg7JtmQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dV_TXg7JtmQ"
+                },
+                "videoOwnerChannelTitle": "T D DỊU TRỊNH",
+                "videoOwnerChannelId": "UCZcQHPJmvZnQDII3weIHGnA"
+            },
+            "contentDetails": {
+                "videoId": "dV_TXg7JtmQ",
+                "videoPublishedAt": "2017-12-05T16:20:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "c0Ljl1jaeybUk_9TMWP6FG4Tz9M",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2018-06-10T08:35:30Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "quc8hOTeHfw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "quc8hOTeHfw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FVsOOGS-behnTSrL04_mSeV7bZU",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2018-06-12T04:28:55Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "80 phụ nữ Việt “trúng kế” trai Tây trên facebook",
+                "description": "80 phụ nữ Việt “trúng kế” trai Tây trên facebook.\nCơ quan điều tra công an tỉnh Tây Ninh vừa bắt tạm giam Nguyễn Thị Thùy Trang (29 tuổi, ngụ ấp Bàu Tép, xã Tiên Thuận, tỉnh Tây Ninh) về hành vi lừa đảo chiếm đoạt tài sản.\n\nKênh ANTV luôn cập nhật tin tức thời sự, tin an ninh với 4 tiêu chí \"Nhân văn, tin cậy, kịp thời, hấp dẫn\". \nRất nhiều chương trình của ANTV đã chiếm được cảm tình và sự quan tâm của độc giả như : Hành trình phá án, cameara giấu kín, thời sự 113 online, an ninh ngày mới... \nĐĂNG KÍ NGAY để được cập nhật những tin tức thời sự mới nhất hàng ngày tại đây https://goo.gl/6ILihu \nCùng dõi theo HÀNH TRÌNH PHÁ ÁN mới nhất tại https://goo.gl/Lx2g6E\nCập nhật TIN AN NINH hàng ngày tại https://goo.gl/0CqaF6\nCảm ơn các bạn đã chú ý quan tâm và theo dõi!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F2yqdDx_iY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F2yqdDx_iY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F2yqdDx_iY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F2yqdDx_iY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "F2yqdDx_iY8"
+                },
+                "videoOwnerChannelTitle": "ANTV - Truyền hình Công an Nhân dân",
+                "videoOwnerChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg"
+            },
+            "contentDetails": {
+                "videoId": "F2yqdDx_iY8",
+                "videoPublishedAt": "2016-04-08T07:22:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n-pba3DvKwcAa5jaLGQEKzLDSVo",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2018-06-12T20:18:49Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Best Action Hindi Dubbed Movie - Hindi Action Movie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4m8ODP4TbmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4m8ODP4TbmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4m8ODP4TbmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4m8ODP4TbmE"
+                },
+                "videoOwnerChannelTitle": "Huna Yuna",
+                "videoOwnerChannelId": "UC9a5z0zmL1aHnHZX3iPocIg"
+            },
+            "contentDetails": {
+                "videoId": "4m8ODP4TbmE",
+                "videoPublishedAt": "2016-04-02T03:17:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9jM2W2zEQnPjiNSSSFKgq9L899w",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-06-12T23:41:55Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "quc8hOTeHfw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "quc8hOTeHfw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B1uImh2JIKFhK6Wg4BQPGyXGw5o",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2018-06-20T13:59:38Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "phim hài việt nam - Kén chồng - phim hài mới nhất",
+                "description": "phim hài việt nam - Kén chồng - phim hài mới nhất \nPhim Việt Nam 2018: https://goo.gl/f5LDo5\nPhim Hành Động Hay Nhất 2017: https://youtu.be/IeKKERf-xzU\n►Phim Việt Nam Chiếu Rạp 2017 :https://youtu.be/jAZ3hYwFMYI?list=PLI4DZVYqSXKPVlDYPg1zq-0cZ2OBqwGle\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-vvofqzhFNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-vvofqzhFNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-vvofqzhFNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-vvofqzhFNA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-vvofqzhFNA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-vvofqzhFNA"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Việt Nam",
+                "videoOwnerChannelId": "UCnihWx76gHjykKYOhvP_v8A"
+            },
+            "contentDetails": {
+                "videoId": "-vvofqzhFNA",
+                "videoPublishedAt": "2018-05-12T04:25:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ctMm1Z4F0B8uVoAjxLltL6Rhsxk",
+            "id": "UEw5alBUcXBSVXpVUzZNOHNRWERNa0JfUnpWbS0tSkxYcS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2018-06-21T15:04:50Z",
+                "channelId": "UC6n_La6KBO13CTacm0ekBWQ",
+                "title": "Làm gì khi bị cảnh sát giao thông bắt? - Chi tiết các bước khi bị CSGT yêu cầu dừng xe",
+                "description": "Làm gì khi bị cảnh sát giao thông bắt? - Chi tiết các bước khi bị CSGT yêu cầu dừng xe: \nLái xe cần lưu ý một số trường hợp để tránh bị lừa bởi những đối tượng giả làm CSGT hoặc bị CGST xử phạt sai, bắt lỗi sai. Ví dụ: cần chú ý trang phục, biển tên và thẻ xanh, hay chú ý yêu cầu CSGT nêu rõ các lỗi....\nNgoài ra còn rất nhiều điều mà lái xe cần lưu ý. Để biết thêm chi tiết, mời các bạn theo dõi trong clip. \n------\nKhám phá thế giới cùng \"Top 10 Tuyệt Đỉnh\", hãy xem và để lại cảm nhận của bạn nhé!\nDanh sách phát Top 10 tuyệt đỉnh: https://goo.gl/VbChaU\nĐăng ký theo dõi kênh miễn phí: https://goo.gl/gp061o",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-rQMhbOxMX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-rQMhbOxMX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-rQMhbOxMX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-rQMhbOxMX0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Yêm Cường",
+                "playlistId": "PL9jPTqpRUzUS6M8sQXDMkB_RzVm--JLXq",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-rQMhbOxMX0"
+                },
+                "videoOwnerChannelTitle": "Top 10 Tuyệt Đỉnh",
+                "videoOwnerChannelId": "UCNZsRJBWs3yjqIYTISGXscg"
+            },
+            "contentDetails": {
+                "videoId": "-rQMhbOxMX0",
+                "videoPublishedAt": "2016-07-18T09:41:04Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 9,
+        "resultsPerPage": 50
+    }
+}

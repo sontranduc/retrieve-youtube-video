@@ -1,0 +1,576 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "AZ9FpQYokvTp3oL5Eh0VgHRd6sE",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uMybYurnUmhHeDEiCPWuqPHric0",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2016-10-31T15:55:21Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Masha y el Oso - Día de lavado (Capítulo 18)  Dibujos Animados en español!",
+                "description": "🌎 El mundo entero es un teatro 🎭 (Trailer) https://youtu.be/zKTJePgjhUs\n\nMasha y el Oso - Música http://bit.ly/masha-y-el-oso-musica\nMasha y el Oso - Todos Los Episodios https://bit.ly/Masha-y-el-Oso-Episodios\n\nMás capítulos en Clan TV \nhttp://bit.ly/2Hts5L4\n(Watch more episodes on Clan TV)\n\nDía de lavado (Capítulo 18)  \nEl Oso decide armar un gran lavadero en su jardín, pero no tiene idea de que pronto tendrá que sacar a Masha de un charco y de un frasco de mermelada. Pero eso no es todo: ahora el Oso tiene que coser vestidos cada vez que Masha se moja o se ensucia.\n\nhttp://masha-oso.es/\nFacebook: www.facebook.com/MashaOsoOfficial/\nTodas las series \"Masha y el Oso\": http://bit.ly/MashaOso\n\nMasha y el Oso es una serie de animación que narra las aventuras de una niña, Masha, y su amigo, el Oso. La relación entre Masha y el Oso es una metáfora de cómo una niña interactúa con el mundo y la forma en que un adulto puede ayudarla con esta difícil tarea. Masha es una niña increíblemente activa, llena de energía, que no puede estar quieta y que se interesa por todo lo que la rodea. Masha es amable, simpática y habla con todo el mundo como si los conociera de toda la vida. Su curiosidad y creatividad le hacen vivir divertidas aventuras. La serie se convirtió en un éxito para familias de todo el mundo gracias a su habilidad para entretener y educar, tanto a padres como a niños. Masha y el Oso enseña a los niños la verdadera amistad, la libertad creativa y las habilidades básicas de una manera divertida e inteligente. Lo sentimos mucho, pero este vídeo no esta disponible en America Latina hasta septiembre a causa del contrato con TV canales. ¡Gracias por su comprensión!\n\ncreado por (created by) Oleg Kuzovkov\nescrito por (written by) Oleg Kuzovkov\ndirigida por (directed by)  Oleg Uzhinov\n\"producido por (produced by)\nOleg Kuzovkov\nDmitry Loveyko \"\n\"Masha – Giselle Nieto con Alina Kukushkina\nel Oso – Boris Kutnevich\"\nmúsica por (music by) Vasily Bogatyrev\ndiseño de sonido por (sound design) Boris Kutnevich\ncanto (song)  “Canto de la limpieza” \nversión en Español ADR grabación (english version ADR recording) Gabriel Verger \n\"música por(music by) Vasily Bogatyrev\"\n\"Letras por (Lyrics by) Enzo Villaparedes\"\n\"Interpretado por (Performed by)Angela Urrecheaga\nChristian Ray Flores\"\nPreparador Vocal (Vocal Coach) Mikhail Shtangrud\n\"director de arte (art director) Ilya Trusov\"\n\"diseño de caracteres adicionales (additional characters design) Marina Nefedova\"\n\"artistas digitales (digital artists)\nElena Zatcepina\nYulia Ivashkina \nNatasha Konstantinova \nNatasha Cherkasova \nTatyana Shloma\"\n\"Supervisores de animación (animation Supervisors) \nAlexey Borzykh, Maxim Grinatz, Alexander Yakimenko, Leon Estrin\"\n\"animadores (animators) \nAlexey Borzykh \nAlexander Goncharov \nRoman Kozitch \nMarina Antonova \nSergey Sivaev \nMaya Higgins \nPeter Barkov\nPavel Barkov \nMikhail Tarasov \nOlga Baulina \nVika Nastanyuk \nAndrey Belyaev \nLena Golyankova \nLeon Estrin \nSergey Sharygin \nAlexander Yakimenko \nPavel Antonenkov \"\nSenior Director Técnico (Senior TD) Marat Kedrov\n\"Senior Director Técnico\n de iluminación (Senior lighting TD) Alexey Mikhalko\"\n\"El Director Técnico\nde Iluminación (lighting TD) Pavel Ledin\"\n\"los artistas de iluminación (lighting artists) Dmitry Korshunov \nOleg Dymov \nElvir Shariffullin\"\neditado por (edited by) Oleg Uzhinov\n\"modelado 3D (3D modelling) Andrey Lopatin \nAlexey Borzykh \nSergey Sharygin \nMaxim Grinatz\nIgor Bychkov \"\n\"rigging (rigging) \nMaxim Grinatz \nIgor Bychkov\"\n\"efectos especiales (special effects)Igor Bychkov\"\n\"composición (compositing)\nRoman Babanov \nSergey Vasilenko \nAnton Novikov \nMarat Kedrov \"\nproductor de línea (line producer) Maria Demina\n\"Managers de producción (production managers) \nDaria Katiba \nAleksey Osipenkov\"\n\"IT director (IT director)\nDmitry Ivoylov\"\n\"los administradores del sistema (system administrators)\nVictor Serebryakov \nDmitry Kouzmine \"\nVitaly Burnevsky\nProducido por Victor Serebryakov",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9FddOB9JRf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9FddOB9JRf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9FddOB9JRf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9FddOB9JRf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9FddOB9JRf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9FddOB9JRf4"
+                },
+                "videoOwnerChannelTitle": "Masha y el Oso",
+                "videoOwnerChannelId": "UCuSo4gcgxJRf4Bzu43wwVyg"
+            },
+            "contentDetails": {
+                "videoId": "9FddOB9JRf4",
+                "videoPublishedAt": "2016-10-25T15:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YO6S2jG1VqeieM4tEPjQlAUsWTQ",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2016-10-31T16:23:14Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0HBVhq70rEo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0HBVhq70rEo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5N6mu5WO4ZcF0JvjPO1HL4kOJfc",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2017-10-31T10:17:11Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w-4z5rCJM2M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w-4z5rCJM2M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o0fWHiBDrpm3esAND7DlJkke7uo",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2018-04-22T13:30:00Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Balloon Boat Race | CoComelon Nursery Rhymes & Kids Songs",
+                "description": "Everybody is blowing up their balloons and getting ready for the boat race!  Who do you think will win?\nhttps://www.youtube.com/c/Cocomelon?sub_confirmation=1\n\nLyrics: \n\nBlow your balloon up, blow blow blow\nBlow blow blow\nBlow blow blow\nBlow your balloon up, blow blow blow\nIt’s time for the race!\n\nThree, two, one, and go go go!\nGo go go!\nGo go go!\nThree, two, one, and go go go!\nIt’s time for the race\n\nAbout Cocomelon:\n\nWhere kids can be happy and smart!\n\nAt Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. \n\nKids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.\n\nWe also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!\n\nWEBSITE: http://www.Cocomelon.com\nFACEBOOK: https://www.facebook.com/Cocomelonkids\nINSTAGRAM: https://www.instagram.com/cocomelon_official/\nTWITTER: https://www.twitter.com/Cocomelonkids\n\n\nCopyright © Treasure Studio, Inc. All rights reserved.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GDMel6oO2fU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GDMel6oO2fU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GDMel6oO2fU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GDMel6oO2fU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GDMel6oO2fU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GDMel6oO2fU"
+                },
+                "videoOwnerChannelTitle": "Cocomelon - Nursery Rhymes",
+                "videoOwnerChannelId": "UCbCmjCuTUZos6Inko4u57UQ"
+            },
+            "contentDetails": {
+                "videoId": "GDMel6oO2fU",
+                "videoPublishedAt": "2018-03-13T07:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_ZlBwQUyzca5Fi0PMLuA748XSnc",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2018-07-15T00:53:09Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Learn Colors with PACMAN and Ice Cream Cone Truck 3D Soccer Ball Street Vehicle for Kid",
+                "description": "Enjoy with Learn Colors with PACMAN and Ice Cream Cone Truck 3D Soccer Ball Street Vehicle for Kid\nMore Video: https://goo.gl/qBDdiy\nSubscribe: https://goo.gl/kwcH7R\n\nThe Builder Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s0i_mXCF43Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s0i_mXCF43Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s0i_mXCF43Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s0i_mXCF43Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s0i_mXCF43Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s0i_mXCF43Y"
+                },
+                "videoOwnerChannelTitle": "INSERT COIN",
+                "videoOwnerChannelId": "UC_2MyFN4J1onEXuO-35MHcA"
+            },
+            "contentDetails": {
+                "videoId": "s0i_mXCF43Y",
+                "videoPublishedAt": "2018-06-25T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U70X9kC5C28q7agC1lxcxB4B8Nw",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2018-08-01T08:12:11Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Bé Chút Chít | Bé Bảo An&Phi Long",
+                "description": "#bechutchit #baoanbechutchit #bebaoan\nBé Bảo An\nSubscribe YouTube :  https://goo.gl/dHMhaX\nMail : casirubybaoan@gmail.com \n\nCác bạn ơi! Cùng mình lắng nghe ca khúc mới của mình nhé: https://youtu.be/5xmFbGkShvY \n--------------------------------------------------------------------------\nKênh YouTube chính thức của Bé Bảo An \n\nNội dung:  Giọng hát Bé Bảo An được các bạn nhỏ yêu thích,\nCác bài hát mới nhất của Bé Bảo An được trình chiếu trên kênh YouTube, Nhấn subscribe để theo dõi nhiều sản phẩm mới\n\nSubscribe kênh YouTube :  https://goo.gl/dHMhaX\n\nTheo dõi Facebook:  https://goo.gl/jqCewO\n\n\nTheo dõi  các sản phẩm mới tại App POPS TV:  http://goo.gl/CBhqXk\n#baoan#bebaoan#rubybaoan#casinhi#nhacthieunhi\n#bechutchit#meoitaisao",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c56HIfDdlrY"
+                },
+                "videoOwnerChannelTitle": "Ruby Bảo An",
+                "videoOwnerChannelId": "UCSkZeVTfy_emZf_7lujP2bg"
+            },
+            "contentDetails": {
+                "videoId": "c56HIfDdlrY",
+                "videoPublishedAt": "2010-12-19T07:57:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XhCWM3GvEv9YoTQLjbSirf8xMdY",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-08-01T08:12:16Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Bé Chút Chít | Bé Bảo An&Phi Long",
+                "description": "#bechutchit #baoanbechutchit #bebaoan\nBé Bảo An\nSubscribe YouTube :  https://goo.gl/dHMhaX\nMail : casirubybaoan@gmail.com \n\nCác bạn ơi! Cùng mình lắng nghe ca khúc mới của mình nhé: https://youtu.be/5xmFbGkShvY \n--------------------------------------------------------------------------\nKênh YouTube chính thức của Bé Bảo An \n\nNội dung:  Giọng hát Bé Bảo An được các bạn nhỏ yêu thích,\nCác bài hát mới nhất của Bé Bảo An được trình chiếu trên kênh YouTube, Nhấn subscribe để theo dõi nhiều sản phẩm mới\n\nSubscribe kênh YouTube :  https://goo.gl/dHMhaX\n\nTheo dõi Facebook:  https://goo.gl/jqCewO\n\n\nTheo dõi  các sản phẩm mới tại App POPS TV:  http://goo.gl/CBhqXk\n#baoan#bebaoan#rubybaoan#casinhi#nhacthieunhi\n#bechutchit#meoitaisao",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c56HIfDdlrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c56HIfDdlrY"
+                },
+                "videoOwnerChannelTitle": "Ruby Bảo An",
+                "videoOwnerChannelId": "UCSkZeVTfy_emZf_7lujP2bg"
+            },
+            "contentDetails": {
+                "videoId": "c56HIfDdlrY",
+                "videoPublishedAt": "2010-12-19T07:57:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UvBzXX7Kbkp2rh4Fa3F_jT7Vmls",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2018-08-02T04:54:01Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "क्या एक मोबाइल फोन एक मशीन पेय बना सकता है? आई - फ़ोन手機飲料製造機 iphone,android,ios,ibeer",
+                "description": "【超值汝汝魔術福袋】http://magicrs.com/fu\n\n【Facebook】https://www.facebook.com/magicrs\n【Instagram】ruru_shan\n【优酷】http://i.youku.com/magicrs\n【美拍】http://www.meipai.com/user/1021256291",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JsTnEFoSoVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JsTnEFoSoVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JsTnEFoSoVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JsTnEFoSoVY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JsTnEFoSoVY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JsTnEFoSoVY"
+                },
+                "videoOwnerChannelTitle": "汝汝與杉杉的魔法小舖",
+                "videoOwnerChannelId": "UCOg3uylUw1lQHweawmzstUg"
+            },
+            "contentDetails": {
+                "videoId": "JsTnEFoSoVY",
+                "videoPublishedAt": "2017-02-17T09:18:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xkJ55MCmBL1v1nCwxHoMlXSMfTA",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-10-25T08:49:10Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Mainan dan Lagu Anak-Anak l أغنية للأطفال ,قوس قزح الرمال الحركي | Belajar Hewan liar untuk anak",
+                "description": "Mainan dan Lagu Anak-Anak l أغنية للأطفال ,قوس قزح الرمال الحركي | Belajar Hewan liar untuk anak\n어린이를 위한 장난감과 노래 | 동요, 무지개 키네틱 샌드 아이스크림 \n\nBrinquedos e canções para crianças | Canção infantil, sorvete de areia cinética arco-íris\nSpielzeug und Lieder für Kinder | Kinderlied, Regenbogen kinetisches Sandeis\nZabawki i piosenki dla dzieci | Piosenka dla dzieci, tęczowe lody kinetyczne z piasku\nToys and songs for children | Children's song, rainbow kinetic sand ice cream\nJuguetes y canciones para niños | Canción infantil, helado de arena cinética arcoíris.\nИгрушки и песни для детей | Детская песня, радужное кинетическое песочное мороженое\n\n cartoon, abcd, 동요, ice cream, lagu anak anak,\n\n\n\n#cartoon #abcd #Cançãoinfantil #Juguetes #Canciones #laguanak #icecream #belajarwarna",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zFS5i-s32N8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zFS5i-s32N8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zFS5i-s32N8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zFS5i-s32N8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zFS5i-s32N8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zFS5i-s32N8"
+                },
+                "videoOwnerChannelTitle": "Fun Fun TV",
+                "videoOwnerChannelId": "UCZhkRd5V77zuEmgTTV_XrMw"
+            },
+            "contentDetails": {
+                "videoId": "zFS5i-s32N8",
+                "videoPublishedAt": "2019-05-12T10:21:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2vYgB34R-f92AdlnyRTTuS50S3M",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-10-26T22:28:29Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "CLB DÂN VŨ HỘI PHỤ NỮ XÃ QUANG HƯNG ĐÔNG DIỄN",
+                "description": "Quay Flycam 4k Thủy Hiền ĐT: 0975244699",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5xfcSEh6KsQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5xfcSEh6KsQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5xfcSEh6KsQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5xfcSEh6KsQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5xfcSEh6KsQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5xfcSEh6KsQ"
+                },
+                "videoOwnerChannelTitle": "Thủy Hiền",
+                "videoOwnerChannelId": "UCXmK1vQgZYHvhkcTEI8I0HA"
+            },
+            "contentDetails": {
+                "videoId": "5xfcSEh6KsQ",
+                "videoPublishedAt": "2019-10-02T08:22:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IrFnY8HysLQy6W5diq5Ae-1i5Fc",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-11-02T03:09:59Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Sếp Tổng Nghe Theo Tiếng Gọi Của Con Tim, Quyết Tâm Tán Đổ Cô Phục Vụ Nghèo",
+                "description": "Đừng quá ảo tưởng vào bản thân. Hạ thấp nhân phẩm của người khác cũng không làm bạn cao quý lên đc !!!\n----------------------------\nCảm ơn các bạn đã luôn ủng hộ Ham TV, gửi tặng các bạn 3 link phim cực hot trên kênh nhé:\nHẹn Hò Qua Mạng Tưởng Vớ Được Hotboy, Cô Gái \"Khóc Thét\" Khi Gặp Bạn Trai Ngoài Đời: http://bit.ly/2MB60Pv\nGái Xinh Hống Hách Bắt Anh Công Nhân Đền Bộ Móng 500 Triệu - Không Ngờ Đụng Ngay Sếp Tổng:  http://bit.ly/2BzS9lT\nList phim ngắn hay: http://bit.ly/35fOPKf\n----------------------------\nHãy theo dõi chúng tôi qua đường link này: https://goo.gl/2HFSxH để được cập nhật những Video mới nhất nhé !\nFanpage : https://www.facebook.com/blogtamsu.HamTV/\n----------------------------\n© Bản quyền thuộc về HAM TV\n© Copyright by HAM TV Channel ☞ Do not Reup\n#HAMTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PXk2O2N-SRk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PXk2O2N-SRk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PXk2O2N-SRk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PXk2O2N-SRk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PXk2O2N-SRk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PXk2O2N-SRk"
+                },
+                "videoOwnerChannelTitle": "HAM TV",
+                "videoOwnerChannelId": "UCpIwehXN-xN90jnJgZONdww"
+            },
+            "contentDetails": {
+                "videoId": "PXk2O2N-SRk",
+                "videoPublishedAt": "2019-10-22T09:01:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n1EVq500zD_GOJIIZExy7SWrhXo",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-11-11T23:59:11Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Tiburón Cantata | Villancicos de Navidad | Pinkfong Canciones Infantiles",
+                "description": "¡Un plan semanal para ayudar a los niños a Cantar, Jugar y Aprender en Casa! 🏠\n¡Puedes imprimir totalmente GRATIS los dibujos para colorear y los muñecos de papel haciendo un simple clic en este enlace! \nhttps://www.pinkfong.com/singplaylearnathome/\n #QuédateEnCasa #ConPinkfong\n\n ¡Suscríbete ahora para ver nuevos videos cada semana!\n★ Baby Shark Official : https://www.youtube.com/channel/UCNVE4szbMrOZk9IheX8vHbQ?sub_confirmation=1\n★Hogi! Pinkfong - Learn & Play : https://www.youtube.com/channel/UCOVY28BaODA4pvyz_9jM5OA?sub_confirmation=1\n★Pinkfong Canciones Infantiles : https://www.youtube.com/pinkfonges?sub_confirmation=1\n\n¡Pinkfong! Número 1 en aplicaciones infantiles, elegido por más de 100 millones de niños por todo el mundo.\n★ Las Mejores Canciones & Cuentos [Descárgalo Gratis]: http://i.sstudy.kr/L/591/des/\n\n ¡Ya llegó la Navidad! \n ¡Pinkfong le trae regalitos de Navidad!\n ¡Vamos a celebrar los días festivos con los NUEVOS villancicos de Navidad!\n\nEstás viendo \"Tiburón Cantata\", el divertidísimo Villancico de Navidad creado por Pinkfong.\n\n----\n★ Letras\n\nTiburón Cantata\n\nTiburón Bebé,\ndu ru du ru.\nTiburón Bebé,\ndu ru du ru.\nTiburón Bebé,\ndu ru du ru.\n¡Bebé!\n\n\nTiburón mamá,\ndu ru du ru.\nTiburón mamá,\ndu ru du ru.\nTiburón mamá,\ndu ru du ru.\n¡Mamá!\n\n\nTiburón papá,\ndu ru du ru.\nTiburón papá,\ndu ru du ru.\nTiburón papá,\ndu ru du ru.\n¡Papá!\n\nTiburón abuela,\ndu du ru.\nTiburón abuela,\ndu du ru.\nTiburón abuela,\ndu du ru.\n¡Abuela!\n\nTiburón abuelo,\ndu du ru.\nTiburón abuelo,\ndu du ru.\nTiburón abuelo,\ndu du ru.\n¡Abuelo!\n\n\nA cantar,\ndu ru du du ru.\nVillancicos,\ndu ru du du ru.\nA cantar,\ndu ru du du ru.\n¡Villancicos!\n\nFiestas de alegría\ncon amigos y canciones.\nMuy felices fiestas\nles desean los tiburones.\n\nAlegría,\ndu ru du du ru.\nCanta, canta,\ndu ru du du ru.\nFiesta, fiesta,\ndu ru du du ru.\n¡Felices fiestas!\n\n\n\nArreglo musical realizado por Pinkfong y KizCastle\nInstrumento musical interpretado por KizCastle\n----\n\nSuscríbete al canal de YouTube de Pinkfong para escuchar y ver todas las canciones favoritas de los niños, incluyendo canciones de fonéticas, nanas, canciones infantiles, canciones de cuna, clásicas para niños, cuentos de hada y ¡muchos más!\n\nNuevos videos cada semana:\n★ Canal de YouTube: http://www.youtube.com/channel/UCrYwqJZ-AnvnyF8vRndgvnA?sub_confirmation=1\n\nDisfruta de las canciones y cuentos educativos infantiles creados por profesionales en la educación infantil.\n\nSíguenos en Facebook para ver nuevos contenidos y promociones gratuitas.\n★ Facebook: https://www.facebook.com/PINKFONG.smartstudy\n★ Página Web: https://www.smartstudy.co.kr\n\nCopyright © 2018 Smart Study Co., Ltd. All Rights Reserved.\n#Pinkfong #cancióninfantil #músicainfantil\n#cancionesinfantiles #músicainfantil #paraniños #forkids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ajOR1C867o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ajOR1C867o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ajOR1C867o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5ajOR1C867o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5ajOR1C867o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5ajOR1C867o"
+                },
+                "videoOwnerChannelTitle": "Pinkfong en español - Canciones Infantiles",
+                "videoOwnerChannelId": "UCrYwqJZ-AnvnyF8vRndgvnA"
+            },
+            "contentDetails": {
+                "videoId": "5ajOR1C867o",
+                "videoPublishedAt": "2018-12-08T16:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gvy7VCQARDBXKvJptGSyVPS0BPE",
+            "id": "UEwxOUY0SUZfMERNSnpMTXQtbTJLeTdscHlBNVlxYzBXYi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-11-12T12:56:46Z",
+                "channelId": "UCO7Y0srFzoxAHzjvqmTpz4Q",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "long le kim",
+                "playlistId": "PL19F4IF_0DMJzLMt-m2Ky7lpyA5Yqc0Wb",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fXN7S-Ebjho"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fXN7S-Ebjho"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 13,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "i8bJBuoMaWbFKV0QB20VBaqjTx0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HB4RiwaB7lOB6iPZ0aimw1PtivY",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-06-03T16:28:10Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "DUY KHÁNH CHẾ LINH TRƯỜNG VŨ | Nhạc Lính hải Ngoại Xưa Hay Nhất - Chấn Động Con Tim",
+                "description": "Nhạc Vàng Hải Ngoại trân trọng giới thiệu DUY KHÁNH CHẾ LINH TRƯỜNG VŨ | Nhạc Lính hải Ngoại Xưa Hay Nhất - Chấn Động Con Tim\n#duykhanh #chelinh #nhaclinhhay\nĐĂNG KÝ KÊNH ĐỂ THEO DÕI : https://goo.gl/y9hur9\n◙ Track list:\n☀ Chúc Các Bạn Có Những Phút Giây Vui Vẻ ☀\n☞ Hãy LIKE video và ĐĂNG KÝ kênh để theo dõi những album mới nhất!\n❖▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬❖\n►Để lại email để nhận link download mp3.\n▼ THEO DÕI : \n► Subscribe | Theo dõi kênh Nhạc Vàng Hải Ngoại: https://goo.gl/y9hur9\n► Facebook: https://www.facebook.com/sieuthinhacvang\n- Subscribe Kênh để cập nhật những ca khúc trữ tình, bản tình ca nhạc vàng hay nhất\n------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6cIW7weGnAQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6cIW7weGnAQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6cIW7weGnAQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6cIW7weGnAQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6cIW7weGnAQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6cIW7weGnAQ"
+                },
+                "videoOwnerChannelTitle": "Nhạc Vàng Hải Ngoại",
+                "videoOwnerChannelId": "UCx-sTaFIts5bAGG81-ZhGcQ"
+            },
+            "contentDetails": {
+                "videoId": "6cIW7weGnAQ",
+                "videoPublishedAt": "2019-06-01T23:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "93JtFptRlvdi8s1hFkEA7ibWeBU",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-06-25T11:04:23Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MY_JmXzShIc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MY_JmXzShIc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CroklS_BG4C1GJ6ExZPzV4iUrac",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-06-27T16:08:19Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "OMO Hệ bọt thông minh - Điều kì diệu của vui chơi lấm bẩn",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/twk2iTQLwMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/twk2iTQLwMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/twk2iTQLwMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/twk2iTQLwMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/twk2iTQLwMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "twk2iTQLwMk"
+                },
+                "videoOwnerChannelTitle": "OMO Việt Nam",
+                "videoOwnerChannelId": "UCY8_xLO3NE3CayDLmb4jMig"
+            },
+            "contentDetails": {
+                "videoId": "twk2iTQLwMk",
+                "videoPublishedAt": "2019-05-23T04:41:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4k6eAj6z7tmAebwRHFQLUOLyKsU",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-07-12T14:35:21Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X4CG0xUYljY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X4CG0xUYljY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Bq79R3nFHY4vTvJaEbmXVIfVCIM",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-07-20T02:07:16Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Cách vẽ Con chó con đáng yêu ► Lamdepchobe TV",
+                "description": "- Hôm nay LàmĐẹpChoBé TV sẽ hướng dẫn các bạn cách vẽ Con chó con đáng yêu\n- Video hướng dẫn Vẽ Con Vật này chị sẽ hướng dẫn từng bước cách vẽ và tô màu\n- http://Facebook.com/LamdepchobeTV -  ĐĂNG KÝ Kênh: https://goo.gl/HBM3pA\n\n- Cám ơn các bạn đã xem video -Hãy giúp chị Like và Chia sẻ video này ủng hộ Lamdepchobe TV nhé.\n- Website : http://lamdepchobe.com \n\n► Học Vẽ Tranh Theo Chủ Đề\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtIHm2b54ayzpAaCsGtIKFSf\n\n► Dạy Bé Vẽ Tranh Đơn Giản \nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtLA9G85f_N4Bz25gRkoIx0p\n\n► Học vẽ Các Nàng Công Chúa\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtKs9XM1X4-akWUhhLbY8U27\n\n► Tự Học Vẽ Anime - Hoạt Hình\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtKdn3XWq2RJVWU-N_n_vCxs\n\n► Tự Học Vẽ Các Con Vật- Động Vật\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtJgx8rTWyF0V1Wp2Fll7s79\n\n► Tự Học Vẽ Trái Cây - Hoa Quả\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtJp8zRuSt0YAvMXKELCtX-a\n\n► Tự Tay Làm Những Thứ Có ích trong Cuộc Sống\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtKjnTunUBqYIDqBvNAGsIpK\n\n► Tự Học Gấp Giấy\nhttps://www.youtube.com/playlist?list=PL-7-Lu7EQLtJvYxqHNAnaHzWVIYsr5Fhn\n\n► MUSIC COPYRIGHT\nFree Music By Youtube : ( https://youtube.com/audiolibrary )\nFree Music by Epidemic Sound : ( http://www.epidemicsound.com )",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AZlAFXysIzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AZlAFXysIzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AZlAFXysIzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AZlAFXysIzA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AZlAFXysIzA"
+                },
+                "videoOwnerChannelTitle": "Lamdepchobe TV",
+                "videoOwnerChannelId": "UCCAcinMpb5Wy4giQOnDc-MQ"
+            },
+            "contentDetails": {
+                "videoId": "AZlAFXysIzA",
+                "videoPublishedAt": "2017-04-01T06:21:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Uoeohlo57ArrBkG_RS7wspb8T9o",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-08-17T14:37:25Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "THỜI GIAN TƯƠI ĐẸP CỦA ANH VÀ EM - TẬP 37 [LỒNG TIẾNG] | Phim Ngôn Tình Hay | Triệu Lệ Dĩnh",
+                "description": "👉 Trọn Bộ: http://bit.ly/THOIGIANTUOIDEPCUAANHVAEM\n\n#Thời_Gian_Tươi_Đẹp_Của_Anh_Và_Em được chuyển thể từ tiểu thuyết ngôn tình cùng tên của tác giả Đinh Mặc, do Chu Lâm làm đạo diễn. Bộ phim xoay quanh Lâm Thiển ( #Triệu_Lệ_Dĩnh ) - cô gái trẻ ôm mộng trở thành nhà thiết kế thời trang và cậu ấm Lệ Trí Thành (Kim Hạn). \n\nDo tập đoàn Ái Đạt đang đứng trước bờ vực phá sản, Lệ Trí Thành quyết định rời bỏ quân ngũ, quay về điều hành việc kinh doanh của gia tộc. Trí Thành tình cờ gặp cô gái trẻ trung, đầy nhiệt huyết Lâm Thiển, người đã giúp đỡ anh rất nhiều trong quá trình gầy dựng lại sản nghiệp của gia tộc.\n\n#Phim_Ngôn_Tình_Chuyển_Thể_Hay_Nhất \n\nSUBSCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rBVlKrGTj-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rBVlKrGTj-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rBVlKrGTj-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rBVlKrGTj-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rBVlKrGTj-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rBVlKrGTj-Q"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "rBVlKrGTj-Q",
+                "videoPublishedAt": "2019-08-16T11:28:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4JQEeVqw63ClpBnkvyJ1sDv1djk",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-04-21T16:04:07Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9eixKfIdsho"
+                }
+            },
+            "contentDetails": {
+                "videoId": "9eixKfIdsho"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r_cpg6CShAvnK2Te-oATwFMDMBM",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-05-17T04:37:36Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Phim Tình Yêu Lãng Mạn Ngọt Ngào | Đẹp Trai Là Số Một - Tập 07 ( Thuyết Minh )",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2UoZK3S\n➤ Trọn Bộ Đẹp Trai Là Số Một Thuyết Minh: https://bit.ly/2LmGuvC\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Thái Thông\n✤ Diễn viên: Trương Dư Hi, Đinh Vũ Hề\n✤ Đẹp Trai Là Số Một xoay quanh cô nàng xinh đẹp, năng động và cực kỳ mê trai Tô Căng Bắc, cùng câu chuyện tình yêu ngọt ngào, lãng mạn với bác sĩ Chu Thời Uẩn.Trước khi bước chân vào showbiz và vươn lên thành diễn viên hàng đầu tại thị trường hoa ngữ, Căng Bắc chính là con gái cưng của gia tộc lẫy lừng ở phương nam. Tuy nhiên, trong thời gian xây dựng sự nghiệp, không ai biết rõ thân thế thật của nàng tiểu thư nhà họ Tô, tất cả chỉ biết đến cô là một nghệ sĩ với niềm đam mê bất tận cùng tác phong làm việc chuyên nghiệp. Trong một lần gặp tai nạn giao thông, cô phải nằm viện 2 tháng và được bác sĩ Thời Uẩn chữa trị. Từ đây, định mệnh sắp đặt cho họ được bên nhau\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ipCdKJNFfPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ipCdKJNFfPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ipCdKJNFfPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ipCdKJNFfPU"
+                },
+                "videoOwnerChannelTitle": "MangoTV Vietnam",
+                "videoOwnerChannelId": "UCYVRDZy1Jg_twiJJ2jjnYKg"
+            },
+            "contentDetails": {
+                "videoId": "ipCdKJNFfPU",
+                "videoPublishedAt": "2020-05-14T13:31:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8g_Kcd0oyds0VB8pWZO1wwuz3Bk",
+            "id": "UEwxLTRhelVKRU0yX3BETFFhMXNoQmRHSDNWeFl6OEFPdC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-05-18T16:56:37Z",
+                "channelId": "UCKoJL54m0fKojk0uuWtTXQg",
+                "title": "Đoạn Tuyệt, Đắp Mộ Cuộc Tình - Liên Khúc Nhạc Trữ Tình - Tuyệt Phẩm Bolero Hay Nhất 2018",
+                "description": "Đoạn Tuyệt, Đắp Mộ Cuộc Tình - Liên Khúc Nhạc Trữ Tình - Tuyệt Phẩm Bolero Hay Nhất 2018.\nĐoạn Tuyệt, Đắp Mộ Cuộc Tình - Liên Khúc Nhạc Trữ Tình - Tuyệt Phẩm Bolero Hay Nhất 2018 : https://youtu.be/DhCOVoQrfnw\n#bolero #nhacbolero #nhacsen#nhactrutinh #nhacvang\n\nThể Loai : Nhạc Trữ Tình Bolero\nGiới Thiệu Album :\n\nThúy Nguyễn : Kênh Âm Nhạc Chia Sẻ Yêu Thương\n© Thuynguyenmusic\n\nFollow\n\n☞Đăng kí kênh để cập nhật video mới nhất: https://goo.gl/fGgkQC\n☞Playlist nhạc sến hay : https://goo.gl/0pFc1E\n\n-------------------------- Track List ------------------------------------------\n00:00:00 01. Đoạn tuyệt\n00:05:56 02. Đắp mộ cuộc tình\n00:11:19 02. Nhớ nhau hoài\n00:16:29 04. Dấu chân kỷ niệm\n00:24:05 05. Linh hồn tượng đá\n00:29:06 06. Sao đổi ngôi\n00:35:05 07. Đêm tâm sự\n00:39:36 08. Chuyến đò không em\n00:45:35 09. Người tình mo cau\n00:51:53 10. Lời đắng cho cuộc tình\n00:57:14 11. Căn nhà dĩ vãng\n01:03:49 12. Người tình không đến\n01:09:11 13. Cho vừa lòng em\n01:14:17 14. Nếu hai đứa mình\n01:19:58 15. Mười năm tình cũ\n\nKênh chúng tôi tuyển tập những ca khúc Nhạc Vàng, Nhạc trữ tình, Nhạc sến, Nhạc bolero, tuyển chọn hay nhất mới nhất với mong muốn phục vụ khán giả yêu nhạc. Các bạn hãy like và chia sẻ những ca khúc mình yêu thích !!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hC9VLCLEQCE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hC9VLCLEQCE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hC9VLCLEQCE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Xuan Nguyen",
+                "playlistId": "PL1-4azUJEM2_pDLQa1shBdGH3VxYz8AOt",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hC9VLCLEQCE"
+                },
+                "videoOwnerChannelTitle": "Music Relax",
+                "videoOwnerChannelId": "UCMyvg8YLmMV0E6HDEMo8I6A"
+            },
+            "contentDetails": {
+                "videoId": "hC9VLCLEQCE",
+                "videoPublishedAt": "2018-08-13T12:50:00Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 9,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,491 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "3HJBk5F07vFznibTiok3Zw12RdQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lotf7P58PMpML5aTIn2wOUE2xys",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-09-15T02:41:16Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "PHIM CA NHẠC HẠO NAM SUPER STAR | NGƯỜI TRONG GIANG HỒ 5 | LÂM CHẤN KHANG",
+                "description": "Phim Ca Nhạc Hài Tết \"Thần Thám Trần Hạo Nam\" Phần 5 Seri Phim Người Trong Giang Hồ Của Ca Sỹ Lâm Chấn Khang, Được Sản Xuất Và Phát Hành Năm 2017 #PhimCaNhac #LamChanKhang #NguoiTrongGiangHo #Phan5 #ThanThamTranHaoNam #HaoNamSuperStar #MoiNguoiMotSuyNghi \n\n► Nhạc Phim (O.S.T): Hạo Nam Super Star, Mỗi Người Một Suy Nghĩ, My Name Hạo Nam\n\n► Nhạc sĩ sáng tác (Composer): Nguyên Chấn Phong, Đức Thịnh, Nguyên Chấn Phong\n\n► Một sản phẩm hình ảnh của KhangPro Film\n\n► Giám đốc sản xuất (Executive Producer): Lâm Chấn Khang\n\n► Sản xuất hình ảnh (Production House): ATo Film Group\n\n► Đồng sản xuất (Co-Producer): Nam Việt Media - Nhacpro Tube\n\n► Kịch bản (Writter): Lâm Chấn Khang\n\n► Đạo diễn (Director): Mr Tô\n\n► Trợ lý đạo diễn (Assistant Director): Kim Hiền\n\n► Nghệ Sĩ khách mời (Guest Starring): Nghệ sỹ Trung Lùn, bé Tin Tin, Kim Jun See, La Thành, Thanh Tân, Xuân Nghị, Hữu Tín, Duy Phước, bé Đức Anh, bé Ngân Chi, bé Kim Sơn, bé Gia Bảo, Ruben, Tuấn Voi, Lữ Bình, Kim Chi, và một số diễn viên khác\n\n► Diễn viên đóng thế (Cascadeur): Tuấn Voi Team, Trúc Như\n\n► Chủ nhiệm (Manager): Trần Thanh Sang\n\n► Trợ lý chủ nhiệm (Assistant Manager): Lê Quốc Long\n\n► D.O.P (Director Of Photography): Đạt JP\n\n► Quay phim (Camera Man): Lee Nguyễn, Boy Nguyễn, Tùng Wood\n\n► Trợ lý quay phim (Assistant Camera): Tâm Holly\n\n► Hậu Trường (Behind The Scenes): Quân Cỏ\n\n► Hình ảnh trên không (Flycam Footage): Heo Hậu\n\n► Kỹ xảo (Visual Effects): Sỹ Đồng\n\n► Ánh sáng (Chief Lighting Technician): Hải 94 Light Team\n\n► Thiết kế (Production Designers): Hải Nhí Design Team\n\n► Hóa trang (Make-up & Hair): Quân Phạm Kha Linh\n\n► Phòng thu âm (Studio Recording): Nhật Dạ Studio\n\n---------- Lâm Chấn Khang 2017 ----------\n-------------------------------------------------------------\nLIÊN HỆ QUẢNG CÁO trực tiếp qua email công ty KhangProFilm: khangprofilm1211@gmail.com \n-------------------------------------------------------------\n\n© Video Độc Quyền Bởi KhangProFilm. Nghiêm cấm sao chép dưới mọi hình thức !!!\n-------------------------------------------------------------\n@ More Information About KHANGPROFILM & LÂM CHẤN KHANG:\n► KhangProFilm’s Official Channel: http://metub.net/khangprofilm\n► KhangProFilm's FanPage: https://www.facebook.com/khangprofilm2017/\n► Lâm Chấn Khang’s Official Channel: https://www.youtube.com/channel/UCKuYWB_2cCBwmgkZYI0iF3g\n► Lâm Chấn Khang's Facebook: https://www.facebook.com/khangprofilm\n► Lâm Chấn Khang's FanPage: https://www.facebook.com/lamchankhangfanpage/\n► Lâm Chấn Khang's Official FanClub: https://www.facebook.com/fclamchankhang.official/  \n\n#LamChanKhang #KhangProFilm #Official #Channel #FanPage #FanClub",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AeWIEoYdtgI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AeWIEoYdtgI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AeWIEoYdtgI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AeWIEoYdtgI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AeWIEoYdtgI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AeWIEoYdtgI"
+                },
+                "videoOwnerChannelTitle": "KhangProFilm",
+                "videoOwnerChannelId": "UC89u8T2JjgjAo1G37dXLLWw"
+            },
+            "contentDetails": {
+                "videoId": "AeWIEoYdtgI",
+                "videoPublishedAt": "2019-03-16T11:42:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n-9lUFWHnG7Q22JVzZpRBdDPp_0",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-09-15T06:18:49Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "Ung thư cổ tử cung | 8 dấu hiệu cho thấy bạn bị ung thư tử cung",
+                "description": "Ung thư cổ tử cung | 8 dấu hiệu cho thấy bạn bị ung thư tử cung\nThưa quí vị và các bạn! Điều đáng sợ nhất là bệnh ung thư cổ tử cung có thể không có triệu chứng nào rõ ràng ở giai đoạn đầu. Theo Hiệp hội Ung thư Mỹ, ước tính có khoảng 12.340 trường hợp ung thư cổ tử cung ở Mỹ mỗi năm. Đáng buồn thay, khoảng 4.000 phụ nữ qua đời bởi căn bệnh này vì không kịp thời phát hiện những triệu chứng bệnh ở giai đoạn đầu và điều trị kịp thời. Ung thư cổ tử cung là loại ung thư phổ biến thứ hai trên thế giới mà chị em thường gặp. Mặc dù bệnh có thể gây tử vong cho chị em nhưng cũng lại là bệnh có thể ngăn ngừa và điều trị khỏi nếu được phát hiện sớm, kịp thời. xét nghiệm tế bào cổ tử cung là cách tốt nhất để xác định bạn có nguy cơ mắc bệnh ung thư này hay không. Ngoài ra, nếu thấy các triệu chứng như dưới đây thì chị em cũng cần hết sức chú ý vì đó có thể là dấu hiệu cảnh báo sớm của bệnh ung thư cổ tử cung.\nĐăng ký kênh : https://goo.gl/GAQh9b\nFanpage: https://goo.gl/jOhYnL\nwestside- Bloger:https://goo.gl/HtuFff\n\n-----------------------------------------------**********--------------------------------------------\nToàn bộ nội dung ở trong kênh được các thành viên trong kênh SỨC KHỎE TÂM SINH tìm tòi chắt lọc và biên tập lại, chúng tôi được quyền sở hữu nội dung trong video. Mọi vấn đề thắc mắc về bản quyền, tài trợ, quảng cáo xin vui lòng liên hệ Email: nguyendiepchi06032016@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8P4_Euwf7Fg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8P4_Euwf7Fg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8P4_Euwf7Fg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8P4_Euwf7Fg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8P4_Euwf7Fg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8P4_Euwf7Fg"
+                },
+                "videoOwnerChannelTitle": "SỨC KHỎE TÂM SINH",
+                "videoOwnerChannelId": "UCcIfP3ugD4zFIpXub8x8HTQ"
+            },
+            "contentDetails": {
+                "videoId": "8P4_Euwf7Fg",
+                "videoPublishedAt": "2017-04-05T13:57:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TpgFC6exqMIhvRp78OoYj4fhaVU",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-09-20T09:00:25Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "#Dungchimvanchan . Khướu mun hót múa đỉnh cao 267(đã bán)",
+                "description": "Chuyên chim cảnh . Chất lượng . Ship — toàn quốc . mọi người ai yêu . liên hệ mình . 🇻🇳 0983965829 🇻🇳 . Gửi đúng chim trong clip - giao chim khỏe đến tay người nhận . Nick Facebook : Dũng Chim Văn Chấn . zalo : Trần Văn Dũng . Chân thành cảm ơn mọi người đã ủng hộ . ♥️ ♥️ ♥️ ♥️ ♥️",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lI1RC9UCNr4"
+                },
+                "videoOwnerChannelTitle": "Dũng Văn Chấn",
+                "videoOwnerChannelId": "UCl5jGOPEBjTWVrI6nzW7e3Q"
+            },
+            "contentDetails": {
+                "videoId": "lI1RC9UCNr4",
+                "videoPublishedAt": "2016-03-24T02:25:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AY8W6f6QfdHQqWoCd7CCeEiAVlc",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-09-20T09:00:26Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "#Dungchimvanchan . Khướu mun hót múa đỉnh cao 267(đã bán)",
+                "description": "Chuyên chim cảnh . Chất lượng . Ship — toàn quốc . mọi người ai yêu . liên hệ mình . 🇻🇳 0983965829 🇻🇳 . Gửi đúng chim trong clip - giao chim khỏe đến tay người nhận . Nick Facebook : Dũng Chim Văn Chấn . zalo : Trần Văn Dũng . Chân thành cảm ơn mọi người đã ủng hộ . ♥️ ♥️ ♥️ ♥️ ♥️",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lI1RC9UCNr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lI1RC9UCNr4"
+                },
+                "videoOwnerChannelTitle": "Dũng Văn Chấn",
+                "videoOwnerChannelId": "UCl5jGOPEBjTWVrI6nzW7e3Q"
+            },
+            "contentDetails": {
+                "videoId": "lI1RC9UCNr4",
+                "videoPublishedAt": "2016-03-24T02:25:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QDqNPHX1d-LbEVeaKvzwEMQDldw",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-11-16T11:48:09Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "P/S TINH HOA THIÊN NHIÊN - SOUTH",
+                "description": "Cùng khám phá ngay DÒNG P/S TINH HOA THIÊN NHIÊN mới:\n- P/S Than hoạt tính giúp răng trắng sáng tự nhiên\n- P/S Trà xanh giúp thanh nhiệt khoang miệng\n- P/S Nha đam & Mẫu đơn cho hơi thở thơm mát dài lâu\nMua ngay P/S & tự tin tỏa sáng nụ cười bạn nhé: https://bit.ly/35WJ9W7",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JlmdDVvrCkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JlmdDVvrCkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JlmdDVvrCkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JlmdDVvrCkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JlmdDVvrCkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JlmdDVvrCkE"
+                },
+                "videoOwnerChannelTitle": "Baovenucuoi VN",
+                "videoOwnerChannelId": "UCd-wRpLsRj26smLbXbfK-Pg"
+            },
+            "contentDetails": {
+                "videoId": "JlmdDVvrCkE",
+                "videoPublishedAt": "2019-10-29T03:57:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vW5ExQ51RJg-c9-o2aw9HqpvX48",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-11-17T08:06:39Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "#4 Dàn tài năng lạ thường: tính nhẩm tích tắc, bịt mắt chọn cá | SIÊU TRÍ TUỆ VIỆT NAM | FTLTVC08",
+                "description": "#SiêuTríTuệ #ViệtNam #TrấnThành\n#SiêuTríTuệViệtNam #Tập4\n#TócTiên #LạiVănSâm\n\nĐón xem SIÊU TRÍ TUỆ VIỆT NAM lúc 20H THỨ 7 - từ 26/10 trên Vie Channel - HTV2 và Vie GIẢITRÍ \n\n#Siêu_Trí_Tuệ #Việt_Nam #Trấn_Thành\n#Tóc_Tiên #Lại_Văn_Sâm \n#Siêu_Trí_Tuệ_Việt_Nam_2019 \n#Siêu_Trí_Tuệ_Việt_Nam_Tập_4\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/Subscribe_VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n►Ai Cũng Bật Cười Full: http://bit.ly/2DsqtTb\n►Tài Tiếu Tuyệt Full: http://bit.ly/2zIgfKb\n►Lần Đầu Tôi Kể: http://bit.ly/2OvemWp\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-38m7dd2qjo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-38m7dd2qjo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-38m7dd2qjo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-38m7dd2qjo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-38m7dd2qjo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-38m7dd2qjo"
+                },
+                "videoOwnerChannelTitle": "Vie Channel - HTV2",
+                "videoOwnerChannelId": "UCkna2OcuN1E6u5I8GVtdkOw"
+            },
+            "contentDetails": {
+                "videoId": "-38m7dd2qjo",
+                "videoPublishedAt": "2019-11-16T15:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H6IE0gKW9q1CR8boPNqhnRwE76o",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-11-20T13:26:57Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "Khướu mun hót múa cực hay",
+                "description": "Khướu mun hót múa cực hay, Tổng hợp Clip Khướu mun hót múa đỉnh cao, Luyện giọng Khướu, hót nhiều giọng, ... Bird training Babbler singing everyday\nCó thể bạn quan tâm\nTổng hợp Clip họa mi mái xùy kích trống đỉnh nhất https://youtu.be/pkc_0KtkTf0\nMi già rừng hót nhiều giọng | hót như máy https://youtu.be/Lw7uwgQAFXA\nChim chích chòe lửa hót giọng rừng, nhiều giọng https://youtu.be/R3m4GFsynK4\nHãy nhấn nút Đăng Ký (Subscribe) để nhận những Video mới nhất của chúng tôi, nhấn Like để ủng hộ tác giả và phát triển kênh. Chúng tôi vô cùng biết ơn việc làm đó của các bạn!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qb7q6ueLEfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qb7q6ueLEfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qb7q6ueLEfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qb7q6ueLEfY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qb7q6ueLEfY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qb7q6ueLEfY"
+                },
+                "videoOwnerChannelTitle": "relax 24h",
+                "videoOwnerChannelId": "UCDqE4Z2H8bcBDMbbWXOr5VQ"
+            },
+            "contentDetails": {
+                "videoId": "Qb7q6ueLEfY",
+                "videoPublishedAt": "2016-08-29T04:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8LN9E6sWk6OFASJ07bZW_NVSK_A",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-11-20T13:27:17Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "Bất Ngờ Nội Chiến Giữa Các Siêu Nhân Hải Tặc Đỏ | Phim Siêu Nhân Hải Tặc Tập Đặc Biệt",
+                "description": "Bất Ngờ Nội Chiến Giữa Các Siêu Nhân Hải Tặc Đỏ | Phim Siêu Nhân Hải Tặc Tập Đặc Biệt\nĐăng ký theo dõi kênh để cập nhập những bộ phim siêu nhân mới nhất :\n★ Link kênh: https://goo.gl/jbZQIh\n★ Siêu Nhân Ninja: https://goo.gl/1d2Z8D\n★ Siêu Nhân Cuồng Phong: https://goo.gl/WzBmzi\n★ Siêu Nhân Khủng Long: https://goo.gl/UHof6G\n★ Siêu Nhân Khủng Long: https://goo.gl/UHof6G\n★ Siêu Nhân Thần Kiếm: https://goo.gl/oZJbQe\n★ Siêu Nhân Hải Tặc: https://goo.gl/IYXAJH\n★ Siêu Nhân DEKA: https://goo.gl/rbms36\n★ Siêu Nhân Gao: https://goo.gl/XkTZO4\n★ Siêu Nhân Mãnh Thú: https://goo.gl/4RkBTj\n★ Siêu Nhân Thú Điện Long: https://goo.gl/PX7qhR\n★ Siêu Nhân Phép Thuật: https://goo.gl/AN9rhG\n★ Siêu Nhân Sấm Sét: https://goo.gl/MdMRnM\n★ Siêu Nhân Cơ Động: https://goo.gl/nJ2J16\n★ Siêu Nhân Đường Sắt: https://goo.gl/sLRIUs\n★ Siêu Nhân Thiên Sứ: https://goo.gl/ycESpr\n★ Siêu Nhân Tổng Hợp: https://goo.gl/jPdzZf\n♥ ♥ ♥ Chúc các bạn xem phim vui vẻ! ♥ ♥ ♥ \n© Bản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V9JbgioDcho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V9JbgioDcho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V9JbgioDcho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V9JbgioDcho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V9JbgioDcho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V9JbgioDcho"
+                },
+                "videoOwnerChannelTitle": "Kênh Siêu Nhân Việt",
+                "videoOwnerChannelId": "UCakrU9fQaPfPglPWHYaFo4g"
+            },
+            "contentDetails": {
+                "videoId": "V9JbgioDcho",
+                "videoPublishedAt": "2019-11-06T09:41:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NWr_LCf9oEND7mSWEu_qqEoYFHM",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-10-17T12:25:08Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t9jzpMPV2Q4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "t9jzpMPV2Q4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n9P8tSCy1Qu9_nwBpZ71-nI6XwM",
+            "id": "UExVSzlrLXljNVRxWUh4aWxQVW12QmVtS28xTGJhMlFwVi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-10-19T06:59:47Z",
+                "channelId": "UCzuh2jI-y99Q_dqcEVdk6Cg",
+                "title": "Battle Nerf War : Blue Police Nerf Guns / Zombie / Monster",
+                "description": "Battle Nerf War : Blue Police Nerf Guns / Zombie / Monster.\n\nWatching more video of Battle Nerf:\nhttps://www.youtube.com/c/BattleNerfWar\n\nHastag: #battlenerfwar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5fMlv99W4P4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5fMlv99W4P4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5fMlv99W4P4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5fMlv99W4P4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5fMlv99W4P4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Son Pham",
+                "playlistId": "PLUK9k-yc5TqYHxilPUmvBemKo1Lba2QpV",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5fMlv99W4P4"
+                },
+                "videoOwnerChannelTitle": "Battle Nerf War",
+                "videoOwnerChannelId": "UCoGBmF0vMDreOF5ApnheWHQ"
+            },
+            "contentDetails": {
+                "videoId": "5fMlv99W4P4",
+                "videoPublishedAt": "2019-12-08T01:10:38Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}

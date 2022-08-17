@@ -1,0 +1,2232 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "lQZ6m0a4MU9vXO0vZYKlpw4u7Ew",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1IFIgpGqTfjNwGElUFNm6WdHd60",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-04-01T12:11:22Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zOKAxF2IQBY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zOKAxF2IQBY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kBQARmYqkw86g62BxqnIm5C_kR0",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-04-01T12:19:16Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Cả phòng trà chết lặng khi bé gái cất tiếng hát│Đắp Mộ Cuộc Sầu - Bé Hà Vi",
+                "description": "Cả phòng trà chết lặng khi bé gái cất tiếng hát│Đắp Mộ Cuộc Sầu - Bé Hà Vi\n►Hồng Ân Kids - Kênh Nhạc Của Các Ngôi Sao Nhí: luôn cập nhật những sản phẩm âm nhạc mới nhất, hay nhất của các ca sĩ nhí hàng đầu Việt Nam.\n\n►Đăng kí kênh để ủng hộ và theo dõi bé: https://bit.ly/2uKi2ie\n\nNGHIÊM CẤM SAO CHÉP DƯỚI MỌI HÌNH THỨC\n\n#hongankids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rpuo11qVN0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rpuo11qVN0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rpuo11qVN0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rpuo11qVN0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rpuo11qVN0U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Rpuo11qVN0U"
+                },
+                "videoOwnerChannelTitle": "Hồng Ân Kids",
+                "videoOwnerChannelId": "UCSkl9NsmfZmsvqDJ_MA7_sg"
+            },
+            "contentDetails": {
+                "videoId": "Rpuo11qVN0U",
+                "videoPublishedAt": "2019-03-27T00:54:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e4xk7CYZ5-yZ9SDx2KEwAZuOIkI",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-04-01T12:34:02Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PU4uwT4jXO8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PU4uwT4jXO8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hfvSNtF4d2r0Y14PQris_vX2Evs",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-04-01T12:38:46Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vN_JY8o4Cj0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vN_JY8o4Cj0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y4KiTuEQFZ4rhJHTLybIQYFqhDo",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-06-05T04:14:29Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 32 - Siêu Trộm - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 32 - Siêu Trộm - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n\n\n#Ben10 #Ben10Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBMyU_WUuQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBMyU_WUuQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBMyU_WUuQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HBMyU_WUuQU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HBMyU_WUuQU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HBMyU_WUuQU"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "HBMyU_WUuQU",
+                "videoPublishedAt": "2018-11-09T07:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nnorF8yrRrpRKHVVmUjckhnfzcQ",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-06-05T10:04:27Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Every Ben Alien Transformation | Ben 10 | Cartoon Network",
+                "description": "Check out Ben's coolest alien transformation sequences! Which one is your favorite?\n\nSUBSCRIBE: http://cartn.co/subscribe\n\nABOUT BEN 10:\nBen 10 introduces fun-loving, 10-year-old, Ben Tennyson, his cousin Gwen and Grandpa Max, as they travel the country during summer vacation in their trusty RV. Once Ben finds the Omnitrix, a mysterious watch-like device that transforms him into 10 different heroic aliens, a world of extraterrestrial superpowers opens up. Ben 10 is produced by Cartoon Network Studios and created and executive produced by Man of Action Entertainmean.    \n\nAbout Cartoon Network:\nWelcome to Cartoon Network's YouTube Channel, your destination for episode clips, behind the scenes footage, how to draw tutorials, toy videos, and more!  Cartoon Network is home to your favorite shows and characters including Teen Titans Go!, Ben 10, Steven Universe, The Amazing World of Gumball, OK K.O.!, and much more! Want full episodes? Go to the CN APP where you can find new unlocked episodes updated every week!\n\nConnect with Cartoon Network Online:\nVisit Cartoon Network WEBSITE: http://cartn.co/cnwebsite\nFollow Cartoon network on INSTAGRAM:  http://cartn.co/instagram\nLike Cartoon Network on FACEBOOK: http://cartn.co/facebook\nFollow Cartoon Network on TWITTER: http://cartn.co/twitter\n\n\nhttp://www.youtube.com/user/CartoonNetwork",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q8mcwA5th-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q8mcwA5th-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q8mcwA5th-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q8mcwA5th-c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q8mcwA5th-c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q8mcwA5th-c"
+                },
+                "videoOwnerChannelTitle": "Cartoon Network",
+                "videoOwnerChannelId": "UCMsgXPD3wzzt8RxHJmXH7hQ"
+            },
+            "contentDetails": {
+                "videoId": "q8mcwA5th-c",
+                "videoPublishedAt": "2019-04-02T20:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s9eperZ2eitB-DJhsZfIZXQT9wY",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-06-05T23:58:58Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "SUPERHERO BABY BUILDS MAGNETIC BIKE 💖 Stop Motion Cartoons Animation",
+                "description": "SUPERHERO BABY BUILDS MAGNETIC BIKE 💖 Stop Motion Cartoons Animation\nLuka use the attractive power of magnetic balls to build a beautiful bike.\n\n2:17 - Building Toys Vehicle Recycle Car\n4:34 - Learning Shapes and Sizes Matching Toy\n6:31 - Superhero Costume Idea Dress Up \n8:31 - Puppy Dog Animal Rescue Pet\n\nSee more of:\nWOA Studio animation: http://bit.ly/2UrUbAG\n\nAbout WOA Luka Channel:\nThe channel mainly focuses on a clay character named Luka and his family including mother and his little sister. Together, they go through struggle everyday to learn many lessons about good behaviors\nWe release a new episode everyday. Stay tuned and hit the subscribe button and ring bell for not missing any.\nAll audio and visual content in this channel is owned by SCONNECT CO., LTD., audiojungle.net and licenced under Creative Commons Attribution.\nhttps://creativecommons.org/licenses/by/4.0/\nArtist: http://incompetech.com\nhttps://audiojungle.net/item/bingo/18804846\nhttps://audiojungle.net/item/skip-to-my-lou/20033577\nhttps://audiojungle.net/item/old-macdonald-had-a-farm/18721798\nhttps://www.audiomicro.com/songs-with-singing-children-vocals-children-bingo-was-his-name-o-2-royalty-free-stock-music-1177472\nhttps://www.audiomicro.com/comedy-cartoon-bright-animation-action-royalty-free-stock-music-532078\nAuthor: Stockwaves\n---------------------\nAbout us:\n► Gmail: info@woanetwork.com\n► Facebook: http://bit.ly/2IlnHR4\nTHANKS FOR WATCHING\nAND DON’T FORGET TO SUBSCRIBE FOR MORE PLAY DOH CARTOONS!\n\nCREDIT\nProducer - Tung Nguyen\nDirector - Truong Nguyen\nScriptwriter - Ngoc Nguyen\nCharacter Designer - Nhan Nguyen\nModel Maker - Phuong Hoang and Nguyet Tran and Anh Truong and Hang Do and Vinh Tuong\nAnimator - Linh Nguyen and Quang Tuong and Dung Hoang and Tuan Tran\nCompositor - Quynh Tran\nSystem Developer - Bach Cao\n\n#WOAVIDEOS #WOAKIDS #WOASTOPMOTION #WOALUKA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e-vN_6sJxTY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e-vN_6sJxTY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e-vN_6sJxTY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e-vN_6sJxTY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e-vN_6sJxTY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "e-vN_6sJxTY"
+                },
+                "videoOwnerChannelTitle": "WOA LuKa Channel",
+                "videoOwnerChannelId": "UCg-4sIe9il3op_Wr8Bk5lIQ"
+            },
+            "contentDetails": {
+                "videoId": "e-vN_6sJxTY",
+                "videoPublishedAt": "2019-05-27T08:44:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HduGkDLN8Psfi2uZz3FTBNY4fgM",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:31:46Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 44 - Ben Sói ở Luân Đôn - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 44 - Ben Sói ở Luân Đôn - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n▶ Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n\n#Ben10 #Ben19Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pxqpmhsh3KE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pxqpmhsh3KE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pxqpmhsh3KE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pxqpmhsh3KE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pxqpmhsh3KE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pxqpmhsh3KE"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "pxqpmhsh3KE",
+                "videoPublishedAt": "2018-11-30T07:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G7iFTJ0LDsJAHhY3eeCis3RoaQc",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:34:42Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 46 - Liên Hoan Quái Vật - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 46 - Liên Hoan Quái Vật - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n\n\n #Ben10 #Ben21Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6-oNDpDN86E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6-oNDpDN86E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6-oNDpDN86E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6-oNDpDN86E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6-oNDpDN86E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6-oNDpDN86E"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "6-oNDpDN86E",
+                "videoPublishedAt": "2018-12-05T07:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p0qpKkwcu2hTnT6gIEpR5Qc5B1I",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:34:58Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 45 - Animo Lừa Đảo - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 45 - Animo Lừa Đảo - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n\n\n #Ben10 #Ben20Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EL0myXi3gqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EL0myXi3gqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EL0myXi3gqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EL0myXi3gqc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EL0myXi3gqc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EL0myXi3gqc"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "EL0myXi3gqc",
+                "videoPublishedAt": "2018-12-04T07:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6gNK2eYt1rx2feM6X3Fuyb4iRCQ",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:35:11Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 47 - Phản Pháp Thuật - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 47 - Phản Pháp Thuật - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n▶ Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n #Ben10 #Ben22Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vrrQbowzveU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vrrQbowzveU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vrrQbowzveU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vrrQbowzveU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vrrQbowzveU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vrrQbowzveU"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "vrrQbowzveU",
+                "videoPublishedAt": "2018-12-06T07:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o7yiVt2iaqf_7inDfouSeiwGXuo",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:35:35Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 48 - Ma Cà Rồng Phản Công - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 48 - Ma Cà Rồng Phản Công - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n\n\n #Ben10 #Ben23Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CU3zeNKxluA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CU3zeNKxluA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CU3zeNKxluA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CU3zeNKxluA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CU3zeNKxluA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CU3zeNKxluA"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "CU3zeNKxluA",
+                "videoPublishedAt": "2018-12-07T07:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KbZmnK9bOb2ka0L13bac7dJwqV4",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:36:12Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 39 - Những Bộ Óc Vượt Trội - Hoạt Hình Tiếng Việt",
+                "description": "Đăng ký ủng hộ kênh POPS Kids đạt 10 triệu subscribers nhé: https://bit.ly/2QRbKqT\n\nĐăng ký ủng hộ kênh POPS Kids đạt 10 triệu subscribers nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 39 - Những Bộ Óc Vượt Trội - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nKênh Boomerang Vietnam\nTổng hợp các phim hoạt hình hay nhất sẽ đưa các bạn về thế giới tuổi thơ đầy màu sắc, với các phim hoạt hình được lồng tiếng việt và phát sóng hàng tuần duy nhất tại Boomerang. Nhấn Subscribe để theo dõi nhiều sản phẩm mới trên Boomerang. \n\nĐăng nhập kênh để đón xem những tập phim mới nhất tại đây: https://goo.gl/mN2Nr8\n\n#Ben10 #Ben10Omniverse #hoathinhtiengviet #hoathinhthieunhi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fnlVIMdNnok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fnlVIMdNnok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fnlVIMdNnok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fnlVIMdNnok/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fnlVIMdNnok/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fnlVIMdNnok"
+                },
+                "videoOwnerChannelTitle": "Boomerang Vietnam",
+                "videoOwnerChannelId": "UC1psboQLDVCEOD46RNPZdgg"
+            },
+            "contentDetails": {
+                "videoId": "fnlVIMdNnok",
+                "videoPublishedAt": "2018-11-14T04:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DFgUiycuEw31ao1lbOTmA1fcxwo",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:36:54Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse Tập 51 - Tranh Giành - Hoạt Hình Tiếng Việt",
+                "description": "🎉Đăng ký POPS Kids Learn để tham gia các khóa học online tương tác với giảng viên ngay nhé 👉 https://popskids.onelink.me/X36W/POPSKidsLearn\n\n🔥 Đăng ký kênh POPS Kids để xem nhiều hoạt hình nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 51 - Tranh Giành - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nPOPS Kids\nKênh thiếu nhi hàng đầu trên YouTube với các video nhạc thiếu nhi, hoạt hình nổi tiếng, các chương trình giáo dục bổ ích và nhiều nội dung thú vị khác. Nhấn subscribe để theo dõi nhiều sản phẩm mới trên POPS Kids.\n\n▶ Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n Đăng ký kênh YouTube POPS Kids: https://www.youtube.com/c/popskids\n Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n Đăng ký kênh YouTube Learning For Kidz: https://www.youtube.com/c/learningforkidz\n Tham gia cộng đồng FB POPS Kids: https://www.facebook.com/pops.kids\n Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime\n Tham gia cộng đồng FB Thích Hoạt Hình: https://www.facebook.com/thichoathinh\n Tham gia cộng đồng group Mẹ Đẹp Thông Thái: https://www.facebook.com/groups/338036913815334/\n Theo dõi Instagram: https://www.instagram.com/pops_kids/\n#Ben10 #Ben24Omniverse #hoathinhtiengviet #hoathinhthieunhi #popskids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OciH3MoK_HM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OciH3MoK_HM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OciH3MoK_HM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OciH3MoK_HM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OciH3MoK_HM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OciH3MoK_HM"
+                },
+                "videoOwnerChannelTitle": "POPS Kids",
+                "videoOwnerChannelId": "UC5ezaYrzZpyItPSRG27MLpg"
+            },
+            "contentDetails": {
+                "videoId": "OciH3MoK_HM",
+                "videoPublishedAt": "2018-12-13T07:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yf6KUFm_aTKGfSfzrXra-2yeYxU",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-06-06T00:37:03Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[S4] Ben 10 Omniverse S2 Tập 7 - Anh Bạn Ngoài Không Gian - Hoạt Hình Tiếng Việt",
+                "description": "Đăng ký ủng hộ kênh POPS Kids đạt 10 triệu subscribers nhé: https://bit.ly/2QRbKqT\n\n[S4] Ben 10 Omniverse Tập 16 - Anh Bạn Ngoài Không Gian - Hoạt Hình Tiếng Việt\n\nBen 10 Omniverse là bộ phim nối tiếp sau phần Ultimate Alien. Vì lý do cá nhân nên Kevin và Gwen không còn du hành cùng Ben nữa. Ở phần này Ultimate Omnitrix đã bị Azmuth thu hồi thì tiến hóa thành dạng cuối cùng có thế gây nguy hiểm và Azmuth cũng đã tặng cậu một chiếc Omnitrix mới có chức năng như cũ nhưng không biến thành dạng cuối cùng được nữa. Sau khi chia tay Kenvin và Gwen cậu gặp được một cộng sự mới tên là Rook, cả hai đã cùng nhau du hành vũ trụ và giải cứu thế giới.\n\nĐón xem phim hoạt hình Ben 10 Omniverse độc quyền chỉ có tại Boomerang vào 11:00 a.m Thứ 4,5,6,7,CN hàng tuần nhé!\n\nKênh Boomerang Vietnam\nTổng hợp các phim hoạt hình hay nhất sẽ đưa các bạn về thế giới tuổi thơ đầy màu sắc, với các phim hoạt hình được lồng tiếng việt và phát sóng hàng tuần duy nhất tại Boomerang. Nhấn Subscribe để theo dõi nhiều sản phẩm mới trên Boomerang. \n\nĐăng nhập kênh để đón xem những tập phim mới nhất tại đây: https://goo.gl/mN2Nr8\n\n#Boomerang #Ben10 #Ben10Omniverse #Hoathinhtiengviet #HoathinhBoomerang\n\n#Ben10 #Ben10Omniverse #hoathinhtiengviet #hoathinhthieunhi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v1agY0jaDns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v1agY0jaDns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v1agY0jaDns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v1agY0jaDns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v1agY0jaDns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v1agY0jaDns"
+                },
+                "videoOwnerChannelTitle": "Boomerang Vietnam",
+                "videoOwnerChannelId": "UC1psboQLDVCEOD46RNPZdgg"
+            },
+            "contentDetails": {
+                "videoId": "v1agY0jaDns",
+                "videoPublishedAt": "2018-08-25T04:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lnEvxRgrXlaDOBO5PS2S4jONU6A",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2019-11-04T13:41:42Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Nữ Thư Ký Đi Mua Siêu Xe Đối Đầu Với Tình Địch Cũ Và Cái Kết - RKM Team",
+                "description": "Nữ Thư Ký Đi Mua Siêu Xe Đối Đầu Với Tình Địch Cũ Và Cái Kết - RKM\n#RKM #RKMTEAM #RKMTV #RKMTEAMSHOW\n----------------------------------------------------------------------------\n👉Follow Instagram: https://www.instagram.com/rkmteam/\n👉Follow Fan page: https://www.facebook.com/RKMTeam.TV/\n👉Subscribe Youtube Channel: https://www.youtube.com/channel/UCbTQD6Sgo93iYUG6iR4Zudg?\n----------------------------------------------------------------------------\n❤️Cảm ơn các bạn đã luôn theo dõi và ủng hộ RKM Team ❤️\n❤️Đừng quên Subscribe để theo dõi thêm các video tiếp theo của RKM nhé❤️\n----------------------------------------------------------------------------\nLiên hệ hợp tác:\n📧 contact.kgnetwork@gmail.com\n----------------------------------------------------------------------------\nCám ơn các đơn vị tài trợ:\n🙏 Công Ty TNHH Truyền Thông Giải Trí KG Entertainment \n🙏 Homestay Sóc Sơn Riverside\n🙏 Công Ty TNHH Truyền Thông Bất Động Sản NhaF",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hqSDXrpbkbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hqSDXrpbkbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hqSDXrpbkbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hqSDXrpbkbw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hqSDXrpbkbw"
+                },
+                "videoOwnerChannelTitle": "RKM Team",
+                "videoOwnerChannelId": "UCbTQD6Sgo93iYUG6iR4Zudg"
+            },
+            "contentDetails": {
+                "videoId": "hqSDXrpbkbw",
+                "videoPublishedAt": "2019-10-30T10:12:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0YEiEa3Z9A3RcVcO3m-1zAwVaVA",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2019-11-06T14:07:12Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Trò Chơi Bé Tập Nấu Ăn Và Làm Đầu Bếp Trưởng ❤ AnAn ToysReview TV ❤",
+                "description": "Cảm ơn các bạn đã ủng hộ và theo dõi kênh AnAn ToysReview TV trong suốt thời gian vừa qua nhé, Tân An và Bố xin gửi tới các bạn triệu triệu trái tim 1.❤❤❤.❤ ❤❤\n\n► Liên hệ:\n► FANPAGE: https://www.facebook.com/AnAn-ToysReview-TV-895379867307414\n► Email: Daotungkinhdoanh@gmail.com\n► SĐT: Liên hệ qua Email hoặc qua Fanpage !!!\n\n© Bản quyền thuộc về AnAn ToysReview TV ☞ Không Reup !!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pFG1UMM1PnI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pFG1UMM1PnI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pFG1UMM1PnI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pFG1UMM1PnI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pFG1UMM1PnI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pFG1UMM1PnI"
+                },
+                "videoOwnerChannelTitle": "AnAn ToysReview TV",
+                "videoOwnerChannelId": "UCIl8mU7DwcDZVgsVPbQ5U8A"
+            },
+            "contentDetails": {
+                "videoId": "pFG1UMM1PnI",
+                "videoPublishedAt": "2018-07-24T09:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KxmBz7jRDrRBrCYqgZucSoCH8e4",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2019-11-07T13:38:08Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Chú Voi Con Ở Bản Đôn Remix - Những Bản Nhạc Thiếu Nhi Chú Voi Con Remix Hay Nhất 2019",
+                "description": "Chú Voi Con Ở Bản Đôn Remix - Những Bản Nhạc Thiếu Nhi Chú Voi Con Remix Hay Nhất 2019\n\n♦ Đăng ký theo dõi kênh: https://goo.gl/gvMM3i\n♦ Danh sách phát chính: https://goo.gl/87phVm\n\nĐĂNG KÝ Kênh \"Remix For Kids VN\" để ủng hộ kênh phát triển tốt hơn! \n\nBản quyền hình ảnh và âm thanh thuộc sở hữu của \"LaLaTV\" và \"Remix For Kids VN\" vui lòng không re-up dưới mọi hình thức.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M35WGycAW1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M35WGycAW1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M35WGycAW1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M35WGycAW1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M35WGycAW1g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M35WGycAW1g"
+                },
+                "videoOwnerChannelTitle": "Remix For Kids VN",
+                "videoOwnerChannelId": "UCwLDfvxq8VQEAN2IG0DKUhQ"
+            },
+            "contentDetails": {
+                "videoId": "M35WGycAW1g",
+                "videoPublishedAt": "2019-10-23T08:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w-fDIH1mC4Gqc_OQMd3ZX7emsuc",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2019-11-08T05:30:32Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Bắt Talking Tom Bằng Nghi Thức Nu Na Nu Nống | Phim Ngắn",
+                "description": "Mình sẽ thử Bắt Talking Tom Bằng Nghi Thức Nu Na Nu Nống.. để xem Ma Việt Nam và Ma Nước ngoài, đứa nào mạnh hơn....=)))\n------------------------------------------\n▶   Tài Trợ Chi Phí Và Donate Cho Mình:\n▶  Số tài khoản: 0081001251634\n▶  Tên: Dương Anh Khoa\n▶  Ngân hàng: VietcomBank\n▶  Chi Nhánh: Thành Phố Bà Rịa\n\n-- Những đóng góp của mọi người giúp mình phần nào động lực để tạo ra những video hay hơn, mình rất trân trọng điều đó.. Cám ơn tất cả mọi người.\n-----------------------------------------\nLiên hệ: \nEmail: kukhoavlog@gmail.com\nZalo: 076.8787.621\n#talkingtom #nunanunống #kukhoavlog",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XiY8EGk88L8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XiY8EGk88L8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XiY8EGk88L8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XiY8EGk88L8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XiY8EGk88L8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XiY8EGk88L8"
+                },
+                "videoOwnerChannelTitle": "Ku Khoa Vlog",
+                "videoOwnerChannelId": "UC3fQOttwlCk3N3tp5nkYR9g"
+            },
+            "contentDetails": {
+                "videoId": "XiY8EGk88L8",
+                "videoPublishedAt": "2019-10-01T03:31:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h5pmGAy4o6N6qi5PU0_zqzOoPUo",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2019-11-08T05:31:25Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Bắt Talking Ginger Bằng Nghi Thức Nu Na Nu Nống Và Bắc Kim Thang | Phim Ngắn",
+                "description": "- Theo yêu cầu của nhiều bạn thì hôm nay mình sẽ Bắt Talking Ginger Bằng Nghi Thức Nu Na Nu Nống Và Bắc Kim Thang luôn.. Tuy nhiên.. kết quả thật bất ngờ.. các bạn theo dõi nhé... \n------------------------------------------\n▶   Mong Mọi Người Tài Trợ Chi Phí Và Donate Cho Mình:\n▶  Số tài khoản: 0081001251634\n▶  Tên: Dương Anh Khoa\n▶  Ngân hàng: VietcomBank\n▶  Chi Nhánh: Thành Phố Bà Rịa\n\n-- Những đóng góp của mọi người giúp mình phần nào động lực để tạo ra những video hay hơn, mình rất trân trọng điều đó.. Cám ơn tất cả mọi người.\n-----------------------------------------\nLiên hệ: \nEmail: kukhoavlog@gmail.com\nZalo: 076.8787.621\n#talkingginger #nunanunống #bắckimthang",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oeGdz8CSf3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oeGdz8CSf3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oeGdz8CSf3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oeGdz8CSf3E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oeGdz8CSf3E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oeGdz8CSf3E"
+                },
+                "videoOwnerChannelTitle": "Ku Khoa Vlog",
+                "videoOwnerChannelId": "UC3fQOttwlCk3N3tp5nkYR9g"
+            },
+            "contentDetails": {
+                "videoId": "oeGdz8CSf3E",
+                "videoPublishedAt": "2019-10-10T03:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZogHtS6YvPBJcW90PFm1t4lf6SM",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2019-11-10T00:25:33Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "17 Mẹo Gián Điệp Cơ Bản",
+                "description": "Đăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1 | Bật TẤT CẢ thông báo đẩy 🔔 \nXem video MỚI NHẤT:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nMọi người đều mơ ước trở thành điệp viên! Xem video mới của chúng tôi và trở thành một điệp viên! Bạn sẽ là một đặc vụ học cách giấy điện thoại ở trong quả cà tím, dùng son bằng khẩu súng, hay cách làm ria mép giả cùng nhiều trò điệp viên khác nữa!\n\nĐồ dùng và dụng cụ\nGiấy vẽ màu nâu\nBật lửa\nBút nhớ dòng\nKéo \nHộp bút chì đồ chơi\nĐiện thoại\nSon trứng\nCốc \nGiấy \nBút chì\nPhấn \nVải dạ đen\nBăng dính hai mặt\nSúng bắn keo\nDao \nSon bóng \nĐất nặn\nMàu acryluc\nMiếng bọt biển\nCọ vẽ \nSúng bắn keo\nThanh keo dán\nĐèn pin\nHạt óng ánh\nNhẫn \nHộp đựng hình tròn\nKeo trong\nXe điều khiển\nMáy ảnh Go pro\nBăng dính giấy\nBột \nBăng dính trong\nCốc thủy tinh\nSúng đồ chơi\nĐiện thoại đồ chơi\nGôm xịt tóc\nGiấy màu\nTờ bìa nhựa\nGiấy nhớ\n\nMusic:\nEDM Festival Mix 2017 | The Best Of Electro, Progressive & House! by Pumped Mixes is licensed under a Creative Commons 3.0 Unported License. \nSource: https://soundcloud.com/pumpedmixes/edm-festival-mix-2017\n\nTheo dõi Troom Troom:\nĐăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1\nInstagram: https://www.instagram.com/troomtroom/\nFacebook: https://www.facebook.com/troomhands\nPinterest: https://pinterest.com/troomtroom/\n\nCác Kênh khác:\nTroom Troom EN: https://www.youtube.com/channel/UCWwqHwqLSrdWMgp5DZG5Dzg?sub_confirmation=1\nTroom Troom ES: https://www.youtube.com/channel/UCu6oyJJ6PlkeNNv6n26ZNyA?sub_confirmation=1\nTroom Troom FR: https://www.youtube.com/channel/UCyNeKmBHI10u4bwYEKimlZA?sub_confirmation=1\nTroom Troom RU: https://www.youtube.com/channel/UCq1JpGFxcZTbbOAz010U-og?sub_confirmation=1\nTroom Troom DE: https://www.youtube.com/channel/UCzgmxZIlgfH1fgch7OpigIA?sub_confirmation=1\nTroom Troom CN: https://www.youube.com/channel/UCV3NWBs2K7pOEGmI4w_2dhg?sub_confirmation=1\nTroom Troom PT: https://www.youtube.com/channel/UCgCQlMYN2XypwYC2wcR32bA?sub_confirmation=1\nTroom Troom JP: https://www.youtube.com/channel/UCPCwT9JMWPjg6xAWrQxhQaw?sub_confirmation=1\nTroom Troom KR: https://www.youtube.com/channel/UClSxH8KQdfytf2raNAByMiA?sub_confirmation=1\nTroom Troom India: https://www.youtube.com/channel/UCwP0n9or789Y33-JNNe-tlA?sub_confirmation=1\nTroom Troom Arabic: https://www.youtube.com/channel/UCyiLrFQqqJDQFOGAQ5pyC9w?sub_confirmation=1\nTroom Troom TR: https://www.youtube.com/channel/UCprQp1WQZzw-ApvQdb31OtQ?sub_confirmation=1\nTroom Troom PL: https://www.youtube.com/channel/UC8_99hNgsYFdPem3EA67HSg?sub_confirmation=1\nTroom Troom IT: https://www.youtube.com/channel/UCQ94FCb9Mnmhxt-H6-7ADcQ?sub_confirmation=1\nTroom Troom TH: https://www.youtube.com/channel/UCZr7drqblTlL3Xr1XvBZxXw?sub_confirmation=1\nTroom Troom Indonesia:  https://www.youtube.com/channel/UCtGmhXT_NSTK5j_r9a9xdYA?sub_confirmation=1\nTroom Troom SELECT: https://www.youtube.com/channel/UCIJ44QRtVGm_gBh_deuL5ow?sub_confirmation=1\n\nXem them Troom Troom:\nVideo mới nhất:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nPhổ biến nhất: https://www.youtube.com/playlist?list=PL-Uha728z-ZDUJxNltkZAurgVydEzwUqE\n\nVề Troom Troom \nChào mừng bạn đến với kênh YouTube chính thức của Troom Troom! Tại đây, bạn sẽ được xem nhiều video bao gồm các video tự tay làm một cách dễ dàng (Do It Yourself), video quay trở lại trường, các trò đùa vui nhộn, mẹo vặt trong cuộc sống, hướng dẫn làm đẹp và trang điểm, đồ chơi bóp mềm (slime and squishies), thử thách, và nhiều hơn nữa. Đảm bảo đăng ký và bật TẤT CẢ các thông báo để không bao giờ bỏ lỡ video thú vị nào!\n\nVới các yêu cầu liên quan đến kinh doanh, xin vui lòng liên hệ với tôi tại: troomtroomdiy@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uXSciV_4BDE"
+                },
+                "videoOwnerChannelTitle": "Troom Troom Vietnam",
+                "videoOwnerChannelId": "UC3ZOEebvMhGBRmVvEcvrYKQ"
+            },
+            "contentDetails": {
+                "videoId": "uXSciV_4BDE",
+                "videoPublishedAt": "2019-10-23T11:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qaJqqJVCqjOBO_vYjGOaUocVuIc",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2019-11-10T00:25:33Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "17 Mẹo Gián Điệp Cơ Bản",
+                "description": "Đăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1 | Bật TẤT CẢ thông báo đẩy 🔔 \nXem video MỚI NHẤT:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nMọi người đều mơ ước trở thành điệp viên! Xem video mới của chúng tôi và trở thành một điệp viên! Bạn sẽ là một đặc vụ học cách giấy điện thoại ở trong quả cà tím, dùng son bằng khẩu súng, hay cách làm ria mép giả cùng nhiều trò điệp viên khác nữa!\n\nĐồ dùng và dụng cụ\nGiấy vẽ màu nâu\nBật lửa\nBút nhớ dòng\nKéo \nHộp bút chì đồ chơi\nĐiện thoại\nSon trứng\nCốc \nGiấy \nBút chì\nPhấn \nVải dạ đen\nBăng dính hai mặt\nSúng bắn keo\nDao \nSon bóng \nĐất nặn\nMàu acryluc\nMiếng bọt biển\nCọ vẽ \nSúng bắn keo\nThanh keo dán\nĐèn pin\nHạt óng ánh\nNhẫn \nHộp đựng hình tròn\nKeo trong\nXe điều khiển\nMáy ảnh Go pro\nBăng dính giấy\nBột \nBăng dính trong\nCốc thủy tinh\nSúng đồ chơi\nĐiện thoại đồ chơi\nGôm xịt tóc\nGiấy màu\nTờ bìa nhựa\nGiấy nhớ\n\nMusic:\nEDM Festival Mix 2017 | The Best Of Electro, Progressive & House! by Pumped Mixes is licensed under a Creative Commons 3.0 Unported License. \nSource: https://soundcloud.com/pumpedmixes/edm-festival-mix-2017\n\nTheo dõi Troom Troom:\nĐăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1\nInstagram: https://www.instagram.com/troomtroom/\nFacebook: https://www.facebook.com/troomhands\nPinterest: https://pinterest.com/troomtroom/\n\nCác Kênh khác:\nTroom Troom EN: https://www.youtube.com/channel/UCWwqHwqLSrdWMgp5DZG5Dzg?sub_confirmation=1\nTroom Troom ES: https://www.youtube.com/channel/UCu6oyJJ6PlkeNNv6n26ZNyA?sub_confirmation=1\nTroom Troom FR: https://www.youtube.com/channel/UCyNeKmBHI10u4bwYEKimlZA?sub_confirmation=1\nTroom Troom RU: https://www.youtube.com/channel/UCq1JpGFxcZTbbOAz010U-og?sub_confirmation=1\nTroom Troom DE: https://www.youtube.com/channel/UCzgmxZIlgfH1fgch7OpigIA?sub_confirmation=1\nTroom Troom CN: https://www.youube.com/channel/UCV3NWBs2K7pOEGmI4w_2dhg?sub_confirmation=1\nTroom Troom PT: https://www.youtube.com/channel/UCgCQlMYN2XypwYC2wcR32bA?sub_confirmation=1\nTroom Troom JP: https://www.youtube.com/channel/UCPCwT9JMWPjg6xAWrQxhQaw?sub_confirmation=1\nTroom Troom KR: https://www.youtube.com/channel/UClSxH8KQdfytf2raNAByMiA?sub_confirmation=1\nTroom Troom India: https://www.youtube.com/channel/UCwP0n9or789Y33-JNNe-tlA?sub_confirmation=1\nTroom Troom Arabic: https://www.youtube.com/channel/UCyiLrFQqqJDQFOGAQ5pyC9w?sub_confirmation=1\nTroom Troom TR: https://www.youtube.com/channel/UCprQp1WQZzw-ApvQdb31OtQ?sub_confirmation=1\nTroom Troom PL: https://www.youtube.com/channel/UC8_99hNgsYFdPem3EA67HSg?sub_confirmation=1\nTroom Troom IT: https://www.youtube.com/channel/UCQ94FCb9Mnmhxt-H6-7ADcQ?sub_confirmation=1\nTroom Troom TH: https://www.youtube.com/channel/UCZr7drqblTlL3Xr1XvBZxXw?sub_confirmation=1\nTroom Troom Indonesia:  https://www.youtube.com/channel/UCtGmhXT_NSTK5j_r9a9xdYA?sub_confirmation=1\nTroom Troom SELECT: https://www.youtube.com/channel/UCIJ44QRtVGm_gBh_deuL5ow?sub_confirmation=1\n\nXem them Troom Troom:\nVideo mới nhất:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nPhổ biến nhất: https://www.youtube.com/playlist?list=PL-Uha728z-ZDUJxNltkZAurgVydEzwUqE\n\nVề Troom Troom \nChào mừng bạn đến với kênh YouTube chính thức của Troom Troom! Tại đây, bạn sẽ được xem nhiều video bao gồm các video tự tay làm một cách dễ dàng (Do It Yourself), video quay trở lại trường, các trò đùa vui nhộn, mẹo vặt trong cuộc sống, hướng dẫn làm đẹp và trang điểm, đồ chơi bóp mềm (slime and squishies), thử thách, và nhiều hơn nữa. Đảm bảo đăng ký và bật TẤT CẢ các thông báo để không bao giờ bỏ lỡ video thú vị nào!\n\nVới các yêu cầu liên quan đến kinh doanh, xin vui lòng liên hệ với tôi tại: troomtroomdiy@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uXSciV_4BDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uXSciV_4BDE"
+                },
+                "videoOwnerChannelTitle": "Troom Troom Vietnam",
+                "videoOwnerChannelId": "UC3ZOEebvMhGBRmVvEcvrYKQ"
+            },
+            "contentDetails": {
+                "videoId": "uXSciV_4BDE",
+                "videoPublishedAt": "2019-10-23T11:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ufuyjxOozVVnU5ATJfrsyqLGtT8",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2019-11-10T00:56:45Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Trailer | Nhạc chế BẺ CONG THÀNH THẲNG | Thiên An",
+                "description": "Cả nhà ơi, ai chưa nhấn subscribes thì nhấn 1 cái ủng hộ An lên 1,5 triệu subs nhé. Ai nhấn rồi thì đừng nhấn nữa nhé. Mãi yêu!\n\nChắc cả nhà đang hóng clip mới đúng hông? Coi đỡ trailer với An nha. Đón xem nhạc chế Bẻ Cong Thành Thẳng vào cuối tuần cùng An nhé!\n\nCác bạn thích An làm clip về nội dung nào thì cmt để An biết với.\nCùng nhấn Subscribe giúp An đạt 3 triệu subs nha các tình yêu\n\nLiên hệ tài trợ : maptvteam@gmail.com\nBook show sự kiện, quảng cáo, reaction : Ms. Thanh: 090 9013113\n\nThiên An tạo kênh vì thích tạo ra những Parody hài hước, MV cover cổ trang. Bạn nào có cùng sở thích thì nhấn subscribe cho An nhé.\n- Youtube : \n- Facebook : https://www.facebook.com/ThienAn.Yout...\n- Facebook Group  : https://www.facebook.com/groups/Thien...\n- Tiktok : https://www.tiktok.com/@thienanofficial/ \n\nAn làm clip cực lắm nên đừng Re-Up tội nghiệp An, vậy An mất động lực làm clip lắm bạn nha.\nBản quyền thuộc về Thiên An Official vui lòng không Re-Up.\nMọi vấn đề về bản quyền vui lòng liên hệ email: thienan@treasurebox.vn \n____________________ \nLike and subscribe for more videos !!! \n- Facebook : https://www.facebook.com/groups/Thien...\n- Youtube: https://www.youtube.com/c/ThienAnOffi...\n- Instagram : http://instagram.com/thienan_official\n#thienan #becongthanhthang #nhacche",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GYMhYQJQts0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GYMhYQJQts0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GYMhYQJQts0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GYMhYQJQts0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GYMhYQJQts0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GYMhYQJQts0"
+                },
+                "videoOwnerChannelTitle": "Thiên An Official",
+                "videoOwnerChannelId": "UCjoAIOyTWjGjP_Q-qw3jkhQ"
+            },
+            "contentDetails": {
+                "videoId": "GYMhYQJQts0",
+                "videoPublishedAt": "2019-10-31T12:31:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iuqjLPejC9rJluHRMvqUrO8KNNk",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2019-11-11T07:13:16Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Thiếu nữ mắc bệnh lạ:  Ban ngày bại liệt ban đêm đi lại bình thường",
+                "description": "Khám Phá Bí Ẩn là kênh sát cánh cùng bạn khám phá mọi điều thú vị, bí ẩn trong cuộc sống khắp mọi nơi. Khám Phá Bí Ẩn có nhiều chủ đề hấp dẫn như: Thời sự, Chuyện lạ, Kinh dị, Ấn tượng, Trẻ em, Động vật, Người nổi tiếng, Thời trang, Ẩm thực, Thiên nhiên, Phong cảnh, Sự kiện, Chân dung, Đời thường,... Hãy đăng ký ngay hôm nay để không bỏ lỡ bất kỳ thông tin hấp dẫn nào và chia sẻ để mọi người cùng biết nhé!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EgkeaEExHIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EgkeaEExHIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EgkeaEExHIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EgkeaEExHIg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EgkeaEExHIg"
+                },
+                "videoOwnerChannelTitle": "Khám Phá Bí Ẩn",
+                "videoOwnerChannelId": "UCkp2NHVhOw7JTPVWPp3Zwiw"
+            },
+            "contentDetails": {
+                "videoId": "EgkeaEExHIg",
+                "videoPublishedAt": "2019-10-31T23:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VC8LeN0Xbwer7gFgXgdiIWWgF4c",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2019-11-14T07:49:58Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Trẻ Trâu Làm Nồi Lẩu Hải Sản Siêu Cay Khổng Lồ To Nhất Xóm | TQ97",
+                "description": "- DONATE: https://megacard.vn/nap-the-link/301064-nguyentruongquan1997\n- Fb Mình Đây Nhá: https://www.facebook.com/iamtq97\n- Group Giao Lưu: https://goo.gl/zMAEaE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "19mimx3jZEA"
+                },
+                "videoOwnerChannelTitle": "Trường Quân TQ97 Gaming",
+                "videoOwnerChannelId": "UCXPlDRVNWAeERUXbT30RE7Q"
+            },
+            "contentDetails": {
+                "videoId": "19mimx3jZEA",
+                "videoPublishedAt": "2019-05-20T11:00:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X1mYa5ZjtSECOuec4eETyW35qhs",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2019-11-14T07:49:58Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Trẻ Trâu Làm Nồi Lẩu Hải Sản Siêu Cay Khổng Lồ To Nhất Xóm | TQ97",
+                "description": "- DONATE: https://megacard.vn/nap-the-link/301064-nguyentruongquan1997\n- Fb Mình Đây Nhá: https://www.facebook.com/iamtq97\n- Group Giao Lưu: https://goo.gl/zMAEaE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/19mimx3jZEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "19mimx3jZEA"
+                },
+                "videoOwnerChannelTitle": "Trường Quân TQ97 Gaming",
+                "videoOwnerChannelId": "UCXPlDRVNWAeERUXbT30RE7Q"
+            },
+            "contentDetails": {
+                "videoId": "19mimx3jZEA",
+                "videoPublishedAt": "2019-05-20T11:00:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9boYInZuFj0y61Au-DoZ-3VvmwU",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2019-11-17T09:04:47Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Muốn Quan Hệ Lâu Ra Thì Phải Nấu Ngay Món Này Cho Chồng Ăn Mỗi Ngày - TDT",
+                "description": "Muốn Quan Hệ Lâu Ra Thi Phải Nấu Ngay Món Này Cho Chông Ăn - TDT\n\n\nĐây là Kênh youtube chính thức của Trung tâm nghiên cứu và Ứng dụng thuốc dân tộc.\"\n\"Cách 1: Nước ép lá hẹ trị bệnh xuất tinh sớm\n\nChỉ cần một nguyên liệu lá hẹ tươi, bạn có thể sử dụng để trị bệnh xuất tinh sớm ở nam giới khác công hiệu.\nĐối với Đông y, sách y học có viết rằng lá hẹ có tính hăng ấm, có vị chua cay nên có tác dụng bổ dương, hành khí, giải độc và trợ thận rất tốt. \n\nBài thuốc dân gian được thực hiện như sau:\n\nDùng 1/2 kí hẹ tươi đem xay nhuyễn, lọc lấy phần nước, bỏ phần bã.\nUống nước ép lá hẹ 2 lần mỗi ngày, uống trong khoảng 1 tháng bệnh xuất tinh sớm sẽ được cải thiện rõ rệt.\"\n\nKÊNH YOUTUBE CHÍNH THỨC CỦA TRUNG TÂM NGHIÊN CỨU VÀ ỨNG DỤNG THUỐC DÂN TỘC\n\nHãy nhấn “ĐĂNG KÝ” kênh để chắc chắn mình không bỏ qua kiến thức nào về bảo vệ sức khỏe của bạn.\n___\n\nKênh: https://www.youtube.com/channel/UCOItXHX3eyloljPDqu9eKzQ\nFanpage: https://www.facebook.com/trungtamnghiencuuvaungdungthuocdantoc\nWebsite: http://www.thuocdantoc.org\nEmail: info@thuocdantoc.org\n___\n\nXem Thêm:\n\nDa Liễu: http://bit.ly/dalieu1\nMẹo trị bệnh hay: http://bit.ly/meo-chua-benh\nTalkshow Gặp Thầy Thuốc Ưu Tú: http://bit.ly/talkshow_BacSi\nYếu Sinh Lý, Xuất Tinh Sớm: http://bit.ly/yeusinhly_nam\n___\n\nTRUNG TÂM NGHIÊN CỨU VÀ ỨNG DỤNG THUỐC DÂN TỘC\n\nCơ sở 1 (tại Hà Nội): Biệt thự, 31 Ngõ 70 Nguyễn Thị Định, Thanh Xuân, Hà Nội. Điện thoại: (024) 7109 6699\n\nCơ sở 2 (tại TP.HCM): Số 145 Hoa Lan, phường 2, quận Phú Nhuận, TP. HCM. Điện thoại: (028) 7109 6699\n\nTruy cập website để biết thêm về hệ thống chi nhánh trên toàn quốc.\n\n\nHastag: #TDT #ThuocDanToc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CFdzJKTTegg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CFdzJKTTegg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CFdzJKTTegg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CFdzJKTTegg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CFdzJKTTegg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CFdzJKTTegg"
+                },
+                "videoOwnerChannelTitle": "Trung tâm Nghiên cứu và Ứng dụng Thuốc Dân Tộc",
+                "videoOwnerChannelId": "UCOItXHX3eyloljPDqu9eKzQ"
+            },
+            "contentDetails": {
+                "videoId": "CFdzJKTTegg",
+                "videoPublishedAt": "2019-08-17T10:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Jc72FTgl3XFpoAGnRSzjH72gSD8",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2019-11-20T12:18:30Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1T7FH-k8SFQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1T7FH-k8SFQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Euykba2dHOje-I28oKrHAgr7M2g",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2019-11-23T10:16:59Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "[Nhạc chế] LỚP TRƯỞNG LỚP TÔI | Xuân Dích & Thế Một | Trai Ngoan Parody",
+                "description": "♥ Liên hệ Quảng Cáo: traingoanteam@gmail.com\nCâu chuyện về cậu lớp trưởng lớp mình đó.. mặc dù hơi đụt 1 chút nhưng học rất giỏi và yêu thương bạn bè nhaaaaaa :x\nCòn lớp trưởng lớp bạn thì saoo???\n\nChế lời & Thể hiện: Rik & Lil'One\nHoà âm phối khí: Xuân Dích, JuongB\nGiọng nữ: Hà Mousy\n\nĐạo diễn: Xuân Dích\nQuay phim: Thịnh Ất, Bảo Nghĩa\nDựng phim: Hùng Panda\nHỗ trợ sản xuất: nhiều người\nDiễn viên: Rik, Lil'One, Thịnh Ất, Hà Mousy, Long Truỵ Lạc, Hùng Panda, Hoàng Koo, Bá Đức, Thành Phùng, Lây Lan Phương, Đinh Hiếu, Thanh Thảo, Hằng Mylo, Bảo Nghĩa.. \n\nXin cảm ơn Tình Kiếm 3D đã đồng hành cùng Trai Ngoan trong sản phẩm này !\n\nLink tải game: https://tinhkiem3d.vn/landing\nCộng đồng: https://www.facebook.com/groups/244499309531844\n\n#nhacche #traingoan #loptruongloptoi #tinhkiem3d\n\n✪ Nhấn Đăng kí cho Trai Ngoan tại đây nha: https://goo.gl/XEFBr4\n\n► Liên Hệ:\nFanpage: https://www.facebook.com/TraiNgoanMusic\nEmail: traingoanteam@gmail.com\n\n► Theo dõi Facebook bọn tớ nha:\nRik: https://www.facebook.com/iamjuskiddin\nLil'One: https://www.facebook.com/One.Gudboiz\n\n--------------------------------------------------------------\n© Bản quyền thuộc về Trai Ngoan\n© Copyright by Trai Ngoan ☞ Please Don't Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zmiHGKdVc2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zmiHGKdVc2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zmiHGKdVc2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zmiHGKdVc2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zmiHGKdVc2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zmiHGKdVc2s"
+                },
+                "videoOwnerChannelTitle": "Trai Ngoan",
+                "videoOwnerChannelId": "UCy5kU2hAo7ZJZOzSmzRAnLQ"
+            },
+            "contentDetails": {
+                "videoId": "zmiHGKdVc2s",
+                "videoPublishedAt": "2019-11-23T04:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-F9Jm_nCRbD1bK7mACVKNBcBUls",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2019-12-04T12:41:35Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Đàn ông thỏa sức sờ ngực chị em ở lễ hội kỳ quặc Tây Ban Nha || vonquanhthegioi",
+                "description": "Đàn ông thỏa sức sờ ngực chị em ở lễ hội kỳ quặc Tây Ban Nha. Lễ hội kỳ lạ vô tư chạm ngực phụ nữ hút hàng ngàn du khách vui chơi đùa giỡn,.\r\n\r\nLễ hội kỳ quặc 'mỏi tay sờ vú' phụ nữ lạ hút 2 triệu du khách ở Tây Ban Nha. Hàng triệu người vui chơi, đẫm mình trong rượu vang đỏ và mỏi tay.\r\n\r\n\r\n\r\nLễ hội phụ nữ khoe ngực để đàn ông chạm ở Tây Ban Nha Đăng ký miễn phí : Tiểu sử người .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_B3YPvPfB6c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_B3YPvPfB6c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_B3YPvPfB6c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_B3YPvPfB6c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_B3YPvPfB6c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_B3YPvPfB6c"
+                },
+                "videoOwnerChannelTitle": "Quind Joshua",
+                "videoOwnerChannelId": "UCESCQ-4loUXpIrtZ8GEos4A"
+            },
+            "contentDetails": {
+                "videoId": "_B3YPvPfB6c",
+                "videoPublishedAt": "2017-01-15T12:22:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n-LNKZeSCGX6N_w5t6gPtAcP-Go",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2019-12-09T07:04:08Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Nằm mơ thấy LỬA  - Giải mã giấc mơ thấy LỬA báo mộng kết cục khá bất ngờ",
+                "description": "Giải mã giấc  mơ thấy lửa mang đến điềm lành hay dữ\n\n\nKênh MƠ THẤY chuyên giải mã giấc mơ thấy của con người. Các giấc mơ phổ biến như là nằm mơ thấy rắn, nằm mơ thấy người chết, nằm mơ thấy vàng, nằm mơ thấy ma quỷ,... sẽ được giải mã chuyên kênh này. Hãy đăng kí để nhận được nhiều thông tin từ Kênh MƠ THẤY nhé\n\nĐĂNG KÝ KÊNH (miễn phí): https://bit.ly/2PGpK3c\n\nGiải mã giấc mơ thấy lửa cháy rực là điềm báo gì ?\n\nTrong thần thoại Hy Lạp, thần lửa Hephaistos là người luôn được tôn sùng, ông chính là vị thần luôn xuất hiện ở bất cứ việc gì có liên quan đến lửa như rèn, thủ công, điêu khắc, kim loại và luyện kim. Trong văn hóa dân gian Việt Nam lửa được xem là biểu tượng cho tri thức và sự giác ngộ, lửa cũng thể hiện sự hủy diệt đáng sợ mà thần linh ban xuống. Mỗi giấc mơ thấy lửa đều có những điềm báo khác nhau, tùy vào nội dung giấc mơ, nhưng đa phần đều là điềm lành.\n\nMơ thấy lửa dữ dội gây cháy rừng nghĩa là bạn sắp đạt đến ngưỡng cửa danh vọng. Bạn sẽ khiến người khác cảm thấy ngưỡng mộ và khát khao có được cuộc sống như mình.\n\nThấy ngọn lửa bừng sáng là điềm tốt, những người sắp thi cử mơ thấy cuộc thi này sẽ đạt được kết quả tốt và có thể được tái hiện lại như cảnh “cá chép vượt vũ môn hóa rồng”.\n\n\nThấy ngọn lửa nhỏ reo mừng trong lò cho thấy bạn đang có một cuộc sống khá bình yên, cuối cùng bạn đã tìm được hạnh phúc cho mình, những điều ước bấy lâu bạn theo đuổi cũng thành hiện thực và bạn không phải lo lắng bất cứ điều gì nữa.\n\nThấy căn nhà của mình bị hỏa hoạn là điềm lành, sắp đến bạn sẽ nhận được nhiều tài lộc, tài chính ổn định. Thấy cháy nhà nhưng dập tắt được thì bạn sẽ có một mối tình đẹp và tình yêu của hai bạn sẽ vượt qua mọi gian khó để có một hạnh phúc viên mãn. Nếu thấy nhà cháy dữ dội mà bạn vẫn thoát ra được thì nên cẩn thận, có thể bạn đang vướng vào một mối tình đầy cạm bẫy và rất dễ dẫn đến sai lầm.\n\nMơ thấy mình bật lửa đốt nhà là sự cảnh báo, bạn nên học cách kìm chế những cơn nóng giận vô cớ của mình. Việc quá nóng nảy sẽ khiến bạn nhận nhiều hậu quả nghiêm trọng, rất dễ gây hấn với người khác.\n\nThấy mình châm lửa đốt một vật gì đó chứng tỏ bạn đang bị dồn nén cảm xúc, bạn không thể giải tỏa những sự khó chịu âm ỉ bên trong lòng mình. Cách tốt nhất cho bạn là hãy dành thời gian nghỉ ngơi, du lịch để bản thân cảm thấy thoải mái, thư thả hơn.\n\nThấy bạn thân mình bị bỏng chứng tỏ bạn đang gặp rất nhiều phiền não, bạn cảm thấy mệt mỏi với cuộc sống của chính mình nhưng giấc mơ này cũng cho thấy những phiền lo của bạn sắp chấm dứt, bạn sẽ nhanh chóng vượt qua mọi gian khó.\n\nNằm mơ thấy một đám lửa lớn thường thể hiện những diễn biến nội tâm bên trong con người bạn, có khá nhiều sự thay đổi mới mẻ diễn ra trong cuộc đời và bạn chưa thích ứng kịp nên luôn cảm thấy rối rắm, hay lo nghĩ và không biết mình phải làm thế nào.\n\nBạn thể tham khảo giấc mơ thấy tại : https://www.facebook.com/nammothay/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9GvOkm8NSm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9GvOkm8NSm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9GvOkm8NSm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9GvOkm8NSm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9GvOkm8NSm8"
+                },
+                "videoOwnerChannelTitle": "Mơ Thấy",
+                "videoOwnerChannelId": "UCuvT4C6mAPwp7YqtaryNPDw"
+            },
+            "contentDetails": {
+                "videoId": "9GvOkm8NSm8",
+                "videoPublishedAt": "2017-04-10T05:04:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LYv8XwmHWVqf-865aGCy451B3Vk",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2019-12-09T13:03:24Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Em về tinh khôi",
+                "description": "Em về tinh khôi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gu0P5trnjzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gu0P5trnjzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gu0P5trnjzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gu0P5trnjzo"
+                },
+                "videoOwnerChannelTitle": "Dao Nguyen",
+                "videoOwnerChannelId": "UCbg3-MOaPTc1vBs4qSCf9Lg"
+            },
+            "contentDetails": {
+                "videoId": "gu0P5trnjzo",
+                "videoPublishedAt": "2006-09-19T02:23:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pfJiFt4AmdY-cnXHS1tDx0e7eG8",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2019-12-16T14:43:17Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Con Trai Chủ Tịch Cua Gái | Phim Hài Mới Nhất | Ghiền Mì Gõ",
+                "description": "Cuộc chiến của con Trai Chủ Động và con Trai Chủ Tịch\nCon Trai Chủ Tịch Cua Gái | Phim Hài Mới Nhất | Ghiền Mì Gõ\n\n#GhiềnMìGõ #MìGõ\n-----------------------------------\nNhấn theo dõi để xem Video mới tại : https://goo.gl/8sfMHg\nFanpage Ghiền Mì Gõ : https://www.facebook.com/GhienMiGo/\nCác Kênh YOUTUBE :\n►Ghiền Mì Gõ : https://www.youtube.com/ghienmigo\n►La La School : https://www.youtube.com/lalaschool\n►VCL CHANNEL : https://www.youtube.com/VCLCHANNEL\n►SunSea Channel : https://www.youtube.com/SUNSEACHANNEL\n\nYouTube Diễn Viên :\n►Pinky Honey : https://www.youtube.com/pinkyhoney\n►Couple K (Khánh Vũ – Nhi Katy) : https://www.youtube.com/couplek\n►Meena Channel : https://www.youtube.com/channel/UCxbdTlFd_Fjx9fc4PLez1yg\n------------------------------------------------------------------------------------\nĐạo Diễn :\nhttps://www.facebook.com/AT.DIRECTOR\nDiễn Viên :\nPinky Bảo Trân : https://www.facebook.com/pinky.baotran\nNy Saki : https://www.facebook.com/nanynguyen95\nMeena : https://www.facebook.com/meena.soox\n\nGửi mail tham gia diễn viên và đóng góp ý tưởng : ghienmigo@gmail.com\n►Facebook : https://www.facebook.com/GhienMiGo\n►Website : http://www.ghienmigo.com\n►Youtube : http://www.youtube.com/ghienmigo\n\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FgFGlGrIV0A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FgFGlGrIV0A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FgFGlGrIV0A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FgFGlGrIV0A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FgFGlGrIV0A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FgFGlGrIV0A"
+                },
+                "videoOwnerChannelTitle": "Ghiền Mì Gõ",
+                "videoOwnerChannelId": "UCq6ApdQI0roaprMAY1gZTgw"
+            },
+            "contentDetails": {
+                "videoId": "FgFGlGrIV0A",
+                "videoPublishedAt": "2019-12-07T12:25:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6fNb3-Qi6IMOAGrmI8I_lBD6qDA",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2020-01-30T02:30:30Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Khát Vọng Tình Yêu - Tập 1 | Phim Tình Cảm Hay Mới Nhất 2020 | Phim Mới 2020",
+                "description": "Khát Vọng Tình Yêu - Tập 1 | Phim Tình Cảm Hay Mới Nhất 2020 | Phim Mới 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ikQgm4SaaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ikQgm4SaaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ikQgm4SaaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2ikQgm4SaaE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2ikQgm4SaaE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2ikQgm4SaaE"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "2ikQgm4SaaE",
+                "videoPublishedAt": "2019-11-21T03:21:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2GSnchkFgbLNumgJrHpY-AMoZ8M",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2020-02-04T03:14:00Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Karaoke Đứa Bé Tone Nam Nhạc Sống | Trọng Hiếu",
+                "description": "Karaoke Đứa Bé Tone Nam Nhạc Sống | Trọng Hiếu\n❖ Được cấp phép sử dụng tác quyền bởi VCPMC hợp đồng hợp đồng số 0243M/2018/HDHT\nKênh Trọng Hiếu Chúc quý vị và các bạn nghe nhạc vui vẻ!\n────────────────────────────────────────\n➤ HÃY ĐĂNG KÝ (SUBSCRIBE) ĐỂ KHÔNG BỎ LỠ VIDEO MỚI NHẤT NHÉ.\n➤ Like Kênh Chính--https://goo.gl/ipGnQ7\n➤ like Facebook Chính--https://goo.gl/qB62EM\n==================================\n➥ Mọi Chi Tiết Xin Liên Hệ SĐT: 0969627899\n**/// Nếu trong khi videp có xuất hiện quảng cáo, hãy xem hoặc click quảng cáo để ủng hộ chúng tôi ///***\n➥ Video thuộc bản quyền của Trọng Hiếu-Hiếu Organ\nVui lòng không tải lại video của Trọng Hiếu , Xin cảm ơn!\n#karaokeduabe #duabekaraoke #karaoketronghieu\n--KARAOKE LK Lời Thương Lời Nhớ | Nhạc Vàng Hải Ngoại : http://bit.ly/2CPfiz7\n--LIÊN KHÚC CHA CHA CHA HẢI NGOẠI 2018 : http://bit.ly/2t9xt2Z\n-- NHẠC ĐÁM CƯỚI KHÔNG LỜI 2018 | LK THUYỀN HOA   http://bit.ly/2GUBzhc\n--- NHẠC SỐNG REMIX KHÔNG LỜI CỰC HAY | LK TRỮ TÌNH REMIX 2018 : http://bit.ly/2F664QR\n-- Karaoke Nhạc Sống Thôn Quê | Liên Khúc Tuyển Chọn những Bài Dể Hát Nhất :  http://bit.ly/2oAQars\n-- KARAOKE Liên Khúc Nhạc Sống Thôn Quê | Chọn Lọc Hát Mãi Không Chán : http://bit.ly/2F6CFde\n-- Liên Khúc Slowrock || Nhạc Dành Cho Quán Cafe Phòng Trà Hay Nhất   http://bit.ly/2F3brjP\n--Hòa Tấu BOLERO Hải Ngoại | Liên Khúc Hoa Nở Về Đêm   http://bit.ly/2FFt3TT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/piBO_qK-I4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/piBO_qK-I4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/piBO_qK-I4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/piBO_qK-I4Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/piBO_qK-I4Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "piBO_qK-I4Y"
+                },
+                "videoOwnerChannelTitle": "Hiếu Organ",
+                "videoOwnerChannelId": "UCWEYgC77_ZlbDxStQyzOwfA"
+            },
+            "contentDetails": {
+                "videoId": "piBO_qK-I4Y",
+                "videoPublishedAt": "2018-07-06T23:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OUqEWfS5tS-G9-OKsnO2AbPyrwE",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2020-02-04T03:14:37Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Kim Jun See - Quên Anh Trong Từng Cơn Đau (#QATTCD) [Karaoke]",
+                "description": "► Bài hát: Quên Anh Trong Từng Cơn Đau\n► Sáng tác: Lâm Chấn Khang\n--------------------------\n♥ Mọi người đừng quên bấm ĐĂNG KÝ để theo dõi kênh và xem video miễn phí mới và hay nhất nhé.\n✔ Bản quyền thuộc về KARAOKE VIP\n✔ Do not re-upload\n\n#QuenAnhTrongTungConDauKaraoke #KimJunSee",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j6sdG3q4JkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j6sdG3q4JkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j6sdG3q4JkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j6sdG3q4JkU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j6sdG3q4JkU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j6sdG3q4JkU"
+                },
+                "videoOwnerChannelTitle": "KARAOKE VIP",
+                "videoOwnerChannelId": "UC5zXHkybDM7Pnqy4WDiiocw"
+            },
+            "contentDetails": {
+                "videoId": "j6sdG3q4JkU",
+                "videoPublishedAt": "2018-03-15T02:05:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jb8zeCqP8PJtHVtaxmoC1uKHyLQ",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2020-02-05T14:03:53Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "A League of Their Gnome And MORE Pencilmation! | Animation | Cartoons | Pencilmation",
+                "description": "Check out Pencilmation India: https://www.youtube.com/channel/UCCXpCLfBeGp8rd_8d0dLn1w\n\nA League of Their Gnome And MORE Pencilmation!\nTurn on the Notification Bell 🔔🔔🔔\nSubscribe: https://bit.ly/2WEemeI\n\nPencilmation Merchandise:  https://teespring.com/stores/pencilmation\n\n🔔 Watch the NEWEST videos: https://youtube.com/playlist?list=PL86speFaDnhawehjvR4btC8ufYouSUHHg&playnext=1&index=1\n\nFollow Pencilmation on Facebook: https://facebook.com/pencilmation \n\nInstagram: https://www.instagram.com/pencilmation_official/\n\nWatch more Pencilmation: https://www.youtube.com/playlist?list=PL86speFaDnhagELqP49kQiymN1c5W5OqB\n\nPopular Uploads: https://www.youtube.com/playlist?list=PL86speFaDnhaFjpgFDw9CTxSVgnusSdsg\n\nCompilations: https://www.youtube.com/playlist?list=PL86speFaDnhZNowHpRS-Ia_H0JFlX431c\n\nCartoons: https://www.youtube.com/playlist?list=PLAJS1TxRVlMyaor8Q1vUfhCh-zb1znawH\n\n2:56 - MAY THE HORSE BE WITH YOU\nPencilmate sees Pencilmiss with a big, strong horse! Will the pencil give him one too?!\n\n5:21 - SPICE GUYS FINISH LAST\nPencilmate gets three hot peppers shoved down his throat... will he survive??\n\n7:11 - JAIL MOUSE ROCK\nWill this little mouse help Pencilmate ESCAPE from JAIL?!\n\n9:43 - BUZZER BEATER\nPencilmate is trying his best to get rid of the pesky mosquito so why is everyone so mad at him?!\n\n12:22 - A WHOLE NEWTON WORLD\nCan an apple on the head a day keep the doctor away?\n\n15:12 - PIE HARD\nPencilmate can have his cake and eat it too!\n\n16:49 - SIR DANCE-A-LOT\nPencilmate invents the dance of the summer.\n\n19:01 - THE TELL TALE ART\nPencilmate gets a job at an art gallery…\n\n21:18 - SNOW MAN’S LAND\nPencilmate stands in for a snowman.\n\n23:01 - CALL OF THE CHILD\nPencilmate’s baby won’t stop crying. Can The Pencil help?\n\n24:41 - ANT MISBEHAVIN’\nIt all goes down the anthill for Pencilmate…\n\n26:06 - TEETH FOR TWO\nAn unfortunate trick from The Pencil leaves Pencilmate toothless in a gummy affair.\n\n28:14 - MC HAMMER\nA running hammer and a bulky little toon nail it! \n\nABOUT PENCILMATION : \nPencilmation is a web cartoon created by Ross Bollinger in which pencil drawn stick figures and doodles come to life. It is made with love and a lot of fun by an international team helmed by Ross Bollinger who started the channel alone in his room a long time ago. The Pencilmation channel is for not-too-serious grown-ups. Follow the new, wacky, and often times quite silly adventures of Pencilmate, Little Blue Man, Pencilmiss and other doodles. Single episode uploads can be found on this channel every Monday, Wednesday and Friday!\n\nCREDITS FOR A LEAGUE OF THEIR GNOME\n\nProducer - Ross Bollinger\nStory Editor - Joe West\nScript - Jared Woods\nAdditional Ideas - Ama Bollinger, Andrew Martin, Joe West\nSeries Continuity - Ama Bollinger\nSupervisor - Brien Hart\nDirector - Francis Florencio\nStoryboards - Neil Kohney\nPalette - Christine Buccola\nAnimation - Junaid Chundrigar\nBackgrounds - Junaid Chundrigar\nColoring - Junaid Chundrigar\nVoices - Joe Porter, Daphne Garrington\nSound Design - Strelok Audio Design\nMusic - Brendan Cooney\nAnimation Revisions - Mike Campbell\nCompositing - Francis Florencio\nThumbnail Director - Ashlyn Brandenberger\nThumbnail Illustrator - Yury Guzman\nCompilation Editor - Gabby Leung\nProduction Manager - Tess Mendoza\nProduction Coordinator - Greg Pearce, Tyler S. Woll\nProduction Analyst - Cameron Jones\n\n#pencilmation, #animatedshortfilms, #animation, #cartoon, #pencilmate, #pencilmiss #pencilmation, #animatedshortfilms, #animatedcartoonscharacters, #top10animation, #funnyvideos, #comedy, #comedyvideos, #cartoonmovie, #funnyclips, #compilation, #animation, #cartoon, #pencilmate, #pencilmiss, #funnycartoon, #splendidcartoon, #2danimation, #cartoonseries, #newcartoon, #fullepisode, #funnyanimation, #comedy,#compilation",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4gfjXKH0aM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4gfjXKH0aM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4gfjXKH0aM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4gfjXKH0aM8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4gfjXKH0aM8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4gfjXKH0aM8"
+                },
+                "videoOwnerChannelTitle": "Pencilmation Live",
+                "videoOwnerChannelId": "UCw68zxpuQwbAxTqhjvB8ysQ"
+            },
+            "contentDetails": {
+                "videoId": "4gfjXKH0aM8",
+                "videoPublishedAt": "2019-12-06T19:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0YVslAbHY-WiKdqt3rrkwfIC-WU",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2020-02-05T14:04:41Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Suit Yourself And More Animation! | Animation | Cartoons | Pencilmation",
+                "description": "Check out Pencilmation India: https://www.youtube.com/channel/UCCXpCLfBeGp8rd_8d0dLn1w\n\nSuit Yourself And More Animation! Turn on the Notification Bell 🔔🔔🔔 Subscribe: https://bit.ly/2WEemeI\n\nPencilmation Merchandise:  https://teespring.com/stores/pencilmation\n\n🔔 Watch the NEWEST videos: https://youtube.com/playlist?list=PL86speFaDnhawehjvR4btC8ufYouSUHHg&playnext=1&index=1\n\nFollow Pencilmation on Facebook: https://facebook.com/pencilmation \n\nInstagram: https://www.instagram.com/pencilmation_official/\n\nWatch more Pencilmation: https://www.youtube.com/playlist?list=PL86speFaDnhagELqP49kQiymN1c5W5OqB\n\nPopular Uploads: https://www.youtube.com/playlist?list=PL86speFaDnhaFjpgFDw9CTxSVgnusSdsg\n\nCompilations: https://www.youtube.com/playlist?list=PL86speFaDnhZNowHpRS-Ia_H0JFlX431c\n\nCartoons: https://www.youtube.com/playlist?list=PLAJS1TxRVlMyaor8Q1vUfhCh-zb1znawH\n\n3:21 - NO CHESS FOR THE WICKED\nPencilmate just wants a nice, cold soda! How can he get it?\n\n5:54 - I KNOW WHAT YOU DID LAST NUMBER\nPencilmate gets a NUMBER in his fortune cookie!! What does it mean??\n\n8:22 - THE BIG, THE BAD, AND THE PIGGY\nHe'll HUFF and PUFF and BLOW your house down!!\n\n11:07 - CLOSET ENCOUNTERS\nPencilmate KEEPS HIDING more animals and people in the closet!! What's going to happen when Pencilmiss FINDS OUT?!\n\n14:00 - MATHTERPIECE THEATRE\nPencilmate’s math homework meets Alice in Wonderland…\n\n16:20 - REMOTE CONTROLLED\nPencilmate finds the best remote! Until Mini P gets his hands on it.\n\n18:40 - ODORABLE\nPencilmate strikes a fragrant friendship.\n\n20:08 - A FAREWELL TO ALARMS\nPencilmate is sound asleep and it’s driving his alarm clock crazy!\n\n23:34 - TARGET-ME-NOT\nWhen a target decides to switch roles with Pencilmate… bows, spears and a big chase ensue.\n\n25:44 - MAYDAY! MERMAIDAY!\nPencilmate meets the mermaid of his dreams. She can swim, he can row but unfortunately, neither of them can fly… or can they?\n\n28:20 - TURTLES IN TIME\nTime flies when you're having fun!\n\nABOUT PENCILMATION : \nPencilmation is a web cartoon created by Ross Bollinger in which pencil drawn stick figures and doodles come to life. It is made with love and a lot of fun by an international team helmed by Ross Bollinger who started the channel alone in his room a long time ago. The Pencilmation channel is for not-too-serious grown-ups. Follow the new, wacky, and often times quite silly adventures of Pencilmate, Little Blue Man, Pencilmiss and other doodles. Single episode uploads can be found on this channel every Monday, Wednesday and Friday!\n\nCREDITS FOR SUIT YOURSELF!\n\nProducer - Ross Bollinger\nScript - Andrew Martin\nAdditional Ideas - Jared Woods, Joe West, Ama Bollinger\nSeries Continuity - Ama Bollinger\nSupervisor - J.R. Gloyd\nDirector - Arin Scalfo, Sam Johnson\nStoryboards - Dane Georges\nPalette - Antonio Villamandos\nAnimation - Martin Daniels\nColoring - Ariane Lapointe\nVoices - Joe Porter, Daphne Garrington\nSound Design - Strelok Audio Design\nMusic - Brendan Cooney\nAnimation Revisions - Victor Garrido\nCompositing - Mike Campbell\nThumbnail Director - Ashlyn Brandenberger\nThumbnail Illustrator - Bill Premo \nCompilation Editor - Tiffany Kao \nProduction Manager - Tess Mendoza\nProduction Coordinator - Greg Pearce, Tyler S. Woll\nProduction Analyst - Cameron Jones\n\n#pencilmation, #animatedshortfilms, #animation, #cartoon, #pencilmate, #pencilmiss #pencilmation, #animatedshortfilms, #animatedcartoonscharacters, #top10animation, #funnyvideos, #comedy, #comedyvideos, #cartoonmovie, #funnyclips, #compilation, #animation, #cartoon, #pencilmate, #pencilmiss, #funnycartoon, #splendidcartoon, #2danimation, #cartoonseries, #newcartoon, #fullepisode, #funnyanimation, #comedy,#compilation",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cMpJeGqmZqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cMpJeGqmZqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cMpJeGqmZqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cMpJeGqmZqg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cMpJeGqmZqg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cMpJeGqmZqg"
+                },
+                "videoOwnerChannelTitle": "Pencilmation Live",
+                "videoOwnerChannelId": "UCw68zxpuQwbAxTqhjvB8ysQ"
+            },
+            "contentDetails": {
+                "videoId": "cMpJeGqmZqg",
+                "videoPublishedAt": "2019-11-27T19:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RKN_eKMDsoQAmNELl4Jh6AKpsHg",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2020-02-07T01:02:13Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "One Piece Siêu Clip Phần 104 - Những Cuộc Phiêu Lưu Của Luffy Và Băng Mũ Rơm - Đảo Hải Tặc",
+                "description": "▶️ Xem trước One Piece trên Ứng dụng POPS: https://popsapp.onelink.me/PAKN/YTOPNew \n▶️ Đăng ký ủng hộ POPS Anime để xem thêm nhiều bộ Anime mới nhất nhé: https://goo.gl/TWfPrJ\n-----\n* NỘI DUNG DÀNH CHO KHÁN GIẢ TUỔI THANH THIẾU NIÊN\nOne Piece - Đảo Hải Tặc kể về cuộc hành trình của Monkey D. Luffy - thuyền trưởng của băng hải tặc Mũ Rơm và các đồng đội của cậu. Luffy tìm kiếm vùng biển bí ẩn nơi cất giữ kho báu lớn nhất thế giới One Piece, với mục tiêu trở thành tân Vua Hải Tặc.\n► Trọn Bộ One Piece: https://bit.ly/2SUmAfW\n----- - -\n\nXem thêm các bộ phim chiếu trên POPS Anime nhé: \n► Trọn Bộ One Piece: https://bit.ly/2SUmAfW\n► Trọn Bộ Thám Tử Lừng Danh Conan: https://bit.ly/35Q82TE\n► Beyblade Burst - Vòng Xoáy Thần Tốc: https://goo.gl/T721vj\n► Sailor Moon - Thủy Thủ Mặt Trăng: https://bit.ly/2K884Mx\n► Những Cuộc Phiêu Lưu Của Luffy Và Băng Mũ Rơm: https://goo.gl/EWbpKz\n► Dragon Ball - Bảy Viên Ngọc Rồng: https://bit.ly/3b9vaOJ\n► Đảo Hải Tặc Bí Mật Vương Quốc Wano - One Piece Wano Land Arc: https://bit.ly/2XAkCEp\n► Nhật Ký Sống Sót Của Nữ Phụ Phản Diện: https://bit.ly/3gQLrLs\n► Anh Trai Tôi Là Khủng Long - Trọn Bộ Mới Nhất Trên POPS Anime: https://bit.ly/2PKL4pN\n► Bad Luck: https://bit.ly/3iH7unV\n► Trọn bộ Cánh Hoa Trôi Giữa Hoàng Triều: https://bit.ly/37rtFwn\n► Conan Siêu Clip - Tổng hợp Thám tử lừng danh Conan hay nhất: https://bit.ly/2Hi4BNn\n► Quân Đoàn Ếch Xanh: https://bit.ly/2Moq7Dd\n► Kế Hoạch Sống Còn Của Team Thầy Ba: https://bit.ly/3yTAX6R\n► Naruto trên POPS Anime: http://bit.ly/NarutoPOPSAnime\n► Trọn bộ Naruto Shippuden: https://bit.ly/2SxUGsX\n► Beyblade Burst Season 4: https://bit.ly/3mEc0rr\n► Trọn bộ Tiến Sĩ Hoàng Hậu: https://bit.ly/2ZGhj1R",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GfB2LuRc1p0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GfB2LuRc1p0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GfB2LuRc1p0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GfB2LuRc1p0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GfB2LuRc1p0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GfB2LuRc1p0"
+                },
+                "videoOwnerChannelTitle": "POPS Anime",
+                "videoOwnerChannelId": "UCkgdDBHO7zl3tWIjldQeK7g"
+            },
+            "contentDetails": {
+                "videoId": "GfB2LuRc1p0",
+                "videoPublishedAt": "2019-10-03T07:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vtwwQ3m8Dvs9Yv5u7exf3fSoj-E",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2020-02-10T00:17:46Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Sống Cùng Anh Chị Em / 13 Mẹo Vặt! Anh Em Như Thể Tay Chân",
+                "description": "Đăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1 | Bật TẤT CẢ thông báo đẩy 🔔 \nXem video MỚI NHẤT:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nAnh em không phải lúc nào cũng hoà thuận đúng không? Bạn phải làm chủ tình huống! Với những mẹo vặt cuộc sống mới hôm nay, bạn sẽ cùng đùa giỡn và vui cười với các anh chị em.\n\nDụng cụ:\nMáy hút bụi\nTiền lẻ\nPizza \nCoca-cola\nXe đạp\nCần câu cá\nÁo\nBóng bay \nNước \nỔ USB có ảnh để trêu \nDiêm \nBút chì màu đỏ\nNhựa dẻo\n\nMusic:\nTobu - Natural High\nhttp://youtube.com/tobuofficial\n\nTheo dõi Troom Troom:\nĐăng ký: https://www.youtube.com/channel/UC3ZOEebvMhGBRmVvEcvrYKQ?sub_confirmation=1\nInstagram: https://www.instagram.com/troomtroom/\nFacebook: https://www.facebook.com/troomhands\nPinterest: https://pinterest.com/troomtroom/\n\nCác Kênh khác:\nTroom Troom EN: https://www.youtube.com/channel/UCWwqHwqLSrdWMgp5DZG5Dzg?sub_confirmation=1\nTroom Troom ES: https://www.youtube.com/channel/UCu6oyJJ6PlkeNNv6n26ZNyA?sub_confirmation=1\nTroom Troom FR: https://www.youtube.com/channel/UCyNeKmBHI10u4bwYEKimlZA?sub_confirmation=1\nTroom Troom RU: https://www.youtube.com/channel/UCq1JpGFxcZTbbOAz010U-og?sub_confirmation=1\nTroom Troom DE: https://www.youtube.com/channel/UCzgmxZIlgfH1fgch7OpigIA?sub_confirmation=1\nTroom Troom CN: https://www.youube.com/channel/UCV3NWBs2K7pOEGmI4w_2dhg?sub_confirmation=1\nTroom Troom PT: https://www.youtube.com/channel/UCgCQlMYN2XypwYC2wcR32bA?sub_confirmation=1\nTroom Troom JP: https://www.youtube.com/channel/UCPCwT9JMWPjg6xAWrQxhQaw?sub_confirmation=1\nTroom Troom KR: https://www.youtube.com/channel/UClSxH8KQdfytf2raNAByMiA?sub_confirmation=1\nTroom Troom India: https://www.youtube.com/channel/UCwP0n9or789Y33-JNNe-tlA?sub_confirmation=1\nTroom Troom Arabic: https://www.youtube.com/channel/UCyiLrFQqqJDQFOGAQ5pyC9w?sub_confirmation=1\nTroom Troom TR: https://www.youtube.com/channel/UCprQp1WQZzw-ApvQdb31OtQ?sub_confirmation=1\nTroom Troom PL: https://www.youtube.com/channel/UC8_99hNgsYFdPem3EA67HSg?sub_confirmation=1\nTroom Troom IT: https://www.youtube.com/channel/UCQ94FCb9Mnmhxt-H6-7ADcQ?sub_confirmation=1\nTroom Troom TH: https://www.youtube.com/channel/UCZr7drqblTlL3Xr1XvBZxXw?sub_confirmation=1\nTroom Troom Indonesia:  https://www.youtube.com/channel/UCtGmhXT_NSTK5j_r9a9xdYA?sub_confirmation=1\nTroom Troom SELECT: https://www.youtube.com/channel/UCIJ44QRtVGm_gBh_deuL5ow?sub_confirmation=1\n\nXem them Troom Troom:\nVideo mới nhất:  https://www.youtube.com/playlist?list=PL-Uha728z-ZDQcivVi6oLPj8PHbVjAEj4\nPhổ biến nhất: https://www.youtube.com/playlist?list=PL-Uha728z-ZDUJxNltkZAurgVydEzwUqE\n\nVề Troom Troom \nChào mừng bạn đến với kênh YouTube chính thức của Troom Troom! Tại đây, bạn sẽ được xem nhiều video bao gồm các video tự tay làm một cách dễ dàng (Do It Yourself), video quay trở lại trường, các trò đùa vui nhộn, mẹo vặt trong cuộc sống, hướng dẫn làm đẹp và trang điểm, đồ chơi bóp mềm (slime and squishies), thử thách, và nhiều hơn nữa. Đảm bảo đăng ký và bật TẤT CẢ các thông báo để không bao giờ bỏ lỡ video thú vị nào!\n\nVới các yêu cầu liên quan đến kinh doanh, xin vui lòng liên hệ với tôi tại: troomtroomdiy@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C4l4PE4AFzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C4l4PE4AFzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C4l4PE4AFzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C4l4PE4AFzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C4l4PE4AFzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C4l4PE4AFzc"
+                },
+                "videoOwnerChannelTitle": "Troom Troom Vietnam",
+                "videoOwnerChannelId": "UC3ZOEebvMhGBRmVvEcvrYKQ"
+            },
+            "contentDetails": {
+                "videoId": "C4l4PE4AFzc",
+                "videoPublishedAt": "2020-02-07T11:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fSBEkaMQQz0N_hqmfCN19mtjpZQ",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2020-02-11T06:48:05Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Momen Seru Pertandingan Antar Kru Topi Jerami - One Piece",
+                "description": "momen dimana kru topi jerami melakukan pertandingan yang seru dan menarik diatas kapal..\nbeberapa diantaranya adalah pertandingan:\n1. volly nami vs robin (membuat sanji n brook sampai mimisan)\n2. sumo luffy vs usop\n3. sumo luffy vs franky\n\nlet's enjoys..\nJangan lupa like, komen n subscribe yaa..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DTQsY98iDec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DTQsY98iDec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DTQsY98iDec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DTQsY98iDec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DTQsY98iDec"
+                },
+                "videoOwnerChannelTitle": "Den Baguse",
+                "videoOwnerChannelId": "UC4fCchzdPZM7avAJAeO_Tag"
+            },
+            "contentDetails": {
+                "videoId": "DTQsY98iDec",
+                "videoPublishedAt": "2019-03-02T14:59:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AYKs0QQbhKcmwofP-i_SZwYE7RI",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2020-02-11T13:15:54Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3P0JD1g7bxk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3P0JD1g7bxk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LNCgpk0WrLtkG6uoh0oXBWhA7nY",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2020-02-12T03:56:34Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "KIẾN LEO CÂY - Phim Hoạt Hình Hay - Truyện cổ tích - Tổng hợp phim hoạt hình hay",
+                "description": "#hoathinh #phimhoathinh #truyencotich #chuyencotich #muonmaucuocsong \nPhim hoạt hình - Truyện cổ tích - Chuyện cổ tích - Hoạt hình hay\n♥ Chào mừng các bạn đến với kênh Youtube chính thức của Muôn màu cuộc sống\n► Thông qua những thước phim hoạt hình, Chúng tôi muốn gửi gắm đến người xem những câu chuyện bình dị đời thường nhưng mang đầy ý nghĩa sâu xa, hy vọng sẽ mang đến cho các bạn những cung bậc cảm xúc khác nhau khi xem. \nNhững bài học ý nghĩa được rút ra đó là những trải nghiệm sống. Mỗi một câu chuyện mang một ý nghĩa sâu xa về cuộc sống đời thường, những suy nghĩ lắng động qua từng tập phim sẽ mang đến cho bạn những cảm nhận khó quên\nHãy tiếp tục làm nguồn động lực ủng hộ chúng tôi bằng cách Đăng ký - Like - Share - Comment và theo dõi những video mới nhất nhé. Cảm ơn các bạn!!! \n-------------------\nXem thêm :\n ► Tuyển tập phim hoạt hình hay: https://bit.ly/3sRhq3t\n ► Tuyển tập truyện cổ tích: https://bit.ly/3vk72CY\n ► Tuyển tập phim Muôn Màu Cuộc Sống: https://bit.ly/3aEd1uj\n-------------------\n► ĐĂNG KÝ KÊNH: http://goo.gl/C6BkfC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ng3orPtVVIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ng3orPtVVIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ng3orPtVVIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ng3orPtVVIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ng3orPtVVIU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ng3orPtVVIU"
+                },
+                "videoOwnerChannelTitle": "Muôn Màu Cuộc Sống",
+                "videoOwnerChannelId": "UCRE8z9yCm53YYaGmGxSE4Jw"
+            },
+            "contentDetails": {
+                "videoId": "ng3orPtVVIU",
+                "videoPublishedAt": "2020-01-16T03:30:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M3_K6uJTV7BArOaVgfnUDjraXeo",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2020-02-12T05:08:30Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "FAPtv Cơm Nguội: Tập 183 - Trúng Số Độc Đắc",
+                "description": "Tải ngay Bang Bang VNG cùng FapTV - Thách đấu cao thủ toàn thế giới!\n⚔️ Link tải game: https://bangbang.onelink.me/rckQ/b51cdb9\n#BangBangVNG\n-----------------------\n**/// Nếu trong khi xem phim có xuất hiện quảng cáo, hãy xem hoặc click quảng cáo để ủng hộ chúng tôi ///***\n► Đạo diễn: Trần Đức Viễn\n► producer : Trần Long\n► d.o.p : Minh Kiệt\n► 1st ad : Lâm Trần\n► Diễn viên : Vinh Râu, Thái Vũ, Huỳnh Phương, Ribi, Thúy Kiều, Trí Tài, Minh Lộc, Nguyễn Thừa, Trần Long, Trần Đức Viễn, ... Cùng với các bạn diễn viên khác.\n► Kịch Bản: FAP Team\n► Quay phim: Đức Viễn, Duy Phong, Thành Võ, Minh Kiệt \n► Hiện Trường: Hào Wong, Hòa Vũ,Nguyễn Thừa, Sang, Chính Tâm, Đức Duy, Phạm Thuần, Mol\n► Hậu kì : Đức Viễn, Quốc Thanh, Thành Võ, Kim Cương\n► Make Up: Hải Ngân\n► LH quảng cáo: 090 205 6502\n► mail: faptvgroup@gmail.com\nFB:\nđạo diễn:\n► Trần Đức Viễn: https://facebook.com/viengalac\ndiễn viên:\n► Thái Vũ https://www.facebook.com/FAPtv.ThaiVu\n► Vinh Râu https://www.facebook.com/VinhRau.FAP\n► Huỳnh Phương https://facebook.com/HuynhPhuongFAPtv\n► Thúy Kiều: https://facebook.com/ThuyKieu.FAPtv\n► Ribi Sachi https://www.facebook.com/ribisachi\nfap, fap tv, faptv com nguoi, phim hai, phim hài, phim hài mới, phim hai 2018, hai moi nhat, hai huoc, com nguoi, comnguoi\n#FAPTV #Cơmnguội #BangBangVNG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZYClYkzHpQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZYClYkzHpQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZYClYkzHpQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZYClYkzHpQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZYClYkzHpQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZYClYkzHpQI"
+                },
+                "videoOwnerChannelTitle": "FAPTV",
+                "videoOwnerChannelId": "UC0jDoh3tVXCaqJ6oTve8ebA"
+            },
+            "contentDetails": {
+                "videoId": "ZYClYkzHpQI",
+                "videoPublishedAt": "2018-12-07T13:33:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-3PAbF3lZSZ7fI48C9pq1gJh4ys",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2020-02-14T14:39:59Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Hy hữu: Dân chịu thua, bó tay vì đàn trâu lạ chiếm rẫy húc người",
+                "description": "#thoisuthanhnien #phongsuthanhnien #tinnongthanhnien\nMột đàn trâu nhà không được chăm sóc đã biến thành những con trâu rừng hung hãn, sẵn sàng đâm người. Cư dân vùng núi Lâm Đồng bây giờ phải sống trong sợ hãi bởi bất kỳ lúc nào cũng có thể bị trâu húc.\n\nĐăng kí theo dõi kênh để xem những tin tức mới nhất: \n\nhttps://goo.gl/EU2TN2\n\nTin tức báo Thanh Niên - Đọc tin mới online - tin nhanh - tin 24h - thời sự\nKênh YouTube chính thức của Báo Thanh Niên. Đăng kí theo dõi kênh để xem những tin tức mới nhất: \n\nhttps://goo.gl/EU2TN2\n\nWebsite: http://thanhnien.vn/\nFanpage: https://www.facebook.com/thanhnien\n\nYoutube Channel: https://goo.gl/EU2TN2\n\n268 - 270 Nguyễn Đình Chiểu, Phường 6, Q.3, TP HCM \nĐT: (+84.8) 39302302 \nFax: (+84.8) 39309939 \nEmail: tnmedia@thanhnien.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AKIr8MEXRT4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AKIr8MEXRT4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AKIr8MEXRT4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AKIr8MEXRT4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AKIr8MEXRT4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AKIr8MEXRT4"
+                },
+                "videoOwnerChannelTitle": "Báo Thanh Niên",
+                "videoOwnerChannelId": "UCIW9cGgoRuGJnky3K3tbzNg"
+            },
+            "contentDetails": {
+                "videoId": "AKIr8MEXRT4",
+                "videoPublishedAt": "2019-05-09T04:05:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3fTzLq12IsSr8jg2aQJAYRUqovM",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2020-02-19T15:46:04Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Yos hav zoov tua nas noj txiv qhib Part 1",
+                "description": "Hunting squirrel on open season if fun,  Tua nas lom zem kawg thaum nyuam qhuav qhib rau sawv daws tua nas tseem sej sej.  feel free to SHARE,  thanks",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IKRzj-eG4xA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IKRzj-eG4xA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IKRzj-eG4xA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IKRzj-eG4xA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IKRzj-eG4xA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IKRzj-eG4xA"
+                },
+                "videoOwnerChannelTitle": "Zos Hmoob channel",
+                "videoOwnerChannelId": "UCGUAzNA2Xc3Y3N299qeN1Vw"
+            },
+            "contentDetails": {
+                "videoId": "IKRzj-eG4xA",
+                "videoPublishedAt": "2019-08-20T14:35:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "60RHysD170yfUBsUThWDgn2wX3o",
+            "id": "UExEaDBjdFVaazNXNnVvQjJkSkdZQ195TEt5b2NZUDZNYy42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2020-02-26T23:25:06Z",
+                "channelId": "UCL_ohnhWEVwLawz68Y937Ug",
+                "title": "Thử Thách Dùng Hết 10 Triệu Trong 1 Tiếng | 1 Tháng Lương Dùng Trong 1 Tiếng",
+                "description": "Link tải Báo Hay 24H: http://bit.ly/39SXJPG\n\nThử Thách Dùng Hết 10 Triệu Trong 1 Tiếng | 1 Tháng Lương Dùng Trong 1 Tiếng\n\n► Hãy nhấn Like và Chia Sẻ video này để ủng hộ mình nha.\n\n→ Đăng ký kênh Lâm TV của mình nha các bạn: https://goo.gl/RnUcQx (Miễn phí)\n\nFacebook cá nhân:\nhttps://www.facebook.com/vuhuy1990\n\nFanPage Facebook:\nhttps://www.facebook.com/LamVlog\n\n🔰[Vlog No Copyright Music]\nhttps://www.youtube.com/c/vlognocopyrightmusic\n\n🔰[TheFatRat]\nhttps://facebook.com/thisisthefatrat\nhttps://twitter.com/ThisIsTheFatRat\nhttps://instagram.com/thefatratofficial\nhttps://soundcloud.com/thefatrat\nhttps://www.youtube.com/c/thefatrat\n\n🔰 [UXN] \nhttps://soundcloud.com/uxntv\nhttps://www.facebook.com/uxntv\nhttps://www.youtube.com/c/uxntv\nhttp://www.uxnrecords.com\n\n🔰[Kevin MacLeod]\nhttps://incompetech.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lum4CN4zv9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lum4CN4zv9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lum4CN4zv9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lum4CN4zv9Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lum4CN4zv9Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Soan EL",
+                "playlistId": "PLDh0ctUZk3W6uoB2dJGYC_yLKyocYP6Mc",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lum4CN4zv9Y"
+                },
+                "videoOwnerChannelTitle": "Lâm Vlog",
+                "videoOwnerChannelId": "UConnM5zwOP9vG_LPTYbRsAg"
+            },
+            "contentDetails": {
+                "videoId": "lum4CN4zv9Y",
+                "videoPublishedAt": "2020-02-21T13:04:28Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 47,
+        "resultsPerPage": 50
+    }
+}

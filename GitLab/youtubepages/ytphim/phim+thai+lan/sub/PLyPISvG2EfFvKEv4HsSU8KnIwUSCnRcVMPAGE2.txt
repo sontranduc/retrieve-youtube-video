@@ -1,0 +1,1825 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "HylKN5DlKd-6bP97sd7TD5aIHLU",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hqIhtlBc-EJNwq00sThX_FLJ9-I",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Kinh Dị Thái Lan Không Dành Cho Dưới 18+   Chơi Ngãi 4",
+                "description": "#Duynguyen #phimhaimoinhat #phimhongkongmoinhat\n🔰Chào mừng các bạn đã quay lại với kênh Duy Nguyen ❤️❤️❤️\n🔰 Video này không thuộc quyền sở hữu của mình. Mình đăng video chỉ để giải trí, không vì mục đích thương mại mà chỉ muốn quảng bá đến mọi người nhiều bộ phim hay \n🔰 Chúc mọi người xem phim vui vẻ nhớ bấm like và  Đăng Ký ( Subscribe ) để ủng mình có thêm động lực mang về nhiều bộ phim hay cho các bạn \n🔹️Cám ơn các bạn đã theo dõi và đăng ký kênh @Duynguyen\n🔹️Nếu có thắc mắc khiếu nại về bản quyền mong chủ sở hữu liên hệ mình qua \nGmail : henry.nhn1991@gmail.com\nXin cảm ơn!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t5An9I9e9eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t5An9I9e9eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t5An9I9e9eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t5An9I9e9eA"
+                },
+                "videoOwnerChannelTitle": "Nhật Duy Nguyễn Hoàng",
+                "videoOwnerChannelId": "UCYNBqc6bOhNRscNB3H9YJNw"
+            },
+            "contentDetails": {
+                "videoId": "t5An9I9e9eA",
+                "videoPublishedAt": "2020-08-05T09:27:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "njQ5ldv3PUcSdPMMXzEzKF78L98",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "PHIM 18+ THÁI LAN: JAN DARA 1- MẸ KẾ 2001 #18 #thailan #hot #Shorts",
+                "description": "PHIM 18+ THÁI LAN: JAN DARA 1- MẸ KẾ 2001 #18 #thailan #hot #Shorts\nChúc các bạn tìm được những video gợi ý phim hay.\nHãy nhấn thích, chia sẻ và đăng ký kênh giúp mình nhé.\nCảm ơn các bạn đã xem video.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AazhMmcG2tM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AazhMmcG2tM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AazhMmcG2tM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AazhMmcG2tM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AazhMmcG2tM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AazhMmcG2tM"
+                },
+                "videoOwnerChannelTitle": "THẾ GIỚI PHIM",
+                "videoOwnerChannelId": "UCj2ENaMfz9jpYKD_N4e3pKA"
+            },
+            "contentDetails": {
+                "videoId": "AazhMmcG2tM",
+                "videoPublishedAt": "2022-05-19T08:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gJSKrXofJXFQ9WpL244MckWTJtQ",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "TRAI BAO, Mèo Vờn Chuột Chốn PHÒNG THE | Phim Tình Cảm Đặc Sắc",
+                "description": "TRAI BAO, Mèo Vờn Chuột Chốn PHÒNG THE | Phim Tình Cảm Đặc Sắc\n#lachuyen​ #trai_bao #phimtinhcam #ngoaitinh #mèo_vờn_chuột #phòng_the\nĐây là phim ngắn đặc sắc về tâm lý tình cảm của Lạ Chuyện TV. Một thanh niên giúp việc nhà cho bà chủ xinh đẹp, quyến rũ đang tuổi hồi xuân. Điều gì đến cũng sẽ đến, mời các bạn đón xem và ủng hộ thông điệp của Lạ Chuyện nhé!\n------------------------------------------------\nLẠ Chuyện: Kênh sản xuất phim ngắn mang nội dung tình cảm, ý nghĩa và hấp dẫn hàng đầu Việt Nam.\n► Đăng kí kênh: https://bit.ly/2xUkdie​\n► Nhớ Đăng ký, Like và Comment ý kiến đóng góp của bạn nhé\n► Cám ơn tất cả mọi người đã theo dõi và ủng hộ. \n► Chúc bạn xem phim vui vẻ \n🔰 Fanpage: https://www.facebook.com/lachuyen.tivi​\n🔰 Liên Hệ Quảng Cáo: sphinx.ceo@gmail.com \n🔰 Contact: 0982 176 278\n🔰 Nguyễn Nam: https://sum.vn/i3D4s​\n\nĐỐI TÁC ĐỒNG HÀNH:\nBigsouth Media - Chuyên sản xuất phim quảng cáo, phim giới thiệu!\n► https://www.bigsouthmedia.com\nBigsouth Brand - Chuyên thiết kế logo, nhận diện và bao bì chuyên nghiệp!\n► https://www.bigsouthbrand.com\n\n⭐ ☞ ( Don't Forget To Like And Share To Support The Channel !)\n© Copyright by LẠ Chuyện \n☞ Do not Reup ♥",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZCg2yNK-hvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZCg2yNK-hvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZCg2yNK-hvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZCg2yNK-hvU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZCg2yNK-hvU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZCg2yNK-hvU"
+                },
+                "videoOwnerChannelTitle": "LẠ Chuyện",
+                "videoOwnerChannelId": "UCEMfHYEgg1XJ09VicjOw3bA"
+            },
+            "contentDetails": {
+                "videoId": "ZCg2yNK-hvU",
+                "videoPublishedAt": "2021-08-29T12:45:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_drG_vVzxHoRf2p3QX3vzvY4aFo",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "review phim s.e.x ja.v Thái Lan thầy hiệu trưởng gạ giáo viên",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yotXPFzWrFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yotXPFzWrFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yotXPFzWrFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yotXPFzWrFs"
+                },
+                "videoOwnerChannelTitle": "Tổng hợp 1998",
+                "videoOwnerChannelId": "UCNlSD1pkO0qGAuIqevzAPrQ"
+            },
+            "contentDetails": {
+                "videoId": "yotXPFzWrFs",
+                "videoPublishedAt": "2021-10-06T14:16:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uVwx4riQ0KFyoXCRnVfJDR-zJeM",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "EM VỢ GIÚP ANH RỂ GIẢI TỎA N.H.U C.Ầ.U S.I.N.H L.Ý VÀ CÁI KẾT | Full | PHIM TÂM LÝ 2021",
+                "description": "EM VỢ GIÚP ANH RỂ GIẢI TỎA N.H.U C.Ầ.U S.I.N.H L.Ý VÀ CÁI KẾT | Full | PHIM TÂM LÝ 2021\nLịch phát sóng các bộ phim ngắn của kênh Kinh Quốc Entertainment, sẽ được phát sóng định kì vào lúc 19h30 ngày thứ 2, 6 hàng tuần. \n#Phim #phimtamly #phimmoi #phimhay #phimchieurap #phimhai #phimngan #kinhquocentertainment #lếulều #ngoạitình #cáikết #phimmoi2022 #kinhquoc #kinhquoctv #phimnganmoinhat\n\n📌 Subcribe kênh để xem thêm các clip hấp dẫn khác tại: https://goo.gl/NQEwrj\n► Nhớ Đăng ký, Like và Comment ý kiến đóng góp của bạn nhé\n► Cám ơn tất cả mọi người đã theo dõi và ủng hộ. \n\n⭐Xem thêm những video clip hấp dẫn nhất tại : https://www.youtube.com/channel/UC6Jq_ZNGIU0k1P8uC7qcMiA/videos\n⭐Series Mẹ Kế - Cô Hàng Xóm : https://www.youtube.com/playlist?list=PLYtw-AwuhmV1f6XjVOQ2SpXebieSJepI7\n⭐Phim Tâm Lý Đặc Sắc Nhất : https://youtube.com/playlist?list=PLYtw-AwuhmV2xUEOe1z6TLZzT7Tei6QRw\n\n👉 Liên hệ hợp tác, quảng cáo: \n📬 Email: kinhquoc1974@gmail.com\n📎 Quốc Kinh Phạm : http://www.facebook.com/Kinhquocdienvien\n📞 SĐT :  0989 333 780  ( Đạo Diễn Kinh Quốc )\n\nDiễn Viên :\n► Khương Trúc (Kara)\n► Khánh Hằng\n► Bùi Phúc Lộc \n-------------------------------------------------------------------------------------------------------------------------\n© Bản quyền thuộc về Kinh Quốc Entertainment\n© Copyright by Kinh Quốc Entertainment ☞ Do not Reup\n❌ Mọi hành vi sao chép, re-upload có thể dẫn dến việc tài khản của bạn bị khóa vĩnh viễn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h66JrtnnpKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h66JrtnnpKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h66JrtnnpKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h66JrtnnpKo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h66JrtnnpKo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h66JrtnnpKo"
+                },
+                "videoOwnerChannelTitle": "Kinh Quốc Entertainment",
+                "videoOwnerChannelId": "UC6Jq_ZNGIU0k1P8uC7qcMiA"
+            },
+            "contentDetails": {
+                "videoId": "h66JrtnnpKo",
+                "videoPublishedAt": "2021-05-15T12:30:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LgX5E1n9mtJDN5Wd-Tqo-UkPrF0",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "GÁI BÁN HOA (FULL) PHIM CẤM CHIẾU | PHIM HÀNH ĐỘNG HAY NHẤT 2021 [Lẩu Phim]",
+                "description": "GÁI BÁN HOA (FULL) PHIM CẤM CHIẾU | PHIM HÀNH ĐỘNG HAY NHẤT 2021 [Lẩu Phim]\n✔️Ấn đăng ký có ngay phim hay để xem➥http://bit.ly/2PCdlzh\n\nTỔNG HỢP PHIM HÀNH ĐỘNG VÕ THUẬT HAY NHẤT 2020:\n\n✅ĐỘI ĐẶC NHIỆM➥https://bit.ly/34nzloO\n\n✅CHIẾN LANG (ngô kinh)➥https://bit.ly/3nJL0WV\n\n✅HỘI NỮ SÁT THỦ➥https://bit.ly/2CD8E4A\n\n✅PHONG ĐIỂU XUẤT KÍCH (lưu khải uy)➥https://bit.ly/37tdoqs\n\n✅DIỆP VẤN➥https://bit.ly/37vvHeI\n\n✅NỮ THỢ SĂN➥https://bit.ly/3pay3FT\n\n✅ĐỘI VÕ THUẬT TIỀN TRUYỆN➥https://bit.ly/3amVlnz\n\n✅YÊN CHI(triệu lệ dĩnh)➥https://bit.ly/3nvTv7z\n\n✅BIỆT ĐỘI TỔ KÍCH➥https://bit.ly/3p3z1U7\n\n✅HƯỚNG TRẬN ĐỊA MÀ TIẾN LÊN➥https://bit.ly/38kift4\n\n✅ĐẠO MỘ➥https://bit.ly/2LPy1ET\n\n#LẩuPhim\n------------------------------------------------------------------------\nTÊN GỐC➥DIỆP VẤN\n© Bản quyền thuộc về Lẩu Phim và Đối Tác\n© Copyright by Lẩu Phim and Partner☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n6oGeiIx_pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n6oGeiIx_pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n6oGeiIx_pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n6oGeiIx_pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n6oGeiIx_pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n6oGeiIx_pA"
+                },
+                "videoOwnerChannelTitle": "Lẩu Phim",
+                "videoOwnerChannelId": "UC8FP0dPlPBtybikzPvxChTA"
+            },
+            "contentDetails": {
+                "videoId": "n6oGeiIx_pA",
+                "videoPublishedAt": "2021-04-07T12:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yv6ZPpn6Fq1DElRCuliGyON1UmU",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Vợ VẮNG NHÀ , Nửa Đêm Em Rể LẦN ĐẦU Cùng CHỊ VỢ Làm Chuyện THẦM KÍN Bất Ngờ - Phim Ngắn Hay Nhất",
+                "description": "#ngoaitinh #phimngan #chutich #phimnganhaihuoc #gaytv #gaymedia #gayschool #svm #faptv #phimngoaitinh\n\n\n❧      K ê n h  S ả n   X u ấ t  P h i m      ☙\nCuộc sống không phải lúc nào cũng như ta mong muốn, bởi vậy có những lúc bạn sẽ phải trải qua những lúc chán nản bế tắc và mệt mỏi trong cuộc sống vậy nên để chúng mình giúp bạn thay đổi điều đó bằng những video đơn giản và hay nhất nhé!\n---------------------------------------------------------------------\nyêu tv, ngoại tình, vợ ngoại tình,phim ngoại tình, phim ngắn, phim mới, phim hài, phim tình cảm, hài,hài hước, cặp bồ, lén lút, hú hí, cắm sừng, chị dâu, em chồng, chị dâu em chồng, anh rể, em vợ, bố chồng, con dâu, gái xinh, khám phá, bí mật, bất ngờ, bí ẩn\n------------------------------------------------------------------------------\nTham Gia Ngay Group FaceBook Fan Yêu TV: https://bitly.com.vn/h69klo\n✴PAGE YÊU TV: https://bom.to/aL03ux8glJf\n✴YOUTUBE YÊU TV: https:https://bom.to/j55HZ\n✴FB Tuấn: https://bom.to/GZFrj\n✴FB Huyền OK: https://bom.to/xVDFdciJCxL\n✴FB Hùng: https://www.facebook.com/socson.hung\n                    ▬ Liên Hệ Quảng Cáo Mr.Hùng ▬\n✴Gmail: thivanhung91@gmail.com\n✴Bản Quyền ©Thuộc về YÊU TV ® No Copyright...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pTfAJD8M8gQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pTfAJD8M8gQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pTfAJD8M8gQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pTfAJD8M8gQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pTfAJD8M8gQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pTfAJD8M8gQ"
+                },
+                "videoOwnerChannelTitle": "Yêu TV",
+                "videoOwnerChannelId": "UCs5_RFQ6on6d-vo7YAtMhzw"
+            },
+            "contentDetails": {
+                "videoId": "pTfAJD8M8gQ",
+                "videoPublishedAt": "2022-05-30T12:50:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wuLHJfN5VBANU1ehZNK9xiJ6aA4",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Lẻ Cấm Chiếu 2022 | BÀ TRÙM THÁI LAN | Phim Hành Động Xã Hội Đen Mới Nhất | Lồng Tiếng | OneTV",
+                "description": "📌 Tên Phim: HUYỀN THOẠI XÀ THẦN\n\n📌 Tổng Hợp Những Clip Hay: https://www.youtube.com/playlist?list=PLbKXCqr4LidokdSEZ-1eoXD9JUrTJtX5R\n\n📌 Xem Thêm Phim Hay: https://www.youtube.com/channel/UCTGBpkQFCo0ixkj3EGFUVYg/videos\n\n📌 Xem Thêm Phim Hay: https://www.youtube.com/playlist?list=PLbKXCqr4LidrXWFQ4IjXhhnHMmWfFquqQ\n\n📌 Link Trọn Bộ: https://www.youtube.com/playlist?list=PLNKn8ueKfBA8EdusAoUxl422vZWOwkqnV\n\n___________________________ONETV___________________________\nCHÚC CÁC BẠN CÓ NHỮNG PHÚT GIÂY THƯ GIÃN TUYỆT VỜI \n( Đừng quên LIKE, SHARE và SURSCRIBE ủng hộ kênh nhé !!! )\n\n#phimhay #OneTV #phimmoi #huyenthoaixathan #phimle #onfilm #bigtv #chợphim #888tv #trumphim #phimtv #Film4k #phimhanhdong #phimvothuat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EjnAZRAak3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EjnAZRAak3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EjnAZRAak3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EjnAZRAak3I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EjnAZRAak3I"
+                },
+                "videoOwnerChannelTitle": "OneTV",
+                "videoOwnerChannelId": "UCTGBpkQFCo0ixkj3EGFUVYg"
+            },
+            "contentDetails": {
+                "videoId": "EjnAZRAak3I",
+                "videoPublishedAt": "2022-07-31T09:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OYH2yC1wb1PO3Hm7rdnXWJNGPxU",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "PHIM 18+ THAI LAN FLULL HD.Phim cấp 3 mới nhật 2020",
+                "description": "PHIM Hay mỗi ngày",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0-k-XRJ3U6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0-k-XRJ3U6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0-k-XRJ3U6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0-k-XRJ3U6I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0-k-XRJ3U6I"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Mỗi Ngày",
+                "videoOwnerChannelId": "UC0TQc9EXxgkFywVjxt-xaBA"
+            },
+            "contentDetails": {
+                "videoId": "0-k-XRJ3U6I",
+                "videoPublishedAt": "2020-07-02T15:37:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "11qOeTZ3-fs4EsDYYnvROgDUTSo",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Ma Kinh Dị Thái Lan Mới Nhất   CON VỢ MA   Nữ Diễn Viên Chính Cực Xinh Đẹp",
+                "description": "im Ma Kinh Dị Thái Lan Mới Nhất   CÒN VỢ MÀ   Nữ Diễn Viên Chính Cực Xinh Đẹp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oBga-Vks-Lg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oBga-Vks-Lg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oBga-Vks-Lg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oBga-Vks-Lg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oBga-Vks-Lg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oBga-Vks-Lg"
+                },
+                "videoOwnerChannelTitle": "phim kinh dị - phim ma",
+                "videoOwnerChannelId": "UCVB9oqh7t8i_2FeoXeVR0Fg"
+            },
+            "contentDetails": {
+                "videoId": "oBga-Vks-Lg",
+                "videoPublishedAt": "2017-08-01T15:33:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZPvBIPd4jeULufmGBg9fD77ANTo",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Khách \"TÁY MÁY\" với LIM \"MASSAGE\" bị nhận ngay đòn điểm huyệt - nằm bất động chịu trận",
+                "description": "Khách \"TÁY MÁY\" với LIM \"MASSAGE\" bị nhận ngay đòn điểm huyệt - nằm bất động chịu trận | MẬT MÃ HOA HỒNG VÀNG \n▶️ Phim Hành Động 2021: https://bit.ly/30pmd3Y\n▶️ Phim Hình Sự Hành Động Việt Nam: https://bit.ly/30l5kqA\n▶️ Tổng Hợp Phim Hình Sự Hành Động Hay Nhất: https://bit.ly/3nihwS9\n▶️ TRẬN ĐỒ BÁT QUÁI - Trọn Bộ: https://youtu.be/Jcrqf0QUJRg\n▶️ HAI NGƯỜI VỢ - TRỌN BỘ FULL HD: https://bit.ly/hai-nguoi-vo\n▶️ SỐNG ĐỂ CHUỘC LỖI : https://bit.ly/song-de-chuoc-loi\n▶️ TIẾNG CÚ ĐÊM - TRỌN BỘ FULL HD: https://bit.ly/TiengCuDem\n▶️ Bấm để xem full: https://bit.ly/The-Gioi-Phim-Viet \nPhim \"MẬT MÃ HOA HỒNG VÀNG\" là một trong những Phim Bộ Việt Nam, Phim bộ hay nhất thvl, Phim bộ hành động hình sự hay nhất, Phim Bộ Việt Nam hay nhất , mới nhất 2021 có các ngôi sao như Kim Tuyến, Trí Quang, Quốc Huy, Quốc Cường, Hà Kim, Mai Sơn Lâm, .... Bộ phim do đài Truyền Hình Vĩnh Long sản xuất đã đạt được những thành công rực rỡ trong làng phim bộ tâm lý xã hội, gia đình việt nam hay nhất 2021. Chúc các bạn xem phim vui vẻ nhé \n------------------------------------------------------\nPhim truyện Việt Nam: MẬT MÃ HOA HỒNG VÀNG\nThể loại: phim bộ việt nam, phim bộ hành động, hình sự\nSản xuất: THVL\nDiễn viên: Kim Tuyến, Trí Quang, Quốc Huy, Quốc Cường, Hà Kim, Mai Sơn Lâm,..\nLà thành viên trong nhóm của gã giang hồ khét tiếng Hai Đá nhưng Trung và Kỳ “bảnh” lại âm thầm nuôi dưỡng chí hướng riêng bởi họ biết rằng bản thân sẽ không có ngày mai nếu vẫn mưu sinh bằng nghề cướp bóc cũng như tiếp tục nương náu dưới trướng của một kẻ máu lạnh như Hai Đá. Để chuẩn bị cho cuộc thoát ly, Trung nghĩ tới kế hoạch khiến Hai Đá phải ngồi tù bằng cách âm thầm bắn tin cho cảnh sát. Đúng như dự đoán của Trung, Hai Đá bị bắt giam vì những tội lỗi đã gây ra nhưng điều đó không có nghĩa là gia đình nhỏ của Trung có dược sự bình yên như anh hằng mơ ước. Không có Hai Đá nhưng những tên đàn em không kém phần tàn độc của hắn vẫn có cách để khiến Trung phải trả một cái giá rất đắt cho tội danh phản bội… Để rồi sau cuộc thanh trừng không chỉ là cái chết trong đớn đau, uất ức của vợ chồng Trung mà còn là ký ức kinh hoàng đến ám ảnh của hai đứa trẻ khi phải chứng kiến cảnh mẹ chúng bị làm nhục đến chết, là cuộc ly tán không hẹn ngày gặp lại của chị em mồ côi Triết và Trinh. Nhiều năm sau, trong khi Triết được một gia đình giàu có cưu mang với cái tên An Bình thì Trinh cũng bắt đầu kế hoạch trả thù sau khi tìm lại ký ức ngày cũ. Đằng sau vẻ ngoài xinh đẹp ngọt ngào của cô gái vùng biên giới Tây Nam, không ai ngờ ẩn chứa trong Lim là nỗi ám ảnh khôn nguôi về quá khứ đầy bão giông cũng như khát vọng báo thù mãnh liệt. Bằng sự nhẫn nại cùng kiên trì, Lim không gặp quá nhiều khó khăn để lần lượt tìm thấy những kẻ năm xưa đã đẩy gia đình cô vào cảnh tang thương, mất mát, bao gồm cả Hai Đá. Và từ đó, mỗi khi một đóa hoa hồng vàng được đặt xuống, là một vụ trọng án lại bắt đầu. Mang trong lòng nỗi oán hận sâu nặng, suốt nhiều năm tháng, giấc mơ của Lim chỉ gói gọn trong hai chữ “trả thù”. Nhưng sẽ là may mắn hay bất hạnh khi trên con đường tìm kiếm công lý đơn độc đó, Lim gặp gỡ và có được tình yêu của An Khánh - anh nuôi của An Bình, đồng thời cũng là một cảnh sát tài năng được giao trọng trách tìm kiếm “sát thủ hoa hồng vàng”.\nĐằng sau vẻ đẹp rạng ngời của một cô gái là nỗi ám ảnh khôn nguôi về biến cố bão giông trong quá khứ. Và nếu mối tình vừa chớm đó đẹp như một đóa hồng thì tương lai nào sẽ đón đợi mỗi khi hoa hồng vàng được đặt xuống. Với Kim Tuyến, Trí Quang, Quốc Huy, Quốc Cường, Hà Kim, Mai Sơn Lâm, phim truyện Việt Nam: Mật mã hoa hồng vàng được phát sóng lúc 18h trên kênh THVL PHIM\n\n---------------------------------------------------------------\nTải ứng dụng THVLi để xem nhiều hơn:\n     Android: http://bit.ly/THVLi_Android\n     iOS: http://bit.ly/THVLi_iOS\n     hoặc xem trực tiếp trên http://thvli.vn\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn \n                http://www.thvl.vn\nFacebook: https://www.facebook.com/PhimTHVL\nSHARE và SUBSCRIBE các kênh YouTube của Đài Truyền Hình Vĩnh Long \n► THVL Phim: https://www.youtube.com/THVLPhim\n► THVL Giải Trí: https://www.youtube.com/THVLGiaiTri\n► THVL Tổng Hợp: https://www.youtube.com/THVLTongHop\n► THVL Thiếu Nhi: https://www.youtube.com/THVLThieuNhi\n► THVL Ca Nhạc: https://www.youtube.com/THVLCaNhac\n► Truyen Hinh Vinh Long: https://www.youtube.com/VinhLongTV\n► Vinh Long Radio: https://www.youtube.com/VinhLongRadio\n\n-----------------------------------\n#mậtmãhoahồngvàng\n#phimhànhđộngviệtnam2021\n#phimhìnhsựhànhđộnghaynhất2021\n#phimbộhìnhsựViệtNam2021\n#kimtuyến\n#tríquang\n#QuốcHuy\n#QuốcCường\n-----------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Shx7ko4i5vQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Shx7ko4i5vQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Shx7ko4i5vQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Shx7ko4i5vQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Shx7ko4i5vQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Shx7ko4i5vQ"
+                },
+                "videoOwnerChannelTitle": "Thế Giới Phim Việt",
+                "videoOwnerChannelId": "UCx3dq_csKG6aBAvNWcn8Wjg"
+            },
+            "contentDetails": {
+                "videoId": "Shx7ko4i5vQ",
+                "videoPublishedAt": "2021-12-01T14:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1Ul4N6MHKL3UD7_XumlBp6IJo0o",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Vợ Vắng Nhà, Chồng Tranh Thủ Mèo Mả Gà Đồng Với Em Vợ Xinh Đẹp | Phim Thái Lan 2021",
+                "description": "***Các bạn xem thêm Phim Hay:\nPhim Hay 2021: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2021 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2021: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pcLOML0knQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pcLOML0knQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pcLOML0knQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pcLOML0knQc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pcLOML0knQc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pcLOML0knQc"
+                },
+                "videoOwnerChannelTitle": "Best Short Movies",
+                "videoOwnerChannelId": "UCuRWUOyePFyNKvzP0J10OQw"
+            },
+            "contentDetails": {
+                "videoId": "pcLOML0knQc",
+                "videoPublishedAt": "2021-09-30T04:13:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jNX_SDAzpQMGEp-iMrqKzCbOdNo",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Chăm Sóc Em Gái Ốm Yếu :)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HIQZZwqLzvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HIQZZwqLzvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HIQZZwqLzvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HIQZZwqLzvE"
+                },
+                "videoOwnerChannelTitle": "Long Trường CGS",
+                "videoOwnerChannelId": "UCUSDkb5zMMzM84Cbm6ABNKw"
+            },
+            "contentDetails": {
+                "videoId": "HIQZZwqLzvE",
+                "videoPublishedAt": "2021-09-03T16:17:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B1eiRDKOYqeoZkn9s3eZfT7fhWE",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BL_sFmCEz_w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BL_sFmCEz_w"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "10kakFeu3xW4Q1uOAgIhw9mq5_I",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "VAN SON 😊 Thailand | Film Hài  VƯỢT BIÊN GIỚI | Vân Sơn - Bảo Liêm - Viêt Thảo",
+                "description": "😊 SUBSCRIBE nhận video mới nhất từ Trung Tâm Vân Sơn  http://bit.ly/VanSonEntertainment \n➤ Nếu các bạn thích chương trình này, đừng quên COMMENTS, LIKE & SHARE cho người thân quen, cùng nhau thưởng thức nhiều chương trình vui, hay & giá trị. Channel Van Son Entertainment, hơn 300 vở Hài Kịch vui  & 1000 chương trình ca nhạc hay và đầy ý nghĩa, được thực hiện bởi các ca sĩ & các danh hài mà quí vị yêu mến, mang nhiều tiếng cười & kỷ niệm cho nhiều thế hệ. Vân Sơn chúc cho các bạn luôn nhận được mọi sự tốt đẹp trong cuộc sống, luôn hạnh phúc và bình yên bên gia đình và người thân.\n______________________________________________\n📩 CONTACT US for ANY QUESTIONS \n➤ Email: Vansonshow@yahoo.com ➤Tel:1(714) 799 -1566 \n_______________________________________________\n😊 BEST DEALS ONLINE Trọn Bộ DVD Hài - Ca Nhac (Huyền Thoại)\nDVD Live Show Collection http://bit.ly/2J9cX7f\nDVD Hài Collection http://bit.ly/38pP3lR\nCD Music Collection https://bit.ly/2Jmoe8x\n________________________________________________\n😊 Chương trình video mới \n1. 2022 Winnebago View 24D Class C Walkthrough - Part 1 ( After 1 year ) | Sau khi chạy 1 năm Vân Sơn chia sẻ những gì thích & những gì không thích. Nếu bạn nào có ý định chơi xe RV nên xem trước khi mua  https://youtu.be/xPjLAJeCE0w\n2. 2022 Winnebago View 24D Walkthrough (After 1 Year)- Part 2 | Nhận Xét Toàn Cảnh Bên Trong Sau 1 Năm  https://youtu.be/RBA1g12Ba6I\n3. RV Road Trip Across USA  | Vân Sơn Du Lịch Xuyên Nước Mỹ   https://youtube.com/playlist?list=PL47j6zBogoE1zRVrwZo_K75yCVi9co9_0\n4. Vân Sơn Chia Sẽ bình luận fans & Nấu Ăn  https://youtube.com/playlist?list=PL47j6zBogoE099yTRZweZfkU_PwpFWirb\n5. Chương Trình Ca Nhạc https://www.youtube.com/c/VanSonBolero\n6. Videos  Hài huyền thoại http://bit.ly/VanSonEntertainment\n7. Du Lịch 63 Tĩnh Thành Việt Nam  https://youtube.com/playlist?list=PL47j6zBogoE1vneIvCrFP-qiOlJEpq4Y5\n_______________________________________________\n😊 FOLLOW VAN SON ENTERTAINMENT on SOCIAL MEDIA \nVan Son YouTube  http://bit.ly/VanSonEntertainment\nVan Son Food & Travel  https://www.youtube.com/c/VanSonFoodTravel\nVan Son Music https://www.youtube.com/c/VanSonBolero\nVan Son Facebook https://www.facebook.com/VanSonShow\n________________________________________________\n©VAN SON ENTERTAINMENT, INC. ALL RIGHTS RESERVED ⚠ DO NOT RE-UPLOAD\n➤Tất Cả video trên Vân Sơn YouTube Channel, đã được Trung Tâm Vân Sơn đăng ký bản quyền với YouTube Channel. Rất mong các bạn, không sao chép HOẶC re-upload dưới mọi hình thức.\n________________________________________________\n😊 Vân Sơn chân thành cảm ơn sự hợp tác & ủng hộ các bạn trong suốt thời gian qua.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nftVsUBrwDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nftVsUBrwDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nftVsUBrwDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nftVsUBrwDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nftVsUBrwDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nftVsUBrwDY"
+                },
+                "videoOwnerChannelTitle": "Van Son",
+                "videoOwnerChannelId": "UCtH2Zug6bEpkxLhnoervTQw"
+            },
+            "contentDetails": {
+                "videoId": "nftVsUBrwDY",
+                "videoPublishedAt": "2018-02-11T05:59:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "feAe7ChwEljcQdKTLbu6DU2nrew",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Kinh Dị Thái Lan - Chơi Ngãi Rắn",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tU_vO2G2VtE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tU_vO2G2VtE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tU_vO2G2VtE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tU_vO2G2VtE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tU_vO2G2VtE"
+                },
+                "videoOwnerChannelTitle": "KaKa Nguyên",
+                "videoOwnerChannelId": "UCIEwJEu-67AbTf6Z-zcfiCA"
+            },
+            "contentDetails": {
+                "videoId": "tU_vO2G2VtE",
+                "videoPublishedAt": "2017-11-17T14:15:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qVekinuwLNU99pyghKHNNuQbhZk",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Học sinh cấp 3 NGÂY THƠ đến nhà bạn chơi mất luôn ĐỜI CON GÁI | Phim Việt Nam Mới Hay Nhất 2022",
+                "description": "Học sinh cấp 3 NGÂY THƠ đến nhà bạn chơi mất luôn ĐỜI CON GÁI | Phim Việt Nam Mới Hay Nhất 2022\nĐăng kí kênh để không bỏ lỡ những bộ phim hay, hấp dẫn đến từng giây nhé:\n👉 https://bit.ly/MePhimViet\nXem Trọn bộ Phim Việt Nam Canh Bạc Tình Yêu tại:\n👉 https://bit.ly/CanhBacTinhYeu2021\nXem phim Tiếng sét trong mưa tại:\n👉 https://bit.ly/BestTiengSetTrongMua\nXem Phim Trận Đồ Bát Quái tại:\n👉 https://bit.ly/TranDoBatQuaiFull\nList Phim Tâm lý tình cảm Việt Nam hay nhất 2021 tại: \n👉 https://bit.ly/PhimTamlyTinhcamVN\n\nMÊ PHIM VIỆT là Kênh giải trí thuần Việt dành riêng cho các tín đồ yêu phim Việt. Với các bộ phim hay, đặc sắc đã và đang được phát sóng trên Truyền hình Vĩnh Long, trải dài khắp các thể loại: Phim tình cảm, phim tâm lý xã hội, phim hình sự,… MÊ PHIM VIỆT hứa hẹn sẽ mang đến cho khán giả những phút giây thư giãn sảng khoái sau những giờ học tập, làm việc căng thẳng.\n\n► Các bộ phim đặc sắc do Đài Phát Thanh Truyền Hình Vĩnh Long giữ bản quyền và phát hành dưới mọi hình thức trên toàn lãnh thổ Việt Nam và trên các hạ tầng internet. \n► Không được đăng tải lại dưới bất kỳ hình thức nào nếu chưa có sự cho phép của Đài Phát Thanh Truyền Hình Vĩnh Long . Kênh YouTube \"Mê Phim Việt\" thuộc hệ thống các Kênh Youtube của Đài Phát Thanh Truyền hình Vĩnh Long giới thiệu những bộ phim truyền hình đã phát sóng có bản quyền của Đài Phát Thanh Truyền hình Vĩnh Long.\n \n® Bản quyền thuộc về THVL - Do not Reup!\n\n#PhimViệtNam\n#PhimViệtNamHayNhất\n#PhimTHVL\n#PhimViệtNamTHVL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FwU727k93ZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FwU727k93ZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FwU727k93ZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FwU727k93ZI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FwU727k93ZI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FwU727k93ZI"
+                },
+                "videoOwnerChannelTitle": "Mê Phim Việt",
+                "videoOwnerChannelId": "UCltOANXKL8wMHaf6ffFDRow"
+            },
+            "contentDetails": {
+                "videoId": "FwU727k93ZI",
+                "videoPublishedAt": "2022-02-24T10:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3zqemVuh-7Lxcgf1T0ZRNW0J5X8",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Em gái nhỏ xinh NHỊN NHỤC làm \"VẬT CƯNG\" thỏa mãn tên giang hồ BIẾN THÁI để trả thù | Thế Lực Ngầm",
+                "description": "Em gái nhỏ xinh NHỊN NHỤC làm \"VẬT CƯNG\" thỏa mãn tên giang hồ BIẾN THÁI để trả thù | Thế Lực Ngầm\nĐăng kí kênh để không bỏ lỡ những bộ phim hay, hấp dẫn đến từng giây nhé:\n👉 https://bit.ly/MePhimViet\nXem Trọn bộ Phim Việt Nam Canh Bạc Tình Yêu tại:\n👉 https://bit.ly/CanhBacTinhYeu2021\nXem phim Tiếng sét trong mưa tại:\n👉 https://bit.ly/BestTiengSetTrongMua\nXem Phim Trận Đồ Bát Quái tại:\n👉 https://bit.ly/TranDoBatQuaiFull\nList Phim Tâm lý tình cảm Việt Nam hay nhất 2021 tại: \n👉 https://bit.ly/PhimTamlyTinhcamVN\n\nMÊ PHIM VIỆT là Kênh giải trí thuần Việt dành riêng cho các tín đồ yêu phim Việt. Với các bộ phim hay, đặc sắc đã và đang được phát sóng trên Truyền hình Vĩnh Long, trải dài khắp các thể loại: Phim tình cảm, phim tâm lý xã hội, phim hình sự,… MÊ PHIM VIỆT hứa hẹn sẽ mang đến cho khán giả những phút giây thư giãn sảng khoái sau những giờ học tập, làm việc căng thẳng.\n\n► Các bộ phim đặc sắc do Đài Phát Thanh Truyền Hình Vĩnh Long giữ bản quyền và phát hành dưới mọi hình thức trên toàn lãnh thổ Việt Nam và trên các hạ tầng internet. \n► Không được đăng tải lại dưới bất kỳ hình thức nào nếu chưa có sự cho phép của Đài Phát Thanh Truyền Hình Vĩnh Long . Kênh YouTube \"Mê Phim Việt\" thuộc hệ thống các Kênh Youtube của Đài Phát Thanh Truyền hình Vĩnh Long giới thiệu những bộ phim truyền hình đã phát sóng có bản quyền của Đài Phát Thanh Truyền hình Vĩnh Long.\n \n® Bản quyền thuộc về THVL - Do not Reup!\n\n#PhimViệtNam\n#PhimViệtNamHayNhất\n#PhimTHVL\n#PhimViệtNamTHVL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WAR-0o2R8tw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WAR-0o2R8tw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WAR-0o2R8tw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WAR-0o2R8tw"
+                },
+                "videoOwnerChannelTitle": "Mê Phim Việt",
+                "videoOwnerChannelId": "UCltOANXKL8wMHaf6ffFDRow"
+            },
+            "contentDetails": {
+                "videoId": "WAR-0o2R8tw",
+                "videoPublishedAt": "2022-02-18T04:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3UK_rDWYEtS_FYqYQrdC2O0yI9o",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Cơn Khát Tình Yêu - Tập 1 | Phim Tình Cảm Thái Lan Hay Nhất 2021 | Phim Thái Lan Thuyết Minh",
+                "description": "***XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3nl36zp\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eb4xMOiNa8k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eb4xMOiNa8k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eb4xMOiNa8k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eb4xMOiNa8k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eb4xMOiNa8k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eb4xMOiNa8k"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "eb4xMOiNa8k",
+                "videoPublishedAt": "2021-10-22T04:12:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MS8LDkTijCfIMC71fdYXppf_wH8",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Hứa Là Chỉ Nhìn Thôi Nào Ngờ Tên Thái Tử Lại Đoạt Luôn Vợ Hoàng Thượng | Mọt Phim Hay",
+                "description": "❖Trích đoạn: Hứa Là Chỉ Nhìn Thôi Nào Ngờ Tên Thái Tử Lại Đoạt Luôn Vợ Hoàng Thượng\n❖Trích những đoạn hay nhất: https://bit.ly/2G4DqW7\n❖Trọn bộ Tùy Đường Diễn Nghĩa: https://bit.ly/3avWR4M\n❖Diễn Viên: Nghiêm Khoan, Bạch Băng, Trương Hàn, Vương Lực Khả, Dalong Fu\n❖ Đăng ký kênh để đón xem những clip phim mới các bạn nhé !\n\n#PhimMới2021 #Phimhay2021 @MỌT PHIM TV  #motphimhay #TùyĐườngDiễnNghĩa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N87hpPl5GE4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N87hpPl5GE4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N87hpPl5GE4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N87hpPl5GE4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N87hpPl5GE4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N87hpPl5GE4"
+                },
+                "videoOwnerChannelTitle": "MỌT PHIM HAY",
+                "videoOwnerChannelId": "UCwA1tWFLrkJpZRiwG_P68Gg"
+            },
+            "contentDetails": {
+                "videoId": "N87hpPl5GE4",
+                "videoPublishedAt": "2021-01-11T09:46:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "os8VcHkTN7hzBgm5P8kiVDEClCU",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Em Vợ Xinh Đẹp Bị Anh Rể ÚP SỌT Có Bầu, Chị Gái Tìm Đến Đánh GHEL | Phim Thái Lan 2021",
+                "description": "***Các bạn xem thêm Phim Hay:\nPhim Hay 2021: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2021 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2021: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BgVPn3Cyo8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BgVPn3Cyo8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BgVPn3Cyo8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BgVPn3Cyo8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BgVPn3Cyo8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BgVPn3Cyo8o"
+                },
+                "videoOwnerChannelTitle": "Best Short Movies",
+                "videoOwnerChannelId": "UCuRWUOyePFyNKvzP0J10OQw"
+            },
+            "contentDetails": {
+                "videoId": "BgVPn3Cyo8o",
+                "videoPublishedAt": "2021-09-14T09:11:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gX5eEwGBOW2X9dMQROlSf17JLpw",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Thái Lan 2022 Mới Nhất | Yêu Gái Hư Hỏng - Tập 1 | Phim Tình Cảm Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3zffKHs\n***CÁC BẠN XEM THÊM: https://bit.ly/3R9mTjn\nPHIM NGẮN MỚI NHẤT: https://bit.ly/3ETCjBy\nPhim Hay 2021: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2021 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2021: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HvJfGda3Mxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HvJfGda3Mxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HvJfGda3Mxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HvJfGda3Mxg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HvJfGda3Mxg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 71,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HvJfGda3Mxg"
+                },
+                "videoOwnerChannelTitle": "Best Short Movies",
+                "videoOwnerChannelId": "UCuRWUOyePFyNKvzP0J10OQw"
+            },
+            "contentDetails": {
+                "videoId": "HvJfGda3Mxg",
+                "videoPublishedAt": "2022-07-18T02:38:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AZruDtKCcQhcSZGjPGNXX3gcH64",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "BÀ TRÙM THÁI LAN | Phim Hành Động Võ Thuật Hay Nhất | Kiếm Hiệp Hay",
+                "description": "BÀ TRÙM THÁI LAN | Phim Hành Động Võ Thuật Hay Nhất | Kiếm Hiệp Hay\n\n📌  Tên Phim: TRUY KÍCH THÁI DƯƠNG\n\n📌  Xem Thêm Phim Hay Khác: https://www.youtube.com/watch?v=zyjKDWdmrk4&list=PLY_asxJw-XJnSJbMgE2Ihd9lQh3lQPOF4&index=1&t=220s&ab_channel=Ki%E1%BA%BFmHi%E1%BB%87pHay\n\n📌  Tuyển Tập Những Clip Hay: https://youtube.com/watch?v=JlZgyTpcB-I&list=PLY_asxJw-XJmFXiPNCyJNN7uqkad2HFoh\n\n📌  Xem Trọn Bộ: https://youtube.com/playlist?list=PLNKn8ueKfBA8gf5J3mq0SxVeGyhT6gZiN\n\n_______________________KIẾM HIỆP HAY________________________\nCHÚC CÁC BẠN CÓ NHỮNG PHÚT GIÂY THƯ GIÃN TUYỆT VỜI \n    ( Đừng quên LIKE, SHARE và SURSCRIBE ủng hộ kênh nhé !!! )\n\n#kiemhiephay #BaTrumThaiLan #phimle #phimhay #phimmoi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/efvEOKC1-rU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/efvEOKC1-rU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/efvEOKC1-rU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 72,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "efvEOKC1-rU"
+                },
+                "videoOwnerChannelTitle": "Kiếm Hiệp Hay",
+                "videoOwnerChannelId": "UCnSs1c5P6lMMKUME5aZApiw"
+            },
+            "contentDetails": {
+                "videoId": "efvEOKC1-rU",
+                "videoPublishedAt": "2022-03-07T12:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cJrWjS3EnA0rBDO02HswfV5QrC8",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Gái Giang Hồ Lần Lượt Phơi Mình Cho Các Đại Ca Hưởng Thụ Để Nắm Trùm Địa Bàn Thái Lan | Phim Khủng",
+                "description": "👉 Xem trọn bộ : https://www.youtube.com/watch?v=sUPBeSe45zo&t=1s&ab_channel=PhimTV\n👉 Link Tổng Hợp Trọn Bộ phân đoạn hay : https://www.youtube.com/playlist?list=PLo2P6sYY8pOLaScglyVkBxjfuLDYp76pn\n👉 Tổng hợp những phân đoạn phim hay nhất : https://www.youtube.com/c/PhimKh%E1%BB%A7ng/playlists\n❖ Tên phim : Truy Kích Thái Dương - Phim Hành Động Xã Hội Đen Mới Nhất\n\n© Vui lòng không sao chép, re-upload dưới bất kỳ hình thức nào \n📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n\n-------------------------------------------ⓅⒽⒾⓂ----------------------------------------------------\n#PhimKhung #TruyKichThaiDuong #PhimHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JEPzOTe8bJc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JEPzOTe8bJc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JEPzOTe8bJc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JEPzOTe8bJc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JEPzOTe8bJc"
+                },
+                "videoOwnerChannelTitle": "Phim Khủng",
+                "videoOwnerChannelId": "UCkoVSTRRJAgGYm35C8s7Bvg"
+            },
+            "contentDetails": {
+                "videoId": "JEPzOTe8bJc",
+                "videoPublishedAt": "2021-09-30T02:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-1mXK2IrQww_hIZGmkMFUPG7fgc",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "ĐỘT KÍCH SEOUL [Thuyết Minh] | Phim Võ Thuật Hành Động Kinh Điển Nhất",
+                "description": "Phim Võ Thuật Hành Động Kinh Điển Nhất Thuyết Minh | ĐỘT KÍCH SEOUL.\nĐặc vụ Lam hợp tác với JJ để theo dõi một cặp đĩa được sử dụng để làm giả đô la Mỹ . Khi những chiếc đĩa bị bắt và lên đường đến Hàn Quốc, Lam lên máy bay và tìm kiếm những chiếc đĩa ở Seoul , theo dõi một người đàn ông mà anh tin rằng đã đánh cắp chúng. Trong cuộc đi săn, anh ta tình cờ gặp JJ, người tình cờ là một tên trộm với một kế hoạch ẩn. Khi JJ nghĩ rằng cô ấy đã thành công với những chiếc đĩa, cô ấy không nhận ra rằng Lam đã đánh lừa cô ấy bằng cách hoán đổi nó với một chiếc hộp rỗng...\n\n#phimvõthuật #phimchiếurạp #phimhànhđộng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eXiggNnv4QA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eXiggNnv4QA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eXiggNnv4QA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eXiggNnv4QA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eXiggNnv4QA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 74,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eXiggNnv4QA"
+                },
+                "videoOwnerChannelTitle": "Like Movies",
+                "videoOwnerChannelId": "UCWDfO46yvUbLudW99_rVTBg"
+            },
+            "contentDetails": {
+                "videoId": "eXiggNnv4QA",
+                "videoPublishedAt": "2021-01-03T12:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eyQmG_kliF3yA8V3VFgO4S8Cd8c",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "OSIN \" LẾU LỀU \" VỚI ÔNG CHỦ VÀ CÁI KẾT | Bản Full | Phim Tâm Lý Hài Huớc 2021",
+                "description": "OSIN \" LẾU LỀU \" VỚI ONG CHỦ VÀ CÁI KẾT | Bản Full | Phim Tâm Lý Hài Huớc 2021\n\nLịch phát sóng các bộ phim ngắn của kênh Kinh Quốc Entertainment, sẽ được phát sóng định kì vào lúc 19h30 ngày thứ năm hàng tuần. Mọi người ủng bộ bằng cách nhấn:\n\nSubscribe/Đăng ký kênh: https://goo.gl/NQEwrj\n\nXem thêm những video clip hấp dẫn nhất tại : https://www.youtube.com/channel/UC6Jq_ZNGIU0k1P8uC7qcMiA/videos\n#SepTong #ngoaitinh #VoSepTong #Osin #leuleu #caiket #chutich\nCảm ơn các bạn đã xem video của chúng tôi !\n► Liên hệ hợp tác, quảng cáo: \n✔ Email: kinhquoc1974@gmail.com\n✔ Quốc Kinh Phạm : http://www.facebook.com/Kinhquocdienvien\n\nDiễn Viên :\n► Trọng Hiếu : https://www.facebook.com/dv.tronghieu\n► Lâm Bảo Ngân : https://www.facebook.com/lam.baongan.750\n► Bình Cô Nương : https://www.facebook.com/leo.socute.7\n► Sen Nguyễn ( DJ M'Pon ) : https://www.facebook.com/djmpons\r\n-------------------------------------------------------------------------------------------------------------------------\r\n© Bản quyền thuộc về Kinh Quốc Entertainment\r\n© Copyright by Kinh Quốc Entertainment ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jpPUyjJH0aA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jpPUyjJH0aA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jpPUyjJH0aA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jpPUyjJH0aA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jpPUyjJH0aA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 75,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jpPUyjJH0aA"
+                },
+                "videoOwnerChannelTitle": "Kinh Quốc Entertainment",
+                "videoOwnerChannelId": "UC6Jq_ZNGIU0k1P8uC7qcMiA"
+            },
+            "contentDetails": {
+                "videoId": "jpPUyjJH0aA",
+                "videoPublishedAt": "2021-03-03T12:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kIwKZs-sBfmUAjDMTPFKSp4-fIE",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Lợi dụng NGƯỜI TÌNH NGỦ SAY, Đại Ca Giang Hồ liền bay vào phòng GÁI QUÊ MẦN ĂN ngay và luôn | THVL",
+                "description": "Lợi dụng NGƯỜI TÌNH NGỦ SAY, Đại Ca Giang Hồ liền bay vào phòng GÁI QUÊ MẦN ĂN ngay và luôn | THVL\n► Phim Hành Động Bảy Lá Bài Hot Nhất 2022: https://www.youtube.com/watch?v=TepQjsNzA8I&list=PLmQvvC0lwpeQwmscgYBGmQRASGclhFVvO\n► Phim Tết 2022 - Hương Đồng Nội hay nhất:https://www.youtube.com/watch?v=69YZ1iIe8hY&list=PLmQvvC0lwpeQNTEcmu8aELuZ2Aa12OPdI&index=1\n► NHỮNG NÀNG BẦU HÀNH ĐỘNG Hay Nhất 2021: https://www.youtube.com/watch?v=Mj-AMhT33GI&list=PLmQvvC0lwpeRDP7rLK7NViTWAPTaWrYrW&index=1\n► Phim Hot 2021 CHỈ LÀ ẢO ẢNH Trọn Bộ : https://www.youtube.com/watch?v=Iu765JQJSaA&list=PLmQvvC0lwpeQgaJwRloR6z0rg_8JjWcLL\n► SỐNG TRONG BÓNG ĐÊM Trọn Bộ Siêu Hay: https://www.youtube.com/watch?v=Dh5GjgY1Kyg&list=PLmQvvC0lwpeR6EGh__HFg-I0NRl6Bvw53\n► KHU VƯỜN BÍ ẨN - Phim Kinh Dị Siêu Hay: https://www.youtube.com/watch?v=-4EodCvvsl0&list=PLmQvvC0lwpeSkgIX9kas8VyDhqpiek5FP\n► Trọn Bộ VẾT THÙ NĂM THÁNG Siêu Hay: https://www.youtube.com/watch?v=wHx2f3E1hIk&list=PLmQvvC0lwpeSC6k5xMuvXY8IyqWnIOhGy\n► Những phân cảnh siêu hot của CANH BẠC TÌNH YÊU THVL: https://www.youtube.com/watch?v=7Ear8n0HuU0&list=PLmQvvC0lwpeQ7OZeRygI__7KRJv70aQj9\n► Xem Trọn bộ Phim GIỮA HAI BỜ THIỆN ÁC: https://www.youtube.com/watch?v=9GUN80oHCCg&list=PLmQvvC0lwpeT6sW6aTT9KptWXNB5XGla1\n►  Đăng kí kênh để xem nhiều bộ phim Việt hay nhất: https://bit.ly/phimvietgiovang\n------------------------------------------------------------------------------------------------------------------------------\n------------------------------------------------------------------------------------------------------------------------------\nPHIM VIỆT GIỜ VÀNG - Kênh Giải Trí chuyên phim Việt dành cho mọi gia đình với những bộ phim truyền hình đặc sắc sẽ được chiếu ở khung giờ vàng của kênh, đa dạng các thể loại: tình cảm lãng mạn, tâm lý xã hội, hành động, hài,...\n\n► Các bộ phim đặc sắc do Đài Phát Thanh Truyền Hình Vĩnh Long giữ bản quyền và phát hành dưới mọi hình thức trên toàn lãnh thổ Việt Nam và trên các hạ tầng internet. \n► Không được đăng tải lại dưới bất kỳ hình thức nào nếu chưa có sự cho phép của Đài Phát Thanh Truyền Hình Vĩnh Long . \nKênh YouTube PHIM VIỆT GIỜ VÀNG thuộc hệ thống các Kênh Youtube của Đài Phát Thanh Truyền hình Vĩnh Long, giới thiệu những bộ phim truyền hình đã phát sóng có bản quyền của Đài Phát Thanh Truyền hình Vĩnh Long.\n------------------------------------------------------------------------------------------------------------------------\n#ThếLựcNgầm\n#PhimVietNamHayNhat\n#PhimViệtGiờVàng\n#PhimViệtNamHay2022\n\n© Bản quyền thuộc về Phim Việt Giờ Vàng. Vui lòng không đăng tải lại dưới bất kì hình thức nào.\n© Copyright by Phim Việt Giờ Vàng ☞ Do not Reup!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CdCAXt2ePhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CdCAXt2ePhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CdCAXt2ePhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CdCAXt2ePhI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CdCAXt2ePhI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 76,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CdCAXt2ePhI"
+                },
+                "videoOwnerChannelTitle": "Phim Việt Giờ Vàng",
+                "videoOwnerChannelId": "UC1K9R0YwYrp7auy6fPbnnIQ"
+            },
+            "contentDetails": {
+                "videoId": "CdCAXt2ePhI",
+                "videoPublishedAt": "2022-02-11T05:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "45cnyX7RwS5yJwu2DtfH7Qz28Jk",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Mới 2022 | Yêu Thầm Bạn Thân - Tập 1 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3ahr1wO\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x6BBjQ8ewCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x6BBjQ8ewCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x6BBjQ8ewCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x6BBjQ8ewCI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x6BBjQ8ewCI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 77,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x6BBjQ8ewCI"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "x6BBjQ8ewCI",
+                "videoPublishedAt": "2022-05-30T02:12:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8oewZ20kJfR3DtD-PLVSu8rDsQ0",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Gái Ngàn Đô - Chuyện thâm cung bí sử trong lò luyện “gái ngành” cao cấp | Mùa 1 - Tập 3",
+                "description": "Tụi ma cô trừng phạt ba cô gái. Thanh Mỹ rơi vào mối quan hệ “nửa tình yêu nửa tình dục”\n\nChuyển thể từ truyện “GÁI ZALO” của nhà văn Bùi Ngọc Phúc, \"GÁI NGÀN ĐÔ\" kể về cuộc đời của Thanh Mỹ, Mộc Lam và Thuận Hương - 3 con gà đẻ trứng vàng trong \"đế chế\" mại dâm cao cấp bạc tỷ. Sang chảnh, quyến rũ và nhận về bạc triệu sau mỗi cuộc vui, thế nhưng đằng sau đó là một đường dây chằng chịt, khốc liệt của giới xã hội đen và số phận khủng khiếp, bi thương mà các cô gái vàng \"trong ngành\" phải trả.\n\nĐạo diễn: Bùi Huy Thuần\nDiễn viên: Bảo Anh, Doãn Quốc Đam, Quỳnh Lương, Lương Ánh Ngọc, Ngọc Anh, Ngọc Quỳnh, Minh Cúc,...\n\n----------\n\"GÁI NGÀN ĐÔ\" mùa 1 trọn bộ 8 tập, ĐỘC QUYỀN trên Galaxy Play. Tải app xem ngay!\nĐăng ký và xem trọn bộ tại: https://bit.ly/2GNHcTB\n\n#GNĐ #gaingando #phimbodocquyengalaxyplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DLSX23IbvcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DLSX23IbvcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DLSX23IbvcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DLSX23IbvcA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 78,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DLSX23IbvcA"
+                },
+                "videoOwnerChannelTitle": "Galaxy Play - Giải Trí Hay, Đậm Chất Việt   ",
+                "videoOwnerChannelId": "UCoOHTQr1k_9zBjh9D81RpsA"
+            },
+            "contentDetails": {
+                "videoId": "DLSX23IbvcA",
+                "videoPublishedAt": "2020-11-30T03:11:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "unq9PkCWZSA-tM6_HVH1NRJlnuM",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "PHIM TIẾNG THÁI l SIÊU PHẨM NGOẠI TÌNH ( ỈN CHỤ ) l tập 1 l tây bắc 26 l hài hước nhất 2021",
+                "description": "Mọi người xem phim nhớ like đăng ký kênh ủng hộ nhé\n\n\n#phimtiengthai\n\n#taybac26\n\nSđt 0358059970\n\n\nBản quyền thuộc về kênh tây bắc 26\n\nChúc các bạn xem phim vui vẻ\n\nPhim hài hước nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zSR_5oU1XPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zSR_5oU1XPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zSR_5oU1XPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zSR_5oU1XPs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 79,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zSR_5oU1XPs"
+                },
+                "videoOwnerChannelTitle": "tây bắc 26",
+                "videoOwnerChannelId": "UCB815kt_vvBdk4NbNK6NXRg"
+            },
+            "contentDetails": {
+                "videoId": "zSR_5oU1XPs",
+                "videoPublishedAt": "2021-02-05T11:33:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1HQVgL7TdiBzIRapLsz20Xk5VXw",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Bà Trùm Thái Lan Bắt Gái 16 Còn Trinh Vào Nhà Thổ Hầu Đại Gia Và Cái Kết | Truy Kích Thái Dương",
+                "description": "🚨 Tên Phim : Truy Kích Thái Dương - Phim Thái Lan - Phim Hành Động Võ Thuật Xã Hội Đen Mới Nhất \n🚨 Các Phần Hay Nhất: https://www.youtube.com/watch?v=WZeVijMDk1A&list=PL9EkySu0piJXgrXklhKDb12rcx3JjZNhK&index=1\n\n🚨 Link Full: https://youtube.com/playlist?list=PLNKn8ueKfBA8gf5J3mq0SxVeGyhT6gZiN\n\n🚨 Các Bộ Phim Hay Nhất : https://www.youtube.com/channel/UCUleXQ_DSrwQGoLQkhsqI2g/featured\n\nCHÚC CÁC BẠN XEM PHIM VUI VẺ  \nSHARE VÀ LIKE ỦNG HỘ KÊNH NHÉ ! ❤ ❤ ❤\n\n-------------------------------------------------------------------------\n #TruyKichThaiDuong #PhimGiangHo #BigTV #PhimHanhDong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-OpcrHztleI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-OpcrHztleI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-OpcrHztleI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-OpcrHztleI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-OpcrHztleI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 80,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-OpcrHztleI"
+                },
+                "videoOwnerChannelTitle": "BigTV",
+                "videoOwnerChannelId": "UCUleXQ_DSrwQGoLQkhsqI2g"
+            },
+            "contentDetails": {
+                "videoId": "-OpcrHztleI",
+                "videoPublishedAt": "2021-09-19T05:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ONtYTHt5lia5XPNiBOHR5Dq3JrU",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Mới 2021 | Tình Yêu Nồng Cháy - Tập 1 | Phim Tình Cảm Thái Lan Hay Nhất 2021",
+                "description": "***XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/39Q88gV\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vmSpB0SjMus/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vmSpB0SjMus/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vmSpB0SjMus/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vmSpB0SjMus/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vmSpB0SjMus/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 81,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vmSpB0SjMus"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "vmSpB0SjMus",
+                "videoPublishedAt": "2021-09-30T08:31:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CvcdzIQB0woIxsISNl7tXXay8lQ",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "ẢO MỘNG GIÀU SANG - Tập 01 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRIỆU HÀN ANH TỬ | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3mOgOLL\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: ẢO MỘNG GIÀU SANG (80 Tập)\n►Diễn viên: Triệu Hàn Anh Tử, Bành Quán Anh, Tưởng Nghị, Hải Lục,...\n►Nội dung: Cuộc sống hoàn hảo của Lâm Đa Mỹ (Triệu Hàn Anh Tử) hoàn toàn biến mất khi biết được chồng cô ngoại tình với chị dâu. Hơn nữa, họ còn hợp mưu khiến bố cô qua đời rồi chiếm đoạt công ty. Giờ đây khi mất hết tất cả, cô phải tìm mọi cách giành lại mọi thứ và trả thù những con người độc ác ấy...\n\n© Bản quyền thuộc về ART Drama\n\n#AoMongGiauSang  #TriệuHànAnhTử   #BànhQuánAnh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/shQ65OF8ZsM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/shQ65OF8ZsM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/shQ65OF8ZsM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/shQ65OF8ZsM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/shQ65OF8ZsM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 82,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "shQ65OF8ZsM"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "shQ65OF8ZsM",
+                "videoPublishedAt": "2022-01-01T04:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "z2i-SjX0hR2pq0Hnmj5f7wAUi7M",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Phim Thái Lan 18+ - Araro 2010 PINOY FULL MOVIE",
+                "description": "Phim Thái Lan - 18+ tình cảm, nhân văn cực hay\nHãy SubScribe ( Đăng Ký Theo Dõi ) Để Xem Những Bộ Phim và Video Hay Nhất\nDiễn đàn Rao vặt Nhanh nhất: https://nhanhnhat.net/\nXem tivi online, TV trực tuyến hơn 300 kênh, trực tiếp bóng đá tại đây: http://tivi.nhanhnhat.net/\nDiễn đàn mua bán rao vặt Top: https://muabanraovattop.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LBiSKcQ1hnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LBiSKcQ1hnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LBiSKcQ1hnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 83,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LBiSKcQ1hnE"
+                },
+                "videoOwnerChannelTitle": "Xem Nhanh",
+                "videoOwnerChannelId": "UC_cuOgzowpYK4GogGURUJ8g"
+            },
+            "contentDetails": {
+                "videoId": "LBiSKcQ1hnE",
+                "videoPublishedAt": "2013-12-20T02:27:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o_oCzHKJ42hhr43IOqHjFLb7v20",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "CHUYỆN TÌNH NÀNG TIÊN CÁ | Phim Cổ Trang THẬP NHỊ ĐÀM Thuyết Minh Mới Nhất 2022 | ASIA - PHIM HAY",
+                "description": "CHUYỆN TÌNH NÀNG TIÊN CÁ - Phim Cổ Trang THẬP NHỊ ĐÀM Thuyết Minh Mới Nhất 2022 \n✔️Tên Phim: THẬP NHỊ ĐÀM\n📣 Đăng ký (Subscribe) ASIA - PHIM HAY: https://bit.ly/3q5sgD3  \n►Diễn Viên: Cổ Lực Na Trát, Lưu Dĩ Hào, Cốc Gia Thành, Tần Vũ Tư, Châu Tuấn Vỹ ,...\n►Nội Dung: Bộ phim Thập Nhị Đàm (Twelve Legends) là bộ phim kể về một Kim Tính Thánh Nữa Thần Nữa Yêu Đã Sống Được 2000 Năm. Kim Tính Thánh luôn xuất hiện với khuôn mặt lạnh lùng và nổi tiếng là kiên quyết trong mọi tình huống, luôn nỗ lực làm đủ mọi cách để sống sót. Bộ phim có sự tham gia của Cổ Lực Na Trát trong vai Dạ Minh, Lưu Dĩ Hào đảm nhận vai Kim Tính Thánh, Cốc Gia Thành vai Liên Huyền,…\n#THẬPNHỊĐÀM #PHIMCỔTRANG #PHIMKIẾMHIỆP2022 #PHIMHAY",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3coh7pChicc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3coh7pChicc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3coh7pChicc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3coh7pChicc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3coh7pChicc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 84,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3coh7pChicc"
+                },
+                "videoOwnerChannelTitle": "ASIA - PHIM HAY",
+                "videoOwnerChannelId": "UC6mrBzRC-rllWN3I4UkLGUQ"
+            },
+            "contentDetails": {
+                "videoId": "3coh7pChicc",
+                "videoPublishedAt": "2021-11-17T01:39:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "naPai5x3m-KgoNHWbFziwqerY-Y",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "KIẾP VỢ BÉ - TẬP 60 | HẾT | Sau Hai Lần Làm Vợ Bé, Chala Và Tula Cuối Cùng Về Bên Nhau",
+                "description": "KIẾP VỢ BÉ - TẬP 60 | HẾT | Sau Hai Lần Làm Vợ Bé, Chala Và Tula Cuối Cùng Về Bên Nhau | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••\n► Kiếp Vợ Bé : https://bit.ly/3rnf50N\n► Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n► Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n► Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n► Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n► Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n► Sa Ngã : https://bit.ly/3hfEeav\n► Bồ Hay Em : https://bit.ly/3Amqlyx\n► Tình Tay Ba : https://bit.ly/3ynhF9F\n► Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n► Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n► U Mê : https://bit.ly/3xs5tns\n► Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n► Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n► Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n► Chuyện 6 Cô Bạn Thân : https://bit.ly/2Oq8t2g\n► Tình Yêu Cao Thượng : https://bit.ly/V3ipZxFm\n► Em Chỉ Yêu Tổng Tài : https://bit.ly/37K5hG1\n► Mối Tình Mộng Mơ : https://bit.ly/35uNJg4\n► Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n► Tình Anh Bán Chuối : https://bitly.com.vn/OMrvG\n► Cá Mập Cũng Biết Yêu : https://bom.to/T5VctSy\n► Người Cha Vĩ Đại : https://bitly.com.vn/4iPLf\n► Khi Bạn Tuổi 30 : https://bitly.com.vn/y1AGk\n► Cuộc Hội Ngộ 10 Năm : https://bit.ly/2WMRkjU\n► Yêu Nhau Không Em Ơi : https://bit.ly/3dUnRfV\n► Tình Yêu Quyền Thế | Trọn Bộ: https://bit.ly/39BKDGP\n► Đại Tỷ Đẹp Trai Full Bộ: https://bitly.com.vn/Orba1\n► Tiểu Thư Lâm Nạn: https://bit.ly/2Uuuj3X\n► Mối Tình Dang Dở: https://bit.ly/2MXHRTA\n► Mật Tình: https://bit.ly/317ueF5\n► Chuyện Tình Ngược Lối: https://bit.ly/333eHrT\n► Hãy Nói Anh Yêu Em: https://bit.ly/2Zo84hF\n► Tình Yêu Không Khoảng Cách: https://bit.ly/2ZrBoDS\n► Cuộc Tình Mong Manh: http://bit.ly/cuoctinhmongmanhtronbo\n- Fanpage: https://www.facebook.com/Zapphim/\n- Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\n#KIẾP_VỢ_BÉ #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OpMsX8e6zD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OpMsX8e6zD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OpMsX8e6zD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OpMsX8e6zD8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OpMsX8e6zD8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 85,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OpMsX8e6zD8"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "OpMsX8e6zD8",
+                "videoPublishedAt": "2021-08-24T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_YaoHvVSeOmvcE5zsJlT_7Z0Rsg",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "PHIM CHƠI NGÃI BÙA YÊU PHIM KINH DỊ 18+ THAI LAN MỚI NHẤT 2021",
+                "description": "yt1s.com - Chơi ngãi 12  Dàn trống ma  phần 2 phim ma thái lan 18_360p.mp4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EEz313EA_jo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EEz313EA_jo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EEz313EA_jo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EEz313EA_jo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 86,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EEz313EA_jo"
+                },
+                "videoOwnerChannelTitle": "phim hay mỗi ngày",
+                "videoOwnerChannelId": "UCKiH8X23VPUggQc1_e6k0lA"
+            },
+            "contentDetails": {
+                "videoId": "EEz313EA_jo",
+                "videoPublishedAt": "2021-10-20T05:53:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yRZQ363kKWr4FVDD4LD0ytKfKdg",
+            "id": "UEx5UElTdkcyRWZGdktFdjRIc1NVOEtuSXdVU0NuUmNWTS5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2022-08-08T11:44:49Z",
+                "channelId": "UCdu76bYbyq2jqc5vmyUGBDg",
+                "title": "Đại Gia Ba Vợ Tập 7 | Phim Tình Cảm Thái Lan Mới Nhất | Lồng Tiếng",
+                "description": "Đại Gia Ba Vợ Tập 7 | Phim Tình Cảm Thái Lan Mới Nhất | Lồng Tiếng \nĐại Gia Ba Vợ Full Bộ : https://bit.ly/3mfb5yq\nPhim Hay 2021 Mới Nhất : https://goo.gl/8cGvY9\nPhi Nhung Phim : https://youtu.be/F9PwBaEzA3A\nPhim Việt Nam Chiếu Rạp 2021: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/MeXemPhimBH\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z2dgITZElYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z2dgITZElYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z2dgITZElYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z2dgITZElYo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z2dgITZElYo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Md Abukalam",
+                "playlistId": "PLyPISvG2EfFvKEv4HsSU8KnIwUSCnRcVM",
+                "position": 87,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z2dgITZElYo"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Điện Ảnh",
+                "videoOwnerChannelId": "UClfwS2zHXYQCzwGfp-Fiw6A"
+            },
+            "contentDetails": {
+                "videoId": "z2dgITZElYo",
+                "videoPublishedAt": "2021-10-29T04:00:32Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 88,
+        "resultsPerPage": 50
+    }
+}

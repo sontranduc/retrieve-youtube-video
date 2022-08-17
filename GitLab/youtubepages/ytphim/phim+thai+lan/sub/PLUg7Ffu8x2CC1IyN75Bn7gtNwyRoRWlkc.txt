@@ -1,0 +1,571 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "5bhboGFWbkFPOVIkr4UUrht7Ymk",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DSEObRxcsOVdJnI67gEDFDUDxSU",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-10-20T06:58:37Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt: 'Chết cười' với cảnh tiểu tam đi bắt ghen tiểu tứ | TPCA",
+                "description": "Trong khi bà cả Aim (Bella Ranee) đang vi vu mặc kệ sự đời thì cô nàng tiểu tam Keaw lại bận... đi rình người tình với tiểu tứ. Đúng là chuyện gì cũng có thể xảy ra mà.\n\nContent: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-chet-cuoi-voi-canh-tieu-tam-di-bat-ghen-tieu-tu-380843.html\n\n#TPCA #ChiêuTròLừaGạt",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ng1i6LHsijo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ng1i6LHsijo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ng1i6LHsijo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ng1i6LHsijo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ng1i6LHsijo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ng1i6LHsijo"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "Ng1i6LHsijo",
+                "videoPublishedAt": "2020-10-14T12:47:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WBTS-eSHMubvGZdoOZ8ihMUWwnE",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-10-20T14:29:57Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 5: Aim (Bella Ranee) làm hòa với chồng nhưng 'tiểu tứ' Nim có để yên? | TPCA",
+                "description": "Trong khi chồng của Aim đang cố gắng năn nỉ vợ quay trở về thì cô tiểu tứ Nim lại nổi lòng căm ghét và cố gắng phá hỏng mọi chuyện.\n\nContent Writer: Trần Bảo Vy\nVideo Editor: MiFu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-het-bi-chong-phan-boi-aim-bella-ranee-lai-bi-em-gai-dam-sau-lung-381547.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.facebook.com/tramphimchaua/\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: https://www.youtube.com/c/TramPhimChauA?sub_confirmation=1\n\n#ChiêuTròLừaGạt #BellaRanee #TPCA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YGY7RhQZoOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YGY7RhQZoOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YGY7RhQZoOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YGY7RhQZoOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YGY7RhQZoOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YGY7RhQZoOg"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "YGY7RhQZoOg",
+                "videoPublishedAt": "2020-10-20T15:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Hi-W38-Tph6dtlqYUJMhEwGAE4k",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-10-24T07:13:18Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Từ A đến Z về dàn sao Chiêu Trò Lừa Gạt: Ngoài Bella Ranee và Pope Thanawat còn có... | TPCA",
+                "description": "Chiêu Trò Lừa Gạt lên sóng cực hot trong thời gian qua đã góp phần nâng độ phổ biến của dàn diễn viên từ chính đến phụ lên một tầm mới. Cùng Trạm điểm qua profile dàn sao của Chiêu Trò Lừa Gạt nhé. \n\nContent Writer: Trần Bảo Vy \nVideo Editor: Khang98\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/dan-sao-chieu-tro-lua-gat-tu-bella-ranee-pope-thanawat-den-dan-cast-phu-deu-an-tuong-381033.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uL8WIyIsIyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uL8WIyIsIyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uL8WIyIsIyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uL8WIyIsIyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uL8WIyIsIyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uL8WIyIsIyQ"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "uL8WIyIsIyQ",
+                "videoPublishedAt": "2020-10-24T07:30:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S-obPK6Zr3WNaKGeJUwnwWNK0IY",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-10-27T11:37:41Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 7: Không chỉ mặt dày, tiểu tứ Nim còn là một ác nữ trơ trẽn | TPCA",
+                "description": "Nếu như trước đó mọi người cảm thấy gai mắt với tiểu tam Pan Keaw vì quá trơ trẽn thì giờ đây mọi người còn tức điên hơn khi Nim còn trỡ trẽn gấp 10. Sau khi thân phận thật sự của mình được tiết lộ, Nim vẫn không từ bỏ kế hoạch phá tan hạnh phúc gia đình của người khác. \n\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn:  https://voh.com.vn/phim/chieu-tro-lua-gat-tap-7-nim-tiep-tuc-dung-thu-doan-nhung-co-qua-mat-duoc-aim-382331.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V9Tt1tA5EOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V9Tt1tA5EOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V9Tt1tA5EOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V9Tt1tA5EOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V9Tt1tA5EOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V9Tt1tA5EOY"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "V9Tt1tA5EOY",
+                "videoPublishedAt": "2020-10-27T11:40:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ToSCJx3UHSADZNcypCqDivb2bzU",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-10-28T11:23:47Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 8: Nim bất chấp mọi thủ đoạn; Aim và Ramin đã \"gỡ rối tơ lòng\" | TPCA",
+                "description": "Trong quá khứ, Nim đã cố tình chia rẽ tình cảm của Aim và Ramin, khi trưởng thành cô lại tiếp tục giành lấy hạnh phúc mà Aim đang có. Tuy nhiên, lần này cũng nhờ Nim mà Aim và Ramin mới có cơ hội gỡ rối tâm tư và sắp sửa \"yêu lại từ đầu\".\n---------------------\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: \n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UlRnRKimn3s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UlRnRKimn3s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UlRnRKimn3s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UlRnRKimn3s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UlRnRKimn3s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UlRnRKimn3s"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "UlRnRKimn3s",
+                "videoPublishedAt": "2020-10-28T11:25:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AIEJkljvfhRB4kVMSHqAQn6TQ8M",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-11-03T10:33:13Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 9: Xuất hiện vệ tinh quanh Aim, Ramin bắt đầu 'ăn giấm chua' | TPCA",
+                "description": "Tưởng như không còn ai gây bất lợi trong hành trình chinh phục trái tim Aim, nhưng Ramin lại bắt đầu đứng ngồi không yên khi xuất hiện tình địch là Nat. Vì không chấp nhận được việc Nat cứ tán tỉnh Aim, Ramin đã ghen ra mặt và còn tìm cách phá đám khiến khán giả thích thú.\n#PhimChiêuTròLừaGạt #BellaRanee #PopeThanawat #TPCA #TrạmPhimChâuÁ\n---------------------\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-tap-9-ramin-ghen-ra-mat-khi-aim-duoc-trai-tre-tan-tinh-383210.html\n\nTheo dõi Trạm tại: \nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UjJmQc49keo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UjJmQc49keo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UjJmQc49keo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UjJmQc49keo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UjJmQc49keo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UjJmQc49keo"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "UjJmQc49keo",
+                "videoPublishedAt": "2020-11-03T10:33:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gpc7Lvp7CMqcmqfx7I6nMnTaegA",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-11-04T12:25:10Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 10: Chưa kịp trao nụ hôn đầu, Aim và Ramin bị Nim 'chọc gậy bánh xe' | TPCA",
+                "description": "Cứ ngỡ Chiêu Trò Lừa Gạt tập 10 sẽ chiêu đãi con dân một cảnh hôn ngọt ngào của Aim và Ramin nhưng khoảnh khắc ấy lại bị \"hụt\". Bên cạnh đó, những hành động mới của Nim trong tập này còn khiến cho khán giả nổi đóa huống chi là \"chị đại\" Aim.\n\nContent Writer: Trần Bảo Vy\nVideo Editor: Khẩu trang\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-tap-10-aim-va-ramin-dang-dien-bien-tot-dep-thi-nim-lai-tiep-tuc-pha-binh-383355.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gQmwOMGlb_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gQmwOMGlb_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gQmwOMGlb_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gQmwOMGlb_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gQmwOMGlb_Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gQmwOMGlb_Q"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "gQmwOMGlb_Q",
+                "videoPublishedAt": "2020-11-04T12:27:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_tcoMGDKQxm4IBboTT9RBfLfPPs",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-11-12T01:41:50Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 11: Nim bày trò chia cắt Aim và Ramin, lần này có thành công? | TPCA",
+                "description": "Chiếm được Max từ tay Aim nhưng Nim đã bắt đầu cảm thấy nản. Cô bắt đầu chuyển sang sối tượng mới là Ramin - người tình hiện tại của Aim. Trong khi đó, tình cả của Aim và Ramin đang nồng thắm, họ sẽ xử lý việc này ra sao để hiểu nhau hơn.\n---------------------\nContent Writer: Trần Bảo Vy \nVideo Editor: Mifu\nVoice: Nguyệt Thảo\n\nNguồn: voh online\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V57j3H2vu94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V57j3H2vu94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V57j3H2vu94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V57j3H2vu94/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V57j3H2vu94/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V57j3H2vu94"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "V57j3H2vu94",
+                "videoPublishedAt": "2020-11-10T12:06:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f822qjrBsKIAAwGDU8tAkJRYdZE",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-11-12T07:39:25Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 12: Aim cuối cùng cũng chịu 'trao thân' cho Ramin rồi đây này | TPCA",
+                "description": "Chiêu Trò Lừa Gạt tập 12: Aim cuối cùng cũng chịu 'trao thân' cho Ramin rồi đây này | TPCA\n\nSau thời gian chờ đợi, cuối cùng thì Ramin cũng hạnh phúc khi được Aim đã sẵn sàng đến với mình. Cả hai còn có cảnh giường chiếu nồng thắm bên nhau. Trong khi đó, Nim chưa bao giờ hết rắc rối khi tham đòi tham dự sự kiện để rồi phải sinh con trước dự định.\n---------------------\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-tap-12-cuoi-cung-aim-va-ramin-cung-co-canh-giuong-chieu-dau-tien-384140.html?utm_source=topleft&utm_medium=internal&utm_campaign=category\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua\n\n#CTLG #TPCA #ChieuTroLuaGat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x9Cblfu7B00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x9Cblfu7B00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x9Cblfu7B00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x9Cblfu7B00/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x9Cblfu7B00/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x9Cblfu7B00"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "x9Cblfu7B00",
+                "videoPublishedAt": "2020-11-12T07:39:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8IQYOTc2ZgmNenk2Zipx7hGULAQ",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-11-18T03:39:32Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 13: Lại bày mưu để đạt được mục đích, Nim đã bị lật mặt thế nào? | TPCA",
+                "description": "Nim ác muôn đời vẫn không ngưng. Chỉ vì muốn được chính thức bước chân vào nhà Max mà cô đã lập lên một kế hoạch xấu xa. Tuy nhiên, việc này có dễ dàng thành công?\n---------------------\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Huỳnh Lâm Nguyệt Thảo\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-tap-13-chieu-tro-bi-lat-tay-nim-co-con-duong-lui-384751.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PBGh6vE4Krw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PBGh6vE4Krw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PBGh6vE4Krw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PBGh6vE4Krw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PBGh6vE4Krw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PBGh6vE4Krw"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "PBGh6vE4Krw",
+                "videoPublishedAt": "2020-11-18T03:41:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zQlTfn11QifwlHPFhCfnzXP8vJY",
+            "id": "UExVZzdGZnU4eDJDQzFJeU43NUJuN2d0Tnd5Um9SV2xrYy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-10-14T04:36:58Z",
+                "channelId": "UC_6cy32R0Zqqu0giAq-uRkQ",
+                "title": "Chiêu Trò Lừa Gạt tập 14: Nim đã hoàn lương nhưng vì sao làm gì cũng thấy ứa gan thế này | TPCA",
+                "description": "Sau khi tự tử không thành công, Nim được Aim đưa về nhà sống cùng. Tuy nhiên, tâm lý không bất ổn của Nim đã khiến cuộc sống của Aim và Ramin bị ảnh hưởng. Trong khi đó, Aim đã có thai với Ramin nhưng niềm vui lại không trọn vẹn khi Nim còn phải lo lắng sợ Nim bị tủi thân.\n---------------------\nContent Writer: Trần Bảo Vy\nVideo Editor: Mifu\nVoice: Yingming\n\nChiêu Trò Lừa Gạt tập 14: Nim đã hoàn lương nhưng vì sao làm gì cũng thấy ứa gan thế này | TPCA\n\n\nNguồn: https://voh.com.vn/phim/chieu-tro-lua-gat-tap-14-aim-co-tin-vui-nim-doi-tu-tu-cau-chuyen-dang-be-cua-sang-con-hem-nao-day-384885.html\n\nTheo dõi Trạm tại:\nFanpage: https://www.fb.com/tramphimchaua\nWebsite: https://voh.com.vn/phim-793.html\nĐăng ký kênh: http://bit.ly/tramphimchaua",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H4uAwAyudjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H4uAwAyudjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H4uAwAyudjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H4uAwAyudjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H4uAwAyudjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trạm Giải Trí",
+                "playlistId": "PLUg7Ffu8x2CC1IyN75Bn7gtNwyRoRWlkc",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H4uAwAyudjQ"
+                },
+                "videoOwnerChannelTitle": "Trạm Giải Trí",
+                "videoOwnerChannelId": "UC_6cy32R0Zqqu0giAq-uRkQ"
+            },
+            "contentDetails": {
+                "videoId": "H4uAwAyudjQ",
+                "videoPublishedAt": "2020-11-18T11:07:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 11,
+        "resultsPerPage": 50
+    }
+}

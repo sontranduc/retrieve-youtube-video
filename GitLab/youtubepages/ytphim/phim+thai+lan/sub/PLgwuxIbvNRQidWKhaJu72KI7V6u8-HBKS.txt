@@ -1,0 +1,624 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "qONKYA6qufdujo3u3w38445PxfI",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ditvhlnkEOMt9qRljF1pB-QM8d0",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-07-08T10:51:43Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kC5v8bJFBUQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kC5v8bJFBUQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0dKv2EVJecDwglGHaVZm0CzmtdM",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-07-08T10:52:37Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JLfASp0D15E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JLfASp0D15E"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pnxaknKRO1B2-KF-e7eDo7uCBV8",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2019-08-04T14:36:22Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Hôm nay em muốn ăn gì đây _ Ăn Gì Đây [ Mr.T ft Hòa Minzi ] - Giàu kara",
+                "description": "▶️ Subscribe Giúp Mình Đạt 1000  Đầu Tiên Nhé \n- Nhấn \" Đăng Kí \" ( Miễn Phí ) \n\n. CẢM ƠN CÁC BẠN ĐÃ GHÉ QUA \n\n. Chúc Các Bạn Nghe Nhạc Vui Vẻ ❤️\n#nhachay#angiday",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8w3b99YQwoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8w3b99YQwoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8w3b99YQwoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8w3b99YQwoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8w3b99YQwoY"
+                },
+                "videoOwnerChannelTitle": "Giàu kara",
+                "videoOwnerChannelId": "UC9NnVyuCTOAeTKSf3B7GfNg"
+            },
+            "contentDetails": {
+                "videoId": "8w3b99YQwoY",
+                "videoPublishedAt": "2019-08-04T13:04:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yY-LNtufFXgx8mz5z7wtizwb9r4",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2019-11-03T06:27:51Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Ỷ Thiên Đồ Long Ký - Tập 26 | Tô Hữu Bằng | Phim Kiếm Hiệp Kim Dung Hay Nhất | Full HD | PhimTV",
+                "description": "❖Xem trọn bộ tại : https://youtube.com/playlist?list=PLNKn8ueKfBA8v_XwhS2XT6LswYak3CTMd\n❖Xem các phim kiếm hiệp hay khác: https://youtube.com/c/PhimTV999/playlists?view_as=subscriber\n❖Tên phim: Ỷ Thiên Đồ Long Ký\n❖Diễn viên : Tô Hữu Bằng , Giả Tịnh Văn ,Thích Tiểu Long, Cao Viên Viên\n❖Nội Dung: Phim nói về Ỷ Thiên Kiếm và Đồ Long Đao. Với niềm tin ai có được hai báu vật đó sẽ làm chủ thiên hạ nên người người đỗ xô vào cuộc chiến tranh giành làm giang hồ dậy lên các cuộc chiến hại nhau. Bên cạnh đó phim Ỷ Thiên Đồ Long Ký 2003 còn đan xen vào các câu chuyện tình đẹp nhưng không kém phần gay cấn. Đó là câu chuyện tình tay ba của Trương Vô Kỵ và hai cô gái Triệu Mẫn và Chu Chỉ Nhược. Trong khi Triệu Mẫn có nét tinh nghịch và chân thành thì Chu Chỉ Nhược lại vì si tình mà nên độc ác vô tâm. Phim Ỷ Thiên Đồ Long Ký 2003 với sự tham gia của dàn diễn viên trẻ đẹp và tài năng Tô Hữu Bằng, Giả Tịnh Văn và Cao Viên Viên.\n\n📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n#YThienDoLongKy #KimDung #PhimTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FByTUEzwK2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FByTUEzwK2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FByTUEzwK2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FByTUEzwK2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FByTUEzwK2A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FByTUEzwK2A"
+                },
+                "videoOwnerChannelTitle": "PhimTV",
+                "videoOwnerChannelId": "UCH47ZILH_ksP_fALgRaEP9g"
+            },
+            "contentDetails": {
+                "videoId": "FByTUEzwK2A",
+                "videoPublishedAt": "2019-06-10T05:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n1CSb-ohiAP6RMCi57Hj1Ll98O8",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2019-12-06T03:30:25Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KjUo7NN2CaY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KjUo7NN2CaY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8LC8eGGjma7Rn8KWG-Z18t9i4nU",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2019-12-18T14:15:32Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uTUZjeUoE4A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uTUZjeUoE4A"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ahNln7k_HRn96kdVnu2x8FLRqeo",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2019-12-21T09:14:06Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Karaoke vọng cổ THẤT TÌNH - DÂY ĐÀO [T/g Phạm Văn Phúc]",
+                "description": "CÙNG CHIA SẺ ĐAM MÊ\nKARAOKE NHẠC https://www.youtube.com/channel/UCKQ7A188D3x8vPnQdbr5jWQ\nKÊNH KARAOKE TÂN CỔ GIAO DUYEN https://www.youtube.com/user/karaokehongngu\nChuyên: Thu âm giọng hát,  thực hiện karaoke tân cổ nhạc.Bài bản tài tử CL theo yêu cầu. Cung cấp bài đàn....\nMỌI CHI TIẾT XIN VUI LÒNG LIÊN HỆ\nSDT 0948 42 49 40\nE- mail: nguyenthanhnhon1970@gmail.com\n- Hãy đăng ký kênh để cập nhật các bài karaoke tiếp theo nhé.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Y3T1Ni-xC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Y3T1Ni-xC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Y3T1Ni-xC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5Y3T1Ni-xC8"
+                },
+                "videoOwnerChannelTitle": "NGUYỄN THÀNH NHƠN",
+                "videoOwnerChannelId": "UCGOcMgaaiZdFhuMDpTFcguA"
+            },
+            "contentDetails": {
+                "videoId": "5Y3T1Ni-xC8",
+                "videoPublishedAt": "2019-10-14T05:31:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jouwlUbiyE-tfqb-LMbi3YJC4vQ",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2019-12-30T02:20:56Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "CLEAR BOTANIQUE MỚI - Tóc đẹp sống động chẳng ngại mùa đông",
+                "description": "Dầu gội #ClearBotanique mới với sức mạnh thuần khiết từ những nguồn thực vật quý trên thế giới, hỗ trợ chức năng tự bảo vệ của da đầu, nuôi dưỡng mái tóc tràn đầy sức sống chẳng ngại thời tiết hanh khô của mùa đông.\n\n🍃 Clear Botanique #5TinhDầu giúp chăm sóc da đầu khô\n🍃 Clear Botanique #3HạtSiêuDưỡng giúp chăm sóc da đầu nhờn\n🍃 Clear Botanique #9ThảoDượcQuý giúp chăm sóc da đầu yếu\n\nKhám phá ngay Clear Botanique tại https://shopee.vn/shop/111138057/search?page=0&shopCollection=16172590",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z8jpBWSkx0c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z8jpBWSkx0c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z8jpBWSkx0c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z8jpBWSkx0c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z8jpBWSkx0c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z8jpBWSkx0c"
+                },
+                "videoOwnerChannelTitle": "CLEAR VIETNAM",
+                "videoOwnerChannelId": "UCbc-KA6FlrO8f3Txiow_cqg"
+            },
+            "contentDetails": {
+                "videoId": "Z8jpBWSkx0c",
+                "videoPublishedAt": "2019-11-29T07:01:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yLdl3__Mee9mXTn6jGZtUtokNIc",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2019-12-30T14:24:08Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Kinh Báo Hiếu Công Ơn Cha Mẹ - Thầy Thích Huệ Duyên",
+                "description": "Kinh Báo Hiếu Công ơn Cha Mẹ - Thích Huệ Duyên Trì Tụng\nMời các bạn quý phật tử cùng nghe,\nKinh sám hối hay nhất : https://www.youtube.com/watch?v=9nkggkL-bXw&t=2600s\nTụng kinh báo hiếu công ơn cha mẹ ; https://www.youtube.com/watch?v=NcEJroF0org&t=13s\nChúc các bạn và quý đạo hữu luôn hoan hỷ, an lạc\nĐăng ký để theo dõi những video mới nhất https://goo.gl/QMjLsE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RYoNXYmHeN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RYoNXYmHeN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RYoNXYmHeN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RYoNXYmHeN4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RYoNXYmHeN4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RYoNXYmHeN4"
+                },
+                "videoOwnerChannelTitle": "Audio Mp3 Phật Giáo",
+                "videoOwnerChannelId": "UCF0WUDhv6deVG-aG8llVK5g"
+            },
+            "contentDetails": {
+                "videoId": "RYoNXYmHeN4",
+                "videoPublishedAt": "2018-04-18T06:08:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uUEiEi-KQmJdfBF2EFXmLgRkmZI",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2020-01-05T05:03:10Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Trích Đoạn Đêm lạnh chùa hoang karaoke - Linh Trúc  |  tân cổ trích đoạn Karaoke Beat",
+                "description": "▶Trích Đoạn Đêm lạnh chùa hoang karaoke - Linh Trúc  |  tân cổ trích đoạn Karaoke Beat\n▶ Hoa tím bằng lăng karaoke: https://goo.gl/jQjQP7\n▶ Chợ mới karaoke: https://goo.gl/XXfA3D\n▶ Bao giò anh đau khổ Karaoke tân cổ: https://goo.gl/9ytEbQ\n▶ Văn thiên tường xế xãng karaoke: https://goo.gl/WOXHKn\n▶ Vọng kim lang karaoke: https://goo.gl/ffhld7\n♪  Đăng ký kênh để theo dõi những sản phẩm karaoke mới nhất của Karaoke HD nhé!\n▶ Theo dõi kênh Karaoke HD cập nhật hàng ngày:https://goo.gl/G2TZYO\n▶ Facebook: https://www.facebook.com/tan0915066169\n▶ Các bạn có thể để lại nhận xét yêu cầu mình làm karaoke cho các bạn nhé hoặc liên hệ vào mail tankiengiang1989@gmail hoặc sdt 0915 066 169 nhé.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hiybGb08das/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hiybGb08das/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hiybGb08das/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hiybGb08das/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hiybGb08das/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hiybGb08das"
+                },
+                "videoOwnerChannelTitle": "Tân Kiên Giang",
+                "videoOwnerChannelId": "UCSQI3X0LQrmsRPqqjxkylvA"
+            },
+            "contentDetails": {
+                "videoId": "hiybGb08das",
+                "videoPublishedAt": "2017-05-06T06:14:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6qDUsCUBWFF6Mulsaa5sVBsWh7M",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2020-01-11T14:56:44Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "KINH BÁO HIẾU - Nghe 1000 lần vẫn khóc",
+                "description": "Kinh Báo Hiếu - mời các bạn quý phật tử cùng nghe\nKinh sám hối hay nhất : https://www.youtube.com/watch?v=9nkggkL-bXw&t=2600s\nTụng kinh báo hiếu công ơn cha mẹ ; https://www.youtube.com/watch?v=NcEJroF0org&t=13s\nChúc các bạn và quý đạo hữu luôn hoan hỷ, an lạc\nĐăng ký để theo dõi những video mới nhất https://goo.gl/QMjLsE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6XLC_43fRTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6XLC_43fRTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6XLC_43fRTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6XLC_43fRTs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6XLC_43fRTs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6XLC_43fRTs"
+                },
+                "videoOwnerChannelTitle": "Audio Mp3 Phật Giáo",
+                "videoOwnerChannelId": "UCF0WUDhv6deVG-aG8llVK5g"
+            },
+            "contentDetails": {
+                "videoId": "6XLC_43fRTs",
+                "videoPublishedAt": "2018-05-21T11:27:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VF4wLqP3F4AiWzKmXOxZqlqEpP8",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2020-01-21T06:30:02Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "BỐ GIÀ - TẬP 3 | TRẤN THÀNH, MÁ GIÀU, LÊ GIANG, KHẢ NHƯ, MINH DỰ, TUẤN TRẦN, UYỂN ÂN, AWAY HUY",
+                "description": "BỐ GIÀ - TẬP 3 | TRẤN THÀNH, NSND NGỌC GIÀU, LÊ GIANG, LÊ QUỐC NAM, ANH ĐỨC, LÂM VỸ DẠ, TUẤN TRẦN, QUỐC KHÁNH, UYỂN ÂN,TRÚC NHÂN, LÊ DƯƠNG BẢO LÂM, ALI HOÀNG DƯƠNG, QLIN, AWAY HUY, TRANG HÝ, BÀ TÂN VLOG.    \n----------------         \nBỐ GIÀ là một bộ phim Web drama tình cảm gia đình, một dự án phim hài Tết 2020 của Trấn Thành. Trong phim, Trấn Thành đóng vai chính - một ông bố tính cục súc, bảo thủ nhưng rất thương con, luôn quan tâm gia đình. Phim xoay quanh đề tài thế giới giang hồ, xoáy vào chuyện giữ bản chất lương thiện hay chạy theo tiền bạc. Êkíp quay trong 11 ngày. Đạo diễn là Mr. Tô - người thực hiện các web-drama Thập tam muội, Thập tứ cô nương, Vi Cá tiền truyện... Ngoài Lê Giang, Tuấn Trần, em gái Trấn Thành cũng tham gia một vai.\n\nTrấn Thành cho biết anh không áp lực dù diễn viên Thu Trang, Nam Thư... từng thành công với phim cùng đề tài. \"Tôi dồn hết tâm huyết vào sản phẩm này, bỏ nhiều show để đảm bảo tiến độ ra mắt. Tôi cũng tin tưởng vào khả năng của đạo diễn Mr Tô và dàn diễn viên do tôi chọn\", anh nói. Sản phẩm phát hành vào ngày 2/1/2020 trên Youtube.\n#bogia #tranthanh #hariwon #ngocgiau #legiang #trucnhan #huynhuyenan #lamvyda #anhduc #tuantran #tranghy #metub #haitet #phimhaitet #be #omo #lifebuoy #vinasoy #7up #gongcha #mioskin #charme\n--------\nChào mừng bạn đến với Youtube chính thức được trực tiếp quản lý bởi MC Trấn Thành, những thành viên của gia đình TRAN THANH Official và METUB Network.\nCác bạn nhớ Subscribe, Like và Share để ủng hộ tinh thần cho Trấn Thành và nhận được những thông tin, video mới nhất về các hoạt động nghệ thuật của MC Trấn Thành  nhé.\nFanpage chính thức:\nhttps://www.facebook.com/tran.thanh.ne\nKênh youtube chính thức: http://metub.net/tranthanh\nRất cảm ơn các anh chị, các bạn đã ủng hộ chúng tôi trong suốt thời gian qua!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q3GTCsRLzhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q3GTCsRLzhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q3GTCsRLzhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q3GTCsRLzhA"
+                },
+                "videoOwnerChannelTitle": "TRẤN THÀNH TOWN",
+                "videoOwnerChannelId": "UCqL0-EknCK4m5pHrH79fOcw"
+            },
+            "contentDetails": {
+                "videoId": "q3GTCsRLzhA",
+                "videoPublishedAt": "2020-01-17T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pJWPLZP89zOu5Z66FBMVSJ4XFWY",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2020-01-25T00:58:47Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "[karaoke] Đặt vị Trí Của Nhau - Nguyễn Đình Long",
+                "description": "Nếu thương mình thì hãy like và đăng ký kênh mình nhe !\nCác bạn không reup để tránh ảnh hưởng đến kênh các bạn\nhttps://linkmuahang.com/shop/thucom86f3f6\nNguồn: https://www.youtube.com/watch?v=iIeMTq5R2ms\nBài hát: Đặt vị Trí Của Nhau\nCa Sĩ: Nguyễn Đình Long\nvideo mang tính chất giải trí không vì mục đích kiếm tiền. nếu có nhu cầu về bản quyền liên hệ: thucom86@gmail.com\n#DuyThư #NguyễnĐìnhLong #ĐặtvịTríCủaNhau",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5PCt3VFGg7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5PCt3VFGg7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5PCt3VFGg7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5PCt3VFGg7Q"
+                },
+                "videoOwnerChannelTitle": "Duy Thư - karaoke",
+                "videoOwnerChannelId": "UC1BZxKeJMTriOYW6Ui2diWA"
+            },
+            "contentDetails": {
+                "videoId": "5PCt3VFGg7Q",
+                "videoPublishedAt": "2019-10-27T14:43:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9VQ3HH2BO1YFSomZwUR8bThmvWA",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2020-02-08T06:45:26Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "KARAOKE TÔI LÀ AI EM LÀ AI REMIX - TONE NAM | NHẠC SỐNG",
+                "description": "Liên Khúc Bolero Xưa - Organ Cực Hay - Nghe Đảm Bảo Ghiền Luôn: https://www.youtube.com/watch?v=sC3WoJKDNas&list=PLlLQQijW6Ad1rBmTf-lwTDXhUu--Ed_V0\n♫ Subscribe để luôn xem những clip mới nhất: https://goo.gl/3WFX5C\n♫ Website: https://moctvkaraoke.vn/ - http://www.moctv.vn\n♫ Facebook: https://www.facebook.com/moctvchannel\n♫ Fan Club: https://www.facebook.com/groups/MoctvKaraoke\n\n★★★ Liên hệ QUẢNG CÁO, PHỐI BEAT, SẢN XUẤT KARAOKE số lượng lớn theo yêu cầu: 0909422006 - MOCTV.\n\n► FULL BỘ KARAOKE HD: https://goo.gl/ksvQLc\n► HÒA TẤU GUITAR KHÔNG LỜI: https://www.youtube.com/watch?v=iFPC-4qz_Lg&index=2&list=PLlLQQijW6Ad1rBmTf-lwTDXhUu--Ed_V0\n\n© Bản Quyền thuộc về MocTv - Vui lòng không Re-up.\n\"MocTv - Hòa Nhịp Đam Mê\"\n#MocTvKaraoke #Karaoke #SanXuatKaraoke\n\nKARAOKE Tôi Là Ai Em Là Ai Remix là tác phẩm của nam ca nhạc sĩ Lê Quang. Được rất nhiều ca sĩ trình bày lại như Kasim Hoàng Vũ. KARAOKE Tôi Là Ai Em Là Ai Remix được MocTV tái hiện lại với một phong cách rock - remix mới, rất mong được sự đóng góp ý kiến của mọi người.\n\nKARAOKE Tôi Là Ai Em Là Ai Remix - Tone Nam | Nhạc Sống Lyrics\n\nĐêm qua tôi nằm mơ thấy em, \ntrong giấc mơ em là của ai \nĐêm qua em nằm mơ thấy tôi, \nnhưng giấc mơ không phải là tôi \n\nTôi yêu em, từng đêm nhớ em \nTôi lang thang để được gần em \nTôi không tin rằng trong giấc mơ, \nem bên ai không phải là tôi \n\nEm dịu dàng như tia sáng trong đêm, \nđem yêu thương vút lên trên cuộc đời \nTôi ngập ngừng bước đến bên em, \nôi bỗng nhiên sao em lại tan biến \n\nMưa thì thầm như anh nói yêu em \nEm đưa tay đón cơn mưa vào lòng \nNhưng đừng là giấc mơ đêm qua \nTôi cho em nụ hôn ban đầu \n\nTôi là ai mà cứ mãi yêu em \nEm là ai mà cứ mãi yêu tôi\n\nmoctv,karaoke tôi là ai em là ai remix,karaoke toi la ai em la ai,karaoke toi la ai em la ai remix nhac song,karaoke toi la ai em la ai remix tone nam,tôi là ai em là ai karaoke remix,toi la ai em la ai karaoke nhac song,toi la ai em la ai karaoke remix nhac song,tôi là ai em là ai karaoke,tôi là ai em là ai karaoke nhạc sống,tôi là ai em là ai remix karaoke,karaoke tôi là ai em là ai,tôi là ai em là ai karaoke remix nhạc sống,tôi là ai em là ai karaoke tone nam,karaoke",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YWFlOadMoyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YWFlOadMoyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YWFlOadMoyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YWFlOadMoyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YWFlOadMoyU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YWFlOadMoyU"
+                },
+                "videoOwnerChannelTitle": "MocTV Media",
+                "videoOwnerChannelId": "UC-E-e7PXxEuDqXLDU28yd6Q"
+            },
+            "contentDetails": {
+                "videoId": "YWFlOadMoyU",
+                "videoPublishedAt": "2019-01-04T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CMzvekKjKnIwHX_obesZqCek8yg",
+            "id": "UExnd3V4SWJ2TlJRaWRXS2hhSnU3MktJN1Y2dTgtSEJLUy4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2020-02-11T10:04:17Z",
+                "channelId": "UC_TLMDLRA1asqfGVf8bt5og",
+                "title": "Cuộc sống kỳ lạ của Ông cụ trên 30 năm ăn rau cỏ và uống nước đá để sống",
+                "description": "Ông cụ 87 tuổi có cuộc sống khác thường chỉ biết ăn rau cỏ và nước đá để sống qua ngày,  ông không ăn cơm trên 30 năm nay, ông ở trên một tấm đan nằm sát con lộ và nơi này là chỗ ngủ của ông không mùng không mền, xem rất tội nghiệp mọi người.\nMong cô chú anh chị em xem cảm thấy xót thương hoàn cảnh của ông cụ cũng như video của thích lang thang có hay và ý nghĩa thì hãy đăng ký kênh và like ủng hộ mình nhe,  cảm ơn mọi người rất nhiều khi đã xem video của mình nhé \nĐịa chỉ của ông cụ: ấp An Hòa xã An Nhơn huyện Châu Thành, Đồng Tháp. Nằm gần cây cầu Khém Nò,\nDonate:\nSTK: 69310000163621 \n- Ngân hàng TMCP Đầu tư và phát triển Việt Nam (BIDV) Chi nhánh Tháp Mười, Đồng Tháp\n- CTK: Nguyễn Cao Hớn - SĐT: 0839507400\nxin cảm ơn quý vị và các bạn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HE9llQpp9NI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HE9llQpp9NI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HE9llQpp9NI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HE9llQpp9NI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HE9llQpp9NI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nghiện karaoke",
+                "playlistId": "PLgwuxIbvNRQidWKhaJu72KI7V6u8-HBKS",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HE9llQpp9NI"
+                },
+                "videoOwnerChannelTitle": "Thích Lang Thang ",
+                "videoOwnerChannelId": "UCJnN-csfakmOL9Lb8FK2NuQ"
+            },
+            "contentDetails": {
+                "videoId": "HE9llQpp9NI",
+                "videoPublishedAt": "2020-01-03T11:30:00Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 15,
+        "resultsPerPage": 50
+    }
+}

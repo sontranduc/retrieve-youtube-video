@@ -1,0 +1,62 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "hlaPVAHlim1S1qQOs5QMPVM6e3I",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "epe8yBvsyBUJRUKItfqZ70LvBrs",
+            "id": "UExCMldwT25XSFlyWFZWR2loQnBmN2VfYlZwREFBTGxqai4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2020-03-01T12:24:31Z",
+                "channelId": "UClCeDAmIBIfwZ5b1i13Q2iQ",
+                "title": "Chiêu Trò Nguyên Thủy | Leh Bunphakarn",
+                "description": "#gioithieuphim #phimthailan #James #Taew\n\n Bộ phim được lên sóng ngày 3-3-2020 nhé mọi người!\n\n\n-------------------------------------------------------------\nPhim Thái Lan : https://www.youtube.com/watch?v=gYUPGCFfsBE&list=PLB2WpOnWHYrXVVGihBpf7e_bVpDAALljj\n\nPhim Trung Quốc: https://www.youtube.com/watch?v=j2iOqFP0MA8&list=PLB2WpOnWHYrXoN61IGpitQ_W5BXbtmWDo\n\nPhim Hàn Quốc: https://www.youtube.com/watch?v=79oHSG34x6U&list=PLB2WpOnWHYrVkZa7Wh4-DBraeAy7Yu-Uz\n\nTiểu sử và top phim : https://www.youtube.com/watch?v=BHO6q7b-tzg&list=PLB2WpOnWHYrXiJRkK-77MGrXZdvJAYcoO\n\nChúc các bạn xem phim vui vẻ!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D-uqxrcgnUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D-uqxrcgnUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D-uqxrcgnUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D-uqxrcgnUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D-uqxrcgnUA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Giới Thiệu Phim",
+                "playlistId": "PLB2WpOnWHYrXVVGihBpf7e_bVpDAALljj",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "D-uqxrcgnUA"
+                },
+                "videoOwnerChannelTitle": "Giới Thiệu Phim",
+                "videoOwnerChannelId": "UClCeDAmIBIfwZ5b1i13Q2iQ"
+            },
+            "contentDetails": {
+                "videoId": "D-uqxrcgnUA",
+                "videoPublishedAt": "2020-03-01T12:24:43Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

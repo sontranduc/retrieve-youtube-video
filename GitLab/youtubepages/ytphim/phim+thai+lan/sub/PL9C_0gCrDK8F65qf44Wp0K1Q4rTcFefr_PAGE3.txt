@@ -1,0 +1,1559 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "hH47KsQ3ffwvh46umf-gjZS-k20",
+    "nextPageToken": "EAAaB1BUOkNKWUI",
+    "prevPageToken": "EAEaBlBUOkNHUQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s1k40alYKLDanjqg9GQJWYol8_E",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5ENjg2QjQ3OTVDOUE2QzYw",
+            "snippet": {
+                "publishedAt": "2018-08-10T06:54:49Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 100,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7ZZOESuvAM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X7ZZOESuvAM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4bGHDSV9hRsxGFZzpi3HJ1YzBpI",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy41ODJDREU4NjNDRTM2QkNC",
+            "snippet": {
+                "publishedAt": "2018-08-10T06:55:09Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 101,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SjZRFJ9lpz4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SjZRFJ9lpz4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IWgUn-fXG6i0wJQE5ry-Eblwmm0",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy41NEI5MkYxNzc0MDczQUUw",
+            "snippet": {
+                "publishedAt": "2018-08-11T20:58:29Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 102,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IFwwojNRLu0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IFwwojNRLu0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Q38EPtMGXUsEGuYVBk-4oa9YlA4",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4wM0I0QUQ0RDU2REQxNjJC",
+            "snippet": {
+                "publishedAt": "2018-08-12T23:35:57Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 103,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5WbU6iCiI6A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5WbU6iCiI6A"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JRFPh-SU4GVpXy3edjbMLomrW1c",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy42MzE1QTJBMEI3NjI4Rjk5",
+            "snippet": {
+                "publishedAt": "2018-08-12T23:40:22Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 104,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3wbJhUXRz4o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3wbJhUXRz4o"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XwVCOXLc8RWJKSogT_Xi87XqT6w",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5BNTZDRUVBRkUwRDU3N0FF",
+            "snippet": {
+                "publishedAt": "2018-08-12T23:57:34Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Lực Lượng phản ứng 03/20 (tiếng Việt) DV chính: Âu Dương Chấn Hoa, Quan Vịnh Hà; TVB/1998",
+                "description": "*Nếu các khán giả hải ngoại mong muốn xem thêm nhiều phim và chương trình TVB, hoặc biết thêm nhiều thông tin về diễn viênTVB , hãy tải ngay ứng dụng TVB Anywhere nhé.\n\n*Xem ngay nhiều phim bộ, chương trình, tiết mục, tin tức MIỄN PHÍ tại ứng dụng điện thoại TVB Anywhere* \n\n! Tảingay !\nPlay Store: http://bit.ly/new_tvbanywhere \nApp Store: http://bit.ly/ios_new_tvbanywhere\n\n(Dịch vụ này hiện chưa được hỗ trợ tại Trung Quốc Đại Lục, Malaysia, Singapore, Đài Loan, Mỹ và Việt Nam)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XwTrMhBALn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XwTrMhBALn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XwTrMhBALn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XwTrMhBALn4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 105,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XwTrMhBALn4"
+                },
+                "videoOwnerChannelTitle": "Kênh TVB tiếng Việt",
+                "videoOwnerChannelId": "UCaQyfI2ViHt86Q2EpA-Op-w"
+            },
+            "contentDetails": {
+                "videoId": "XwTrMhBALn4",
+                "videoPublishedAt": "2018-08-10T04:46:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Kc9p_Mzvn_ZKTR5Gy9V4Vy3f1Ek",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5BMDNGMkVEMjBGMzNGNEJC",
+            "snippet": {
+                "publishedAt": "2018-08-17T17:55:36Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 106,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b0whb-2te-U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "b0whb-2te-U"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VYvesST5F5W1kXY-_yLsWfPJuSc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy43OTQxRDdENkQwNEZGMkQy",
+            "snippet": {
+                "publishedAt": "2018-09-01T05:24:25Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 107,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ysyIHIuleKY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ysyIHIuleKY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qv-ibGekVmJG9PblJaRSieAg13w",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4zOTVGMDIwNzkzODk2QTQ1",
+            "snippet": {
+                "publishedAt": "2018-09-01T09:04:07Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 108,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7w6HSPC-hTU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7w6HSPC-hTU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nZvksFKPoExwLTvz4WtqVZ38IC4",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5EMzdGRjBBQzVCNEY2NDhG",
+            "snippet": {
+                "publishedAt": "2018-09-01T09:12:51Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 109,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rRaqeWSJcNo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rRaqeWSJcNo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yltGgRZkTJCt4YSMyU4bB8OhsdU",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy44Q0M3MkM5NzExMTIyRDg3",
+            "snippet": {
+                "publishedAt": "2018-09-08T04:19:13Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 110,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rnwlRk4cbRk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rnwlRk4cbRk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NH1GBpvjgnfNz6SehMBjI8Lym-M",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy43OEQ1OTk4ODU2N0E5RUYz",
+            "snippet": {
+                "publishedAt": "2018-09-14T23:38:54Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 111,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4QkB0_vv_nk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4QkB0_vv_nk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Mch8NWRt4-gdrYxC4vsEvPum70Y",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5GOUJEOERGNDg1N0QyNDA3",
+            "snippet": {
+                "publishedAt": "2018-09-20T13:18:31Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 112,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "frCQjrd67RU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "frCQjrd67RU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8rCuG0P7HUwXOsBxQTBvxApe_EI",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4yOUY5MUNBMTM5RDMyREQ5",
+            "snippet": {
+                "publishedAt": "2019-03-12T22:22:14Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 113,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Bc7Z-3WNU0Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Bc7Z-3WNU0Y"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I2ziKl9RQtbzV-tUIOXfFkXlIPg",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy43OEM5M0IwMkQ1MzBCMUI1",
+            "snippet": {
+                "publishedAt": "2019-05-09T11:56:40Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Phim Xin Lỗi Anh Yêu Em Tập 1",
+                "description": "Xem Phim Xin Lỗi Anh Yêu Em Tập 1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bDfBKNqRzeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bDfBKNqRzeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bDfBKNqRzeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bDfBKNqRzeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bDfBKNqRzeQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 114,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bDfBKNqRzeQ"
+                },
+                "videoOwnerChannelTitle": "Phim So Ji Sub",
+                "videoOwnerChannelId": "UCqIE1slcGorH0f742hgEvZw"
+            },
+            "contentDetails": {
+                "videoId": "bDfBKNqRzeQ",
+                "videoPublishedAt": "2017-09-30T02:40:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K6GSgkwfWSrjPrzu4S6txsWctbk",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy41MkJFMDEwMDIxMkRDREQ3",
+            "snippet": {
+                "publishedAt": "2019-05-09T12:05:39Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "[Phim Thái Lan] ATM Lỗi Tình Yêu Tập 1",
+                "description": "[Phim Thái Lan] ATM Lỗi Tình Yêu Tập 1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H1e0oe6YZR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H1e0oe6YZR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H1e0oe6YZR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H1e0oe6YZR4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H1e0oe6YZR4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 115,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H1e0oe6YZR4"
+                },
+                "videoOwnerChannelTitle": "Cuộc Sống Mỗi Ngày",
+                "videoOwnerChannelId": "UCq8eTO5J8AlH3gyy5fEXCJA"
+            },
+            "contentDetails": {
+                "videoId": "H1e0oe6YZR4",
+                "videoPublishedAt": "2016-12-13T06:15:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B_xtAVx4dLtNmWfdCUwsrFu3s8M",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xODVDRjcwQzY3NkIxNjYz",
+            "snippet": {
+                "publishedAt": "2019-05-09T12:06:46Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "phim thái lan - Lỗi tình yêu -Tập 1 [thuyết minh Tiếng Việt]",
+                "description": "phim thái lan - Lỗi tình yêu -Tập 1 [thuyết minh Tiếng Việt]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Zah6UVur1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Zah6UVur1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Zah6UVur1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5Zah6UVur1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 116,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5Zah6UVur1g"
+                },
+                "videoOwnerChannelTitle": "Club Friday",
+                "videoOwnerChannelId": "UCmwFpgUI1J3nFwuU3Jy3GrQ"
+            },
+            "contentDetails": {
+                "videoId": "5Zah6UVur1g",
+                "videoPublishedAt": "2017-12-21T01:52:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5EMzA0fOYJsHSWp3Ccb3od55EwE",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy42QTlDMjkyRjNGMEYwQzcz",
+            "snippet": {
+                "publishedAt": "2019-05-09T12:07:15Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Xin Lỗi, Anh Yêu Em Tập 1   HD 5   Xem Phim",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZwNwvqPeGBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZwNwvqPeGBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZwNwvqPeGBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 117,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZwNwvqPeGBc"
+                },
+                "videoOwnerChannelTitle": "Duy Kiên",
+                "videoOwnerChannelId": "UCy26Ia242NR6cgUDqvMvGyg"
+            },
+            "contentDetails": {
+                "videoId": "ZwNwvqPeGBc",
+                "videoPublishedAt": "2016-03-05T17:35:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vuzzh2kn7RcD-m2kgfLQQNOHCnc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5DM0UwMkNDRTIwQUNDMjE2",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:27:07Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 118,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "twWXg6J5W5w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "twWXg6J5W5w"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gvm8Ei-xjcB5U4og1f86BViQh40",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy44NEFDRUNBRDQwODFGNEU1",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:31:59Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 119,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0_CRmxkNcW8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0_CRmxkNcW8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-dv-me4frL3utCo28fwiCycrC6c",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4wMkM3QkFEQzQ4QTU0MTNB",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:34:22Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 120,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qv_3Att179s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qv_3Att179s"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KyNT356sQyUpzFv7Y7qxRB_szIk",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4yQUYyOTAwNjkwNDE5QjlE",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:37:04Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 121,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iCqZcPOqP64"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iCqZcPOqP64"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lwuO22UnLwVABkGETnLVlMoisJ4",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy43OTZFNzk1NjVDNDVBRjZG",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:37:15Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Phim học đường: Ảo tưởng tuổi 17. Tập 3: Crush | Z Team - Kem Xôi TV",
+                "description": "LINK TẬP 4 TRÊN MOCHA VIDEO: http://video.mocha.com.vn/ao-tuong-tuoi-17-tap-4-v2062560.html?src=cn67248\n\nLINK FULL TRÊN MOCHA VIDEO ĐẾN TẬP 7 MỚI NHẤT, CLICK TIẾP THÔI: http://video.mocha.com.vn/ao-tuong-tuoi-17-cn67248.html.html\n\n------------------------------\nBỘ PHIM VỀ THẾ GIỚI STREAMER VÀ DÀNH CHO NGƯỜI YÊU GAME Ở VIỆT NAM !!!\n\nTất cả những chi tiết chân thực, hài hước và lãng mạn nhất của cuộc sống của những bạn trẻ đam mê Game sẽ xuất hiện trong \"Ảo tưởng tuổi 17\" với sự tham gia của Đàm Linh, Jack carry on, Trung Be, Vân sặt...\n\nBộ phim sẽ được phát sóng độc quyền trên Mocha lúc 20h thứ tư, thứ bảy hàng tuần từ ngày 06/04/2019.\n\nCÀI MOCHA ĐỂ XEM PHIM MIỄN PHÍ 3G/4G TỐC ĐỘ CAO: http://mocha.com.vn/app\n\n► Đăng ký nhận thông báo khi có tập mới: http://goo.gl/2Efo1i\n► Fanpage chính thức: https://www.facebook.com/fc.Zteam/\n\n#Aotuongtuoi17 #Streamer #Phimhocduong\n#ATT17 #Zteam #Kemxoitv #linhngocdam \n\n------------------------------\nLiên hệ quảng cáo/tài trợ phim \"Ảo tưởng tuổi 17\":\nMobile: 0969 16 17 18\nEmail: hoptac@viettel.com.vn\n\nThực hiện bởi: Kem Xôi TV \nVới sự tham gia của: \n* Chịu trách nhiệm nội dung: Vũ Thành Long.\n* Đạo diễn: Jack Carry On\n* Biên kịch: Hỏa Hạnh Nhân, Jack Carry On\n* Diễn viên: Đàm Ngọc Linh, Jack Carry On, Trung Kê, Vân Sặt, Trung Be, Huy Toàn...\n* DP: Hữu Ước\n* Soundman: Đoàn Xuân Lộc\n* Hậu Kì: Jack Carry On\n* TCSX: Thái Bảo, Giáng Tiên, Hoàng Lân, Phạm Hồng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z6k1scxX4pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z6k1scxX4pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z6k1scxX4pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z6k1scxX4pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z6k1scxX4pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 122,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z6k1scxX4pA"
+                },
+                "videoOwnerChannelTitle": "Kem Xôi TV",
+                "videoOwnerChannelId": "UCPu7cX9LrVOlCDK905T9tVw"
+            },
+            "contentDetails": {
+                "videoId": "Z6k1scxX4pA",
+                "videoPublishedAt": "2019-04-27T06:09:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G67JeMlrt577y8rVobNP6jvLNCc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xNUMzRTJBOEYwRTBDOTBD",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:37:25Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 123,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DWe7VZ3ynrc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DWe7VZ3ynrc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S7cQgeng-qGpSYviURHS4YFSqdo",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy45QUZGQkMzMEZDNTZBREY3",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:37:45Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 124,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iWkpjEhnzac"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iWkpjEhnzac"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IaUrnl8BiCssCVs5vv6f-Vhveyk",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy40NjI5ODZCQUE5NkRBMDI0",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:37:55Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 125,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TMF70kjM8hM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TMF70kjM8hM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s7WqxE6ML5cKY_aFAvz26WjKLUA",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5BNEEyNDAyQThDNDA5MEU0",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:38:06Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Hạnh phúc viên mãn tập 1, phim Thái Lan hay nhất 2018",
+                "description": "Hãy đăng ký để theo dõi kênh thường xuyên!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i_7to-XPYrk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i_7to-XPYrk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i_7to-XPYrk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i_7to-XPYrk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 126,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i_7to-XPYrk"
+                },
+                "videoOwnerChannelTitle": "My Ngoc",
+                "videoOwnerChannelId": "UC55JvGdDcWLkfXbMeONpbug"
+            },
+            "contentDetails": {
+                "videoId": "i_7to-XPYrk",
+                "videoPublishedAt": "2018-11-29T04:27:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Q0R2irrbgCG2Me5ctLSUVFLYh6c",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4yRjU0MzcwMkYwRkVDNDhC",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:38:34Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 127,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bIQGviWvlJo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bIQGviWvlJo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wyYgNWVx5TZQCWxgDc4Hsq9cn40",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5BNEY4RDc0MzMyNDAyQjAx",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:39:22Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Cặp Đôi Trời Định Tập 1 Phim Thái Lan CẶP ĐÔI TRỜI ĐỊNH",
+                "description": "Cặp Đôi Trời Định Tập 1 Phim Thái Lan CẶP ĐÔI TRỜI ĐỊNH",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lh2slhUQGiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lh2slhUQGiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lh2slhUQGiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lh2slhUQGiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 128,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Lh2slhUQGiY"
+                },
+                "videoOwnerChannelTitle": "Spink Skot Lote",
+                "videoOwnerChannelId": "UCgDAgW6IC7DUCuZM22Iu-cQ"
+            },
+            "contentDetails": {
+                "videoId": "Lh2slhUQGiY",
+                "videoPublishedAt": "2017-11-21T00:35:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YVYd4vHKmniwvNG1f0G_oofBSTU",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy42MTk5OTRCREQ5RkNFODZF",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:39:30Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Nụ Hôn Định Mệnh Tập 1 Thuyết Minh - Phim Thái Lan Tình Cảm Hay Nhất",
+                "description": "Nụ Hôn Định Mệnh Tập 1 Thuyết Minh - Phim Thái Lan Tình Cảm Hay Nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x1ma6q3CZ_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x1ma6q3CZ_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x1ma6q3CZ_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x1ma6q3CZ_w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x1ma6q3CZ_w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 129,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x1ma6q3CZ_w"
+                },
+                "videoOwnerChannelTitle": "From Vietnoy With Live",
+                "videoOwnerChannelId": "UCAPQUBNdbyD_CJDfg885FKw"
+            },
+            "contentDetails": {
+                "videoId": "x1ma6q3CZ_w",
+                "videoPublishedAt": "2017-05-23T16:59:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8OY_QTcwGzIYQImGhuxtWzz79WE",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4yNDgyN0RCRjQ1QTUxRUMy",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:39:40Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 130,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KED_VjWysgQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KED_VjWysgQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MQzSOVgedgsUvZkZKsrmvNA1o1A",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xQzNEQjU3NzFFNzQ1M0Q0",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:40:45Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "ladyTV | Đừng Gọi Tên Em - Tập 1 (Lồng Tiếng )",
+                "description": "● Đăng Ký Kênh: https://goo.gl/R2SyFj\nTỔNG HỢP PHIM TRUYỆN CÓ MẶT TRÊN ACC COMPANY\n● Xem tất cả phim trên kênh ACC COMPANY: https://goo.gl/R2SyFj \n● Đăng Ký Kênh: https://goo.gl/R2SyFj\n--------------------------------------------------------------------------------------\n\"Lâm Thư – cô tiểu thư nhà họ Lâm- yêu say đắm anh chàng Trương Dương hào hoa lãng tử. Mặc dù bị Mẹ phản đối nhưng cô vẫn nhất quyết trốn nhà đi đăng ký kết hôn với anh. Ngay lúc gia đình cần Trương Dương ở vai trò người trụ cột nhất thì bất ngờ Trương Dương tuyên bố muốn ly hôn. Anh mau chóng rời bỏ người vợ yêu anh tha thiết để đến với cô tiểu thư xinh đẹp vừa bị thất tình Đặng Lan Hinh anh quen trong quán rượu.\nTuy nhiên, những sóng gió nào sẽ xảy ra với gia đình nhà họ Lâm, khi mọi việc cứ cuốn theo vòng tròn luẩn quẩn giữa thiện và ác. Liệu Lâm Thư có hạnh phúc với tình yêu mới? Và Trương Dương có phải trả giá cho những hành động của mình hay ko?.”\n● Đăng Ký Kênh: https://goo.gl/R2SyFj\nTỔNG HỢP PHIM TRUYỆN CÓ MẶT TRÊN ACC COMPANY\n●[PHIM TÌNH CẢM TRUNG QUỐC] YÊU HẬN TÌNH THÙ\nLink: [https://goo.gl/sQxJhM]\n●[PHIM ẤN ĐỘ] CHHAN CHHAN XINH ĐẸP\nLink: [https://goo.gl/wx1YCu]\n●[PHIM CỔ TRANG] Tần Thời Minh Nguyệt\nLink: [https://goo.gl/zd6Mzu]\n●[PHIM TÌNH CẢM ĐÀI LOAN] Phụ Nữ Đào Hoa\nLink: [https://goo.gl/FyrzKq]\n●[PHIM CỔ TRANG] Tân Bát Tiên\nLink: [https://goo.gl/Vs4YRx]\n●[PHIM TÌNH CẢM] Kim Ngọc Mãn Đường\nLink: [https://goo.gl/1wiQs6]\n●[PHIM CỔ TRANG] Thục Sơn Chiến Kỷ\nLink: [https://goo.gl/vgqN6L]\n● [PHIM ĐÀI LOAN ] Hoa Lưỡng Sinh\nLink: https://www.youtube.com/watch?v=JAAZ8Bpryag&list=PLyIpJoY9eZGbODmJPqAhVt8iy7j-Nc9vN\n● Xem tất cả phim trên kênh ACC COMPANY: https://goo.gl/R2SyFj \n● Đăng Ký Kênh: https://goo.gl/R2SyFj Kênh ladyTV phát sóng 24/7 trên SCTV13 \nTrao yêu thương cho cuộc sống đong đầy - ladyTV luôn bên bạn và gia đình với các bộ phim tình cảm lãng mạn, tình thân gia đình, mang ý nghĩa và nội dung đặc sắc; cùng những chương trình gameshow, ca nhạc, hài kịch, truyền hình thực tế rộn vang tiếng cười. \nCác khung giờ nổi bật: \n- 12:00 - hằng ngày: PHIM CỔ TRANG \n- 20:00 - hằng ngày: PHIM TÌNH CẢM \n- 21:00 - hằng ngày: PHIM GIA ĐÌNH \n--------------------------------------------------------------------------------------\nNỘI DUNG PHIM\n--------------------------------------------------------------------------------------\n\"Lâm Thư – cô tiểu thư nhà họ Lâm- yêu say đắm anh chàng Trương Dương hào hoa lãng tử. Mặc dù bị Mẹ phản đối nhưng cô vẫn nhất quyết trốn nhà đi đăng ký kết hôn với anh. Ngay lúc gia đình cần Trương Dương ở vai trò người trụ cột nhất thì bất ngờ Trương Dương tuyên bố muốn ly hôn. Anh mau chóng rời bỏ người vợ yêu anh tha thiết để đến với cô tiểu thư xinh đẹp vừa bị thất tình Đặng Lan Hinh anh quen trong quán rượu.\nTuy nhiên, những sóng gió nào sẽ xảy ra với gia đình nhà họ Lâm, khi mọi việc cứ cuốn theo vòng tròn luẩn quẩn giữa thiện và ác. Liệu Lâm Thư có hạnh phúc với tình yêu mới? Và Trương Dương có phải trả giá cho những hành động của mình hay ko?.”\n--------------------------------------------------------------------------------------\nCẬP NHẬT LIST PHIM MỚI NHẤT\n--------------------------------------------------------------------------------------\n1. 12:00 | Tiên Kiếm Kì Duyên: https://youtu.be/5VtnNkKHWI4\n2. 21:00 | Mảnh Ghép Yêu Thuương: https://youtu.be/qXSORwgwt_s\n3. Phim Singapore| Vũ Điệu Tình Yêu: https://youtu.be/lYWhHtg71i8\n4. Phim ĐàiLoan | Bạn Gái Tin Đồn: https://youtu.be/M5qGXAgb_3M\n5. Phim Singapore | Sức Mạnh Hậu Phương: https://youtu.be/OBjSjDy_1rY\n6. Phim Singapore | Mẹ Hổ Đến Rồi: https://youtu.be/RIXE24LSQmw\n7. Phim Singapore | Đàn Ông Phải Thế: https://youtu.be/WqXYbKgcySk\n8. Phim Đài Loan | Màu Của Nước Mắt: https://youtu.be/ZEJqTJp9I2o\n9. Phim Singapore | Bóng Mát Giữa Đời: https://youtu.be/FBU-QLyLNJU\n10. Phim Đài Loan | Hạnh Phúc Trên Mặt Trăng: https://youtu.be/LKlok0CJBhk\n--------------------------------------------------------------------------------------\nKẾT NỐI VỚI ladyTV\n--------------------------------------------------------------------------------------\n🔹 Website: http://ladytv.com.vn \n🔹 Youtube: https://www.youtube.com/c/ladytvonline\n🔹 Facebook: https://www.facebook.com/ladytvonline/ \n🔹 Instagram: https://www.instagram.com/ladyTV_online/ \n🔹 Twitter: https://twitter.com/ladyTVonline\n🔹 Zalo: https://zalo.me/803049755813539165",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/52aTZklnz7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/52aTZklnz7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/52aTZklnz7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/52aTZklnz7Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/52aTZklnz7Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 131,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "52aTZklnz7Q"
+                },
+                "videoOwnerChannelTitle": "ladyTV Online",
+                "videoOwnerChannelId": "UCU2Yxfwz0un3yDn-q_C0y5g"
+            },
+            "contentDetails": {
+                "videoId": "52aTZklnz7Q",
+                "videoPublishedAt": "2017-10-16T10:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u_cXtekSwdilqowGpMZfsvGYkoU",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xNkVFQkQwQzlCOTczN0FG",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:41:43Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 132,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f7VgB7uLiVg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "f7VgB7uLiVg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oYuFjZNHkGsuA-QZA-8u80WQk0w",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xM0YyQUYxQTg5OTgyQ0Y5",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:43:12Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 133,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Xe9e5US5wx4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Xe9e5US5wx4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0QGnZUNUR0zHoZWVr9dKMSRqcfg",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy44OEI3NUQ0QTlFM0FCOUU4",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:44:43Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Mối Tình Tay Ba Tập 1, Phim bộ Thái Lan Mới nhấtthuyết minh",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QBvhN1wVVR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QBvhN1wVVR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QBvhN1wVVR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QBvhN1wVVR8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QBvhN1wVVR8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 134,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QBvhN1wVVR8"
+                },
+                "videoOwnerChannelTitle": "Phim Thai Lan SCTV",
+                "videoOwnerChannelId": "UCei93Td7no9kpeNuNGM8viA"
+            },
+            "contentDetails": {
+                "videoId": "QBvhN1wVVR8",
+                "videoPublishedAt": "2016-12-14T06:49:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AW1Suj_6aW8jUwIjArXApDlrQOc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5FRkU3NjdFNDBDMjFBNTlF",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:45:35Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 135,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jYQhSxngYf4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jYQhSxngYf4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NGmpi1OvHVYpPqrkGHSCd4Yt2hM",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy45MTRCQjE3QzVGNDREODIz",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:45:50Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Phim Thái Lan hay lồng tiếng | Thiên Thần Đáng Yêu Tập 1",
+                "description": "Phim Thái Lan hay lồng tiếng | Thiên Thần Đáng Yêu Tập 1\nĐăng Ký Kênh để được xem tập mới nhất nha.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4oxJP2Bya9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4oxJP2Bya9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4oxJP2Bya9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4oxJP2Bya9g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 136,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4oxJP2Bya9g"
+                },
+                "videoOwnerChannelTitle": "Kenh Phim Hay",
+                "videoOwnerChannelId": "UCCYooZBR2izNaxkY9M9irGg"
+            },
+            "contentDetails": {
+                "videoId": "4oxJP2Bya9g",
+                "videoPublishedAt": "2018-06-13T07:02:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ABexE2ySdJXm8A88DtsbeysUCPI",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy41ODI2RjhGOTVBODI2NDE5",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:46:14Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 137,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h10ZmZQb640"
+                }
+            },
+            "contentDetails": {
+                "videoId": "h10ZmZQb640"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xl3JwQyfXwP4bl39nt_8UyS4nbs",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4yNkZBOTQyMkYxQkQyMzc2",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:46:40Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 138,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HW9fVVsGKL4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HW9fVVsGKL4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4lMcRY6t2HrwZuzLDzBgP-AGOzU",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5EMzgyRkY2QzI3NjdDMDM4",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:46:53Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 139,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ywiN8qaOJSY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ywiN8qaOJSY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pNz3uZyEIw91noZGm7-2ufvQhvE",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4xODJEMEQ5M0RCMDRGMzcy",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:47:41Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Sức Mạnh Đàn Bà Tập 1 Phim Thái Lan SỨC MẠNH ĐÀN BÀ",
+                "description": "Sức Mạnh Đàn Bà Tập 1 Phim Thái Lan SỨC MẠNH ĐÀN BÀ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EblR1Fbfx0s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EblR1Fbfx0s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EblR1Fbfx0s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 140,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EblR1Fbfx0s"
+                },
+                "videoOwnerChannelTitle": "Nice Syn Slowki PL",
+                "videoOwnerChannelId": "UC4drAVfIc4nYZz_Y1yrer3g"
+            },
+            "contentDetails": {
+                "videoId": "EblR1Fbfx0s",
+                "videoPublishedAt": "2017-12-18T00:14:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XHIzTxpMin8Zysbko37rq7iHXLM",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy43RDFFNUM4NkUwRDhEMjRD",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:48:16Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Tình Yêu Ngọt Ngào Tập 1 Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AODvIFyutBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AODvIFyutBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AODvIFyutBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 141,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AODvIFyutBc"
+                },
+                "videoOwnerChannelTitle": "PhimThaiLan2014",
+                "videoOwnerChannelId": "UCCLLoJn1TgisHSE_06cle-A"
+            },
+            "contentDetails": {
+                "videoId": "AODvIFyutBc",
+                "videoPublishedAt": "2014-12-10T13:16:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w0NOAFBW_2OKg6jXAGHEOVP0Fyo",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4wMUIwQkI1NEQ1RTFBNTND",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:48:43Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 142,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FPXploiNwgg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FPXploiNwgg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Oh-qdRTwlE5GH8btI-BOo9U7IBc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy40OEMzNzFDQjA5Q0YxMjQ3",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:50:37Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Thiên Sứ Tội Lỗi tập 1 Phim Thái Lan   HD",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XeqZBq5e7uc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XeqZBq5e7uc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XeqZBq5e7uc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 143,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XeqZBq5e7uc"
+                },
+                "videoOwnerChannelTitle": "Goseiger full",
+                "videoOwnerChannelId": "UCer2LrjDyWsjG4byaFaNUTA"
+            },
+            "contentDetails": {
+                "videoId": "XeqZBq5e7uc",
+                "videoPublishedAt": "2016-05-03T00:22:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b5E-2L5YqaFc90ta7mCWiNKnv9A",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5COUU4NzEzMzg1MkZFQjlE",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:50:55Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "[Vietsub] Người trong mộng - OST Ảo Mộng",
+                "description": "Official site: http://facebook.com/ChuonChuonCanhSen\nDownload : https://chuonchuoncanhsen.wordpress.com\n\nBản quyền thuộc về các nhà sản xuất.\nClip này được Việtsub với mục đích học hỏi, phi lợi nhuận, vui lòng không sử dụng trong mục đích thương mại.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iY8R8hbaK5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iY8R8hbaK5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iY8R8hbaK5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iY8R8hbaK5k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iY8R8hbaK5k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 144,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iY8R8hbaK5k"
+                },
+                "videoOwnerChannelTitle": "Chuồn Chuồn Cánh Sen",
+                "videoOwnerChannelId": "UCjqw2Va6258jFVJkXOmGUXA"
+            },
+            "contentDetails": {
+                "videoId": "iY8R8hbaK5k",
+                "videoPublishedAt": "2015-05-10T01:58:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hAoMtr3IijDL8U6JcCGY0fCAC50",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5GQkE1RUQxMTA5RkRDNDZB",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:51:50Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Giọt Máu Yêu Thương Tập 1 phim Thái Lan thuyết minh Giot mau yeu thuong",
+                "description": "Giọt Máu Yêu Thương Tập 1 phim Thái Lan thuyết minh Giot mau yeu thuong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FTxcsePWDGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FTxcsePWDGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FTxcsePWDGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 145,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FTxcsePWDGg"
+                },
+                "videoOwnerChannelTitle": "Kangtie Hupin F",
+                "videoOwnerChannelId": "UCctacK6OM350xro_fCzcntg"
+            },
+            "contentDetails": {
+                "videoId": "FTxcsePWDGg",
+                "videoPublishedAt": "2017-03-28T09:59:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JUpC4nQcFsDc-AmTlOfv-QFDWyQ",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4wM0EzQkE0MkU3NUQ0QjFG",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:51:58Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 146,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dqTt4HTigm0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dqTt4HTigm0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uN5Z_iSwsKRzvUEwtLoXLM5H3zc",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5GOUFFM0FFNzI5RkU1NjAx",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:54:04Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Trailer phim Ảo Mộng!",
+                "description": "Trailer phim Ảo Mộng!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4pU6KS5VMU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4pU6KS5VMU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4pU6KS5VMU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4pU6KS5VMU8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4pU6KS5VMU8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 147,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4pU6KS5VMU8"
+                },
+                "videoOwnerChannelTitle": "hanoicocktail",
+                "videoOwnerChannelId": "UCAidrUGVFlZ_qaBK4C47QeA"
+            },
+            "contentDetails": {
+                "videoId": "4pU6KS5VMU8",
+                "videoPublishedAt": "2015-10-31T15:18:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ii7nEv87HYYorwHKR-UvIJCvtyU",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy5CNzJDRTExMkJBNTBENTI2",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:54:15Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 148,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9jBumQgg3Ho"
+                }
+            },
+            "contentDetails": {
+                "videoId": "9jBumQgg3Ho"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fR-IiguOO9k_RkpI2cOQXPSKR1w",
+            "id": "UEw5Q18wZ0NyREs4RjY1cWY0NFdwMEsxUTRyVGNGZWZyXy4wNTk4QjhCMzFDNkQ2MDg3",
+            "snippet": {
+                "publishedAt": "2019-05-10T07:54:41Z",
+                "channelId": "UCxjodAcUFQXBClbAyg3jWpg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nhan Nguyen",
+                "playlistId": "PL9C_0gCrDK8F65qf44Wp0K1Q4rTcFefr_",
+                "position": 149,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ubAULEonS7o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ubAULEonS7o"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 168,
+        "resultsPerPage": 50
+    }
+}

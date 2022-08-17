@@ -1,0 +1,2407 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "tsUK0167jL6ackr7wYruLGk0AXU",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iGDVYqRnskbnrEqjtdLnTgm5IkU",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2022-02-09T14:04:15Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 01 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HRsySCrhAfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HRsySCrhAfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HRsySCrhAfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HRsySCrhAfg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HRsySCrhAfg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HRsySCrhAfg"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "HRsySCrhAfg",
+                "videoPublishedAt": "2022-02-08T12:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7hC32vQVDcmuboSnkN7pia6ghLI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 02 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NQSxtsdHrAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NQSxtsdHrAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NQSxtsdHrAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NQSxtsdHrAw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NQSxtsdHrAw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NQSxtsdHrAw"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "NQSxtsdHrAw",
+                "videoPublishedAt": "2022-02-08T13:15:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EB2s7jEAvhn9VjihClwCHjY_CP8",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 03 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Y9MTITXf7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Y9MTITXf7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Y9MTITXf7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Y9MTITXf7g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Y9MTITXf7g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6Y9MTITXf7g"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "6Y9MTITXf7g",
+                "videoPublishedAt": "2022-02-09T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jKHQHveF6FULzZisjWZl49ocVZ8",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 04 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Q3TXi7RRaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Q3TXi7RRaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Q3TXi7RRaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0Q3TXi7RRaU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0Q3TXi7RRaU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0Q3TXi7RRaU"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "0Q3TXi7RRaU",
+                "videoPublishedAt": "2022-02-09T13:15:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TBceXJYL4nPfDndyMOEzD_ZGV8w",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 05 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U28VAV4qnIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U28VAV4qnIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U28VAV4qnIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U28VAV4qnIA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U28VAV4qnIA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "U28VAV4qnIA"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "U28VAV4qnIA",
+                "videoPublishedAt": "2022-02-10T04:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OZjYwkZ9nFCuttxZ7ilXHoSOH_o",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 06 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RefwkyTerV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RefwkyTerV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RefwkyTerV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RefwkyTerV8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RefwkyTerV8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RefwkyTerV8"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "RefwkyTerV8",
+                "videoPublishedAt": "2022-02-10T05:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QGo1D3JkNeJIoOlVGJ5yUo6jf8Y",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 07 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hD0uAf9hTsA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hD0uAf9hTsA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hD0uAf9hTsA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hD0uAf9hTsA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hD0uAf9hTsA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hD0uAf9hTsA"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "hD0uAf9hTsA",
+                "videoPublishedAt": "2022-02-10T12:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Aop-U13LxBR1e_gBKvjdX5sQD70",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 08 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B7e8rmPSmOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B7e8rmPSmOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B7e8rmPSmOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B7e8rmPSmOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B7e8rmPSmOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B7e8rmPSmOY"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "B7e8rmPSmOY",
+                "videoPublishedAt": "2022-02-10T13:15:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6zImqmCcsvU1Ms_K_jH9yvmYzoA",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 09 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tPH6HsLAOFU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tPH6HsLAOFU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tPH6HsLAOFU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tPH6HsLAOFU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tPH6HsLAOFU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tPH6HsLAOFU"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "tPH6HsLAOFU",
+                "videoPublishedAt": "2022-02-11T04:30:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E0CpR-Dj2rCx_pjYuv8HZynnOtE",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 10 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BtYxveLJ7RE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BtYxveLJ7RE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BtYxveLJ7RE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BtYxveLJ7RE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BtYxveLJ7RE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BtYxveLJ7RE"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "BtYxveLJ7RE",
+                "videoPublishedAt": "2022-02-11T05:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NzuXSjgE8fpMe09QE-3Y96zluYA",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 11 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ej6tozMM7ZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ej6tozMM7ZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ej6tozMM7ZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ej6tozMM7ZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ej6tozMM7ZQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ej6tozMM7ZQ"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "Ej6tozMM7ZQ",
+                "videoPublishedAt": "2022-02-11T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2aZaoeQfu_0AczxPfsgPbskBbjM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 12 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bbvTW9Kq4vU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bbvTW9Kq4vU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bbvTW9Kq4vU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bbvTW9Kq4vU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bbvTW9Kq4vU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bbvTW9Kq4vU"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "bbvTW9Kq4vU",
+                "videoPublishedAt": "2022-02-11T13:15:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vhlcrPmo-f7fP4f-_34YQL0ybE0",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 13 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-5TBVKUNlew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-5TBVKUNlew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-5TBVKUNlew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-5TBVKUNlew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-5TBVKUNlew/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-5TBVKUNlew"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "-5TBVKUNlew",
+                "videoPublishedAt": "2022-02-12T04:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zOuXR7eaeqFbhEjUitNjaHoJDr0",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 14 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bq7x6fC-75I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bq7x6fC-75I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bq7x6fC-75I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bq7x6fC-75I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bq7x6fC-75I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bq7x6fC-75I"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "bq7x6fC-75I",
+                "videoPublishedAt": "2022-02-12T05:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VdwLTIJuBQ-FdfH4dPxFd5DbO20",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 15 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nqYpFAYDFhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nqYpFAYDFhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nqYpFAYDFhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nqYpFAYDFhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nqYpFAYDFhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nqYpFAYDFhA"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "nqYpFAYDFhA",
+                "videoPublishedAt": "2022-02-12T12:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z-9YQSvrpYp0DJX_S51ubS6c174",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 16 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/najrr4MzAr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/najrr4MzAr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/najrr4MzAr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/najrr4MzAr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/najrr4MzAr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "najrr4MzAr4"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "najrr4MzAr4",
+                "videoPublishedAt": "2022-02-12T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h8KUiMMCXqunUjA2tmPKwAn5IhI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 17 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eQ2gVPl3C_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eQ2gVPl3C_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eQ2gVPl3C_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eQ2gVPl3C_g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eQ2gVPl3C_g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eQ2gVPl3C_g"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "eQ2gVPl3C_g",
+                "videoPublishedAt": "2022-02-13T04:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oDrS1l1V52DGNXGzpR9TRfMXuyw",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 18 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdaOXCjq26Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdaOXCjq26Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdaOXCjq26Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QdaOXCjq26Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QdaOXCjq26Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QdaOXCjq26Q"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "QdaOXCjq26Q",
+                "videoPublishedAt": "2022-02-13T05:15:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rHTU3lj_yFiGyzt7Dpl2iiXjvrg",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 19 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/czBNW-r8qoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/czBNW-r8qoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/czBNW-r8qoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/czBNW-r8qoM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/czBNW-r8qoM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "czBNW-r8qoM"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "czBNW-r8qoM",
+                "videoPublishedAt": "2022-02-13T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FC7fAqukxkez3cd_UzsdAmQR2TI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 20 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1LjdMST9yvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1LjdMST9yvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1LjdMST9yvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1LjdMST9yvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1LjdMST9yvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1LjdMST9yvs"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "1LjdMST9yvs",
+                "videoPublishedAt": "2022-02-13T13:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X36G3f1eCEmBMzShsiGMHW9U-eE",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 21 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ypUXc9BXRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ypUXc9BXRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ypUXc9BXRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6ypUXc9BXRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6ypUXc9BXRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6ypUXc9BXRA"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "6ypUXc9BXRA",
+                "videoPublishedAt": "2022-02-14T04:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iIT2FiSIVhqKVC-ws-T-_z3s7oE",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 22 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H5xFCKrLf6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H5xFCKrLf6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H5xFCKrLf6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H5xFCKrLf6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H5xFCKrLf6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H5xFCKrLf6A"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "H5xFCKrLf6A",
+                "videoPublishedAt": "2022-02-14T05:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p_pM0JDc15V-XeS9w3ZacUDgvSM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 23 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ITgxMNpgSdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ITgxMNpgSdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ITgxMNpgSdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ITgxMNpgSdo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ITgxMNpgSdo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ITgxMNpgSdo"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "ITgxMNpgSdo",
+                "videoPublishedAt": "2022-02-14T12:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OteTRLolWvuRW3n-6EnF706luwg",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 24 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g9JDPeGGTvI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g9JDPeGGTvI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g9JDPeGGTvI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g9JDPeGGTvI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g9JDPeGGTvI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g9JDPeGGTvI"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "g9JDPeGGTvI",
+                "videoPublishedAt": "2022-02-14T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TzQBTVNC4La7RBIWS8NPtsxrBDs",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:07:36Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 25 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r7DV9lasrg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r7DV9lasrg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r7DV9lasrg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r7DV9lasrg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r7DV9lasrg0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r7DV9lasrg0"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "r7DV9lasrg0",
+                "videoPublishedAt": "2022-02-15T04:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mStWjLCM1krp-7cTPHX93e1YuY0",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 26 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uiDeQ0zCx24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uiDeQ0zCx24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uiDeQ0zCx24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uiDeQ0zCx24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uiDeQ0zCx24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uiDeQ0zCx24"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "uiDeQ0zCx24",
+                "videoPublishedAt": "2022-02-15T05:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mLL2H5TddYZoesWZbkasKS9ZeUM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 27 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vNtKf-mO_rc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vNtKf-mO_rc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vNtKf-mO_rc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vNtKf-mO_rc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vNtKf-mO_rc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vNtKf-mO_rc"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "vNtKf-mO_rc",
+                "videoPublishedAt": "2022-02-15T12:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k1IL53XZxQUdaJ-IVnEdF2RX4SI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 28 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZE_Veexx5Sg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZE_Veexx5Sg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZE_Veexx5Sg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZE_Veexx5Sg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZE_Veexx5Sg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZE_Veexx5Sg"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "ZE_Veexx5Sg",
+                "videoPublishedAt": "2022-02-15T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UNlFblWoWzQluScrmKH-89UYfFg",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 29 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uFQWxOJGKac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uFQWxOJGKac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uFQWxOJGKac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uFQWxOJGKac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uFQWxOJGKac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uFQWxOJGKac"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "uFQWxOJGKac",
+                "videoPublishedAt": "2022-02-16T04:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iV1MyOM7OzR_63b3ZLo-fAH6-7o",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 30 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rUX1mg409H0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rUX1mg409H0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rUX1mg409H0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rUX1mg409H0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rUX1mg409H0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rUX1mg409H0"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "rUX1mg409H0",
+                "videoPublishedAt": "2022-02-16T05:15:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OKH4hMO5Z4SvQj7qITUL8-3-4BM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 31 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CkpygEkAqIY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CkpygEkAqIY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CkpygEkAqIY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CkpygEkAqIY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CkpygEkAqIY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CkpygEkAqIY"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "CkpygEkAqIY",
+                "videoPublishedAt": "2022-02-16T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j32N2ETvKdwGXTwcj64m_ByZVt4",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 32 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/55lzQgETYm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/55lzQgETYm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/55lzQgETYm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/55lzQgETYm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/55lzQgETYm0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "55lzQgETYm0"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "55lzQgETYm0",
+                "videoPublishedAt": "2022-02-16T13:15:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zooHHJ_suxF5-T8SD7Wgo-nFPIE",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 33 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UEpkBBAkQVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UEpkBBAkQVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UEpkBBAkQVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UEpkBBAkQVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UEpkBBAkQVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UEpkBBAkQVI"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "UEpkBBAkQVI",
+                "videoPublishedAt": "2022-02-17T04:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DveFEkpxCZ5VkEXaeAXY-VWrE3A",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 34 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8o9mB2k9kmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8o9mB2k9kmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8o9mB2k9kmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8o9mB2k9kmA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8o9mB2k9kmA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8o9mB2k9kmA"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "8o9mB2k9kmA",
+                "videoPublishedAt": "2022-02-17T05:15:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZxOVaekySabQBuS4QsHzY5ddDoE",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 35 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K4BoJ1A2_s0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K4BoJ1A2_s0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K4BoJ1A2_s0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K4BoJ1A2_s0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K4BoJ1A2_s0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K4BoJ1A2_s0"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "K4BoJ1A2_s0",
+                "videoPublishedAt": "2022-02-17T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "COKNfMx4tjcgyoJax7Nd6bm-v2Y",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 36 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8l_AdmWXqjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8l_AdmWXqjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8l_AdmWXqjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8l_AdmWXqjU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8l_AdmWXqjU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8l_AdmWXqjU"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "8l_AdmWXqjU",
+                "videoPublishedAt": "2022-02-17T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qQ7RQ1zIcho6zrwqbnBM_s18sbM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 37 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_HWDSrDqLo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_HWDSrDqLo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_HWDSrDqLo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_HWDSrDqLo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_HWDSrDqLo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_HWDSrDqLo4"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "_HWDSrDqLo4",
+                "videoPublishedAt": "2022-02-18T04:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K284VfEiULDsrvDGsVemZ8b3DIs",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 38 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aq6YEyT8MiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aq6YEyT8MiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aq6YEyT8MiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aq6YEyT8MiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aq6YEyT8MiY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aq6YEyT8MiY"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "aq6YEyT8MiY",
+                "videoPublishedAt": "2022-02-18T05:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ij6LAw9q-MiI1yMEGONwROLegzI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 39 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vg9fGZEDDyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vg9fGZEDDyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vg9fGZEDDyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vg9fGZEDDyc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vg9fGZEDDyc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vg9fGZEDDyc"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "Vg9fGZEDDyc",
+                "videoPublishedAt": "2022-02-18T13:15:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TXBl-pc8BEtjsGscmTtrf4BPCQI",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 40 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_LpmKiQtxv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_LpmKiQtxv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_LpmKiQtxv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_LpmKiQtxv8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_LpmKiQtxv8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_LpmKiQtxv8"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "_LpmKiQtxv8",
+                "videoPublishedAt": "2022-02-18T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EWzO4e_FFlTT0X2eSHxbx3FotNc",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 41 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aMeiLRZTWaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aMeiLRZTWaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aMeiLRZTWaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aMeiLRZTWaM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aMeiLRZTWaM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aMeiLRZTWaM"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "aMeiLRZTWaM",
+                "videoPublishedAt": "2022-02-19T04:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WuU54WeXHm-cx2k_Wmcaak2ny0g",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH- Tập 42 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9mxelTApfBk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9mxelTApfBk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9mxelTApfBk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9mxelTApfBk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9mxelTApfBk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9mxelTApfBk"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "9mxelTApfBk",
+                "videoPublishedAt": "2022-02-19T05:15:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2pDRsM2s6aTE5CDeaxZS9GunzDM",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 43 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iXFWEPriUw4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iXFWEPriUw4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iXFWEPriUw4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iXFWEPriUw4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iXFWEPriUw4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iXFWEPriUw4"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "iXFWEPriUw4",
+                "videoPublishedAt": "2022-02-19T12:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qxpkCC9caFR6y8TkhHxH9uSpSrk",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 44 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-8I4uPTIMu8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-8I4uPTIMu8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-8I4uPTIMu8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-8I4uPTIMu8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-8I4uPTIMu8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-8I4uPTIMu8"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "-8I4uPTIMu8",
+                "videoPublishedAt": "2022-02-19T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cJtaoiA5c6ylJh8zBXd00Wx5DjY",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 45 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NxxeRLJO5Xw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NxxeRLJO5Xw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NxxeRLJO5Xw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NxxeRLJO5Xw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NxxeRLJO5Xw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NxxeRLJO5Xw"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "NxxeRLJO5Xw",
+                "videoPublishedAt": "2022-02-20T04:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uxU8Lz1SYADrQzNxjcGDm6iw-28",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập 46 | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GkhkKP_J55A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GkhkKP_J55A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GkhkKP_J55A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GkhkKP_J55A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GkhkKP_J55A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GkhkKP_J55A"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "GkhkKP_J55A",
+                "videoPublishedAt": "2022-02-20T05:15:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PBG7DM0JelHlrwaS2xkbveeoF8Q",
+            "id": "UExZVnhtczdwMnNmVk9hd3IwVTBMc25UTkZLaDlBMWdpQi4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2022-01-21T08:14:51Z",
+                "channelId": "UCqeny110TN68xFyMAw4XqKw",
+                "title": "HẠ CÁNH TIM ANH - Tập Cuối | Phim Bộ Ngôn Tình Hay Nhất 2022 | TRẦN KIỀU ÂN - TRỊNH KHẢI | ART Drama",
+                "description": "►Trọn bộ: https://bit.ly/3KrUB06\n►Xem các phim hay khác: http://bit.ly/3rydGmS\n►Tên phim: HẠ CÁNH TIM ANH (47 Tập)\n►Diễn viên: Trần Kiều Ân, Trịnh Khải, Chu Tử Kiêu, Hồ Binh, Lữ Nhất,...\n►Nội dung: Nữ tiếp viên hàng không Ngô Địch vì quá đam mê bay lượn mà bất chấp tất cả, xin được đào tạo để trở thành phi công. Tiêu Mặc từng là phi công, vì gián tiếp gây ra cái chết của mẹ Hạ Vũ trong một chuyến bay nên bị bóng đen tâm lý, chuyển sang làm kỹ thuật viên bảo trì máy bay. Hạ Vũ là “thái tử gia”, người thừa kế của hãng hàng không Trọng Hạ. Ba người trẻ đã cùng nhau tạo nên một tam giác tình yêu nhiều rối rắm. Liệu trái tim Ngô Địch sẽ rung động vì ai?\n© Bản quyền thuộc về ART Drama\n\n#HaCanhTimAnh  #TrầnKiềuÂn   #TrịnhKhải",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5x6hSByuPpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5x6hSByuPpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5x6hSByuPpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5x6hSByuPpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5x6hSByuPpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ART Drama",
+                "playlistId": "PLYVxms7p2sfVOawr0U0LsnTNFKh9A1giB",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5x6hSByuPpM"
+                },
+                "videoOwnerChannelTitle": "ART Drama",
+                "videoOwnerChannelId": "UCqeny110TN68xFyMAw4XqKw"
+            },
+            "contentDetails": {
+                "videoId": "5x6hSByuPpM",
+                "videoPublishedAt": "2022-02-20T13:00:14Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 47,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,1028 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "m-R6tlvv30wwZmzhN6uHybKlIlY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lIBTmCHqvVSUrbC68m1jf77WQQw",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "CHỊ EM SONG SINH | TẬP 4 | THẦY DẠY YOGA | BB TRẦN X HẢI TRIỀU X NGUYỄN ANH TÚ",
+                "description": "CHỊ EM SONG SINH | THẦY DẠY YOGA | BB TRẦN x HẢI TRIỀU x NGUYỄN ANH TÚ\n\nKhi chị Sò mê trai, thuê hẳn PT về nhà dạy Yoga nhưng cuối cùng em Lụa ngây thơ lại được \"hưởng\", chiếm trọn tình cảm của anh PT.\n#BBTrần #HảiTriều #ChịEmSongSinh\n---------------\n🎲360mobi Cờ Tỷ Phú - Siêu Cập Nhật DU HÀNH VŨ TRỤ - TRANG BỊ S+ - CỰC HOT\n\n💕 Vào game ngay & chơi cực vui cùng bạn bè nào!!!\n\n\n🎲 Link tải Android: http://360mobi.vn/360mobiCotyphu.android\n🎲 Link tải IOS: http://360mobi.vn/360mobiCotyphu.ios\n----------------------------------\nBấm đăng ký kênh BBTV : https://metub.net/bbtran\nTheo dõi BBTV trên :\n► Facebook: https://www.facebook.com/bbtran2121\n► Full Playlist BBTV : http://bit.ly/bbtvplaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rfzwlLlh7JA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rfzwlLlh7JA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rfzwlLlh7JA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rfzwlLlh7JA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rfzwlLlh7JA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rfzwlLlh7JA"
+                },
+                "videoOwnerChannelTitle": "BB Trần",
+                "videoOwnerChannelId": "UCurbK4xlvyNsUPnH8cWCs6g"
+            },
+            "contentDetails": {
+                "videoId": "rfzwlLlh7JA",
+                "videoPublishedAt": "2018-11-23T13:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "55FKzuWLl7PNFDzUcSa2O3NOPQM",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6jwGCJv8deg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6jwGCJv8deg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xo28TDXvpIfS3aVCLdz0GwdBUhw",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BSUwpCQ-bxk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BSUwpCQ-bxk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VdUWASE3nEMGSF8yIKBSTLV_jDM",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "COME OUT–BƯỚC RA ÁNH SÁNG #9 FULL | Khát khao LÀM PHỤ NỮ MỘT NGÀY có chết cũng mãn nguyện | 191118😢",
+                "description": "COME OUT–BƯỚC RA ÁNH SÁNG #9 FULL | Khát khao LÀM PHỤ NỮ MỘT NGÀY có chết cũng mãn nguyện | 191118😢\n\n#COMEOUT #COMCV\n#BUOCRAANHSANG #BRAS\n✅ Đăng kí theo dõi/Subscribe: http://bit.ly/Subscribe-MCVMedia\n✅ Fanpage chính thức: https://www.facebook.com/mnetbuzz\n► Playlist các tập #COMEOUT: http://bit.ly/PlaylistCOMEOUT\n\n🎬 NỘI DUNG: \n\"COME OUT\" - Tập 9 là câu chuyện xúc động của hai chị em Bé Hai – Bé Ba hiện đang mưu sinh bằng nghề bán đồ chiên ở quận 4. \nQuá khứ đầy đau khổ khi từng tự tử vì ước mơ làm con gái quá lớn của 2 chị em. Bên cạnh đó là những khó khăn khi cả 2 đi xin việc bị kì thị, gia đình không chấp nhận, hay chuyện tình yêu đầy nước mắt của những người chuyển giới.\nĐặc biệt là chia sẻ về việc đánh đổi của người chuyển giới, khi phẫu thuật rất đau đớn, tất cả cũng vì khát khao được làm phụ nữ dù chỉ 1 ngày.\n\n⭐ THÔNG TIN KHÁCH MỜI: \nLâm Khánh Chi: http://bit.ly/Facebook-LamKhanhChi\nLê Minh Tuân: http://bit.ly/Facebook-LeMinhTuan\n\n💡 CÚ PHÁP TÌM NHANH: \ncome out, bước ra ánh sáng, come out #9 full, come out 9 full, come out tap 9, come out 9, come out #9, bras tap 9, bras 9, bras #9\n\n📺 GIỚI THIỆU CHƯƠNG TRÌNH:\n\"COME OUT - BƯỚC RA ÁNH SÁNG\" là một chương trình truyền hình thực tế Talkshow giữa MC và nhân vật có câu chuyện đặc biệt. Mong muốn của chương trình đem đến cho cộng đồng LGBT có thể tâm sự những nỗi niềm của bản thân, chia sẻ câu chuyện của chính mình về quá trình trải qua những nỗi đau và đấu tranh nội tâm để nhận được sự cảm thông từ gia đình và được xã hội công nhận và sống thực với chính mình.\n\n🔔 KHUNG GIỜ PHÁT SÓNG: 8H Thứ Hai hàng tuần trên kênh youtube MCVMedia: http://bit.ly/Subscribe-MCVMedia.\n\n🚩 Theo dõi các thông tin về COME OUT – BƯỚC RA ÁNH SÁNG:\n💎 Fanpage MCVMedia: http://bit.ly/FanpageMCVMEDIA\n🌐 Website: http://mcv.com.vn\n🌐 Youtube: \nĐăng ký/Subscribe #MCVMEDIA: http://bit.ly/SubscribeMCVMedia\nĐăng ký/Subscribe #MCVTV: http://bit.ly/SubscribeMCVTV\nĐăng ký/Subscribe #MCVCOMEDY: http://bit.ly/SubscribeMCVCOMEDY\nĐăng ký/Subscribe #MCVKIDZ: http://bit.ly/SubscribeMCVKidz\nĐăng ký/Subscribe #MCVFILM: http://bit.ly/SubscribeMCVFILM\nĐăng ký/Subscribe #LOVETV: http://bit.ly/SubscribeLOVETV\nĐăng ký/Subscribe #LOVERADIO: http://bit.ly/Subscribe-LOVERADIO\nĐăng ký/Subscribe #MBCNETWORK: http://bit.ly/SubscribeMBCNETWORK\n🌐 Dailymotion:\nhttp://www.dailymotion.com/MCVMedia\nhttp://www.dailymotion.com/MCVTV\n\n-~-~~-~~~-~~-~-\n© Các video trên kênh MCVMEDIA đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GwPF7Tz0WOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GwPF7Tz0WOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GwPF7Tz0WOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GwPF7Tz0WOs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GwPF7Tz0WOs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GwPF7Tz0WOs"
+                },
+                "videoOwnerChannelTitle": "MCVMedia",
+                "videoOwnerChannelId": "UCsluIbpgt14y6KUcwqCxXbg"
+            },
+            "contentDetails": {
+                "videoId": "GwPF7Tz0WOs",
+                "videoPublishedAt": "2018-11-19T01:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Bfw1Yme8MmkB2fArnqL5wzjQbkc",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "COME OUT–BƯỚC RA ÁNH SÁNG #6 FULL |Chị em ‘bon sai’ Hằng-Hà từng không dám mặc áo ngực vì sợ lộ tuổi",
+                "description": "COME OUT – BƯỚC RA ÁNH SÁNG #6 FULL |Chị em ‘bon sai’ Hằng - Hà từng không dám mặc áo ngực vì sợ lộ tuổi\n\n#COMEOUT #COMCV\n#BUOCRAANHSANG #BRAS\n✅ Đăng kí theo dõi/Subscribe: http://bit.ly/Subscribe-MCVMedia\n✅ Fanpage chính thức: http://bit.ly/FanpageCOMEOUT\n► Playlist các tập #COMEOUT: http://bit.ly/PlaylistCOMEOUT\n\n🎬 NỘI DUNG: \nKhách mời của số phát sóng COME OUT lần này là cặp song ca có ngoại hình “bon sai” Thanh Hằng - Thanh Hà. Câu chuyện về những khó khăn vất vả trong cuộc đời, về chuyện tình cảm đầy tự ti hay những lời kì thị của xã hội về những người có ngoại hình nhỏ bé sẽ mang đến nhiều cảm xúc cho khán giả.\n\n⭐ THÔNG TIN KHÁCH MỜI: \nLâm Khánh Chi: http://bit.ly/Facebook-LamKhanhChi\nLê Minh Tuân: http://bit.ly/Facebook-LeMinhTuan\n\n💡 CÚ PHÁP TÌM NHANH: \ncome out, bước ra ánh sáng, come out #6 full, come out 6 full, come out tap 6, come out 6, come out #6, bras tap 6, bras 6, bras #6\n\n📺 GIỚI THIỆU CHƯƠNG TRÌNH:\n\"COME OUT - BƯỚC RA ÁNH SÁNG\" là một chương trình truyền hình thực tế Talkshow giữa MC và nhân vật có câu chuyện đặc biệt. Mong muốn của chương trình đem đến cho cộng đồng LGBT có thể tâm sự những nỗi niềm của bản thân, chia sẻ câu chuyện của chính mình về quá trình trải qua những nỗi đau và đấu tranh nội tâm để nhận được sự cảm thông từ gia đình và được xã hội công nhận và sống thực với chính mình.\n\n🔔 KHUNG GIỜ PHÁT SÓNG: 8H Thứ Hai hàng tuần trên kênh youtube MCVMedia: http://bit.ly/Subscribe-MCVMedia.\n\n🚩 Theo dõi các thông tin về COME OUT – BƯỚC RA ÁNH SÁNG:\n💎 Fanpage MCVMedia: http://bit.ly/FanpageMCVMEDIA\n🌐 Website: http://mcv.com.vn\n🌐 Youtube: \nĐăng ký/Subscribe #MCVMEDIA: http://bit.ly/SubscribeMCVMedia\nĐăng ký/Subscribe #MCVTV: http://bit.ly/SubscribeMCVTV\nĐăng ký/Subscribe #MCVCOMEDY: http://bit.ly/SubscribeMCVCOMEDY\nĐăng ký/Subscribe #MCVKIDZ: http://bit.ly/SubscribeMCVKidz\nĐăng ký/Subscribe #MCVFILM: http://bit.ly/SubscribeMCVFILM\nĐăng ký/Subscribe #LOVETV: http://bit.ly/SubscribeLOVETV\nĐăng ký/Subscribe #LOVERADIO: http://bit.ly/Subscribe-LOVERADIO\nĐăng ký/Subscribe #MBCNETWORK: http://bit.ly/SubscribeMBCNETWORK\n🌐 Dailymotion:\nhttp://www.dailymotion.com/MCVMedia\nhttp://www.dailymotion.com/MCVTV\n\n-~-~~-~~~-~~-~-\n© Các video trên kênh MCVMEDIA đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O8-9fF1t3uk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O8-9fF1t3uk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O8-9fF1t3uk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O8-9fF1t3uk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O8-9fF1t3uk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O8-9fF1t3uk"
+                },
+                "videoOwnerChannelTitle": "MCVMedia",
+                "videoOwnerChannelId": "UCsluIbpgt14y6KUcwqCxXbg"
+            },
+            "contentDetails": {
+                "videoId": "O8-9fF1t3uk",
+                "videoPublishedAt": "2018-10-29T01:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0FE4-W6cuPB3u1Zx-pM8UCQgdoE",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-11-25T09:28:08Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Dù rất chăm thả thính nhưng đường tình duyên của Anh Đức cớ sao vẫn long đong?",
+                "description": "Dù rất chăm thả thính nhưng đường tình duyên của Anh Đức cớ sao vẫn long đong?\n----------------\nNhấn vào link đăng ký SML Channel để nhận nhiều video hấp dẫn các bạn nhé\nLink: https://goo.gl/gUP2Yz\nFanpage: SML Channel: https://www.facebook.com/smlchannel/\n\n giong ai giong ai",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zm7BoSmimZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zm7BoSmimZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zm7BoSmimZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zm7BoSmimZ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zm7BoSmimZ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zm7BoSmimZ4"
+                },
+                "videoOwnerChannelTitle": "SML Channel",
+                "videoOwnerChannelId": "UCB849xB6Z17yR_CxuNEwqSQ"
+            },
+            "contentDetails": {
+                "videoId": "Zm7BoSmimZ4",
+                "videoPublishedAt": "2018-11-24T14:25:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6nsmDdu_qI1jxW9uqtSEgK0UpBo",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2018-11-26T06:49:49Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8APiky-FLWI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8APiky-FLWI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r13V9yz3whT_CwHWhtAOJdw9JXg",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-01-14T11:20:31Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sGIuDYBDp0s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sGIuDYBDp0s"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wcd2BIj38T5TptzGuCfqeLPV_-s",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-05-10T06:30:30Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "호바트순복음교회 김바울 목 \"의심하던 도마의 고백; 나의 주, 나의 하나님이시여\" (요 20:28)",
+                "description": "Korean Sermon: \"My Lord and my God\" (Jn 20:28)\n\nv29…blessed are those who have not seen and yet have believed.” \n  - We live by faith, not by sight. (2Cor 5:7)\n  - You have not seen Christ, but still, you love him. You cannot see \n    him now, but you believe in him. (1 Pet 1:8) \n  + Start with Why, but find the answer in the Bible",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FCunlfPbnnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FCunlfPbnnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FCunlfPbnnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FCunlfPbnnQ"
+                },
+                "videoOwnerChannelTitle": "Paul Jae Bong Kim",
+                "videoOwnerChannelId": "UCU9RzRApJsaET-pCUKG8P0w"
+            },
+            "contentDetails": {
+                "videoId": "FCunlfPbnnQ",
+                "videoPublishedAt": "2019-04-28T05:42:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3D9PbcUT-8ihiAFleXpZGSnXKKM",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-06-18T08:03:53Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "11 Folding and Organization Hacks! | Clever DIY Clothes and Bedding Folding Hacksby Blossom",
+                "description": "Learn how to fold pants, jackets, shirts, and more with our easy to follow DIY folding hacks! These folding hacks will help you stay organized in your home and when you travel. Fold up and watch these clever folding hacks!\n\nSubscribe to Blossom: https://www.youtube.com/channel/UC2WuPTt0k8yDJpfenggOAVQ?sub_confirmation=1\n\nAbout Blossom:\nWelcome to your cheat sheet for creative and unique DIY projects, mixed with daily life fixes that keep you and your family in mind. Consider your life hacked! \n\nFollow us:\nFacebook: http://bit.ly/BlossomFacebook\nInstagram: http://bit.ly/BlossomInstagram\nWebsite: http://bit.ly/BlossomFirstMedia\n\n#Blossom #DIY #Hacks #Organization\n\n11 Folding and Organization Hacks! | Clever DIY Clothes and Bedding Folding Hacksby Blossom\nhttps://www.youtube.com/channel/UC2WuPTt0k8yDJpfenggOAVQ How to, tutorial, #howto #tutorial #hacks",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pC2d7wl7Zjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pC2d7wl7Zjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pC2d7wl7Zjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pC2d7wl7Zjg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pC2d7wl7Zjg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pC2d7wl7Zjg"
+                },
+                "videoOwnerChannelTitle": "Blossom",
+                "videoOwnerChannelId": "UC2WuPTt0k8yDJpfenggOAVQ"
+            },
+            "contentDetails": {
+                "videoId": "pC2d7wl7Zjg",
+                "videoPublishedAt": "2019-05-22T11:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xDFSKVd1mr_roTJYp2QytTfuAP4",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-07-01T06:22:22Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Trong Cơn Say, Lọ Lem Đã Trao Nụ Hôn Cho Hoàng Tử | Phim Tình Cảm Trung Quốc Hay Nhất 2019",
+                "description": "Trong Cơn Say, Lọ Lem Đã Trao Nụ Hôn Cho Hoàng Tử | Phim Tình Cảm Trung Quốc Hay Nhất 2019\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lk0OLBlAgXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lk0OLBlAgXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lk0OLBlAgXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lk0OLBlAgXM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lk0OLBlAgXM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lk0OLBlAgXM"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "lk0OLBlAgXM",
+                "videoPublishedAt": "2019-06-26T03:28:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7LKRk5Uebay2R2oRFodPenZsGRk",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-07-11T12:37:50Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "BẠCH PHÁT VƯƠNG PHI - TẬP 50 [FULL HD] | Phim Cổ Trang Hay Nhất | Phim Mới 2019",
+                "description": "🖤Trọn bộ:\nLỒNG TIẾNG: http://bit.ly/bachphatlongtieng\nVIETSUB: http://bit.ly/bachphatvuongphivietssub\n\nNội dung phim:\n#Bạch_Phát_Vương_Phi là câu chuyện kể về cuộc đời Mạn Yêu - Dung Nhạc trưởng công chúa của Khải Vân quốc. Vì mối bang giao giữa hai nước mà nàng được đem gả cho thất hoàng tử Lâm Thiên quốc - Ly Vương điện hạ. \nLy Vương - Tông Chính Vô Ưu vốn là người con trai được hoàng đế yêu thích nhất, nhưng vì chứng kiến mẫu phi chết dưới tay cha ruột mà luôn căm hận ông và hoàng thất. Phó Trù từ một tướng sĩ vô danh trở thành đại tướng quân danh trấn thiên hạ lại luôn mang trong mình mối thù sâu nặng với cả hoàng tộc, đặc biệt là Ly Vương. Giữa sóng gió tranh đấu của nam nhân, người duy nhất họ làm tổn thương lại là người con gái họ yêu thương nhất. Anh em tương tàn, thiên hạ phân cách, kết cục nào cho Mạn Yêu, Tông Chính Vô Ưu và Phó Trù giữa thời loạn thế?\n\n#La_Vân_Hi vai Dung Tề\n#Trương_Tuyết_Nghênh vai Mạn Yêu\n#Lý_Trị_Đình vào vai Ly Vương, Vô Ưu\n#Kinh_Siêu trong vai Phó Trù\n\nSUBSCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p0EskCOyKjw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p0EskCOyKjw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p0EskCOyKjw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p0EskCOyKjw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p0EskCOyKjw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p0EskCOyKjw"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "p0EskCOyKjw",
+                "videoPublishedAt": "2019-07-11T10:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G_u2j88JDpthAiGRdBn4x_EOOSs",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-07-20T06:30:56Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Cao Quý Phi nhấn đầu Anh Lạc vào sữa bò, hoàng thượng xuất hiện cứu nguy|Diên Hy Công Lược - Tập 30",
+                "description": "👑 Click xem trọn bộ\n✔️Vietsub: http://bit.ly/dienhycongluocfull\n✔️Lồng Tiếng: http://bit.ly/dienhylongtieng\n\n#DIENHYCONGLUOC #DHCL #PHIMTRUNGQUOC\n\nLấy bối cảnh những năm đầu thời đại Càn Long, thiếu nữ Ngụy Anh Lạc (Ngô Cẩn Ngôn) vào cung làm cung nữ để điều tra chân tướng về cái chết của người chị gái và thề muốn giành lại công lý cho chị mình. Phú Sát hoàng hậu (Tần Lam) là người hiền đức, tuân theo lễ pháp, lo lắng Anh Lạc lầm đường lạc lối, vì vậy luôn tận lực trợ giúp và quan tâm cô. Dưới sự dạy bảo của hoàng hậu, Ngụy Anh Lạc từng bước trưởng thành thành một nữ quan chính trực, kiên cường, bỏ lại lòng oán hận để sống một cuộc sống đúng đắn.\n\nHoàng hậu bất hạnh hoăng thệ, khiến cho Ngụy Anh Lạc đối với Càn Long (Nhiếp Viễn) hiểu lầm chồng chất, hai người từ căm ghét lẫn nhau cuối cùng dần thấu hiểu và giúp đỡ đối phương. Anh Lạc, bằng sự dũng cảm tiến tới, trí thông minh linh hoạt, ý chí rộng lớn bao la, đã hóa giải những khó khăn trùng điệp chốn cung đình, cuối cùng trở thành Hoàng Quý phi giúp đỡ hoàng đế Càn Long đạt được thời thái bình thịnh thế.\n\nSUBCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HG8lRzYe0Aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HG8lRzYe0Aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HG8lRzYe0Aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HG8lRzYe0Aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HG8lRzYe0Aw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HG8lRzYe0Aw"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "HG8lRzYe0Aw",
+                "videoPublishedAt": "2018-08-12T11:24:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vO4SHSCrxW13hRad2s2mt3xTWug",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-11-18T06:26:12Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Cuộc Tình Thương Đau - Tập 01 | Lần Gặp Mặt Định Mệnh Giữa Cô Y Tá Và Anh Cảnh Sát Vào 6 Năm Trước",
+                "description": "🔰 Đăng Ký Kênh: https://bit.ly/2Pfmz6R\n▶ Phía Sau Showbiz : http://bit.ly/2WfWUL8\n▶ Cám Dỗ Cuộc Đời : http://bit.ly/2NgZrAG\n▶ Nhân Tình Của Nhau: http://bit.ly/31t3qPs\n▶ Tình Yêu Thật Sự: http://bit.ly/2oRfg8V\n► Trò Chơi Gia Tài: http://bit.ly/2MClQrS\n► Phía Sau Màn Bạc: http://bit.ly/2VD6CH9\n► Tình Yêu Không Trọn Vẹn | Phim Ngôn Tình Thái Lan : https://bit.ly/2ZnJ4pP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vg9FHhhEAH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vg9FHhhEAH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vg9FHhhEAH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vg9FHhhEAH4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vg9FHhhEAH4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vg9FHhhEAH4"
+                },
+                "videoOwnerChannelTitle": "Phim Thái Tube",
+                "videoOwnerChannelId": "UCMyBvmz5ArsRMs21YErY1PA"
+            },
+            "contentDetails": {
+                "videoId": "Vg9FHhhEAH4",
+                "videoPublishedAt": "2019-11-08T11:22:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8xuuST0hFrovkqgAUgInypxWYDE",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-12-30T01:12:03Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "KẾT ÁI: Hạ Lan Đấu Giá Kỷ Vật Của Bì Bì | Tống Thiến | Ngôn Tình Nhân Duyên Tiền Kiếp",
+                "description": "☞ Subscribe: http://bit.ly/2ktALdV\n☞ Trọn bộ KẾT ÁI: https://bit.ly/336JumV\n------------------------------------------------------------------------\nThể loại: Cổ Trang, Hài, Lãng Mạn và Tình cảm\nNội dung phim:\n☞ Phim kể về mối tình vấn vương nhiều đời nhiều kiếp của chàng hồ ly si tình Hạ Lan Tĩnh Đình (Hoàng Cảnh Du đóng) và người tình ngàn năm Thẩm Tuệ Nhan (Tống Thiến đóng). Ở kiếp này, nàng có tên Quan Bì Bì, là một ký giả mảng giải trí và hiện đã có người trong mộng. Tuy nhiên, bằng tình cảm sâu sắc và sự chân thành, cùng với nhiều biến cố lần lượt xảy ra, Hạ Lan đã dần dần xoay chuyển trái tim của Bì Bì, khiến cô rơi vào lưới tình không lối thoát của anh.\n#KếtÁi #Mốitìnhđầucủathiêntuếđạinhân #VIETDRAMA\n------------------------------------------------------------------------ \n© Bản quyền thuộc về VIET DRAMA và Đối Tác \n© Không reup mọi nền tảng ☞ Do not Reup \n© Copyright all rights reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2DYfMuYvd-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2DYfMuYvd-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2DYfMuYvd-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2DYfMuYvd-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2DYfMuYvd-8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2DYfMuYvd-8"
+                },
+                "videoOwnerChannelTitle": "VIET DRAMA",
+                "videoOwnerChannelId": "UC_xQjKvjApjSjHCz1KDlUdA"
+            },
+            "contentDetails": {
+                "videoId": "2DYfMuYvd-8",
+                "videoPublishedAt": "2019-10-04T12:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "krt--sXZFGuZPyW7g4b3M_d-vbI",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-01-15T05:44:06Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Hàn Mặc Tử _(Vũ Linh) _Mộng  Cầm (Chí Linh)",
+                "description": "Video created by Vũ Linh king\n© Bản quyền thuộc về Vũ Linh king\n© Copyright by Vũ Linh king  ☞ Do not Reup! Vui lòng không sao chép hoặc re-up dưới mọi hình thức.\n© Copyright all rights reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-XeVecqcx38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-XeVecqcx38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-XeVecqcx38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-XeVecqcx38/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-XeVecqcx38/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-XeVecqcx38"
+                },
+                "videoOwnerChannelTitle": "Vũ Linh King ( kênh chính chủ)",
+                "videoOwnerChannelId": "UC291d1sOmyniW_pSCa6uA5w"
+            },
+            "contentDetails": {
+                "videoId": "-XeVecqcx38",
+                "videoPublishedAt": "2019-12-13T09:09:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Rqrv065-UZn-ZRtq-hHl41U2-Ng",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-03-23T08:47:52Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "🔴Trực tuyến: THÁNH LỄ CHÚA NHẬT TUẦN 4 MÙA CHAY NĂM A | Ngày 22.03.2020",
+                "description": "Nguồn: WGPSG\nTHÁNH LỄ CHÚA NHẬT TUẦN 4 MÙA CHAY NĂM A\ncử hành lúc 17g30  thứ Bảy, ngày 21 tháng 03 năm 2020 \ntại Vương Cung Thánh Đường Đức Bà Sài Gòn\n\n📍Kính mời quý vị cùng hiệp thông và đừng quên nhấn vào nút \"Đăng ký\" để có những video mới nhất từ Tổng Giáo phận Sài Gòn.\n-----------------------------------------------------------------------------------\n✔ Facbook: https://www.facebook.com/tgpsaigon/\n✔Website: https://tgpsaigon.net/\n-----------------------------------------------------------------------------------\n♥♥♥ Xin chân thành cảm ơn Quý vị ♥♥♥\n#tgpsg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Auyf5waEuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Auyf5waEuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Auyf5waEuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Auyf5waEuU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Auyf5waEuU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6Auyf5waEuU"
+                },
+                "videoOwnerChannelTitle": "Tổng Giáo phận Sài Gòn",
+                "videoOwnerChannelId": "UCtoQh7mQikZsztA1OQRSFvw"
+            },
+            "contentDetails": {
+                "videoId": "6Auyf5waEuU",
+                "videoPublishedAt": "2020-03-21T11:47:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-uw0llA1_EbDxacEIRSqwHWTYUI",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-03-27T19:55:25Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "NHỮNG XÉT ĐOÁN XẤU -Bài Giảng Tĩnh Tâm Mùa Chay Để Đời Của Lm Phạm Tĩnh",
+                "description": "NHỮNG XÉT ĐOÁN XẤU -Bài Giảng Tĩnh Tâm Mùa Chay Để Đời Của Lm Phạm Tĩnh\n-------------------------------------------------\nMời mọi người cùng Đăng Ký = https://goo.gl/udRMI2, Like và Share video để nhận thêm nhiều video mới nhé. Cảm ơn các bạn rất nhiều!\n--------------------------------------------------\n-Chúc quý cộng đoàn và anh chị em một Năm Tràn đầy Hồng ân.\n-Nếu có bất kỳ vấn đề nào liên quan đến bản quyền trong video xin vui lòng liên hệ với chúng con bằng cách bình luận ngay dưới bài viết hoặc nhắn tin qua địa chỉ thư Facebook: https://goo.gl/PzNzNZ, Chúng Con sẽ tháo gỡ ngay lập tức. Xin cảm ơn! \nLink Nguồn:\nhttps://www.youtube.com/channel/UCPq0ZfxbcLCO1qv6rttuhgQ\nhttps://www.youtube.com/channel/UCRH2bmjT77mUGe3KhKfDXPA\nhttps://www.youtube.com/channel/UC1Bzs0yXvOfnBXk_BsIBaaQ\nhttps://www.youtube.com/channel/UC2Ydli71gKgfYxnEy9x672A\nhttps://www.youtube.com/channel/UC8HUYfxww1Mn_rYxyeorzHw\nhttps://www.youtube.com/channel/UC98mscthvPN2CwQo7weo_mQ\nhttps://www.youtube.com/channel/UCubpNIVpkSXrlwkaqHnjW6g\nhttps://www.youtube.com/channel/UCBKnXi3XZJSQWOA2WDD164w\nhttps://www.youtube.com/channel/UCUmyyniRMmLgYTYVBzKXV9g\nhttps://www.youtube.com/channel/UCRZ2QO8WmPyrO4Z7_FKx68A",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/arObRYT03ME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/arObRYT03ME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/arObRYT03ME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/arObRYT03ME/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/arObRYT03ME/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "arObRYT03ME"
+                },
+                "videoOwnerChannelTitle": "Top Bài Giảng Công Giáo",
+                "videoOwnerChannelId": "UC7wbDq9rsdTyjhXoWvgeBLg"
+            },
+            "contentDetails": {
+                "videoId": "arObRYT03ME",
+                "videoPublishedAt": "2020-03-25T12:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Sy9SmPn-6XnsFopWvDnSsA98AA8",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-04-16T03:51:06Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Artist on the Rise: Tones And I",
+                "description": "Produced in collaboration with YouTube Music as part of the Artist on the Rise Program, this video explores Tones And I’s journey from finding her passion in music, busking in the streets with her friends, to seeing herself on Times Square billboards. We see Tones And I’s impact around the world through her own content, fan covers, and dance videos. \n\n#YouTubeMusic #ArtistOnTheRise \n\nFollow: \nhttps://www.tonesandi.com\nhttps://www.facebook.com/tonesandi\nhttps://www.instagram.com/tonesandi\n\n\nContact Management Worldwide: \nLemon Tree Music + Artists Only\nmgmt@tonesandi.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UkwZILz_EKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UkwZILz_EKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UkwZILz_EKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UkwZILz_EKE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UkwZILz_EKE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UkwZILz_EKE"
+                },
+                "videoOwnerChannelTitle": "Tones And I",
+                "videoOwnerChannelId": "UCQeiBlCcS4-XGwFjrvDn96w"
+            },
+            "contentDetails": {
+                "videoId": "UkwZILz_EKE",
+                "videoPublishedAt": "2020-04-15T14:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u5joNMlPYNDyRaQTijUi5rm1ZlI",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-04-18T11:32:15Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Anh Có Yêu Em Không - Tập 08 | Em Thư Ký Và Chị Gái Lên Kế Hoạch Cua Trai Thiếu Gia Siêu Giàu",
+                "description": "Anh Có Yêu Em Không - Tập 08 | Em Thư Ký Và Chị Gái Lên Kế Hoạch Cua Trai Thiếu Gia Siêu Giàu\n🔰 Đăng Ký Kênh: https://bit.ly/2Pfmz6R\n▶ Anh Có Yêu Em Không : https://bit.ly/3c1H9hw\n▶ Yêu Em Say Đắm: https://bit.ly/39NCxel\n▶ Cô Nàng Đa Cảm : https://bit.ly/3cJMZ8d\n▶ Chỉ Cần Có Em : https://bit.ly/3aKGNLF\n▶ Phía Sau Showbiz : http://bit.ly/2WfWUL8\n▶ Cám Dỗ Cuộc Đời : http://bit.ly/2NgZrAG\n▶ Nhân Tình Của Nhau: http://bit.ly/31t3qPs\n▶ Tình Yêu Thật Sự: http://bit.ly/2oRfg8V\n► Trò Chơi Gia Tài: http://bit.ly/2MClQrS\n► Phía Sau Màn Bạc: http://bit.ly/2VD6CH9\n► Tình Yêu Không Trọn Vẹn | Phim Ngôn Tình Thái Lan : https://bit.ly/2ZnJ4pP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-HXjAeOfmpE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-HXjAeOfmpE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-HXjAeOfmpE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-HXjAeOfmpE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-HXjAeOfmpE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-HXjAeOfmpE"
+                },
+                "videoOwnerChannelTitle": "Phim Thái Tube",
+                "videoOwnerChannelId": "UCMyBvmz5ArsRMs21YErY1PA"
+            },
+            "contentDetails": {
+                "videoId": "-HXjAeOfmpE",
+                "videoPublishedAt": "2020-04-08T12:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DQxb5djrmSHIoX4ou3cnEVIiPzA",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-04-24T11:02:17Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "봄철 나물과 맛있는 제육으로 쌈밥 한상! (Leaf Wraps and Rice with Stir-fried spicy pork)요리&먹방!! - Mukbang eating show",
+                "description": "5:40 먹방 시작~\n봄철 나물과 맛있는 제육으로 쌈밥 한상!\n#쌈밥 #제육볶음\n\n좋아요&구독하기 한 번씩 눌러주세요!!\r\n흥삼이에게 큰 힘이됩니다!!\r\nYour [Subscribe&like] would mean a lot to the creator!!\r\n\r\n각종 문의\r\n이메일 문의 주소 : gmdtka78@naver.com\r\n아프리카쪽지 아이디 : neo7824\r\n\r\nYouTube 구독하기 링크!!   ☞  https://goo.gl/cTsmVx\r\n아프리카 방송국 바로가기 ☞  http://www.afreecatv.com/neo7824",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GxjPB_PqjUc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GxjPB_PqjUc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GxjPB_PqjUc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GxjPB_PqjUc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GxjPB_PqjUc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GxjPB_PqjUc"
+                },
+                "videoOwnerChannelTitle": "흥삼이네 Heungsam's Family",
+                "videoOwnerChannelId": "UC5XuQ-xiWAB6f-qu6gJMDBQ"
+            },
+            "contentDetails": {
+                "videoId": "GxjPB_PqjUc",
+                "videoPublishedAt": "2020-04-16T09:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kUqPb-M6oJuqSQT3YwsqGcp5mjs",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2021-01-05T09:42:48Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Chỉ Vì Được Gặp Em - Tập 52 FULL HD | Phim mới 2019 - Phim Ngôn Tình Hay Nhất",
+                "description": "💑CHỈ VÌ GẶP ĐƯỢC EM - Trọn bộ:\nLồng Tiếng: http://bit.ly/chividuocgapem\nVietsub http://bit.ly/chivigapduocemsub\n\n#Chỉ_Vì_Được_Gặp_Em kể về câu chuyện tình yêu giữa Cao Khiết (Văn Vịnh San) - nhà thiết kế trang sức và người thừa kế của tập đoàn Thịnh Phong là Vu Trực (Trương Minh Ân).\nCao Khiết vốn là nhà thiết trang sức, sau khi đi du học trở về, cô đầu quân cho Thịnh Phong - tập đoàn trang sức nội địa nổi tiếng. Vào thời điểm đó, trang sức theo phong cách phương Tây đang rất được ưa chuộng, khiến Vu Trực - người thừa kế của Thịnh Phong quyết định cải tổ lại công ty. Nhờ vào sự sáng tạo của Cao Khiết khi biết cách kết hợp ưu điểm giữa phong cách trang sức truyền thống và phương Tây, cô đã giúp Vu Trực duy trì tập đoàn, đưa danh tiếng của Thịnh Phong lên đỉnh cao.\n\n#Phim_Mới_2019 #Phim_Ngôn_Tình_Hay_Nhất\n\nSUBSCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/58hh0iz2Mwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/58hh0iz2Mwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/58hh0iz2Mwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/58hh0iz2Mwk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/58hh0iz2Mwk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "58hh0iz2Mwk"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "58hh0iz2Mwk",
+                "videoPublishedAt": "2019-10-04T12:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "z5PJ2kH-yLNct_yVndELsMo8zBg",
+            "id": "UExTeS1nUFQtc3VzbUpNQWNQUVJvd2ZzUTZUT2ZvY2pGMS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2021-05-29T06:52:06Z",
+                "channelId": "UCldUiD_SIxExsZb1aJNUsbg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Le Pham",
+                "playlistId": "PLSy-gPT-susmJMAcPQRowfsQ6TOfocjF1",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aj90ElzVsJg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aj90ElzVsJg"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 23,
+        "resultsPerPage": 50
+    }
+}

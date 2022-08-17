@@ -1,0 +1,1108 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "-BZZvIxeLcjYHCjsx-8F2NtH6aA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O67Qzhe9Lrcdc4-oVaIM4-peKK8",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RsFRSYW43RA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RsFRSYW43RA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VsJ9vcywfw9DS9OjTX2_H98MjLw",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7d_LRnJC9L4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7d_LRnJC9L4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HdBs1fxzprXYQcNUuRihoKRaJIA",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S-qNib9KWbM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "S-qNib9KWbM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "itkF1A-TzCO0kTJ3xcbP3xwiBkA",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Co1CiySBO3Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Co1CiySBO3Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LGrhkgM2_qv2rbXS7Per2N8LK5E",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4Qtd5pd5NiQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4Qtd5pd5NiQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_X4Ciul6gUA_xxrCZWj3BR_ZmZE",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu Tập 6 ( Phim Tình Cảm Thái Lan Hay Nhất 2016)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_43EhgyhQcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_43EhgyhQcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_43EhgyhQcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_43EhgyhQcg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_43EhgyhQcg"
+                },
+                "videoOwnerChannelTitle": "Kim Ngọc",
+                "videoOwnerChannelId": "UC8KxwW9C58H2frMmVDfE9ow"
+            },
+            "contentDetails": {
+                "videoId": "_43EhgyhQcg",
+                "videoPublishedAt": "2020-11-11T02:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8bCzMEU7AlSKW_8WV3o2dBKYhOs",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu Tập 7( Phim Tình Cảm Thái Lan Hay Nhất 2016)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j37dLaI0RAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j37dLaI0RAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j37dLaI0RAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j37dLaI0RAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j37dLaI0RAM"
+                },
+                "videoOwnerChannelTitle": "Kim Ngọc",
+                "videoOwnerChannelId": "UC8KxwW9C58H2frMmVDfE9ow"
+            },
+            "contentDetails": {
+                "videoId": "j37dLaI0RAM",
+                "videoPublishedAt": "2020-11-11T02:34:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b0UVXeyJ6c7yR-5gub19mH1QiUE",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 8 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mhWjgQxnsmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mhWjgQxnsmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mhWjgQxnsmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mhWjgQxnsmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mhWjgQxnsmE"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "mhWjgQxnsmE",
+                "videoPublishedAt": "2021-01-02T11:44:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6W1Jy9t3PJfrCA7kycVnPUTMGO8",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 9 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xTKNfSwDWBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xTKNfSwDWBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xTKNfSwDWBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xTKNfSwDWBc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xTKNfSwDWBc"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "xTKNfSwDWBc",
+                "videoPublishedAt": "2021-01-02T12:07:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sKjG5i1h3QAdjJQU0Ek2O7aFfWU",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 10 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-7erUjDojKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-7erUjDojKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-7erUjDojKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-7erUjDojKE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-7erUjDojKE"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "-7erUjDojKE",
+                "videoPublishedAt": "2021-01-02T12:20:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CFDBbeiPdAHZrpFTuiMwrc2Ag24",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 11 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/scJY3mosf6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/scJY3mosf6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/scJY3mosf6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/scJY3mosf6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "scJY3mosf6E"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "scJY3mosf6E",
+                "videoPublishedAt": "2021-01-02T12:37:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "agLVQTldw4F9sTDFeHeQxwRRo_c",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 12 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W3kDs8yEh-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W3kDs8yEh-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W3kDs8yEh-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W3kDs8yEh-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W3kDs8yEh-Q"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "W3kDs8yEh-Q",
+                "videoPublishedAt": "2021-01-02T12:55:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0ULQFwkCP3YIrtnJJkBGcR3ZCw4",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 13 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gxR1eWQ5O8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gxR1eWQ5O8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gxR1eWQ5O8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gxR1eWQ5O8c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gxR1eWQ5O8c"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "gxR1eWQ5O8c",
+                "videoPublishedAt": "2021-01-02T13:11:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-xmHQwQnPrwldid5tMmUFzyd8x4",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 14 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_MgoSmh7O4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_MgoSmh7O4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_MgoSmh7O4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k_MgoSmh7O4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k_MgoSmh7O4"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "k_MgoSmh7O4",
+                "videoPublishedAt": "2021-01-04T13:49:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nyyV-YUGEuHotKOUUa4y84Q6LBk",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 15 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nizfmm8aG20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nizfmm8aG20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nizfmm8aG20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nizfmm8aG20/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nizfmm8aG20"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "nizfmm8aG20",
+                "videoPublishedAt": "2021-01-04T14:04:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HCBh348RUijprhC2HZx3iAfS9xI",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 16 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qYoB_GhZEUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qYoB_GhZEUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qYoB_GhZEUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qYoB_GhZEUY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qYoB_GhZEUY"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "qYoB_GhZEUY",
+                "videoPublishedAt": "2021-01-05T13:25:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2vFcCJIiDWZf9pBoBbeXWmXuEuU",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 17 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EhuYRMEDhJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EhuYRMEDhJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EhuYRMEDhJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EhuYRMEDhJI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EhuYRMEDhJI"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "EhuYRMEDhJI",
+                "videoPublishedAt": "2021-01-06T13:41:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SGl82ajp8C1XmaTy55A4NUkXDbU",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 18 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qEgKKix-aRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qEgKKix-aRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qEgKKix-aRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qEgKKix-aRo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qEgKKix-aRo"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "qEgKKix-aRo",
+                "videoPublishedAt": "2021-01-06T13:55:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rVP5q3uzuYGW71iRKV1ATMYAz1w",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 19 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YbQJHnRiAHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YbQJHnRiAHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YbQJHnRiAHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YbQJHnRiAHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YbQJHnRiAHc"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "YbQJHnRiAHc",
+                "videoPublishedAt": "2021-01-07T15:05:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FU9BKXlIOqZhKwSskW7lRO-pfsk",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 20 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2UOePB6LJOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2UOePB6LJOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2UOePB6LJOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2UOePB6LJOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2UOePB6LJOc"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "2UOePB6LJOc",
+                "videoPublishedAt": "2021-01-07T15:21:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NSRFlRzJF3PdEDviNdy5if36S80",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 21 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pViUCnMJ3Dc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pViUCnMJ3Dc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pViUCnMJ3Dc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pViUCnMJ3Dc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pViUCnMJ3Dc"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "pViUCnMJ3Dc",
+                "videoPublishedAt": "2021-01-08T03:01:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OFr6D4N-wRx6maJdjB9eKD5E8f8",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 22 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rgonp-qdfng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rgonp-qdfng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rgonp-qdfng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rgonp-qdfng/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Rgonp-qdfng"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "Rgonp-qdfng",
+                "videoPublishedAt": "2021-01-09T04:07:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-N0uia8tuYPPOnfLKHhDyc8mwVU",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 23 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R-gNvpZWJ-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R-gNvpZWJ-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R-gNvpZWJ-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R-gNvpZWJ-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R-gNvpZWJ-8"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "R-gNvpZWJ-8",
+                "videoPublishedAt": "2021-01-09T12:07:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AT-crNcFPIL8zr_dFqmbbf_VePY",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 24 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dDf4HLhQDS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dDf4HLhQDS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dDf4HLhQDS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dDf4HLhQDS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dDf4HLhQDS0"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "dDf4HLhQDS0",
+                "videoPublishedAt": "2021-01-09T12:29:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SW5WhZiW1MONFwVTz2LbA-bFiWk",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 25 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vimdQTx3z0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vimdQTx3z0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vimdQTx3z0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vimdQTx3z0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vimdQTx3z0U"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "vimdQTx3z0U",
+                "videoPublishedAt": "2021-01-10T16:16:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hCJfhhtGN-PZfaVo_BxZ97mcWfY",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:02:23Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wvYQx0Sn0DE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wvYQx0Sn0DE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z708j50TmbsfJPsyLW89f7uxCEY",
+            "id": "UEx6dEhfc0JVaGs4U0FfRDlmN1JrS194WWdvWTdSc0R4aS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2021-10-24T20:03:21Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Hàng Rào Tình Yêu  Tập 27 ( lồng tiếng ) Phim Thái Lan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-_htwEFDXuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-_htwEFDXuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-_htwEFDXuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-_htwEFDXuc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8SA_D9f7RkK_xYgoY7RsDxi",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-_htwEFDXuc"
+                },
+                "videoOwnerChannelTitle": "My Mi",
+                "videoOwnerChannelId": "UCwcdhPX37oPN_L7tBMea14Q"
+            },
+            "contentDetails": {
+                "videoId": "-_htwEFDXuc",
+                "videoPublishedAt": "2021-01-10T17:08:35Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 27,
+        "resultsPerPage": 50
+    }
+}

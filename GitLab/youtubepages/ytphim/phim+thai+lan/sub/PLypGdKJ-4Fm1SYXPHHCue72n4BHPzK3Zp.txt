@@ -1,0 +1,469 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "wl8JVfxLOdYEcqkXTIxozWt__6A",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sjiYWx-NOqSDM1UKzZRHzfkJ4Dg",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 1 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RX8u5aLn1WU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RX8u5aLn1WU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RX8u5aLn1WU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RX8u5aLn1WU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RX8u5aLn1WU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RX8u5aLn1WU"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "RX8u5aLn1WU",
+                "videoPublishedAt": "2022-06-10T03:05:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vtzfr0IuFcEN2zHAzR3SKtFmuWk",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 2 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P-bb5mF9WUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P-bb5mF9WUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P-bb5mF9WUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P-bb5mF9WUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P-bb5mF9WUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P-bb5mF9WUs"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "P-bb5mF9WUs",
+                "videoPublishedAt": "2022-06-10T04:10:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s1ypL1aoSLSk0uEYrgP07fP3t1U",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 3 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b8DcG1vi-gA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b8DcG1vi-gA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b8DcG1vi-gA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b8DcG1vi-gA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b8DcG1vi-gA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b8DcG1vi-gA"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "b8DcG1vi-gA",
+                "videoPublishedAt": "2022-06-10T08:27:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UX90YqCjFtmK7-LZT7lXSTWm5bE",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 4 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bemEBJ69sew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bemEBJ69sew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bemEBJ69sew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bemEBJ69sew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bemEBJ69sew/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bemEBJ69sew"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "bemEBJ69sew",
+                "videoPublishedAt": "2022-06-10T12:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e9fgo5IhAyXfA40qU4E6lDC1M1g",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 5 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AQuo--ATYSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AQuo--ATYSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AQuo--ATYSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AQuo--ATYSU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AQuo--ATYSU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AQuo--ATYSU"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "AQuo--ATYSU",
+                "videoPublishedAt": "2022-06-11T01:59:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pLxNulr64LMKRacu6_-bPkZ97U4",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 6 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tNvPDYGCk4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tNvPDYGCk4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tNvPDYGCk4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tNvPDYGCk4c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tNvPDYGCk4c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tNvPDYGCk4c"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "tNvPDYGCk4c",
+                "videoPublishedAt": "2022-06-11T03:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9cQC_UOeknJk_HJdcStXtq8iClI",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 7 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vO5jRW-VvZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vO5jRW-VvZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vO5jRW-VvZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vO5jRW-VvZU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vO5jRW-VvZU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vO5jRW-VvZU"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "vO5jRW-VvZU",
+                "videoPublishedAt": "2022-06-11T04:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yt26Az83I3X0MoQu41ldFhTHXeY",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 8 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wVWL_92CA7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wVWL_92CA7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wVWL_92CA7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wVWL_92CA7g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wVWL_92CA7g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wVWL_92CA7g"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "wVWL_92CA7g",
+                "videoPublishedAt": "2022-06-11T08:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "95VlohCjX_x_g5IKVbc09tDHWWE",
+            "id": "UEx5cEdkS0otNEZtMVNZWFBISEN1ZTcybjRCSFB6SzNacC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:10:08Z",
+                "channelId": "UC2Snt6EwzT7uNHFH7zCCI8g",
+                "title": "Phim Mới 2022 | Tình Chị Duyên Em - Tập 9 | Phim Tình Cảm Thái Lan Hay Nhất 2022",
+                "description": "*XEM TRỌN BỘ PHIM TẠI ĐÂY: https://bit.ly/3xgKhCu\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nTruy cập các Fanpages Xem các trích đoạn hay :\n- BH Phim hay: https://www.facebook.com/phimhay.bh\n- Công Lý: https://www.facebook.com/PhimVie\n- Quang Lập: https://www.facebook.com/BHMedia.Quanglap\n- Cuồng Phim Hàn: https://www.facebook.com/cuongphimhantrung.bh\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uYbTHKQ7I-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uYbTHKQ7I-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uYbTHKQ7I-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uYbTHKQ7I-s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uYbTHKQ7I-s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay ®",
+                "playlistId": "PLypGdKJ-4Fm1SYXPHHCue72n4BHPzK3Zp",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uYbTHKQ7I-s"
+                },
+                "videoOwnerChannelTitle": "Phim Hay ®",
+                "videoOwnerChannelId": "UC2Snt6EwzT7uNHFH7zCCI8g"
+            },
+            "contentDetails": {
+                "videoId": "uYbTHKQ7I-s",
+                "videoPublishedAt": "2022-06-11T12:00:28Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 9,
+        "resultsPerPage": 50
+    }
+}

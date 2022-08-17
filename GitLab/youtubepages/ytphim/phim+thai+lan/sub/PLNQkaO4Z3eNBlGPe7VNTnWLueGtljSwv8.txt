@@ -1,0 +1,588 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "9sDy6X_sKsHno7Oopt8D9I-0l6g",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p-y7IQDfldfpa43eZAIewwWLDWY",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-01-15T03:53:28Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "DAIHATSU Indonesia Masters | Promo | BWF 2020",
+                "description": "Disclaimer: If you are not able to watch the live stream of matches on http://badmintonworld.tv due to it being geo-blocked in your country that is because the rights for this tournament has been sold to a broadcaster in your country.\n\nSubscribe to the channel: http://smarturl.it/BWFsubscribe\n\n\nBadmintonWorld.TV is the official live channel of the Badminton World Federation (BWF), where we bring to you live, catch-up and delayed streaming of the big events on the HSBC BWF World Tour, as well as the majors like the Thomas & Uber Cups and the BWF World Championships.\n\nhttp://www.bwfbadminton.org/\nhttps://twitter.com/bwfmedia \nhttps://www.facebook.com/bwfbadminton\nhttps://weibo.com/BWFofficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_MzHgI18P_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_MzHgI18P_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_MzHgI18P_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_MzHgI18P_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_MzHgI18P_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_MzHgI18P_o"
+                },
+                "videoOwnerChannelTitle": "BWF TV",
+                "videoOwnerChannelId": "UChh-akEbUM8_6ghGVnJd6cQ"
+            },
+            "contentDetails": {
+                "videoId": "_MzHgI18P_o",
+                "videoPublishedAt": "2020-01-13T08:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NY3R6r8NpUBi5phSz1Uy5e9CwTs",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-02-01T17:12:36Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "5 TUYỆT CHIÊU THẦN BÀI MÀ CHỈ CẦN 3 NGÀY LÀ BẠN SẼ LÀM ĐƯỢC",
+                "description": "- Cảm ơn các bạn đã xem và ủng hộ video trên kênh Ngọc Nguyễn. Mình có bán một số sản phẩm ảo thuật , bài tây và cung cấp một số dịch vụ sau:",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/65FvzlEVKU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/65FvzlEVKU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/65FvzlEVKU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/65FvzlEVKU0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/65FvzlEVKU0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "65FvzlEVKU0"
+                },
+                "videoOwnerChannelTitle": "Ngọc Nguyễn",
+                "videoOwnerChannelId": "UCDPUBgdzrvMvAh6z4vkbOyQ"
+            },
+            "contentDetails": {
+                "videoId": "65FvzlEVKU0",
+                "videoPublishedAt": "2019-03-19T00:36:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SLmvhx5zHdY9rAEthGd3o03xqi0",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-02-04T19:01:00Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Quân A.P | Ai Là Người Thương Em | Official Music Video",
+                "description": "Quân A.P | Ai Là Người Thương Em | Official Music Video\n\nLink Zing Mp3: https://zingmp3.vn/bai-hat/Ai-La-Nguoi-Thuong-Em-Quan-A-P/ZWADZBB9.html\n\n#ailanguoithuongem #QuanAP #phamanhquan\nMột sản phẩm của GREAT ENTERTAINMENT\nSpecial thanks to K.T.I PROJECT - BA RIA\n_____________\nHãy nhấn đăng kí để theo dõi những sản phẩm mới nhất từ Quân A.P nhé mọi người.\n\n[Follow Quân A.P]: \n►Fanpage: https://www.facebook.com/QuanAP.Fanpage\n► Facebook cá nhân: https://www.facebook.com/AnhhQuann241\n► Tiktok: https://www.tiktok.com/@hiip24197 [hiip24197]\n► Instagram: https://www.instagram.com/quan.phamanh/ [quan.phamanh]\n►ZingMp3 : https://zingmp3.vn/Quan-A-P\n\n► Theo dõi London&Hong:\nhttps://www.facebook.com/london.hong.official/\n\nSingle: Ai Là Người Thương Em\nSinger : QUAN A.P\nComposer : THANH HUNG\nMusic Producer : TUAN THANH\nChief Marketing Officer : PHAN VIET TINH\nProducer : PHI NGOC ANH\nEdit Vocal: KRIS VU\nBackground Vocal & Mix Master: LE MINH HIEU\nDirector : KEI NGUYEN\nProduction : THE ONE PRODUCTION\nCast : YEN TATOO – VINH SAN – PHAM LONG – KENDY NGUYEN - CHERISH NGUYEN – CASCADEUR TEAM QUOC THINH\nStylist: CHRISH HIEU NGUYEN\nOutfit: DADALCLUB - MR SIMPLE\nPhotographer : NGUYEN BA CHIEU\n\nLyrics:\nNgười con gái anh từng yêu sao rồi?\nCó một mình đi dưới mưa lúc buồn?\nLệ còn rơi khi ngồi xem thước phim buồn?\nÔm thật chặt vào ai khóc như đứa trẻ?\n\nNgười con gái anh từng yêu quên rồi\nCó những chiều tay nắm tay ngóng đợi\nHoàng hôn xuống ta kề vai nói những lời\nRằng đôi ta sẽ chỉ cần nhau thôi\nHà ha ha ha há ha hà ha\nCô gái anh yêu hay quan tâm anh và nhắc anh bao điều\nEm thích hoa hồng và mùa đông được anh ôm phía sau lưng\nEm nói bên anh qua bao nơi em cảm thấy rất nhẹ nhàng\nVậy giờ ai là người cho em yên bình?\n\nEm muốn xa anh khi yêu thương đang gìn giữ vẫn an lành\nXóa những hi vọng một tình yêu và hai trái tim xanh\nQuên hết bao năm đi bên em anh thật không thể làm được\nNgười mình thương giờ chẳng nhớ tên quen thuộc\nNgười mình thương giờ chẳng nhớ tên anh rồi.\n\n#QuânAP #QuanAP #QuânAP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P_jk6caKnfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P_jk6caKnfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P_jk6caKnfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P_jk6caKnfA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P_jk6caKnfA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P_jk6caKnfA"
+                },
+                "videoOwnerChannelTitle": "Quân A.P Official",
+                "videoOwnerChannelId": "UCXKnIgvBwPV6G-uT7gBXhcA"
+            },
+            "contentDetails": {
+                "videoId": "P_jk6caKnfA",
+                "videoPublishedAt": "2019-05-09T13:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HlTFYE9UFhlC6nc5kRwnr6mbo_E",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-03-15T06:29:06Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "\"Setting The Agenda\" | Never Mind The Shuttlecocks",
+                "description": "It's #NeverMindTheShuttlecocks! Join Bryan, Rob and Martin on Semi Final Saturday at the YONEX All England Open Badminton Championships!\n\n\nTonight's episode features:\n\n\n➡️ Highlights from 5 matches\n➡️  Kevin & Marcus \n➡️ Bryan watches Marcus and Lauren's match (and behaves totally professionally!)\n\n\n\nLike/Subscribe/Comment! \n\nWe'll be back tomorrow night, but head to our All England Socials for more exclusive content!\n\nTwitter | @YonexAllEngland\nFacebook | @AllEnglandOfficial\nInstagram | allenglandofficial\n\nWant to experience the All England yourselves? Tickets are still available, so make sure you join us",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EteV7A7RxM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EteV7A7RxM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EteV7A7RxM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EteV7A7RxM8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EteV7A7RxM8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EteV7A7RxM8"
+                },
+                "videoOwnerChannelTitle": "AllEnglandBadminton",
+                "videoOwnerChannelId": "UCuKw2eFsZKD9JAem2DVQ4AQ"
+            },
+            "contentDetails": {
+                "videoId": "EteV7A7RxM8",
+                "videoPublishedAt": "2020-03-15T02:26:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x-5zBIxKIKFvH0yu5i_QNDaTBxk",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-03-15T07:54:46Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Truyền Kỳ LÝ LONG THÂN – Tỷ Phú Hoa Kiều Hay Trùm Giang Hồ Thao Túng Nền Kinh Tế VNCH",
+                "description": "Truyền Kỳ LÝ LONG THÂN – Tỷ Phú Hoa Kiều Hay Trùm Giang Hồ Thao Túng Nền Kinh Tế VNCH\nMãi đến sau này, khi đã là một “hoàng đế không ngai” ngự trị cùng lúc trên nhiều “vương quốc” như dệt may, sắt thép, máy nông ngư cụ… Lý Long Thân vẫn là một kẻ có lai lịch bí ẩn đối với mọi người. Ngay bạn bè thân cũng chẳng biết gì về Lý, chỉ nhìn thấy ông ta như một mẫu người tha hương thành đạt, giàu có trong thời VNCH",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_SKk_qm9KZw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_SKk_qm9KZw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_SKk_qm9KZw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_SKk_qm9KZw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_SKk_qm9KZw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_SKk_qm9KZw"
+                },
+                "videoOwnerChannelTitle": "Việt Sử Giai Thoại",
+                "videoOwnerChannelId": "UC0rHkD41WAl7q5aztHezW-w"
+            },
+            "contentDetails": {
+                "videoId": "_SKk_qm9KZw",
+                "videoPublishedAt": "2018-09-19T12:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7MQ8QRR609suP6s37jbmazbxiHY",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-03-21T00:16:19Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Đệ Nhất Gái Điếm Hạng Sang Sài Gòn Xưa Dùng Bùa Ngải Bắt Đàn Ông Cung Phụng || Tiểu Sử Marianne Nhị",
+                "description": "Đệ Nhất Gái Điếm Hạng Sang Sài Gòn Xưa Dùng Bùa Ngải Bắt Đàn Ông Cung Phụng || Tiểu Sử Marianne Nhị\n\nNhững năm cuối thế kỷ XIX - đầu thế kỷ XX, không ít phụ nữ Việt Nam với nhan sắc \"nghiêng nước nghiêng thành\" đã đốn đổ và làm mê đắm biết bao trái tim của các quý ông xưa. Nếu ở Hà Thành nổi tiếng với \"tứ đại mỹ nhân\": cô Phượng Hàng Ngang, cô Síu Cột cờ, cô Nga Hàng Gai và cô Bính Hàng Đẫy thì ở Sài Thành, không ai là không nghe tiếng của cô Ba Trà (Trần Ngọc Trà), cô Ba \"xà bông\", cô Tư Nhị...  Nhân vật thứ hai trong nhóm tứ đại mỹ nhân Sài Gòn xưa là Tư Nhị, người được xem như đệ nhất bùa yêu ở đất Sài Gòn vào thập niên 1940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xfqHKT8YPzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xfqHKT8YPzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xfqHKT8YPzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xfqHKT8YPzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xfqHKT8YPzc"
+                },
+                "videoOwnerChannelTitle": "Việt Sử Giai Thoại",
+                "videoOwnerChannelId": "UC0rHkD41WAl7q5aztHezW-w"
+            },
+            "contentDetails": {
+                "videoId": "xfqHKT8YPzc",
+                "videoPublishedAt": "2017-07-17T03:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pncOPIvoMlN1oWuPoTmD17QFT3A",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-04-30T14:29:24Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "🔴LIVE: ESL ONE: ROAD TO RIO 2020 - DAY 8",
+                "description": "#500BROS #CSGO\n \nSản phẩm các bạn đang xem được sản xuất bởi 500BROS Studio.\n\n► SUBSCRIBE: http://bit.ly/500sCSGO\n---------\nCác kênh YOUTUBE của chúng tôi:\n► 500Bros CS: GO: http://youtube.com/500bros\n► 500Bros PUBG: http://youtube.com/500brosPUBG\n► 500Bros Dota 2: http://youtube.com/500brosDota2\n--------- \n►WEBSITE: https://500bros.com\n► FACEBOOK : https://facebook.com/500brosstudio\n► YOUTUBE : http://youtube.com/500bros\n► TWITCH : http://twitch.tv/500bros\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AE2qM7BU8bE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AE2qM7BU8bE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AE2qM7BU8bE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AE2qM7BU8bE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AE2qM7BU8bE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AE2qM7BU8bE"
+                },
+                "videoOwnerChannelTitle": "500BROS CS:GO",
+                "videoOwnerChannelId": "UCH3TuDb9oyj_SKf8kS9jJXg"
+            },
+            "contentDetails": {
+                "videoId": "AE2qM7BU8bE",
+                "videoPublishedAt": "2020-05-01T01:42:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ytgw6ZKM6oyNxpNjJnFXKa0maqc",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-05-16T19:10:42Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Semi Finals | Gamers Without Borders 2020 | 23 Creative VN",
+                "description": "Semi Finals | Gamers Without Borders 2020 | 23 Creative VN\n-----------------------------------------------\nỦng hộ anh em 23 tại:\nWeScan: https://qr.wescan.vn/23CreativeVN\nVrDonate: https://vrdonate.vn/23donate\nStreamlabs: https://streamlabs.com/23creativevn2\n-----------------------------------------------\n#DOTA2 #OGADOTAPIT #OGA #suachualaptop24h #JBOVN #23CreativeVN\nHệ thống dịch vụ laptop uy tín của người Việt: http://bit.ly/suachuaLaptop24H\nXem DOTA2 nhiệt hơn, truy cập thichdota2. com\n-----------------------------------------------\nHãy theo dõi các kênh sóng của gia đình 23 Creative VN tại các đường link sau đây nhé: \n- Website: https://23creative.vn\n- Fanpage Dota 2 : https://www.facebook.com/23creative.vn\n- YouTube 23 Creative VN: https://www.metub.net/23creativevn \n- Fanpage 23 Event Production: https://www.facebook.com/23EventProductions/\n- YouTube 23 Esports TV: https://www.metub.net/23esportstv \n- Group Family: https://www.facebook.com/groups/23creative/\n- Group Auto Chess Mobile: https://www.facebook.com/groups/23AutochessMobileVN/\n- Fanpage 23 PUBG VN: https://www.facebook.com/23pubgvn/\n- YouTube 23 PUBG VN: https://www.metub.net/23pubgvn\n-----------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y2IExp6q-qU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y2IExp6q-qU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y2IExp6q-qU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y2IExp6q-qU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y2IExp6q-qU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y2IExp6q-qU"
+                },
+                "videoOwnerChannelTitle": "23 DOTA TV",
+                "videoOwnerChannelId": "UCLj_XrISrlSsdGCZMK2N0xw"
+            },
+            "contentDetails": {
+                "videoId": "y2IExp6q-qU",
+                "videoPublishedAt": "2020-05-17T00:06:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7gdJXecS4U55NRzZ41HuzSVwjKE",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-10T15:46:55Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Full Livestream 10/6/2020.",
+                "description": "Restream hôm qua.\n\n►Lịch Live:\n* 22:15-23:59 hàng ngày trên Youtube.\n* 0:01-03:00 hàng ngày trên: https://www.nimo.tv/mixi\n(Chủ Nhật chỉ live bên nimo.tv/mixi vào 23:00 )\n\n-------------------------------------------------------------------------------------------------------------\n\n► DONATE:\n\n*  http://unghotoi.com/mixigaming\n*  https://streamlabs.com/mixigamingofficial\n*  https://playerduo.com/mixigaming\n*  https://qr.wescan.vn/Mixi\n\n►Trang web chính thức để các bạn xem lại video và livestream: https://mixigaming.com/\n\n► Fanpage chính thức: https://www.facebook.com/MixiGaming/\n► Facebook cá nhân: https://www.facebook.com/dophung1989\n► Instagram: https://www.instagram.com/dochet1989\n► Link Discord giao lưu: https://discord.gg/xeSFUXk\n► Link Group FB:  https://www.facebook.com/groups/mixigaming/\n► Email liên hệ: dochet1989@gmail.com\n\n-----------------------------------------------------------------------------------------------------------------\n\n► Shop game bản quyền số 1 Việt Nam: https://www.divineshop.vn\n(Nhập Code: mixigaming để giảm 5% tất cả game Steam trên DivineShop)\n\n-----------------------------------------------------------------------------------------------------------------\n\nmixigaming pubg gameplay lien minh 2017 lmht liên minh,pubg,battleground,battlegrounds,mixigaming\nTags: Mixigaming, Mixi, Độ Tày, Streamer Mixigaming, Funny, Mixigaming Funny Stream, Funny Stream, Streamer Việt Nam, Stream Việt Nam, Stream Việt, PUBG, Player Unknown's Battle Ground VN, PUBG VN, CSGO, CSGO VN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vlSndg3chvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vlSndg3chvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vlSndg3chvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vlSndg3chvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vlSndg3chvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vlSndg3chvs"
+                },
+                "videoOwnerChannelTitle": "MixiGaming",
+                "videoOwnerChannelId": "UCA_23dkEYToAc37hjSsCnXA"
+            },
+            "contentDetails": {
+                "videoId": "vlSndg3chvs",
+                "videoPublishedAt": "2020-06-11T05:05:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uONGtzuEDzRAS3m6nvndRSfC0co",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-07-22T17:59:49Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XyDZCdTFFqk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XyDZCdTFFqk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S2FgG_jR0tlAfb3Fn12Nn8auCEE",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-08-27T02:28:01Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "(Golf With Your Friends) Không có gì sung sướng bằng kiếm tiền từ anh em.",
+                "description": "(Golf With Your Friends) Không có gì sung sướng bằng kiếm tiền từ anh em.\n\nLịch Live:\n22:01-00:01 hàng ngày trên youtube\n0:05-04:00 hàng ngày trên: https://www.nimo.tv/mixi\n (trừ Chủ Nhật)\n\n-------------------------------------------------------------------------------------------------------------\n\n► DONATE:\n\n*  http://unghotoi.com/mixigaming\n*  https://streamlabs.com/mixigamingofficial\n*  https://playerduo.com/mixigaming\n*  Skin Donate: https://steamcommunity.com/tradeoffer/new/?partner=334034729&token=MBIsE8Dw\n\n► Link Discord giao lưu: https://discord.gg/xeSFUXk\n► Link Group FB:  https://www.facebook.com/groups/mixigaming/\n► Email liên hệ: dochet1989@gmail.com\n\n-----------------------------------------------------------------------------------------------------------------\n\n► Shop game bản quyền số 1 Việt Nam: divineshop.vn\n(Nhập Code: mixigaming để giảm 5% tất cả game Steam trên DivineShop)\n\n► Shop mua bán nick uy tín - chất lượng: shopmixivn.com\n\n-----------------------------------------------------------------------------------------------------------------\n\nmixigaming pubg gameplay lien minh 2017 lmht liên minh,pubg,battleground,battlegrounds,mixigaming\nTags: Mixigaming, Mixi, Độ Tày, Streamer Mixigaming, Funny, Mixigaming Funny Stream, Funny Stream, Streamer Việt Nam, Stream Việt Nam, Stream Việt, PUBG, Player Unknown's Battle Ground VN, PUBG VN, CSGO, CSGO VN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YmC3APL-rGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YmC3APL-rGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YmC3APL-rGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YmC3APL-rGk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YmC3APL-rGk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YmC3APL-rGk"
+                },
+                "videoOwnerChannelTitle": "MixiGaming",
+                "videoOwnerChannelId": "UCA_23dkEYToAc37hjSsCnXA"
+            },
+            "contentDetails": {
+                "videoId": "YmC3APL-rGk",
+                "videoPublishedAt": "2019-09-11T07:02:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nVB2OYAZm3pEGujnmvlWitcZ9Ss",
+            "id": "UExOUWthTzRaM2VOQmxHUGU3Vk5UbldMdWVHdGxqU3d2OC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-09-17T06:14:50Z",
+                "channelId": "UC7n1T5ZCygrGs2E0htMpcrQ",
+                "title": "🔴16/09: Tại Sao Trước Đại Hội Đảng Việt Nam Lại Lộ Nhiều Bí Mật Nhà Nước Trên Mạng Xã Hội ?",
+                "description": "#N10tv #TinNóng #TruongQuocHuy #Convid19 #CoronaVirus #BiểnĐông #Trump #N10TvLiveStream\n🔴16/09: Tại Sao Trước Đại Hội Đảng Việt Nam Lại Lộ Nhiều Bí Mật Nhà Nước Trên Mạng Xã Hội ?  \n Tips Coffe  :  Paypal : truongm32@gmail.com . Venmo : QuocHuy-Truong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CTXRDx11XIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CTXRDx11XIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CTXRDx11XIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CTXRDx11XIc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CTXRDx11XIc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tem Tran",
+                "playlistId": "PLNQkaO4Z3eNBlGPe7VNTnWLueGtljSwv8",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CTXRDx11XIc"
+                },
+                "videoOwnerChannelTitle": "N10Tv",
+                "videoOwnerChannelId": "UCs_qVVbQ0Oc-IuN-3JKWRZw"
+            },
+            "contentDetails": {
+                "videoId": "CTXRDx11XIc",
+                "videoPublishedAt": "2020-09-16T08:14:09Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 50
+    }
+}

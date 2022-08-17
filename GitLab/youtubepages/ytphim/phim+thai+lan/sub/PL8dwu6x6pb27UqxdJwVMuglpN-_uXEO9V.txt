@@ -1,0 +1,520 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "_MA-A1iSksoMs05qo-69TJURM7g",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KoEXFh6VYW_Tw6k4ortsDn9gbvU",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:01Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 01 | Chị Hàng Xóm Đổ Ngay Khi Gặp Em Trai Sáu Múi Mới Chuyển Đến Cùng Vợ",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 01 | Chị Hàng Xóm Đổ Ngay Khi Gặp Em Trai Sáu Múi Mới Chuyển Đến Cùng Vợ | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ucwcZk48CsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ucwcZk48CsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ucwcZk48CsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ucwcZk48CsY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ucwcZk48CsY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ucwcZk48CsY"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "ucwcZk48CsY",
+                "videoPublishedAt": "2021-08-12T12:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "niRoI7rY4QXFX7ilNesZzozVlCo",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:07Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 02 | Tội Nghiệp Cậu Trai Hàng Xóm Khi Được Cả Vợ Chồng Nhà Nười Ta Quyến Rũ",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 02 | Tội Nghiệp Cậu Trai Hàng Xóm Khi Được Cả Vợ Chồng Nhà Nười Ta Quyến Rũ | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yqriStu-qWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yqriStu-qWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yqriStu-qWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yqriStu-qWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yqriStu-qWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yqriStu-qWQ"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "yqriStu-qWQ",
+                "videoPublishedAt": "2021-08-12T12:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qw3Eareq3KL16nbQryFUzyVV6FE",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:12Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 03 | Chép Bất Ngờ Thừa Nhận Mình Cũng Là Gay Với Anh Hàng Xóm",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 03 | Chép Bất Ngờ Thừa Nhận Mình Cũng Là Gay Với Anh Hàng Xóm | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●\n•••••••••••••••••••••••••••••• 【 PHIM TRUNG QUỐC LỒNG TIẾNG TRỌN BỘ 】 ••••••••••••••••••••••••••••••\n➥ Yêu Em Giữa Trời Xanh : https://bit.ly/3iDT224\n➥ Chuyện 6 Cô Bạn Thân : https://bit.ly/2Oq8t2g\n➥ Tình Yêu Cao Thượng : https://bit.ly/V3ipZxFm\n➥ Em Chỉ Yêu Tổng Tài : https://bit.ly/37K5hG1\n➥ Mối Tình Mộng Mơ : https://bit.ly/35uNJg4\n➥ Tình Anh Bán Chuối : https://bitly.com.vn/OMrvG\n➥ Cá Mập Cũng Biết Yêu : https://bom.to/T5VctSy\n➥ Người Cha Vĩ Đại : https://bitly.com.vn/4iPLf\n➥ Khi Bạn Tuổi 30 : https://bitly.com.vn/y1AGk\n➥ Cuộc Hội Ngộ 10 Năm : https://bit.ly/2WMRkjU\n➥ Yêu Nhau Không Em Ơi : https://bit.ly/3dUnRfV\n➥ Đại Tỷ Đẹp Trai Full Bộ: https://bitly.com.vn/Orba1\n➥ Tiểu Thư Lâm Nạn: https://bit.ly/2Uuuj3X\n➥ Chuyện Tình Ngược Lối : https://bit.ly/333eHrT\n➥ Hãy Nói Anh Yêu Em : https://bit.ly/2Zo84hF\n➥ Mật Tình : https://bit.ly/317ueF5\n➥ Cuộc Tình Mong Manh : https://bit.ly/2TExWbu\n➥ Tình Yêu Không Khoảng Cách : https://bit.ly/2ZrBoDS\n➥ Tình Yêu Quyền Thế : https://bit.ly/39BKDGP\n➥ Hào Hoa Thần Thám  : https://bit.ly/3BBT4Af\n••••••••••••••••••••••••••••• 【 TỔNG HỢP HOT KISS Highlight NÓNG BỎNG 】••••••••••••••••••••••••••••••\n                                                            ❤ https://bit.ly/36Z1B21 ❤\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FD8EEFGJi-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FD8EEFGJi-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FD8EEFGJi-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FD8EEFGJi-4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FD8EEFGJi-4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FD8EEFGJi-4"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "FD8EEFGJi-4",
+                "videoPublishedAt": "2021-08-12T13:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M5XciTFaMcmN_4Cekcx34XUacfA",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:18Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 04 | Anh Hàng Xóm Chơi Bài Lạnh Nhạt Để Chép Cắn Câu Trước",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 04 | Anh Hàng Xóm Chơi Bài Lạnh Nhạt Để Chép Cắn Câu Trước  | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●\n•••••••••••••••••••••••••••••• 【 PHIM TRUNG QUỐC LỒNG TIẾNG TRỌN BỘ 】 ••••••••••••••••••••••••••••••\n➥ Yêu Em Giữa Trời Xanh : https://bit.ly/3iDT224\n➥ Chuyện 6 Cô Bạn Thân : https://bit.ly/2Oq8t2g\n➥ Tình Yêu Cao Thượng : https://bit.ly/V3ipZxFm\n➥ Em Chỉ Yêu Tổng Tài : https://bit.ly/37K5hG1\n➥ Mối Tình Mộng Mơ : https://bit.ly/35uNJg4\n➥ Tình Anh Bán Chuối : https://bitly.com.vn/OMrvG\n➥ Cá Mập Cũng Biết Yêu : https://bom.to/T5VctSy\n➥ Người Cha Vĩ Đại : https://bitly.com.vn/4iPLf\n➥ Khi Bạn Tuổi 30 : https://bitly.com.vn/y1AGk\n➥ Cuộc Hội Ngộ 10 Năm : https://bit.ly/2WMRkjU\n➥ Yêu Nhau Không Em Ơi : https://bit.ly/3dUnRfV\n➥ Đại Tỷ Đẹp Trai Full Bộ: https://bitly.com.vn/Orba1\n➥ Tiểu Thư Lâm Nạn: https://bit.ly/2Uuuj3X\n➥ Chuyện Tình Ngược Lối : https://bit.ly/333eHrT\n➥ Hãy Nói Anh Yêu Em : https://bit.ly/2Zo84hF\n➥ Mật Tình : https://bit.ly/317ueF5\n➥ Cuộc Tình Mong Manh : https://bit.ly/2TExWbu\n➥ Tình Yêu Không Khoảng Cách : https://bit.ly/2ZrBoDS\n➥ Tình Yêu Quyền Thế : https://bit.ly/39BKDGP\n➥ Hào Hoa Thần Thám  : https://bit.ly/3BBT4Af\n••••••••••••••••••••••••••••• 【 TỔNG HỢP HOT KISS Highlight NÓNG BỎNG 】••••••••••••••••••••••••••••••\n                                                            ❤ https://bit.ly/36Z1B21 ❤\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tRq0cI4iimA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tRq0cI4iimA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tRq0cI4iimA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tRq0cI4iimA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tRq0cI4iimA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tRq0cI4iimA"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "tRq0cI4iimA",
+                "videoPublishedAt": "2021-08-12T13:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UmjeP5uV9sMTXw2TvCHVC_-r2P0",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:23Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 05 | Tài Phải Quen Việc Đứng Nhìn Chồng Mình và Anh Hàng Xóm Yêu Nhau",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 05 | Tài Phải Quen Việc Đứng Nhìn Chồng Mình và Anh Hàng Xóm Yêu Nhau  | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vgK70sOKc7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vgK70sOKc7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vgK70sOKc7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vgK70sOKc7k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vgK70sOKc7k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vgK70sOKc7k"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "vgK70sOKc7k",
+                "videoPublishedAt": "2021-08-13T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DY6u7UD4GnDY2vNUlgMmbJIraIw",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:30Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 06 | Người Ngoại Tình Với CHồng Chị Hàng Xóm Lại Là Chồng Mình",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 06 | Người Ngoại Tình Với CHồng Chị Hàng Xóm Lại Là Chồng Mình | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L9uHJHm7qGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L9uHJHm7qGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L9uHJHm7qGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L9uHJHm7qGo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L9uHJHm7qGo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "L9uHJHm7qGo"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "L9uHJHm7qGo",
+                "videoPublishedAt": "2021-08-13T12:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "igzRNI8sdvyoLWBJgsQHSIRoW1M",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:37Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 07 | Con Của Bam Phát Hiện Cha Ngoại Tình Với Hàng Xóm Phá Tan Bành Nhà Cửa",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 07 | Con Của Bam Phát Hiện Cha Ngoại Tình Với Hàng Xóm Phá Tan Bành Nhà Cửa | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mhxOZngzZDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mhxOZngzZDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mhxOZngzZDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mhxOZngzZDI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mhxOZngzZDI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mhxOZngzZDI"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "mhxOZngzZDI",
+                "videoPublishedAt": "2021-08-13T13:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-JrfNVwnZWvHYD9A53KUgZluQJ4",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:42Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 08 | Chép Đang Yêu Đương Bí Mật Với Anh Hàng Xóm Bất Ngợ Vợ Có Thai",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 08 | Chép Đang Yêu Đương Bí Mật Với Anh Hàng Xóm Bất Ngợ Vợ Có Thai | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IWsqNgu_YXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IWsqNgu_YXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IWsqNgu_YXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IWsqNgu_YXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IWsqNgu_YXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IWsqNgu_YXA"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "IWsqNgu_YXA",
+                "videoPublishedAt": "2021-08-13T12:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MQoBzpbF_XH5o2DNA-NLVHo-KLw",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:29:47Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 09 | Chép Chia Tay Với Bạn Trai Để Quay Lại Với Vợ Mang Bầu",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 09 | Chép Chia Tay Với Bạn Trai Để Quay Lại Với Vợ Mang Bầu | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ypdZYph0ysc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ypdZYph0ysc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ypdZYph0ysc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ypdZYph0ysc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ypdZYph0ysc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ypdZYph0ysc"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "ypdZYph0ysc",
+                "videoPublishedAt": "2021-08-14T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xJtKA33jsO5SGsVrc11DmFWlPrQ",
+            "id": "UEw4ZHd1Nng2cGIyN1VxeGRKd1ZNdWdscE4tX3VYRU85Vi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-08-09T17:30:02Z",
+                "channelId": "UC53QZy1OwTga9aVLv81OWUQ",
+                "title": "BẠN TRAI CỦA CHỒNG - TẬP 10 | HẾT | Không Thể Tin Khi Chồng Mình Lại Là Bạn Trai Của Anh Hàng Xóm",
+                "description": "BẠN TRAI CỦA CHỒNG - TẬP 10 | HẾT | Không Thể Tin Khi Chồng Mình Lại Là Bạn Trai Của Anh Hàng Xóm | PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ\n◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌\n•••••••••••••••••••••••••••••••• 【 PHIM THÁI LAN LỒNG TIẾNG TRỌN BỘ 】 •••••••••••••••••••••••••••••••••\n➥  Bạn Trai Của Chồng : https://bit.ly/3fIXGej\n➥  Tình Yêu Vô Vọng : https://bit.ly/2VHwd5y\n➥  Ảo Tưởng Tình Yêu : https://bit.ly/3yowV6k\n➥  Mối Tình Lén Lút : https://bit.ly/3xuXzJK\n➥  Bức Bình Phong : https://bit.ly/36Y0e3D\n➥  Cuộc Tình Dối Trá : https://bit.ly/3hXamzR\n➥  Quy Luật Tình Yêu : https://bit.ly/3hU8urM\n➥  Kiếp Vợ Bé : https://bit.ly/3rnf50N\n➥  Bí Mật Tội Lỗi : https://bit.ly/3kC9ceM\n➥  Mù Quáng Yêu Anh : https://bit.ly/3hEVcza\n➥  Ham Muốn Chinh Phục : https://bit.ly/3qY2RM4\n➥  Hào Quang Của Quá Khứ : https://bit.ly/3wuobd6\n➥  Chuyện Nàng Ngoại Quốc : https://bit.ly/2SXBjtH\n➥  Sa Ngã : https://bit.ly/3hfEeav\n➥  Bồ Hay Em : https://bit.ly/3Amqlyx\n➥  Tình Tay Ba : https://bit.ly/3ynhF9F\n➥  Yêu Em Điên Dại : https://bit.ly/3vXPwnS\n➥  Hào Quang Cay Đắng : https://bit.ly/3vOkv5x\n➥  U Mê : https://bit.ly/3xs5tns\n➥  Chuyện Tình Chàng Mù : https://bit.ly/3cMgTuj\n➥  Trót Yêu Trai Bao : https://bit.ly/3vRJiXz\n➥  Mối Tình Oan Trái : https://bit.ly/3v1ug0b\n➥  Sugar Boy Của Mẹ Tôi : https://bit.ly/38CxQGu\n➥  Mối Tình Dang Dở : https://bit.ly/2MXHRTA\n\n❥ Fanpage: https://www.facebook.com/Zapphim/\n❥ Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n#BẠN_TRAI_CỦA_CHỒNG  #PHIM_THÁI_LAN_LỒNG_TIẾNG #MFILM #phimthailan2021 #phimthailanhot #phimthailanlongtiengtronbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2HMwKk0uCoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2HMwKk0uCoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2HMwKk0uCoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2HMwKk0uCoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2HMwKk0uCoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M-FILM",
+                "playlistId": "PL8dwu6x6pb27UqxdJwVMuglpN-_uXEO9V",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2HMwKk0uCoY"
+                },
+                "videoOwnerChannelTitle": "M-FILM",
+                "videoOwnerChannelId": "UC53QZy1OwTga9aVLv81OWUQ"
+            },
+            "contentDetails": {
+                "videoId": "2HMwKk0uCoY",
+                "videoPublishedAt": "2021-08-14T12:30:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}

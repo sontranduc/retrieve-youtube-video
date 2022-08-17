@@ -1,0 +1,2151 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "aDPJR2QvjG4Bz1hv3bFv90Jbou4",
+    "nextPageToken": "EAAaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gm98pAbbtqPQ00Cs9rO7-2emujE",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2017-11-16T21:26:13Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "#hatvlog47 Khăp h'iêng Kơ ami   Nhac ede",
+                "description": "Khăp h'iêng Kơ ami - Nhac ede",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQKqZHSMCEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQKqZHSMCEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQKqZHSMCEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GQKqZHSMCEY"
+                },
+                "videoOwnerChannelTitle": "Hát Vlog47",
+                "videoOwnerChannelId": "UCUt12Y53zHi5JODNKTt5Sqg"
+            },
+            "contentDetails": {
+                "videoId": "GQKqZHSMCEY",
+                "videoPublishedAt": "2016-12-08T02:38:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_6-WlEVnPKHXPmYvN1vCDLuKRLQ",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2017-11-16T21:31:15Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "enuk yong deh",
+                "description": "y quan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1ihAp87rXys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1ihAp87rXys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1ihAp87rXys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1ihAp87rXys/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1ihAp87rXys/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1ihAp87rXys"
+                },
+                "videoOwnerChannelTitle": "Y QUÂN BUÔN KRÔNG",
+                "videoOwnerChannelId": "UCMbkJvrL1i_2tIkI-4ySfqg"
+            },
+            "contentDetails": {
+                "videoId": "1ihAp87rXys",
+                "videoPublishedAt": "2015-01-21T13:16:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-v3Lz3cMM2eUy586c__mQW-L-dk",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2017-12-26T15:09:33Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Kdo Kông tuôr",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wtwfj9zQhKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wtwfj9zQhKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wtwfj9zQhKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wtwfj9zQhKA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wtwfj9zQhKA"
+                },
+                "videoOwnerChannelTitle": "Êđê Dhŭng Mnai",
+                "videoOwnerChannelId": "UCyZZuHojKDaaGlZ8autsaTw"
+            },
+            "contentDetails": {
+                "videoId": "wtwfj9zQhKA",
+                "videoPublishedAt": "2013-06-04T14:10:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xSHuGE-41NHP8QoPo8vs3YHX9CA",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2018-01-18T23:56:48Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Hài cười vỡ bụng HOT nhát 2019 (klei ede)",
+                "description": "https://www.facebook.com/profile.php?id=100007111248919",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LJBe1sx2new/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LJBe1sx2new/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LJBe1sx2new/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LJBe1sx2new/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LJBe1sx2new"
+                },
+                "videoOwnerChannelTitle": "Lang Cua TV",
+                "videoOwnerChannelId": "UC40WsXTbWLpbxHj9l8bxvwg"
+            },
+            "contentDetails": {
+                "videoId": "LJBe1sx2new",
+                "videoPublishedAt": "2014-05-29T06:01:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5pOUXoc_H3jsA-EYuxue5b_Wrc8",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2018-02-18T00:54:13Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Kồng chiêng Học sinh Bahnar",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f_LNc_76MG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f_LNc_76MG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f_LNc_76MG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f_LNc_76MG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f_LNc_76MG8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f_LNc_76MG8"
+                },
+                "videoOwnerChannelTitle": "Phạm Ngọc Ánh",
+                "videoOwnerChannelId": "UCJqVN6dreD5ltgZGxmFRJjg"
+            },
+            "contentDetails": {
+                "videoId": "f_LNc_76MG8",
+                "videoPublishedAt": "2017-05-05T04:48:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hprCuKY-GIsStkxlGemug176YYA",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2018-03-01T10:57:05Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hcn_qvuWn1U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hcn_qvuWn1U"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q75nf4V29V9EPdqrLW-gQXNuruQ",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-05-09T13:29:59Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AasmcsI3oYA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AasmcsI3oYA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ts_4TiOK-37XDpmGFLxOlda3Lak",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2018-05-15T07:06:16Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Truyền hình tiếng dân tộc - Người của đồng bào",
+                "description": "Nhạc sĩ Kpa Y Lăng-một người con của đồng bào Bana Chăm Phú Yên, một chuyên gia trong lĩnh vực âm nhạc Tây nguyên, người đã cống hiến trọn đời mình với âm nhạc và di sản văn hóa truyền thống nhiều dân tộc. VTV Phú Yên trân trọng giới thiệu phim tài liệu nghệ thuật Người của đồng bào qua chương trình Truyền hình tiếng dân tộc Ê đê.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tl2AM9u-t5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tl2AM9u-t5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tl2AM9u-t5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Tl2AM9u-t5U"
+                },
+                "videoOwnerChannelTitle": "VTVPhuYen Ba Vu Nguyen",
+                "videoOwnerChannelId": "UCc5DzIa4_PEbCPTWspZwZGA"
+            },
+            "contentDetails": {
+                "videoId": "Tl2AM9u-t5U",
+                "videoPublishedAt": "2013-01-01T22:49:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jDAxmaNMA8XEe76KQN7Jsnemssk",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2018-07-05T06:18:42Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "89wmq7HDlkE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "89wmq7HDlkE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IerSe_Sz7X-4rmM4Gz2jOfSbF6M",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2018-07-25T23:31:57Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Buôn Dur Kmăn.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zGDZB23VxeI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zGDZB23VxeI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zGDZB23VxeI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zGDZB23VxeI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zGDZB23VxeI"
+                },
+                "videoOwnerChannelTitle": "Mdỡng Dhar Kreh klei hdip djuê ana DeGa",
+                "videoOwnerChannelId": "UCo3_D7ZmhStzCOg6mDRgX9g"
+            },
+            "contentDetails": {
+                "videoId": "zGDZB23VxeI",
+                "videoPublishedAt": "2014-03-15T11:12:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u70f4UC1_i0rdnqqxFf4MiWWeco",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2018-07-28T01:13:15Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Thách thức danh hài 4 |tập 2 full: cô gái muốn triệt sản Tiến Luật làm Trấn Thành,Trường Giang lo sợ",
+                "description": "Thách thức danh hài tập 2 mùa 4, Trấn Thành, Trường Giang, Tiến Luật thót tim, \"xanh mặt\" khi bị bộ đôi thí sinh đóng luật sư mời lên \"vành móng ngựa\". Không chỉ thể, các thí sinh cũng troll bộ đôi giám khảo và MC Tiến Luật không thương tiếc. \n\nThách thức danh hài mùa 4 phát sóng vào lúc 20h30 thứ 4 hàng tuần bắt đầu từ ngày 22/11/2017 trên HTV7.\n\nThách thức danh hài mùa 4 đã trở lại với sự góp mặt của bộ đôi Giám khảo Trấn Thành, Trường Giang và MC-Danh Hài Tiến Luật cũng những thí sinh được tuyển chọn trong toàn quốc.\n\nThách thức danh hài trân trọng cảm ơn Tập đoàn điện tử ASANZO nhà tài trợ chính đã đồng hành cùng chương trình\n\n👉 Fanpage Thách thức danh hài: https://www.facebook.com/thachthucdanhhai/\n\nthach thuc danh hai, thách thức danh hài, thach thuc danh hai tap 2, thách thức danh hài tập 2 full",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nPeYAsLYALA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nPeYAsLYALA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nPeYAsLYALA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nPeYAsLYALA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nPeYAsLYALA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nPeYAsLYALA"
+                },
+                "videoOwnerChannelTitle": "DIEN QUAN Comedy / Hài",
+                "videoOwnerChannelId": "UCwmurIyZ6FHyVPtKppe_2_A"
+            },
+            "contentDetails": {
+                "videoId": "nPeYAsLYALA",
+                "videoPublishedAt": "2017-11-29T14:27:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s0dUKggH8Il5CAz5AAiZEmDKc1g",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2018-08-06T09:25:22Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Pororo Poli car Fishing toys - ToyPudding 뽀로로 낚시놀이",
+                "description": "These are Pororo Robocar Poli car toys and Fishing toy\nEnjoy & SUBSCRIBE, thanks~ ToyPudding\n뽀로로와 로보카폴리 낚시놀이입니다",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D0OdBQqSqnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D0OdBQqSqnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D0OdBQqSqnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D0OdBQqSqnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D0OdBQqSqnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "D0OdBQqSqnQ"
+                },
+                "videoOwnerChannelTitle": "ToypuddingTV",
+                "videoOwnerChannelId": "UCKqx9r4mrFglauNBJc1L_eg"
+            },
+            "contentDetails": {
+                "videoId": "D0OdBQqSqnQ",
+                "videoPublishedAt": "2016-07-01T10:40:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZNJhtQ_wYE6zUVhK1mYCie8Xwfo",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2018-08-06T09:45:18Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iDvnRyaio0I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iDvnRyaio0I"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5GwGHehub-tzFZGS15jQlbD-L1s",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2018-08-10T04:09:13Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Thách thức danh hài 4 | tập 7: Trấn Thành \"té ngửa\" với lý do ly hôn của đôi \"vợ chồng ngang trái\"",
+                "description": "thí sinh Phương Thanh xuất hiện trong trang phục ngủ đến từ Bình Tân. Bạn trợ diễn của nữ thí sinh là anh chàng Minh Sơn. Trước phần thi của mình, cô nàng chia sẻ đã từng tham gia mùa trước nhưng chưa có dịp trò chuyện cùng hai giám khảo.\n\nThách thức danh hài mùa 4 phát sóng vào lúc 20h30 thứ 4 hàng tuần trên HTV7.\n\nThách thức danh hài mùa 4 đã trở lại với sự góp mặt của bộ đôi Giám khảo Trấn Thành, Trường Giang và MC-Danh Hài Tiến Luật cũng những thí sinh được tuyển chọn trong toàn quốc.\n\nThách thức danh hài trân trọng cảm ơn Tập đoàn điện tử ASANZO nhà tài trợ chính đã đồng hành cùng chương trình\n\n👉 Fanpage Thách thức danh hài: https://www.facebook.com/thachthucdan...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UMFgYziFklU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UMFgYziFklU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UMFgYziFklU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UMFgYziFklU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UMFgYziFklU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UMFgYziFklU"
+                },
+                "videoOwnerChannelTitle": "DIEN QUAN Comedy / Hài",
+                "videoOwnerChannelId": "UCwmurIyZ6FHyVPtKppe_2_A"
+            },
+            "contentDetails": {
+                "videoId": "UMFgYziFklU",
+                "videoPublishedAt": "2018-01-03T14:54:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bQRrefo2An75AIGa5RrmyFoLYt0",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2018-08-12T12:49:11Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yteC2lHFjCw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yteC2lHFjCw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y_SrkZp5rJyfqbAxJEkByB7CMvM",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2018-08-12T13:15:11Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Cặp thí sinh \"'phục thù\" Trấn Thành Trường Giang ngoạn mục nhất ở Thách thức danh hài",
+                "description": "Cặp thí sinh \"'phục thù\" Trấn Thành Trường Giang ngoạn mục nhất ở Thách thức danh hài\n\nKhương Dừa Channel chia sẻ những nội dung hậu trường hài hước, độc lạ của các chương trình truyền hình, phim ảnh hot nhất Việt Nam mà khán giả chưa bao giờ xem trên sóng truyền hình hay bất kỳ một trang mạng xã hội nào khác. \n\nCác bạn hãy theo dõi và đăng ký kênh để xem nội dung mới nhất nhé!\nLike và để lại câu hỏi/ comment nếu bạn muốn thắc mắc gì nhé!\n--------\n►Đăng ký kênh Khương Dừa Channel: https://www.youtube.com/c/KHƯƠNGDỪACHANNEL\n► Fanpage Khương Dừa Channel: https://www.facebook.com/khuongduachannel\n\nVui lòng không Reup lại nội dung, cảm ơn!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bufjf4Ab9XQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bufjf4Ab9XQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bufjf4Ab9XQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bufjf4Ab9XQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bufjf4Ab9XQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bufjf4Ab9XQ"
+                },
+                "videoOwnerChannelTitle": "KHƯƠNG DỪA CHANNEL",
+                "videoOwnerChannelId": "UCF3zCyOModLIKG1C9mg4hsQ"
+            },
+            "contentDetails": {
+                "videoId": "bufjf4Ab9XQ",
+                "videoPublishedAt": "2018-07-21T16:37:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fGzV5vHUVZZFI_59PJdqgGKt664",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2018-09-26T14:28:37Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Trấn Thành là giám khảo có tâm nhất khi liên tục thị phạm cho thí sinh tại Thách thức danh hài",
+                "description": "Trấn Thành là giám khảo có tâm nhất khi liên tục thị phạm cho thí sinh tại Thách thức danh hài\n\n-------\nKhương Dừa Channel chia sẻ những nội dung hậu trường hài hước, độc lạ của các chương trình truyền hình, phim ảnh hot nhất Việt Nam mà khán giả chưa bao giờ xem trên sóng truyền hình hay bất kỳ một trang mạng xã hội nào khác. \n\nCác bạn hãy theo dõi và đăng ký kênh để xem nội dung mới nhất nhé!\nLike và để lại câu hỏi/ comment nếu bạn muốn thắc mắc gì nhé!\n--------\n►Đăng ký kênh Khương Dừa Channel: \nhttps://goo.gl/dgdxYt\n► Fanpage Khương Dừa Channel: https://www.facebook.com/khuongduachannel\n\nVui lòng không Reup lại nội dung, cảm ơn!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G9qjmE1AAYg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G9qjmE1AAYg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G9qjmE1AAYg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G9qjmE1AAYg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G9qjmE1AAYg"
+                },
+                "videoOwnerChannelTitle": "KHƯƠNG DỪA CHANNEL",
+                "videoOwnerChannelId": "UCF3zCyOModLIKG1C9mg4hsQ"
+            },
+            "contentDetails": {
+                "videoId": "G9qjmE1AAYg",
+                "videoPublishedAt": "2018-08-18T08:24:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "41UAw90a4NUTCdilCfv5guQ9ui8",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2018-10-03T23:29:39Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Pô Hiam hang Wa Hip Ksor",
+                "description": "Pô adôh: Hyit  Siu Annis and Wa Hip Ksor\nPô chih: Hip Ksor\n\nFollow Hyit (Jessie) Annis:\nwww.facebook.com/JaraiWorship\n\nLo'i Bay Hat\n\nPô Hiam\n\nAM-\n\n\n\nHyit\n\nThun dong hluh hla\n\nBơnga bă kơ brong\n\nDong trai djop than, lan ta ngor\n\nHor đơi vơi ah\n\n\n\nWa Hip\n\nThun dong kar anai\n\nHrơi hloai chrep kơ byan\n\nJak ih pan b'nga pô dra hiam\n\nJak ih klam anai\n\n\n\nĐK\n\nHyit\n\nTanh tanh bế ayong hiam\n\nTanh tanh bế ayong hiam\n\nChung hiu rơ nang wang hiu hrom\n\nTom ih ayong ih\n\n\n\nWa Hip\n\nTanh tanh dra hiam\n\nTanh tanh dra hiam\n\nJak ih lon ia ba lan rưng\n\nDua ta adơi ih\n\n\n\nHyit - verse 2\n\nAdơi dố glang hiam \n\nHrap kon thau hrap lah\n\nKhăp kơ pran ih\n\nPô juh kau hor đơi tlam anai\n\n\n\nWa Hip & Hyit\n\nTanh tanh bế dra hiam\n\nTanh tanh bế dra hiam\n\nChung hiu rơ nang wang hiu hrom\n\nTom ih adơi ih\n\n\n\nTanh tanh dra hiam\n\nTanh tanh dra hiam\n\nJak ih lon ia ba lan rưng\n\nDua ta adơi ih\n\n\n\nWa Hip \n\nAyong dố glang hiam \n\nHrap kon thau hrap lah\n\nKhăp kơ pran ih\n\nPô juh kau hor đơi tlam anai\n\nPô juh kau hor đơi tlam anai\n\nPô juh kau hor đơi tlam anai",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zArVjMVRsoU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zArVjMVRsoU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zArVjMVRsoU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zArVjMVRsoU"
+                },
+                "videoOwnerChannelTitle": "Hyit Siu - Jessie",
+                "videoOwnerChannelId": "UCUo2hAT4Fs9HNhKilxLu3hQ"
+            },
+            "contentDetails": {
+                "videoId": "zArVjMVRsoU",
+                "videoPublishedAt": "2018-03-29T21:49:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HHxav6i2Ng5dXgG76NSb7eS1P5c",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2018-10-07T08:34:02Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Vua hài Hong Kong xuất hiện ở Thách Thức Danh Hài khiến Trấn Thành Việt Hương khoái chí",
+                "description": "Vua hài Hong Kong xuất hiện ở Thách Thức Danh Hài khiến Trấn Thành Việt Hương khoái chí\n----------------------------------------------------------\nThách thức danh hài là chương trình truyền hình thực tế đầu tiên tương tác trực tiếp với danh hài và là nơi mà người chơi khiến danh hài cười sẽ nhận tiền thưởng. \n\nChương trình là một trong những game show được nhiều người yêu thích nhất trên sóng của HTV7. \n\nHãy nhấn subscribe để theo dõi kênh tại địa chỉ: https://goo.gl/9diFtx \n\nTrang Facebook của chương trình: https://goo.gl/p5XRjL \n\nGoogle Plus G+ của chương trình: https://goo.gl/oudYoE\n\nWebsite của chương trình: http://goo.gl/3Q4UHg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7_h_5s1tP1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7_h_5s1tP1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7_h_5s1tP1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7_h_5s1tP1E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7_h_5s1tP1E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7_h_5s1tP1E"
+                },
+                "videoOwnerChannelTitle": "Hài TV Official",
+                "videoOwnerChannelId": "UCuHL9SSiXZnM89fM2n3GMPg"
+            },
+            "contentDetails": {
+                "videoId": "7_h_5s1tP1E",
+                "videoPublishedAt": "2018-10-03T13:30:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SU3LTjVUO85p_R9Lq8YMC6uGpqM",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2018-10-08T12:27:49Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "32YfMv0SapM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "32YfMv0SapM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "igleYelA8FXAzVykE_uKjmknW0c",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2018-10-15T22:48:51Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "베트남에서만 받을 수 있는 이발소 서비스!",
+                "description": "*코이티비 채널은 베트남에 관한 이야기를 다루는 채널입니다.\n*비판은 감사하게 받아들이겠습니다 하지만 이유없이 악플을 다는 분들은 차단하도록 하겠습니다.\n*비지니스 문의는 redhatsg@gmail.com로 하시면 됩니다.\n\n- FACEBOOK 페이스북 : https://www.facebook.com/sukho.hong.39\n- INSTAGRAM 인스타그램 : https://www.instagram.com/redhatsg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5e0SWLz-I8k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5e0SWLz-I8k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5e0SWLz-I8k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5e0SWLz-I8k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5e0SWLz-I8k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5e0SWLz-I8k"
+                },
+                "videoOwnerChannelTitle": "코이티비KOITV",
+                "videoOwnerChannelId": "UCLvaHVogti2o0AkXoNZzeKA"
+            },
+            "contentDetails": {
+                "videoId": "5e0SWLz-I8k",
+                "videoPublishedAt": "2018-08-05T03:24:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0LAMexLUF2V5GRXPde5nSdrxswk",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2018-10-24T09:40:21Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "➽ Choáng khi CSGT Việt Nam đi Siêu Xe 80 Tỷ - Phản Ứng của người dân NTN ?",
+                "description": "-------------------------------\nNếu các bạn thấy hay hãy Like, Share và Subscribe để ủng hộ mình và đón nhận thêm nhiều video hay hơn nữa nha! :)\n\nĐĂNG KÍ KÊNH: http://bit.ly/2z4w64N\nSUBSCRIBE FOR ME !!!! TKS :)\n\n© Copyright by NgTanDat1505   ⚠ Do not Reup ⚠\nTags: Ngtandat1505\nNgtandat1505 Siêu xe\nsiêu xe việt nam\nsieu xe vietnam\ncường đô la\ncuong do la\nminh nhựa\nminh nhua\nsieu xe sai gon\nsiêu xe sài gòn\nsupercars in vietnam\nsupercars\n#pagani\n#paganiminhnhua\n#pagani80ty\n#csgtdisieuxe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xgs80ONjFXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xgs80ONjFXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xgs80ONjFXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xgs80ONjFXI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xgs80ONjFXI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Xgs80ONjFXI"
+                },
+                "videoOwnerChannelTitle": "NgTanDat1505",
+                "videoOwnerChannelId": "UCowlBzx3haw2AtH38XhHxzA"
+            },
+            "contentDetails": {
+                "videoId": "Xgs80ONjFXI",
+                "videoPublishedAt": "2018-10-10T10:27:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0FGkbzNMgcN-4bTENry8KWnV4Sg",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2018-11-11T09:33:15Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4XJjkPk35rI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4XJjkPk35rI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sS14za-G0AwJ2ig2lyDJn8MnGso",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2018-11-11T14:13:29Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Hruê ĐêGa lơ 20 mlan 09.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-XFdjIzGdWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-XFdjIzGdWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-XFdjIzGdWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-XFdjIzGdWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-XFdjIzGdWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-XFdjIzGdWg"
+                },
+                "videoOwnerChannelTitle": "Mdỡng Dhar Kreh klei hdip djuê ana DeGa",
+                "videoOwnerChannelId": "UCo3_D7ZmhStzCOg6mDRgX9g"
+            },
+            "contentDetails": {
+                "videoId": "-XFdjIzGdWg",
+                "videoPublishedAt": "2015-02-23T00:46:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WOmU_IzCCjwt4GJOsLjHHnkvKyg",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-06-29T14:19:44Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HvHO9zAFt0g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HvHO9zAFt0g"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_Dy1-tAvwrJZI-WWhwP7v6iP3mQ",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-07-09T13:06:10Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "AE RAY || ADUÔN NGHEO - ADUÔN KLA || KRÔNG HNANG",
+                "description": "AMAI ADEI MTĂ MTĂN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NwsPN21GBWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NwsPN21GBWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NwsPN21GBWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NwsPN21GBWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NwsPN21GBWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NwsPN21GBWg"
+                },
+                "videoOwnerChannelTitle": "Y LUM KNUL",
+                "videoOwnerChannelId": "UC6mpSCNCUPv7uD-0xwobrqQ"
+            },
+            "contentDetails": {
+                "videoId": "NwsPN21GBWg",
+                "videoPublishedAt": "2019-05-29T05:47:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "be3CPhb9NAU-ylSZt2yYI_qCIEE",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2019-07-15T08:52:04Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Người Thượng tị nạn: Nếu VN có tự do tôn giáo sẽ trở về! | © Official RFA",
+                "description": "© OFFICIAL RFA VIETNAMESE VIDEO – Kênh thông tin chính thức của đài Á CHÂU TỰ DO\n\nNgày 31/08/2017, tin từ bà Grace Bùi - Giám đốc chương trình Dự án hỗ trợ người Thượng cho hay thêm 9 người Montanard tị nạn ở Campuchia bị rớt phỏng vấn và sẽ bị trục xuất về Việt Nam trong 15 ngày nữa nâng tổng số người Thượng bị đưa về VN từ đầu năm đến nay lên con số hơn 50 người. \n\nĐây là những đồng bào dân tộc thiểu số sinh sống ở các tỉnh Tây Nguyên bị lấy mất đất đai hoặc bị đàn áp về tự do tôn giáo phải chạy trốn qua các nước lân cận để tìm kiếm quy chế tị nạn. Tuy nhiên, những người Thượng ở Thái Lan khi gặp chúng tôi đều nói rằng: Nếu Việt Nam có tự do tôn giáo họ sẽ trở về!\n\nTheo dõi YouTube: http://bit.ly/11PGb33\n\nĐài Á Châu Tự Do RFA trụ sở tại thủ đô Washington Hoa Kỳ, cung cấp thông tin đa dạng, chính xác, trung thực về các vấn đề thời sự, kinh tế, xã hội, đời sống tại Việt Nam và trên Thế Giới.\n \nTheo dõi YouTube: http://bit.ly/11PGb33\nFacebook:http://on.fb.me/1vFY6qX\nTwitter: https://twitter.com/DaiAChauTuDo\nĐài Á Châu Tự Do RFA: http://bit.ly/1uS5BJn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BV_HWT1_Wo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BV_HWT1_Wo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BV_HWT1_Wo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BV_HWT1_Wo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BV_HWT1_Wo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BV_HWT1_Wo4"
+                },
+                "videoOwnerChannelTitle": "RFA Tiếng Việt",
+                "videoOwnerChannelId": "UCSfL291fDipxp_mbKX5ZZ2w"
+            },
+            "contentDetails": {
+                "videoId": "BV_HWT1_Wo4",
+                "videoPublishedAt": "2017-09-14T05:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Wyk6aVxHqTFbXdNQQ4_19nbH2Aw",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2019-07-30T13:05:28Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Pơtưh nao rai | Yal Jrai Tơlơi 2 vol 2 | Dân Ca Jrai Pleiku",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iREY9k8Lvc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iREY9k8Lvc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iREY9k8Lvc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iREY9k8Lvc4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iREY9k8Lvc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iREY9k8Lvc4"
+                },
+                "videoOwnerChannelTitle": "RUPtv",
+                "videoOwnerChannelId": "UCorhIUv6YG63aMXMK69oXJQ"
+            },
+            "contentDetails": {
+                "videoId": "iREY9k8Lvc4",
+                "videoPublishedAt": "2018-09-07T01:14:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C97caxIIF5EjvfFSwk6JslVx1UI",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2019-07-30T14:26:01Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "dam cuoi kpa h lui",
+                "description": "dam cuoi nguoi jrai tay nguyen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pBgoB5naM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pBgoB5naM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pBgoB5naM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6pBgoB5naM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6pBgoB5naM0"
+                },
+                "videoOwnerChannelTitle": "Soat Kpa",
+                "videoOwnerChannelId": "UCZaipKdieAEf5sG9F9CZ_Nw"
+            },
+            "contentDetails": {
+                "videoId": "6pBgoB5naM0",
+                "videoPublishedAt": "2014-07-02T08:42:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cmfP7TzLlKrplW__FVdb-OcvAow",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2019-08-02T11:56:27Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Chư Sê đám cưới ban Nhật tôt byƠch",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YGx4WGpWtGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YGx4WGpWtGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YGx4WGpWtGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YGx4WGpWtGs"
+                },
+                "videoOwnerChannelTitle": "Wen Rlan",
+                "videoOwnerChannelId": "UCyFQcaX35TrKoOQrNAf0vpw"
+            },
+            "contentDetails": {
+                "videoId": "YGx4WGpWtGs",
+                "videoPublishedAt": "2017-07-29T08:07:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q-iOgvHMrAkvXgDJ9R6xeAz2CdU",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2019-08-02T12:23:26Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Điệu múa Xoan của dân tộc người Jrai.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GrEjxe7wYmo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GrEjxe7wYmo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GrEjxe7wYmo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GrEjxe7wYmo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GrEjxe7wYmo"
+                },
+                "videoOwnerChannelTitle": "nguyen ngan",
+                "videoOwnerChannelId": "UCbu-6--zIkpKR2w9mwf21Gg"
+            },
+            "contentDetails": {
+                "videoId": "GrEjxe7wYmo",
+                "videoPublishedAt": "2014-12-25T05:38:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O2-tt_MEMqqrxY-sE7AeuDzyf8w",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2019-08-06T12:02:46Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Anhong Thi // Hơri Dăm hyang anao. 2019",
+                "description": "Anhong Thi // Hơri Dăm hyang anao. 2019\n\nHelo - Chào các bạn đã ghé thăm kênh JOH BAHNAR Vs Tôi chân thành cảm ơn tất cả ae rất nhiều. đừng quên nhấn nút đăng ký kênh để nhận được video mới nhất. Cảm ơn các bạn đã xem video...\n\n\n\n\n\n#JOHBAHNAR #LêGinVlog #EmTraiLêGin Cover joh bahnar anh trong làng\n\n#johbahnar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5C9FAYNWIVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5C9FAYNWIVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5C9FAYNWIVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5C9FAYNWIVA"
+                },
+                "videoOwnerChannelTitle": "Gin nhac dân ca bana",
+                "videoOwnerChannelId": "UCUIzF0djLaFATyHENVGQhEA"
+            },
+            "contentDetails": {
+                "videoId": "5C9FAYNWIVA",
+                "videoPublishedAt": "2019-08-05T09:34:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8_MVJWvEPrbj1mogR8e7hnZWaQM",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2019-08-07T13:09:26Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Ede song(h)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JJyv31pSA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JJyv31pSA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JJyv31pSA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6JJyv31pSA0"
+                },
+                "videoOwnerChannelTitle": "siukara",
+                "videoOwnerChannelId": "UC8d0M-jCAV7xKzhzObRkS_w"
+            },
+            "contentDetails": {
+                "videoId": "6JJyv31pSA0",
+                "videoPublishedAt": "2010-02-24T08:37:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l2UObJo_7fos0e67s2qYC0ClzL0",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2019-08-13T06:20:41Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Nghe Mượt Quá | hòa tấu nhạc dân tộc -Dân ca Hre |",
+                "description": "Dân ca hre\n\nChào mừng các bạn đã ghé thăm kênh PHIUNG BAZAN  để cùng trải nghiệm những điều thú vị HÃY nhấn SUBSCRIBE/ĐĂNG KÝ ngay để theo dõi những video âm nhạc mới nhất từ PHIUNG BAZAN  nhé!\n\n► LIÊN HỆ VỚI VIÊN NẾU CÓ VẤN ĐỀ VỀ BẢN QUYỀN ◄\n     Email: phiungbazan76@gmail.com\n\n LIÊN HỆ THÊM TẠI:\n👉 YOUTUBE: https://bit.ly/2lWJbL2\n👉 FACEBOOK: https://www.facebook.com/ung.phi.129\n👉 LIÊN HỆ QUẢNG CÁO: phiungbazan76@gmail.com\n\n© Bản quyền thuộc về PHIUNG BAZAN\n© Copyright by PHIUNG BAZAN ☞ Do not Reup!\n\nLiên hệ tài trợ, hợp tác: \n 👉 HOTLINE: 0987833444\n 👉 Contact Email: phiungbazan76@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vi9lbsGoMpQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vi9lbsGoMpQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vi9lbsGoMpQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vi9lbsGoMpQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vi9lbsGoMpQ"
+                },
+                "videoOwnerChannelTitle": "PHIUNG BAZAN",
+                "videoOwnerChannelId": "UCb9ElGddgiMBVopZj58pKQg"
+            },
+            "contentDetails": {
+                "videoId": "vi9lbsGoMpQ",
+                "videoPublishedAt": "2019-02-26T08:10:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VRh6pLBLqZNW47hHVbD0ObdzZ-Q",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2019-08-16T04:11:23Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "MC Cát Tường Buô`n Khi La`m Cho Mẹ Phải Lo Lắng Vì Đường Ti`nh Duyên Lận Đận",
+                "description": "MC Cát Tường Buô`n Khi La`m Cho Mẹ Phải Lo Lắng Vì Đường Ti`nh Duyên Lận Đận\n► Quý Vị Hãy Đăng Ký Kênh Miễn Phí (Tại Đây): http://goo.gl/KYHbz8\n\n► Kênh TIN TỨC 24H TV cập nhật những tin tức, sự kiện mới và hấp dẫn nhất hàng ngày. Các bạn đừng quên Click nút \"Đăng Ký\" Kênh để không bỏ lỡ những clip hấp dẫn trên kênh của chúng tôi.\n\n► Xem những Clip mới và hấp dẫn nhất: \n- Tin tức hàng ngày mới nhất:  https://goo.gl/9GZSrN\n- Tin mới nhất về Showbiz Việt: https://goo.gl/Bca94S\n- Chuyện lạ Việt Nam và thế giới: https://goo.gl/YWKTxv\n- Những câu chuyện ý nghĩa: https://goo.gl/jVUyDa\n\n► Bản quyền:  Kênh TIN TỨC 24H TV không sở hữu tất cả tư liệu được sử dụng trong Video này. Mọi thắc mắc về bản quyền, tài trợ, quảng cáo, cộng tác vui lòng liên hệ Email: tintuc24htv@gmail.com. Cảm ơn sự thấu hiểu của bạn và chúng tôi mong được hợp tác để cùng nhau phát triển.\n\n► Hashtag: #tintuc24htv #tinmoinhat #tinnhanh #tintucmoi #news #vietnam #vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XKiBLEbandg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XKiBLEbandg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XKiBLEbandg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XKiBLEbandg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XKiBLEbandg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XKiBLEbandg"
+                },
+                "videoOwnerChannelTitle": "TIN TỨC 24H TV",
+                "videoOwnerChannelId": "UCRpDXO_9_iuRPigBz3KGQeQ"
+            },
+            "contentDetails": {
+                "videoId": "XKiBLEbandg",
+                "videoPublishedAt": "2019-08-16T01:34:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6RIzdRvSR2uZvRfRD85dir0-exQ",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2019-08-17T05:12:51Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Anh công nhân RƠI NƯỚC MẮT làm Quyền Linh xúc động giúp tìm vợ nhưng cô bán hàng online vẫn từ chối",
+                "description": "Anh công nhân RƠI NƯỚC MẮT làm Quyền Linh xúc động giúp tìm vợ nhưng cô bán hàng online vẫn từ chối\n\n#QUYENLINH #QUYENLINHOFFICIAL #NGHESIQUYENLINH\n✅ Đăng kí theo dõi/Subscribe: \nhttp://bit.ly/Subscribe-QUYENLINHOFFICIAL\n✅ Facebook: http://bit.ly/NSQUYENLINH\n\n📺 GIỚI THIỆU:\nQUYỀN LINH OFFICIAL là kênh YouTube chính thức của nghệ sĩ Quyền Linh. Anh là một trong số những nghệ sĩ được yêu thích nhất ở Việt Nam vì luôn tham gia những chương trình mang tính nhân văn cao được khán giả ở nhiều độ tuổi đón nhận. Kênh QUYỀN LINH OFFICIAL sẽ mang đến cho khán giả những giây phút giải trí, thư giãn và một chút sâu lắng với các chương trình: Mẹ Chồng - Nàng Dâu, Bạn Muốn Hẹn Hò?, Bạn Có Thực Tài?, v.v…\n\n🔔 Kênh sẽ update video vào 8H30 sáng hàng ngày.\n\n🚩 Theo dõi các thông tin về QUYỀN LINH OFFICIAL: \n🔶 BẠN MUỐN HẸN HÒ?:\n✅ Đăng kí theo dõi/Subscribe: http://bit.ly/SubscribeBANMUONHENHO\n► Playlist các tập #BMHH - UNCUT: http://bit.ly/PlaylistBMHH-UNCUT\n► Playlist từng cặp đôi: http://bit.ly/Playlist-BMHH\n► Fanpage Bạn Muốn Hẹn Hò?: \nhttps://www.facebook.com/MCV.Banmuonhenho\n- Group Tổng hợp: \nhttps://www.facebook.com/groups/BanMuonHenHoMCV/\n- Group miền Bắc: \nhttps://www.facebook.com/groups/718312841704110/\n- Group miền Trung: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group miền Nam: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group Offline Bạn Muốn Hẹn Hò?:\nhttps://www.facebook.com/MCV.OfflineBanMuonHenHo/\n---------------\nCách thức đăng ký tham gia show truyền hình Bạn Muốn Hẹn Hò?:\n• Đăng kí tham gia qua ☎ HOTLINE: 0916.861.099 (Giờ hành chính)\n• Email: banmuonhenho@gmail.com\n🔶 MẸ CHỒNG – NÀNG DÂU:\n✅ Đăng kí theo dõi/Subscribe: \nhttp://bit.ly/SubscribeMECHONGNANGDAU\n✅ Fanpage chính thức: https://www.facebook.com/MCV.MeChongNangDau\n► Playlist các tập #MCND - UNCUT: http://bit.ly/PlaylistMCND-UNCUT\n► Playlist các cặp Mẹ-Con: http://bit.ly/Playlist-MCND\n🔶 BẠN CÓ THỰC TÀI?:\n✅ Đăng kí theo dõi/Subscribe: http://bit.ly/Subscribe-BANCOTHUCTAI\n► Playlist Bạn Có Thực Tài | 2014 | Mùa 1: \nhttp://bit.ly/PlaylistBCTT2014-Mua1\n► Playlist Bạn Có Thực Tài | 2015 | Mùa 2: \nhttp://bit.ly/PlaylistBCTT2015-Mua2\n► Playlist Bạn Có Thực Tài | 2016 | Mùa 3: \nhttp://bit.ly/PlaylistBCTT2016-Mua3\n🔶 GIA ĐÌNH TÀI TỬ:\n✅ Đăng kí theo dõi/Subscribe: http://bit.ly/SubscribeGIADINHTAITU\n► Playlist “GDTT – Tài Năng Tổng Hợp”: \nhttp://bit.ly/PlaylistGiaDinhTaiTu-TNTH\n► Playlist các THỬ THÁCH trong chương trình: \nhttp://bit.ly/PlaylistGDTT-ThuThach\n► Playlist Gia Đình Tài Tử 2010 – 2012: http://bit.ly/PlaylistGDTT2010-2012\n► Playlist Gia Đình Tài Tử 2013 – 2014: http://bit.ly/PlaylistGDTT2013-2014\n💎 Fanpage MCVMedia: http://bit.ly/FanpageMCVMEDIA\n🌐 Website: http://mcv.com.vn\n🌐 Youtube: \nĐăng ký/Subscribe #MCVMEDIA: http://bit.ly/SubscribeMCVMedia\nĐăng ký/Subscribe #MCVTV: http://bit.ly/SubscribeMCVTV\n\n-~-~~-~~~-~~-~-\n© Các video trên kênh QUYỀN LINH OFFICIAL đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~- ► Fanpage Bạn Muốn Hẹn Hò?: \nhttps://www.facebook.com/MCV.Banmuonhenho\n- Group Tổng hợp: \nhttps://www.facebook.com/groups/BanMuonHenHoMCV/\n- Group miền Bắc: \nhttps://www.facebook.com/groups/718312841704110/\n- Group miền Trung: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group miền Nam: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group Offline Bạn Muốn Hẹn Hò?:\nhttps://www.facebook.com/MCV.OfflineBanMuonHenHo/\n---------------\nCách thức đăng ký tham gia show truyền hình Bạn Muốn Hẹn Hò?:\n• Đăng kí tham gia qua ☎ HOTLINE: 0916.861.099 (Giờ hành chính)\n• Email: banmuonhenho@gmail.com\n\n-~-~~-~~~-~~-~-\n© Các video trên kênh ÔNG MAI HẸN HÒ  đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aySKeh1jrD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aySKeh1jrD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aySKeh1jrD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aySKeh1jrD8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aySKeh1jrD8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aySKeh1jrD8"
+                },
+                "videoOwnerChannelTitle": "Ông Mai Bà Mối",
+                "videoOwnerChannelId": "UC6UfvTYADd3Z-tSQNTXuEIw"
+            },
+            "contentDetails": {
+                "videoId": "aySKeh1jrD8",
+                "videoPublishedAt": "2019-07-07T12:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q5w_Uy6c-DtpSm8GxY8swPK23Is",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2019-08-22T22:56:07Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Cát Tường bật khóc ôm Quyền Linh vì không kìm được cảm xúc 😭😭, BMHH",
+                "description": "Xả Xì Chét là kênh youtube giải trí chính thức do Công ty MCV Corporation sản xuất\nGiúp đánh bay Xì Chét với những câu chuyện tuy đời thường nhưng hài không tưởng.\n✅ Fanpage chính thức: https://business.facebook.com/MCV.BietDoiXaStress/\nĐừng để phút giây giải trí bị gián đoạn, khám phá tiếp ngay tại:\n1/ Xả Xì Chét: http://bit.ly/Xa-Xi-Chet-pl\n2/ Phim hài hay: http://bit.ly/pl-Phim-Hai-Hay\n3/ Tin tức - Thời sự nóng: http://bit.ly/pl-Tin-Tuc\n4/ Thánh hài Showbiz: http://bit.ly/pl-Thanh-Hai-Showbiz\n------------------------\n💎 Fanpage MCVMedia: http://bit.ly/FanpageMCVMEDIA\n🌐 Website: http://mcv.com.vn\n\n\n💡 CÚ PHÁP TÌM NHANH: \nbạn muốn hẹn hò, ban muon hen ho, ban muon hen ho tap 70, ban muon hen ho 70, ban muon hen ho #70, bmhh tap 70, bmhh #70, bmhh 70, bạn muốn hẹn hò #70 uncut, Kansai TV, Punchi de Deto, bmhh, mcvmedia, mcvtv, wanna date, ban muon hen ho tap moi nhat, ban muon hen ho moi nhat, ban muon hen ho 2015, Xuân Hồng - Thanh Xuân, ban muon hen ho xuan hong thanh xuan, bà mối cát tường, ba moi cat tuong, cát tường, cat tuong, mc quyền linh, mc quyen linh, quyền linh, quyen linh, xả xì chét, xa xi chet\n-~-~~-~~~-~~-~-\n© Các video trên kênh MCVMEDIA đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~-\n\n#CatTuong #Quyenlinh #BMHH",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A_sTq3Mc9JI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A_sTq3Mc9JI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A_sTq3Mc9JI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A_sTq3Mc9JI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A_sTq3Mc9JI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A_sTq3Mc9JI"
+                },
+                "videoOwnerChannelTitle": "Xả Xì Chét",
+                "videoOwnerChannelId": "UCHCUr8_v4WCBnVeiWIqaeow"
+            },
+            "contentDetails": {
+                "videoId": "A_sTq3Mc9JI",
+                "videoPublishedAt": "2019-04-20T02:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gbDq-xo3H6RmL-glLWcd2zzMrYI",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2019-09-03T10:20:30Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Toloi adoh  .rongot doi togra ploi toning .Thun 2019",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Q_aLXBsUmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Q_aLXBsUmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Q_aLXBsUmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Q_aLXBsUmg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3Q_aLXBsUmg"
+                },
+                "videoOwnerChannelTitle": "simoon Romah",
+                "videoOwnerChannelId": "UCYCB8gkukzKlwa8bvVivb6g"
+            },
+            "contentDetails": {
+                "videoId": "3Q_aLXBsUmg",
+                "videoPublishedAt": "2019-03-23T02:02:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ktj4a4x4Ni2CTXaA1DyJZg9CIbI",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2019-09-05T10:36:15Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Cô Gái Lao Công Giúp Việc Thuê Đẹp Như Hoa Hậu Sau Khi Trang Điểm/ Hùng Việt Makeup",
+                "description": "Các tình yêu hãy Subcribe Chanel và theo dõi trang cá nhân của Hùng Việt để tiện theo dõi mình nhé \nFacebook /https://www.facebook.com/HungViet.PNxBL\nFanpage /https://www.facebook.com/makeuphungviet/\nAdd / 207/32 Đường 3Tháng 2 P9 Q10\nPhone / 0977238938\nTrung tâm dạy nghề trang điểm Hùng Việt makeup \n🏆 CÂY CỌ VÀNG TOÀN QUỐC 2010 \n🏆 BÀN TAY VÀNG 2015\n🏆 GIẢNG VIÊN DẠY NGHỀ GIỎI NGÀNH TRANG ĐIỂM 2016\nVới kinh nghiệm 15 năm làm đẹp cho các chương trình lớn như “ Hoa Hậu Việt Nam “ “ Hoa Hậu Hoàn Vũ “ ...\nTrung tâm dạy nghề trang điểm chuyên nghiệp của Hùng Việt hoạt động đuoc 8 năm, đào tạo ra những chuyên gia trang điểm thành danh trên cả nước .\nHãy đến với Hùng Việt để được trãi nghiệm những phong cách trang điểm đa dạng với những style makeup đa phong cách từ đơn giản nhẹ nhàng đến cầu kì kiểu cách .\n\n#trangdiem #makeup #hungvietmakeup\n\n----------------------------------------------/-------------\n© Bản quyền thuộc về Hùng Việt makeup \n© Copyright by Hùng Việt makeup  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kKrEyTDBz78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kKrEyTDBz78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kKrEyTDBz78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kKrEyTDBz78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kKrEyTDBz78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kKrEyTDBz78"
+                },
+                "videoOwnerChannelTitle": "Hùng Việt Makeup",
+                "videoOwnerChannelId": "UCpWXzgHGDdWs9acxmDJIBUQ"
+            },
+            "contentDetails": {
+                "videoId": "kKrEyTDBz78",
+                "videoPublishedAt": "2019-08-05T12:16:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ERa7IngjgMV4rtWQIKtAOkzU1gM",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2019-10-10T11:03:33Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Gái xinh Vũng Tàu vừa đàn vừa hát cực đáng yêu khiến chàng Giám Đốc rụng tim ngay lần đầu gặp mặt",
+                "description": "Gái xinh Vũng Tàu vừa đàn vừa hát cực đáng yêu khiến chàng Giám Đốc rụng tim ngay lần đầu gặp mặt\n\n#BANMUONHENHO #BMHHMCV #WANNADATE\n✅ Đăng kí theo dõi/Subscribe #TUYENCHON500NGHESISHOWBIZVIET: \nhttp://bit.ly/SubscribeShowbizViet\n✅ Đăng kí theo dõi/Subscribe #CUOISACSUA:\nhttp://bit.ly/SubscribeCUOISACSUA\n✅ Đăng kí theo dõi/Subscribe #69CACHYEU:\n http://bit.ly/Subscribe69cachyeu\n\n“BẠN MUỐN HẸN HÒ?” là show truyền hình thực tế giúp những bạn trẻ độc thân tìm thấy một nửa của mình. Sau gần 5 năm phát sóng, “Bạn Muốn Hẹn Hò?” đã mai mối thành công hơn 1500 cặp đôi và vẫn tiếp tục hành trình gieo duyên, kết nối những trái tim cô đơn lại gần nhau hơn.\n\n• Đăng ký theo dõi: http://bit.ly/SubscribeBANMUONHENHO\n• Playlist “Bạn Muốn Hẹn Hò – Các clip hot nhất”: \nhttp://bit.ly/PlaylistBMHH-HotVideos\n• Fanpage Bạn Muốn Hẹn Hò?: \nhttps://www.facebook.com/MCV.Banmuonhenho/\n\nCùng với show truyền hình “Bạn Muốn Hẹn Hò?”, hiện tại MCV Corporation đã có phiên bản BẠN MUỐN HẸN HÒ OFFLINE để nhiều bạn trẻ ở các tỉnh xa có cơ hội tương tác, giao lưu kết bạn và đặc biệt có thể tìm được một nửa của mình.\nCác bạn trẻ hãy tham gia các Group cộng đồng của “Bạn Muốn Hẹn Hò?” để trò chuyện, tìm hiểu, chia sẻ thông tin cá nhận, kết bạn và cập nhật thông tin về sự kiện Bạn Muốn Hẹn Hò OFFLINE tại các group Facebook sau:\n\n- Group Tổng hợp: \nhttps://www.facebook.com/groups/BanMuonHenHoMCV/\n- Group miền Bắc: \nhttps://www.facebook.com/groups/718312841704110/\n- Group miền Trung: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group miền Nam: \nhttps://www.facebook.com/groups/1510198939015541/\n- Group Offline Bạn Muốn Hẹn Hò?:\nhttps://www.facebook.com/MCV.OfflineBanMuonHenHo/\n\n---------------\nCách thức đăng ký tham gia show truyền hình Bạn Muốn Hẹn Hò?:\n• Đăng kí tham gia qua ☎ HOTLINE: 0916.861.099 (Giờ hành chính)\n• Email: banmuonhenho@gmail.com\n• Fanpage MCVMedia: http://bit.ly/FanpageMCVMEDIA\n• Website: http://mcv.com.vn\n\n-~-~~-~~~-~~-~-\n© Tất cả video thuộc các chương trình của MCV CORPORATION đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n-~-~~-~~~-~~-~-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GAbDpqHPkzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GAbDpqHPkzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GAbDpqHPkzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GAbDpqHPkzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GAbDpqHPkzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GAbDpqHPkzc"
+                },
+                "videoOwnerChannelTitle": "69 CÁCH YÊU",
+                "videoOwnerChannelId": "UCThcOPN8v2t1IyBdsGaZ10A"
+            },
+            "contentDetails": {
+                "videoId": "GAbDpqHPkzc",
+                "videoPublishedAt": "2019-06-26T13:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CyV-0pBoA5Pz4Ye9oBlp1BsqSgo",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2019-10-11T03:14:14Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Wedding | Đám cưới Phič Y Hđơk & H Ziêm Mlô",
+                "description": "Bi Mni Bơng hua kơ ūng mô mrâo hruê 15/7/2019\n👉🏻👉🏻https://youtu.be/2m4rewie-5s\nAlum kkuh kơ jih jang Ayong amai adei!\nTal êlâo hin,kâo ciăng bi mni lač jăk kơ AÊ DIÊ !! Lač jăk kơ Khua pô mtô,pô mtô !\nLač jăk jih jang găp djuê ênuê êpul, amiêt awa khua mduôn,amī ama mnēh prōng,Ayōng amai adei ,leh anan wăt kơ jih jang phung găp khăp hơiêng hriê mơng buôn jē giăm,buôn taih jē kbưi Lui brua pưk hma dưi hriê truh čưn ba Klei hơk mơak hōng gō sang,hōng dua ung mô hmei hlăm hruê 15/7/2019.\nLač jăk kơ Ayong Hênni jing pô mdar rup dưi adru leh gō sang leh anan dưi bi leh leh \"RUP MDAR\"anei.\nLač jăk kơ ayong amai adei hlăm êpul mkra ênai mmuñ ,êpul pē brô ,êpul mmuñ dưi ba klei mmuñ bi mni kơ AD hōng đok mmuñ jăk Siam .\nSnăn,hmei amâo mâo mnơng jum jăk,mnơng brei jăk kơ găp djuê ôh,knōng akâo kơ AD brei Klei jăk jin kơ jih jang găp djuê .\nTơdah hlăm hruê 15/7/2019 mâo Klei kbah,mâo klei êgun kpak mâo dưi drông jum găp djuê hōng klei jăk mơak akâo kơ jih jang drei Pap brei.\nKnhal tuč ung Y phič leh anan mô Hziêm Mlô lō sa blư bi mni lač jăk kơ jih jang găp djuê!\nAkâo kơ AÊ DIÊ brei Klei suaih pral,Klei hơk mơak,Klei êđăp ênang kơ jih jang găp djuê leh anăn akâo kơ AD hơêč hmưi mâo Klei jăk jin kơ jih jang, hlăm jih brua knuă mă êjai hdip ti lăn ala anei!\nLač jăk kơ AÊ DIÊ!!!\nLač jăk kơ jih jang!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2m4rewie-5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2m4rewie-5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2m4rewie-5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2m4rewie-5s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2m4rewie-5s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2m4rewie-5s"
+                },
+                "videoOwnerChannelTitle": "Lyzim Mlô",
+                "videoOwnerChannelId": "UCdngjrfFYY8h4tpYFLIZ5kA"
+            },
+            "contentDetails": {
+                "videoId": "2m4rewie-5s",
+                "videoPublishedAt": "2019-08-11T06:26:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ba932cDthhE1DYSn7UkVvEJjNvQ",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2019-10-13T13:54:03Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Phim Hài Tết 2022 Việt Nam Mới Nhất | Gái Quê Ra Phố | Phim Hay Xem Là Nghiện",
+                "description": "Phim Hài Tết 2022 Việt Nam Mới Nhất | Gái Quê Ra Phố | Phim Hay Xem Là Nghiện\nphim việt nam  : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp : https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp :",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/csao1SCnVMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/csao1SCnVMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/csao1SCnVMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/csao1SCnVMI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "csao1SCnVMI"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Điện Ảnh",
+                "videoOwnerChannelId": "UClfwS2zHXYQCzwGfp-Fiw6A"
+            },
+            "contentDetails": {
+                "videoId": "csao1SCnVMI",
+                "videoPublishedAt": "2019-01-28T13:39:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4Np_prK557QFxqbAR_qEQ7qnu_8",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2019-10-17T08:26:01Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KeslaHMSHuw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KeslaHMSHuw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SuTGXXN2hufrAAG3HEGF-tPbbOs",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2019-10-24T10:56:29Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Khăp Kơ Adei",
+                "description": "hdơr nanao",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XlF_kcSJ2Lo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XlF_kcSJ2Lo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XlF_kcSJ2Lo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XlF_kcSJ2Lo"
+                },
+                "videoOwnerChannelTitle": "know seven",
+                "videoOwnerChannelId": "UCzNZOlV__aAtBkd5rETfrqg"
+            },
+            "contentDetails": {
+                "videoId": "XlF_kcSJ2Lo",
+                "videoPublishedAt": "2016-08-02T02:28:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y-DXaR6OeMLNghCmczN4CF2YH88",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2019-11-01T12:30:55Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Bro Êđê",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ePXOaU5rxhM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ePXOaU5rxhM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ePXOaU5rxhM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ePXOaU5rxhM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ePXOaU5rxhM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ePXOaU5rxhM"
+                },
+                "videoOwnerChannelTitle": "Êđê Dhŭng Mnai",
+                "videoOwnerChannelId": "UCyZZuHojKDaaGlZ8autsaTw"
+            },
+            "contentDetails": {
+                "videoId": "ePXOaU5rxhM",
+                "videoPublishedAt": "2013-09-11T00:52:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bwlY2boqhECubvho6CjQdtAM61s",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2019-11-01T23:04:45Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Tyga, YG, Santana - MAMACITA (Official Video)",
+                "description": "Official video for \"MAMACITA\" by Tyga featuring YG & Santana. \n\nListen & Download “MAMACITA\" out now: https://Tyga.lnk.to/Mamacita \n\nAmazon - https://Tyga.lnk.to/Mamacita/amazon\nApple Music - https://Tyga.lnk.to/Mamacita/applemusic\niTunes - https://Tyga.lnk.to/Mamacita/itunes\nSpotify - https://Tyga.lnk.to/Mamacita/spotify\nSoundcloud - https://Tyga.lnk.to/Mamacita/soundcloud\nYouTube Music - https://Tyga.lnk.to/Mamacita/youtubemusic\n\nFollow Tyga\nFacebook - https://www.facebook.com/tyga/\nInstagram - https://www.instagram.com/tyga/\nTwitter - https://twitter.com/tyga\n\nFollow YG\nFacebook - https://www.facebook.com/Yg400\nInstagram - https://www.instagram.com/yg/\nTwitter - https://twitter.com/YG\n\nFollow Santana\nFacebook - https://www.facebook.com/carlossantana/\nInstagram - https://www.instagram.com/carlossantana/\nTwitter - https://twitter.com/santanacarlos\n\nhttps://tygamusic.com/\n\n#Tyga #MAMACITA #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xP54eu2THOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xP54eu2THOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xP54eu2THOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xP54eu2THOA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xP54eu2THOA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xP54eu2THOA"
+                },
+                "videoOwnerChannelTitle": "TygaVEVO",
+                "videoOwnerChannelId": "UChXnu0HBydqedqhnClp0rJg"
+            },
+            "contentDetails": {
+                "videoId": "xP54eu2THOA",
+                "videoPublishedAt": "2019-10-25T14:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0GypT1A_RtXzW-CSiVFg3SymLEE",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2020-01-06T13:33:53Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_qBCdrWjF4k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_qBCdrWjF4k"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aqEaAE4hpGmPVRp_r-fd5cpuLa4",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2020-12-09T11:32:41Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "THỰC HƯ Câu Chuyện Gia Đình 2 Chồng Chung 1 Vợ Và Sự Bạc Bội",
+                "description": "Cảm ơn các Bạn đã theo dõi video, hãy chia sẻ và đăng kí kênh ủng hộ mình nhé!\nMọi Sự Giúp Đỡ Xin Liên Hệ Với Kênh Qua SĐT: 09 6565 3434 ( Long )\nZalo, Viber : 09 6565 3434\nSTK: 37110000767886 Ngân hàng đầu tư và phát triển Việt Nam BIDV chi nhánh lục yên yên bái ( Chủ TK: Phạm Văn Long )\nLiên Lạc giao lưu với kênh:\n►  facebook : https://www.facebook.com/Longphukiend...\n► Email: plong.lyyb@gmail.com\n► SĐT, ZALO, VIBER Công Việc (Contact): 09 6565 3434\nMọi vấn đề bản quyền vui lòng liên hệ hoặc thông báo giúp mình nhé!\nXIN CẢM ƠN!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Oy9F6ZGUPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Oy9F6ZGUPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Oy9F6ZGUPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Oy9F6ZGUPQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_Oy9F6ZGUPQ"
+                },
+                "videoOwnerChannelTitle": "VỀ MIỀN TÂY BẮC",
+                "videoOwnerChannelId": "UCgtpjQq6OXqZM4DXj86xP_g"
+            },
+            "contentDetails": {
+                "videoId": "_Oy9F6ZGUPQ",
+                "videoPublishedAt": "2020-12-01T10:41:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b9PoAvzwQqmc1YcOE4PgPXPmBP0",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2020-12-11T13:13:09Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Sex Doll — Русский трейлер (2017)",
+                "description": "Русские трейлеры к фильмам и сериалам! Интересные ролики о фильмах и их съёмках! Подпишись на канал ►http://bit.ly/Subscribe_ivideos◄ Новости,промо,трейлеры,даты выходов фильмов и сериалов только у нас: ►http://vk.com/iVideos◄\n\nРусский трейлер фильма Sex Doll 2017 года\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nДата выхода в РФ - ►2 марта 2017◄\n\n• Оригинальное название:  Sex Doll (Секс кукла)\n• Страна:  Великобритания, Франция\n• Дистрибьютор: Russian World Vision\n• Режиссер: Сильви Веред\n• Жанр: мелодрама, триллер\n\n• В главных ролях: Эрзи Афсиа, Эш Стаймест, Кароль Роше\n\nМесто действия – темная сторона Лондона, мир высококлассных девушек легкого поведения. Вирджиния (Афсия Эрзи) – молодая и невероятно красивая француженка, трудится много и самоотверженно. Руперт (Эш Стаймест) – юный и дерзкий, по-настоящему влюбляется, закрыв глаза на сомнительную репутацию новой подруги. Его цель – спасти Вирджинию от унижения, опасности и презрения, ставших для нее нормой. \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nSex Doll Русский трейлер 2017",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j-9tXPWy0zI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j-9tXPWy0zI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j-9tXPWy0zI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j-9tXPWy0zI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j-9tXPWy0zI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j-9tXPWy0zI"
+                },
+                "videoOwnerChannelTitle": "iVideos",
+                "videoOwnerChannelId": "UCs9tHGGpNjOMiCnbqTGA1PQ"
+            },
+            "contentDetails": {
+                "videoId": "j-9tXPWy0zI",
+                "videoPublishedAt": "2017-02-16T11:09:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cN8-4l9Bcn0vctBsiooTedQn8hY",
+            "id": "UEw2RVVTY2VkZ2lQWlBzNG5rd0tmdmlwRGJ6X2hxbzJOSC4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2020-12-12T11:01:13Z",
+                "channelId": "UCRlH4_iF98KyOQMykcTsNuQ",
+                "title": "Ai là ứng cử viên sáng giá thay Nguyễn Phú Trọng? | Đỗ Dzũng x Khôi Nguyên",
+                "description": "Hội nghị trung ương 12 của đảng CSVN diễn ra từ 11 đến 14 Tháng Năm tại Hà Nội bàn “phương án nhân sự” cho Đại hội 12 sắp tới sẽ đặt ra câu hỏi “Ai là ứng cử viên sáng giá thay Nguyễn Phú Trọng?”\n\n#ChuyệnNóngTrongTuần #NgườiViệtDailyNews #BiểnĐông\n\nCập nhật tin tức nhanh nhất với chúng tôi/ Follow us on: \nFacebook: https://www.facebook.com/NguoiVietOnline/\nYoutube: https://www.youtube.com/user/NguoiVietOnline\n\nGhi danh nhận email cập nhật tin tức hằng ngày: https://www.nguoi-viet.com/newsletter-sign-form/\n\nNgười Việt TV © 2020 - https://www.NGUOI-VIET.COM/nvtv\nNgười Việt Online - https://www.NGUOI-VIET.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M_36tR6S2Oo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M_36tR6S2Oo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M_36tR6S2Oo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M_36tR6S2Oo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M_36tR6S2Oo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nie Y",
+                "playlistId": "PL6EUScedgiPZPs4nkwKfvipDbz_hqo2NH",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M_36tR6S2Oo"
+                },
+                "videoOwnerChannelTitle": "Người Việt Daily News",
+                "videoOwnerChannelId": "UC5LqfXvhYZsaJ1uz3AcSvpw"
+            },
+            "contentDetails": {
+                "videoId": "M_36tR6S2Oo",
+                "videoPublishedAt": "2020-05-14T01:54:22Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 55,
+        "resultsPerPage": 50
+    }
+}

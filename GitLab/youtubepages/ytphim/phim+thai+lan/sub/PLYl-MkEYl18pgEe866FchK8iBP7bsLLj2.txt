@@ -1,0 +1,490 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "y_Wg3jumzdPCzHZYemhjkEuNklU",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IsVo6mJLXMek0cbUiNAyTMEGk1E",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-06-21T07:15:06Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Tự tay làm Bún Cá Châu Đốc cùng gia đình Lý Hải Minh Hà",
+                "description": "© 2015 By Ly Hai Production ¤ Official ► Fanpage: www.facebook.com/lyhai.minhha \r\nĐăng ký kênh để xem nhiều video mới: http://metub.net/LyHaiPro\r\nXEM THÊM:\r\n►Lý Hải - Lật Mặt : https://youtu.be/fvnqf4OmAWY\r\n►Lý Hải - Lật Mặt - PHIM TRƯỜNG :https://youtu.be/WE83yDlL4Oo \r\n►Lý Hải mới nhất: https://www.youtube.com/user/lyhaipro... \r\n►Lý Hải - Trọn đời bên em 1: https://goo.gl/FxOLni\r\n►Lý Hải - Trọn đời bên em 2: https://goo.gl/bXsZbe\r\n►Lý Hải - Trọn đời bên em 3: https://goo.gl/nk2gy7\r\n►Lý Hải - Trọn đời bên em 4: https://goo.gl/qi5VVv\r\n►Lý Hải - Trọn đời bên em 5: https://goo.gl/fBlqnX\r\n►Lý Hải - Trọn đời bên em 6: https://goo.gl/7duRjl\r\n►Lý Hải - Trọn đời bên em 7: https://goo.gl/lVQwLJ\r\n►Lý Hải - Trọn đời bên em 8: https://goo.gl/qvzWOJ\r\n►Lý Hải - Trọn đời bên em 9: https://goo.gl/KSxVwv\r\n►Lý Hải - Trọn đời bên em 10: https://goo.gl/IXs5uK\r\n►Lý Hải - Trọn đời bên em 11: https://goo.gl/4lBfrq",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/teWOWa-L950/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/teWOWa-L950/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/teWOWa-L950/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/teWOWa-L950/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/teWOWa-L950/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "teWOWa-L950"
+                },
+                "videoOwnerChannelTitle": "Lý Hải Minh Hà",
+                "videoOwnerChannelId": "UCClGm4b1PlgIuJ1j4rjw-OA"
+            },
+            "contentDetails": {
+                "videoId": "teWOWa-L950",
+                "videoPublishedAt": "2020-06-19T04:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RH13T84y32ZqY2tJxq8oGs2G6sE",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-06-30T11:50:08Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Karaoke Remix DJ 2020 | tone nữ | bài hát track hay mới nhất | nhạc sống thế sỹ",
+                "description": "Liên khúc Remix 2020 nhạc sống thế sỹ \nCác ca khúc đã được tác quyền cấp phép cho cover \nXin chân thành cảm ơn ạ.\nĐừng như thói quen ( chế) - JayKii, Sara \nGiả vờ thương anh được không - Chu bin\nĐể cho em khóc - vi oanh \nNếu ta ngược lối - châu khải phong \nCuộc vui cô đơn - lê bảo bình \nSai lầm của anh - đình dũng \n___________________________\nMọi chi tiết bản quyền © xin liên hệ \nNhacsongthesy@gmail.com để giải quyết \nXin chân thành cảm ơn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VnM7O5SpcHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VnM7O5SpcHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VnM7O5SpcHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VnM7O5SpcHM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VnM7O5SpcHM"
+                },
+                "videoOwnerChannelTitle": "Nhạc Sống Thế Sỹ TV",
+                "videoOwnerChannelId": "UCOfRtYCdFa_Ie-GZU6tAEZw"
+            },
+            "contentDetails": {
+                "videoId": "VnM7O5SpcHM",
+                "videoPublishedAt": "2019-12-16T07:21:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rRI3okTmPtjhW6CmMTsLEfZXBIM",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-06-21T07:59:55Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Lúc Cô Đơn Bạn Hãy Bật Nghe - Những Ca Khúc Tâm Trạng Buồn Hay Ngất Ngây 2019",
+                "description": "1. Khi anh biết mình sai – LÊ ANH KHÔI\n2. Giấu nước mắt – CAO NAM THÀNH\n3. Yêu bất chấp – HOT BOY XĂM TRỔ\n4. Chuyện anh và em – CAO NAM THÀNH\n5. Tâm sự - LÝ TUẤN KIỆT\n6. Không sao anh đừng lo – HOÀNG LAN\n7. Kết thúc một cuộc tình – CAO NAM THÀNH\n8. Chàng trai ấy – MAI NGỌC HÂN\n9. Nỗi buồn của em – VON \n10. Người đổi thay – CAO NAM THÀNH\n11. Người cũ còn yêu – LÊ ANH KHÔI\n12. Anh phải tập quên – CAO THẮNG\n\n❂ Nhạc Mới Hôm Nay\nKênh âm nhạc Nhạc Mới Hôm Nay hiện đang thuộc đối tác của CNT Entertainment\n\n© Bản quyền thuộc về Nhạc Mới Hôm Nay\n© Copyright by Nhạc Mới Hôm Nay ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rD7xEiajtrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rD7xEiajtrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rD7xEiajtrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rD7xEiajtrM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rD7xEiajtrM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rD7xEiajtrM"
+                },
+                "videoOwnerChannelTitle": "Nhạc Mới Hôm Nay",
+                "videoOwnerChannelId": "UCYvBcyixSpPxaIL4G4Fcmfw"
+            },
+            "contentDetails": {
+                "videoId": "rD7xEiajtrM",
+                "videoPublishedAt": "2019-04-20T01:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qhR5eLEP38b2Q48Sjzmnm-wXF8w",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-21T07:46:28Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Khi Buồn Và Cô Đơn Nhất Bạn Hãy Bật Lên Nghe - Những Ca Khúc Buồn Tâm Trạng Hay Ngất Ngây 2019",
+                "description": "1. Yêu bất chấp\n2. Làm sao quên được em\n3. Chàng trai ấy\n4. Xem nỗi đau kia là hạnh phúc\n5. Tâm sự\n6. Điều anh không thể giấu\n7. Khi anh biết mình sai\n8. Quên người trong tâm trí\n9. Vì ai em đổi thay\n10. Anh phải tập quên\n11. Rút kinh nghiệm\n12. Yêu trong vô vọng\n\n❂ Nhạc Mới Hôm Nay\nKênh âm nhạc Nhạc Mới Hôm Nay hiện đang thuộc đối tác của CNT Entertainment\n\n© Bản quyền thuộc về Nhạc Mới Hôm Nay\n© Copyright by Nhạc Mới Hôm Nay ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y-JWOGpDkgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y-JWOGpDkgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y-JWOGpDkgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y-JWOGpDkgc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y-JWOGpDkgc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y-JWOGpDkgc"
+                },
+                "videoOwnerChannelTitle": "Nhạc Mới Hôm Nay",
+                "videoOwnerChannelId": "UCYvBcyixSpPxaIL4G4Fcmfw"
+            },
+            "contentDetails": {
+                "videoId": "y-JWOGpDkgc",
+                "videoPublishedAt": "2019-07-11T01:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z70VHWyQM4h2DGTE0zWTYOFX7DI",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-06-21T04:52:00Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Pasion de Amor: Uncle's Concerns",
+                "description": "Mario confronted Franco about Elle.\n\nSubscribe to the ABS-CBN Entertainment channel! - http://bit.ly/ABSCBNOnline\n\nWatch the full episodes of Pasion de Amor on TFC.TV \nhttp://bit.ly/PasionDeAmor-TFCTV\nand on IWANT.TV for Philippine viewers, click:\nhttp://bit.ly/PasionDeAmor-IWANTV\n\nVisit our official website! \nhttp://www.entertainment.abs-cbn.com/tv/home\nhttp://www.push.com.ph\n\nFacebook: http://www.facebook.com/ABSCBNnetwork\n\nTwitter: \nhttps://twitter.com/ABSCBN\nhttps://twitter.com/abscbndotcom\nInstagram: http://instagram.com/abscbnonline",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XR08XmUO1d0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XR08XmUO1d0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XR08XmUO1d0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XR08XmUO1d0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XR08XmUO1d0"
+                },
+                "videoOwnerChannelTitle": "ABS-CBN Entertainment",
+                "videoOwnerChannelId": "UCstEtN0pgOmCf02EdXsGChw"
+            },
+            "contentDetails": {
+                "videoId": "XR08XmUO1d0",
+                "videoPublishedAt": "2016-01-07T15:03:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UBeL4_12NSjaSmUDDpQSzPyRs2o",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-06-21T10:57:47Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Pasion de Amor: Mario talks to Franco",
+                "description": "Mario confronts Franco about Elle and Jamie.\n\nSubscribe to the ABS-CBN Entertainment channel! - http://bit.ly/ABSCBNOnline\n\nWatch the full episodes of Pasion de Amor on TFC.TV \nhttp://bit.ly/PasionDeAmor-TFCTV\nand on IWANT.TV for Philippine viewers, click:\nhttp://bit.ly/PasionDeAmor-IWANTV\n\nVisit our official website! \nhttp://www.abs-cbn.com\nhttp://www.push.com.ph\n\nFacebook: http://www.facebook.com/ABSCBNnetwork\n\nTwitter: \nhttps://twitter.com/ABSCBN\nhttps://twitter.com/abscbndotcom\nInstagram: http://instagram.com/abscbnonline",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BUWy85yJEQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BUWy85yJEQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BUWy85yJEQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BUWy85yJEQM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BUWy85yJEQM"
+                },
+                "videoOwnerChannelTitle": "ABS-CBN Entertainment",
+                "videoOwnerChannelId": "UCstEtN0pgOmCf02EdXsGChw"
+            },
+            "contentDetails": {
+                "videoId": "BUWy85yJEQM",
+                "videoPublishedAt": "2015-12-27T16:17:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cR8eLsIlkx79WF9ZGEA6EJk_CyU",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-07-02T13:09:59Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Liên Khúc Sự Thật Đã Bỏ Quên   Người Đã Yêu Ai Remix   Việt Mix 2015 HOT",
+                "description": "Liên Khúc Sự Thật Đã Bỏ Quên   Người Đã Yêu Ai Remix   Việt Mix 2015 HOT\nNhạc Sàn - Nhạc DJ - Nhạc Nonstop - Nhạc Việt Remix\nDJ - NONSTOP - BAR: http://bit.ly/1sT1k3y\nNONSTOP REMIX VIET NAM: http://bit.ly/1urr23E\n--------------------------------------------------------------------------\nNonstop - Thế giới DJ - Nhạc Sàn - Nhạc DJ - Nhạc Nonstop - Nhạc Việt Remix - Nhạc Dance\nnhac dj, nhac bay dang cap, nhac tre hay, nhac dj hay, nhacsan, nhạc sàn hot nhất, nhac bay 2014, nhac viet remix, nonstop 2014 nhac san, nhac san 2014, nhạc nonstop, nhac san cuc hay, nhac dj hay nhat, nghe nhac san online, NONSTOP DJ, nhac dj hot, \nlien khuc nhac trẻ remix, Nhac san hay nhất 2014, Tuyen chon nhac san hay, nonstop bass cuc manh, nhac dance, lk nhac tre hay nhat, nhac DJ remix, Nhac san cuc manh, \nnhac dj viet, nhac bay remix, tong hop nhac dj, nhac bay nonstop, nhac remix 2014, nghe nhac dj online, nhac bay tuyen chon, tuyển chon, nhac dj nonstop, Nhung Ban Nhac Tre Viet Nam Buon Hay Nhat, lien khuc nhac bay tuyen chon, lk nhac tre hay nhat 2014 hot remix, nonstop nhac dj hay, nhac san tuyen chon, \nNhac san moi nhat 2014, nhac tre remix 2014, \nnhac san hay nhất, dj 2014, Lien khuc nhac san hay nhat, \nnhac bay viet, lien khuc nhac san hay, nhac dj cuc manh, Nhac tre moi nhat 2014, nhac tre remix hay nhat 2014 viet nam, lien khuc nhac tre remix hay nhat 2014 viet mix, nhac san nonstop, nhacremix hay nhat 2014, nhac dj hay, \nnhac san dj, nhạc DJ cực mạnh, tong hop nhac nonstop, nhac remix, nhac DJ,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cvRzJwdc_E8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cvRzJwdc_E8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cvRzJwdc_E8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cvRzJwdc_E8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cvRzJwdc_E8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cvRzJwdc_E8"
+                },
+                "videoOwnerChannelTitle": "DJ.TuoiGi Channel",
+                "videoOwnerChannelId": "UCwI-MeAEkbpuaIet5I0JquA"
+            },
+            "contentDetails": {
+                "videoId": "cvRzJwdc_E8",
+                "videoPublishedAt": "2015-01-28T15:23:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PQbHV0YW3r-Jw3J5OKmSZ1Ep7bo",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-06-21T11:51:12Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Pasion De Amor: Bedtime Story",
+                "description": "Juan and Norma share their love story with their son, JD.\n\nSubscribe to the ABS-CBN Entertainment channel! - http://bit.ly/ABSCBNOnline\n\nWatch the full episodes of Pasion de Amor on TFC.TV \nhttp://bit.ly/PasionDeAmor-TFCTV\nand on IWANT.TV for Philippine viewers, click:\nhttp://bit.ly/PasionDeAmor-IWANTV\n\nVisit our official website! \nhttp://www.abs-cbn.com\nhttp://www.push.com.ph\n\nFacebook: http://www.facebook.com/ABSCBNnetwork\n\nTwitter: \nhttps://twitter.com/ABSCBN\nhttps://twitter.com/abscbndotcom\nInstagram: http://instagram.com/abscbnonline",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n-gTqu36SmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n-gTqu36SmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n-gTqu36SmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n-gTqu36SmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n-gTqu36SmQ"
+                },
+                "videoOwnerChannelTitle": "ABS-CBN Entertainment",
+                "videoOwnerChannelId": "UCstEtN0pgOmCf02EdXsGChw"
+            },
+            "contentDetails": {
+                "videoId": "n-gTqu36SmQ",
+                "videoPublishedAt": "2015-10-23T09:12:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h_D3r_HqyzWVIsi07bP6csSt2dM",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-06-22T13:58:45Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Khánh Phương - Windows Dance Group (W.D.G) - Âm Nhạc Online",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EvfHJXV7Pqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EvfHJXV7Pqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EvfHJXV7Pqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EvfHJXV7Pqk"
+                },
+                "videoOwnerChannelTitle": "Vũ Đoàn Windows",
+                "videoOwnerChannelId": "UC5b7SXXCwT0iNpOus74e9_A"
+            },
+            "contentDetails": {
+                "videoId": "EvfHJXV7Pqk",
+                "videoPublishedAt": "2014-10-10T00:51:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WVSX1OO1xjmpsjpeh6WJyicIW6o",
+            "id": "UExZbC1Na0VZbDE4cGdFZTg2NkZjaEs4aUJQN2JzTExqMi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-07-06T11:46:17Z",
+                "channelId": "UCSW7JheXFZ2yNQ6XVT2YdeA",
+                "title": "Em Ơi Anh Phải Làm Sao (remix) - Dương Minh Tuấn -Liên Khúc Nhạc Trẻ Remix Hay Nhất 2016",
+                "description": "Em Ơi Anh Phải Làm Sao (remix) - Dương Minh Tuấn -Liên Khúc Nhạc Trẻ Remix Hay Nhất 2016\n\n01. Em Ơi Anh Phải Làm Sao - Dương Minh Tuấn ft Soái Nhi ft  ft DJ Nsoul\n02. Nếu Em Không Còn Yêu - Dương Minh Tuấn ft DJ Phi Leo \n03. Người Cô Đơn - Dương Minh Tuấn ft. (DJ DJ Silly Fox) \n04. Em Ơi Anh Phài Làm Sao - Dương Minh Tuấn ft . DJ Nsoul \n05. Em Hạnh Phúc Là Anh Thấy Vui - Dương Minh Tuấn (DJ DJ Silly Fox) \n06. Anh Đã Yêu Người Mới - Dương Minh Tuấn ft. DJ Phi Leo\n07. Quá Khứ Anh Không Thể Quên - Dương Minh Tuấn (DJ Nsoul)\n08. Em Ơi Anh Phải Làm Sao- kou Atina - Dương Minh Tuấn ft. Nsoul \n7.Em Ơi Anh Phải Làm Sao (ADM) - kou Atina- Dương Minh Tuấn\n\n\n♫ Click Đăng Kí Để Xem Video Mới Nhất: http://Yeah1.net/duongminhtuan\n●═══════════════════════════════════════════●\n▶ Theo dõi Dương Minh Tuấn: \n\n♫ Youtube: http://Yeah1.net/duongminhtuan\n♫ Facebook: http://bit.ly/Facebookduongminhtuan\n♫ Người Nổi Tiếng: http://bit.ly/Duongminhtuanprofile\n♫ ZingMP3: http://mp3.zing.vn/nghe-si/Duong-Minh-Tuan\n♫ Fanpage: https://www.facebook.com/duongminhtuan.one/\n\n----------------------------------------------------------------------------------------------------------------\n© Bản quyền thuộc về Dương Minh Tuấn Official\n© Copyright by Duong Minh Tuan Official\n☞ Please do not Reup\n\nKênh YouTube chính thức của Dương Minh Tuấn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Vg1jK_Tfh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Vg1jK_Tfh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Vg1jK_Tfh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5Vg1jK_Tfh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5Vg1jK_Tfh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Quynh Hoang",
+                "playlistId": "PLYl-MkEYl18pgEe866FchK8iBP7bsLLj2",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5Vg1jK_Tfh4"
+                },
+                "videoOwnerChannelTitle": "Dương Minh Tuấn",
+                "videoOwnerChannelId": "UCQdNo3ckQ1EIefHIOjbcCzQ"
+            },
+            "contentDetails": {
+                "videoId": "5Vg1jK_Tfh4",
+                "videoPublishedAt": "2016-10-26T06:07:38Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}

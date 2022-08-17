@@ -1,0 +1,497 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "O4kupDvUM6oSeciWEIw-WZTLYTo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kqMaiD7i7dMoQf_qP9R5pFPSWAM",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-04-14T12:51:22Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Ngọn gió tình yêu tập 2 phim thái lan diễn viên đẹp",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9pjPVvPFyGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9pjPVvPFyGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9pjPVvPFyGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9pjPVvPFyGo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9pjPVvPFyGo"
+                },
+                "videoOwnerChannelTitle": "hỷ cẩm ngân",
+                "videoOwnerChannelId": "UC6GMSsjvPW_q7M4n6oIFEEg"
+            },
+            "contentDetails": {
+                "videoId": "9pjPVvPFyGo",
+                "videoPublishedAt": "2019-01-06T00:17:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jNq7gZyP3TFyh06Py6X-9OIbS-U",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-05-05T07:37:41Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Mì Gõ | Tập 159 : Em Sai Rồi Anh Xin Lỗi Em Đi (Phim Hài Hay)",
+                "description": "Mì Gõ | Tập 159 : Em Sai Rồi Anh Xin Lỗi Em Đi (Phim Hài Hay)\nĐẹp trai thì ko bao giờ sai ^^\n--------------------------\nFanpage Ghiền Mì Gõ : https://www.facebook.com/GhienMiGo/\nĐạo Diễn :\nĐỗ Thái : https://www.facebook.com/thai.nguyen.5387\nDiễn Viên :\nTrang Phi : https://www.facebook.com/dv.phihuyentrang\nBi Max : https://www.facebook.com/MrBi.Migo\nPom (anh bán nhang) : https://www.facebook.com/pagepombua\nNJAY : https://www.facebook.com/njaynguyen\nPinky Bảo Trân : https://www.facebook.com/PinkyBaoTran.Page\nNysaki : https://www.facebook.com/nanynguyen95\nDJ Na : https://www.facebook.com/anna.fungj\nBa Tây : https://www.facebook.com/hanabatay.master\nGửi mail tham gia diễn viên và đóng góp ý tưởng : ghienmigo@gmail.com\n►Facebook : https://www.facebook.com/GhienMiGo\n►Website : http://www.ghienmigo.com\n►Youtube : http://www.youtube.com/ghienmigo\n\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RgYqeKb7SvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RgYqeKb7SvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RgYqeKb7SvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RgYqeKb7SvE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RgYqeKb7SvE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RgYqeKb7SvE"
+                },
+                "videoOwnerChannelTitle": "Ghiền Mì Gõ",
+                "videoOwnerChannelId": "UCq6ApdQI0roaprMAY1gZTgw"
+            },
+            "contentDetails": {
+                "videoId": "RgYqeKb7SvE",
+                "videoPublishedAt": "2017-12-09T12:24:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7CNpf_wLl7TqID0FRIwoE2U12hc",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-06-12T04:54:24Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Sở Kiều Truyện PHẦN 2 - Tập 75 - Princess Agents Part 2 Ep 75 - Tinh Ngoai - Trở về bên nhau",
+                "description": "Xem Sở Kiều Truyện PHẦN 2 - Tập 75 - Princess Agents Part 2 Ep 75 - trên kênh Tinh Ngoai - Trở về bên nhau\nSở Kiều Truyện phần 2 - Đặc Công Hoàng Phi Sở Kiều Truyện phần 2, Princess Agents 2017\nPhim Sở Kiều Truyện - Đặc Công Hoàng Phi Sở Kiều Truyện 2017 phim được chuyển từ cuốn tiểu thuyết nổi tiếng Hoàng Phi Sở Đặc Công số 11, Sở Kiều là một cô gái xinh đẹp giỏi giang, một cô đặc công tài giỏi làm việc cho quân tình số 11, cô làm nhiệm vụ thu thập thông tin và lên kế hoạch cho các chiến sĩ nhận nhiệm vụ ám sát những nhân vật quan trọng của thể lực thù địch phía trước.\nxem phim Sở Kiều Truyện - Đặc Công Hoàng Phi Sở Kiều Truyện 2017\nTrong một lần làm nhiệm vụ vì sơ hở mà cô phải hy sinh.Không chấp nhận với số phận hiện tại, cô quay trở về quá khứ của mình là một cô gái con nhà giàu có, là quan chức có quyền có thể nhưng bị người khác hãm hại và vu oan nên bị mọi người trở nên lẫn tránh và không ngó ngàn gì đến gia đình cô. Sở Kiều tìm mọi cách để minh oan cho gia đình và cho mình, cô dđã ùng lên một cách mạnh mẽ và cuối cùng cũng được đền đáp xứng đáng.\nxem phim Sở Kiều Truyện - Đặc Công Hoàng Phi Sở Kiều Truyện 2017 \nTrong một lần đấu tranh với kẻ thù, cô đã gặp Phiên Vương, một chàng trai có võ công cao cường muốn bá chủ thiên hạ nhưng gặp phải Sở Kiều cũng chẳng phải dạng vừa đâu. Họ đối mặt vói nhau nhiều cuộc chiến và không biết vì lý đo gì mà họ trở nên có tình cảm với nhau, nhưng rào cản lớn nhất của họ là tính cách mỗi người khác nhau.\n\nXem Sở Kiều Truyện Tập 69 - PHẦN 2 trên kênh Tinh Ngoai - Hé lộ PHẦN 2 – Bí mật của Vũ Văn Nguyệt? tại đây\nhttps://goo.gl/fEmsdM\n\nXem Sở Kiều Truyện  - PHẦN 2 trên kênh Tinh Ngoai - Hé lộ PHẦN 2 trọn bộ tại đây \nhttps://goo.gl/VifMG5 hoặc tại đây https://goo.gl/QZezBM\nĐừng quên đăng kí kênh Tinh Ngoai để theo dõi sớm nhất\nhttps://goo.gl/kBukiU\nso kieu truyen phan 2 tap 75,Princess Agents,Part 2,Ep 75,Đặc Công Hoàng Phi Sở Kiều Truyện phần 2,Đặc Công Hoàng Phi Sở Kiều Truyện phần 2 Tập 75,Sở Kiều Truyện,Đặc Công Hoàng Phi Sở Kiều Truyện,so kieu truyen,dac cong hoang phi so kieu truyen,dac cong hoang phi so kieu truyen tap 75,đặc công hoàng phi sở kiều truyện phần 2,so kieu truyen tap 75,Sở kiều truyện phần 2 tập 75,Sở Kiều Truyện Phần 2,Sở Kiều Truyện Tập 75,đặc,công,hoàng,phi,sở,kiều,truyện,Tinh Ngoai\nCảm ơn bạn đã Xem Sở Kiều Truyện PHẦN 2 - Tập 75 - Princess Agents Part 2 Ep 75 - trên kênh Tinh Ngoai - Trở về bên nhau",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2m7V4t7k4hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2m7V4t7k4hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2m7V4t7k4hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2m7V4t7k4hg"
+                },
+                "videoOwnerChannelTitle": "Tinh Ngoai",
+                "videoOwnerChannelId": "UCc2o1AvZZs5Vh_B-eozgC7Q"
+            },
+            "contentDetails": {
+                "videoId": "2m7V4t7k4hg",
+                "videoPublishedAt": "2017-08-21T15:34:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q2Bz2eebxrbbxKhH4Cq1VJDILmk",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-06-16T14:10:15Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "TẬP CUỐI | #58 SỞ KIỀU TRUYỆN | FDRDTA08",
+                "description": "Sở Kiều Truyện là câu chuyện xảy ra vào thời Tây Ngụy. Nữ chính của tác phẩm là Sở Kiều. Từ một nữ nô bị coi thường, Sở Kiều đã vươn lên thành nữ tướng mạnh mẽ, góp phần xóa bỏ chính sách nô lệ tàn bạo.\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: https://bit.ly/2Tazbg0\n\nXem các chương trình hấp dẫn khác của HTV2-Vie Channel:\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n►Ai Cũng Bật Cười Full: http://bit.ly/2DsqtTb\n►Tài Tiếu Tuyệt Full: http://bit.ly/2zIgfKb\n►Lần Đầu Tôi Kể: http://bit.ly/2OvemWp\n\nHoặc xem thêm trên hệ thống HTV2-Vie Channel:\n►Website: http://htv2channel.vn/\n►Fanpage: https://fb.com/HTV2VieChannel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8RogPioLklw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8RogPioLklw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8RogPioLklw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8RogPioLklw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8RogPioLklw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8RogPioLklw"
+                },
+                "videoOwnerChannelTitle": "Vie Channel - HTV2",
+                "videoOwnerChannelId": "UCkna2OcuN1E6u5I8GVtdkOw"
+            },
+            "contentDetails": {
+                "videoId": "8RogPioLklw",
+                "videoPublishedAt": "2019-06-16T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6edD736eK3SUTJ9EZlQSQzQJAjo",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-07-18T04:46:43Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Anh Dã 3+1 (tập 1)",
+                "description": "phim Anh Dã 3+1 (Những người bạn thân) do Minh Đạo, Trần Kiều Ân, Hứa Mạnh Triết, Huỳnh Chí Vỹ...đóng, được upload bởi MEV (http://mingenvietnam.4rumer.net)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N3PwXjAYDvQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N3PwXjAYDvQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N3PwXjAYDvQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N3PwXjAYDvQ"
+                },
+                "videoOwnerChannelTitle": "anhda mingen",
+                "videoOwnerChannelId": "UCnfW3Jh2v76zvwajONBJdjQ"
+            },
+            "contentDetails": {
+                "videoId": "N3PwXjAYDvQ",
+                "videoPublishedAt": "2012-05-22T12:48:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u8S8wvQN1E1Bi2A5680NsKibccY",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-08-17T09:43:05Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Minh Lan Truyện (Lồng Tiếng) -Tập 12 FULL | Phim Cổ Trang Trung Quốc 2019 (13h, Thứ 2 - 7 trên HTV7)",
+                "description": "🧡 Xem MINH LAN TRUYỆN (LỒNG TIẾNG) - TRỌN BỘ: \nhttp://bit.ly/minhlantruyenfull\n\n#minhlantruyenlongtieng #trieuledinh #phungthieuphong\n\nNội dung phim xoay quanh tiểu thư của gia đình quyền quý Minh Lan (Triệu Lệ Dĩnh đóng). Minh Lan là người thông minh, xinh đẹp, cầm kỳ thi họa đều tinh thông. Sống trong gia đình giàu có nhưng Minh Lan lại chẳng được lòng phụ thân, mẹ ruột mất sớm, tình thân tỷ muội cũng không có. Dẫu vậy, con đường để đến được với hạnh phúc của Minh Lan khá khó khăn.Về sau, Minh Lan nên duyên cùng Nhị công tử Ninh Viễn Hầu Cố Đình Diệp (Phùng Thiệu Phong). Trải qua bao biến cố, phong ba, Minh Lan - Cố Đình Diệp cuối cùng cũng về lại bên nhau. Hai người kết hôn và có cuộc sống an yên, tĩnh tại.\n\nSUBSCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0tHYRCsKfD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0tHYRCsKfD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0tHYRCsKfD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0tHYRCsKfD4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0tHYRCsKfD4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0tHYRCsKfD4"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "0tHYRCsKfD4",
+                "videoPublishedAt": "2019-04-16T06:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UhoDN2yoCeZqCoZy_XjPlZuvKRU",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-11-26T07:59:53Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Cung dan moi - Thanh ngan & Thanh tuan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sG7Oroxec80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sG7Oroxec80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sG7Oroxec80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sG7Oroxec80"
+                },
+                "videoOwnerChannelTitle": "CẢI LƯƠNG TV",
+                "videoOwnerChannelId": "UC8x2EEL7CVjKqJ_kByusWUA"
+            },
+            "contentDetails": {
+                "videoId": "sG7Oroxec80",
+                "videoPublishedAt": "2009-03-10T15:26:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "T0WaWXqlcchaasU7dflcacamFL0",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-01-06T02:48:03Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-QQlFL1uatc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-QQlFL1uatc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JIGSxx_Vo-IUOC1KVdvMV6qc40k",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-01-29T06:06:42Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "SÂU BÉO ĂN CẢI - Phim Hoạt Hình Hay - Truyện cổ tích - Tổng hợp phim hoạt hình hay",
+                "description": "#hoathinh #phimhoathinh #truyencotich #chuyencotich #muonmaucuocsong \nPhim hoạt hình - Truyện cổ tích - Chuyện cổ tích - Hoạt hình hay\n♥ Chào mừng các bạn đến với kênh Youtube chính thức của Muôn màu cuộc sống\n► Thông qua những thước phim hoạt hình, Chúng tôi muốn gửi gắm đến người xem những câu chuyện bình dị đời thường nhưng mang đầy ý nghĩa sâu xa, hy vọng sẽ mang đến cho các bạn những cung bậc cảm xúc khác nhau khi xem. \nNhững bài học ý nghĩa được rút ra đó là những trải nghiệm sống. Mỗi một câu chuyện mang một ý nghĩa sâu xa về cuộc sống đời thường, những suy nghĩ lắng động qua từng tập phim sẽ mang đến cho bạn những cảm nhận khó quên\nHãy tiếp tục làm nguồn động lực ủng hộ chúng tôi bằng cách Đăng ký - Like - Share - Comment và theo dõi những video mới nhất nhé. Cảm ơn các bạn!!! \n-------------------\nXem thêm :\n ► Tuyển tập phim hoạt hình hay: https://bit.ly/3sRhq3t\n ► Tuyển tập truyện cổ tích: https://bit.ly/3vk72CY\n ► Tuyển tập phim Muôn Màu Cuộc Sống: https://bit.ly/3aEd1uj\n-------------------\n► ĐĂNG KÝ KÊNH: http://goo.gl/C6BkfC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ASD1LqMKO_Q"
+                },
+                "videoOwnerChannelTitle": "Muôn Màu Cuộc Sống",
+                "videoOwnerChannelId": "UCRE8z9yCm53YYaGmGxSE4Jw"
+            },
+            "contentDetails": {
+                "videoId": "ASD1LqMKO_Q",
+                "videoPublishedAt": "2020-01-23T03:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nsJTUYypDomyNALcPDpa-XzahJA",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-01-29T06:06:42Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "SÂU BÉO ĂN CẢI - Phim Hoạt Hình Hay - Truyện cổ tích - Tổng hợp phim hoạt hình hay",
+                "description": "#hoathinh #phimhoathinh #truyencotich #chuyencotich #muonmaucuocsong \nPhim hoạt hình - Truyện cổ tích - Chuyện cổ tích - Hoạt hình hay\n♥ Chào mừng các bạn đến với kênh Youtube chính thức của Muôn màu cuộc sống\n► Thông qua những thước phim hoạt hình, Chúng tôi muốn gửi gắm đến người xem những câu chuyện bình dị đời thường nhưng mang đầy ý nghĩa sâu xa, hy vọng sẽ mang đến cho các bạn những cung bậc cảm xúc khác nhau khi xem. \nNhững bài học ý nghĩa được rút ra đó là những trải nghiệm sống. Mỗi một câu chuyện mang một ý nghĩa sâu xa về cuộc sống đời thường, những suy nghĩ lắng động qua từng tập phim sẽ mang đến cho bạn những cảm nhận khó quên\nHãy tiếp tục làm nguồn động lực ủng hộ chúng tôi bằng cách Đăng ký - Like - Share - Comment và theo dõi những video mới nhất nhé. Cảm ơn các bạn!!! \n-------------------\nXem thêm :\n ► Tuyển tập phim hoạt hình hay: https://bit.ly/3sRhq3t\n ► Tuyển tập truyện cổ tích: https://bit.ly/3vk72CY\n ► Tuyển tập phim Muôn Màu Cuộc Sống: https://bit.ly/3aEd1uj\n-------------------\n► ĐĂNG KÝ KÊNH: http://goo.gl/C6BkfC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ASD1LqMKO_Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ASD1LqMKO_Q"
+                },
+                "videoOwnerChannelTitle": "Muôn Màu Cuộc Sống",
+                "videoOwnerChannelId": "UCRE8z9yCm53YYaGmGxSE4Jw"
+            },
+            "contentDetails": {
+                "videoId": "ASD1LqMKO_Q",
+                "videoPublishedAt": "2020-01-23T03:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3gY1QKw3KBlqBoW_66hAglDW2p4",
+            "id": "UExDVEJKcHFfaEpDcnp0ckVCTlI1MWtRUV9CM2NRbm0zVC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-01-30T12:55:10Z",
+                "channelId": "UCkJgzOXEYgv4CoCG6Lm13hg",
+                "title": "Tử Vi Nữ MẬU NGỌ 1978 II Năm CANH TÝ 2020",
+                "description": "VẬN HẠN MẬU NGỌ 1978 Nử SÁU THÁNG đầu 2020\nXEM TỬ VI TUỔI MẬU NGỌ NĂM 2020 NỮ MẠNG 1978\n\nMậu Ngọ: -- Tuổi 43 - Nữ Mạng\nSanh từ: 07/02/1978 đến 27/01/ 1979)\nMạng: Thiên thượng Hỏa - Lửa lên trời\nTướng tinh: Xương con ngựa, tướng tinh con heo\n\nMạng Hỏa gặp năm Thổ là Sinh xuất: Xấu: Chủ về hao tài, tốn của sức khỏe kém. \nSao: Thái Dương: Tốt: May mắn, danh lộc tốt. \n\"Sao Thái Dương (hoả tinh) là hình ảnh của mặt trời soi sáng nên người có mạng hoả như các nàng Mậu Ngọ có sao này chiếu mệnh thì sẽ gặp được sự tốt lành, công danh đuề huề, an khang thịnh vượng. Năm hạn mà gặp sao Thái Dương chiếu thì công việc làm ăn vẫn phát đạt, thăng quan tiến chức và công việc kinh doanh gặp nhiều may mắn. Đẹp nhất vào tháng 6 và tháng 9, hay còn gọi là hai tháng Đại Kiết. \"\nHạn: Địa Võng: Nhiều lo âu. \n\"Hạn Địa Võng chủ về chuyện buồn lòng, chú ý lời ăn tiếng nói và cẩn thận trọng họ có tang gia. Công việc làm ăn gặp trở ngại nên phải lao tâm khổ tứ.\" \nVận Niên: Dương Hồi Ngạn (Dê về suối): Tốt. \nLà dê uống nước suối mát. Báo hiệu đây là một năm được vận niên công việc ít gặp trở ngại lớn. nhưng cần cẩn trọng tình cảm, gia đạo xào sáo do Địa chi gặp lục xung Tý – Ngọ. \nThiên can: Mậu gặp Canh: Sinh xuất, hao tổn tiền tài do đầu tư hoặ mất nhỏ. \nĐịa chi: Ngọ gặp Tý: Lục Xung:gia đạo tình cảm nhiều khó khăn.\n+ Cung đặt mệnh tử vi năm 2020 có các sao: Quốc Ấn, Hoa Cái, Long Trì, Đế Vượng, Tướng quân, Quan Phù, Lưu Hà, Thiên La, Tuần đây là bộ sao chủ về mọi việc làm ăn bình thường ra ngoài chú ý miền sông nước. \n+ Cung xung chiếu có các sao: Phượng Các, Giải Thần, Thai, Phục Binh, Điếu Khách, Quả Tú, Địa Võng đây là bổ sao chủ về ra ngoài ngoại giao không được tốt cẩn thận mất mát của cải tiền bạc. \n+ Cung nhị hợp có các sao: Đào Hoa, Phúc Đức, Thiên Hỷ, Dưỡng đây là bộ sao chủ về trong họ hàng có tin vui về hỷ tín cưới xin và trong công việc có quý nhân giúp đỡ. \n+ Cung tam hợp có các sao: Lộc Tồn Bác Sỹ, Tràng Sinh, Bạch hổ, Thái Tuế, Mộ đây là bộ sao chủ về công việc làm không nên có sự thay đổi quá lớn. Thái Tuế nhập cung tam hợp cẩn thận bị tiểu nhân chơi xấu. \n\nVẬN HẠN 6 THÁNG ĐẦU 2020\n\nTháng 1 – Mậu Dần (Thổ)\nMệnh: Hoả sinh Thổ: Bản mệnh sinh xuất sức khoẻ, bổn mạng không tốt.\nThiên Can: Mậu (thổ) đồng hành tốt cho công việc. hanh thông dễ thuận lợi tiền tài. \nĐịa Chi:  Dần, Ngọ (hoả) thuộc nhóm tam hợp Hợi, Mão, Mùi là dấu hiệu của nhiều may mắn không chỉ cho gia đạo mà còn cho cả công việc.\n\nTháng 2 – Kỷ Mão (Thổ)\nMệnh: Hoả sinh Thổ: Bản mệnh sinh xuất sức khoẻ, bổn mạng không tốt.\nThiên Can: Mậu (Thổ), Kỷ (Thổ) không xung, không hợp là trạng thái cân bằng, tự chủ.\nĐịa Chi: Mão (thổ) và Ngọ  (hoả) nhóm tứ hành xung ( Tý, Ngọ, Mão Dậu) gia đạo, tình cảm, quan hệ đồng nghiệp đề phòng xáo trộn không tốt đẹp.\n\n\nTháng 3 – Canh Thìn (Kim)\nMệnh: Hoả khắc Kim: bản mệnh khắc tháng bổn mạng, sức khỏe cần cẩn trọng.\nThiên Can:  Canh (kim), Mậu (thổ) không xung, không hợp là trạng thái cân bằng, tự chủ.\n Địa Chi:  Thìn (thổ) Ngọ (hoả)  tự chủ, bình hòa nhau; không hại, hình, xung nhau, cũng không tương hợp.\n\nTháng 4 – Tân Tỵ (Kim) \nMệnh: Hoả khắc Kim: bản mệnh khắc tháng bổn mạng, sức khỏe cần cẩn trọng.\nThiên Can: Tân (kim), Mậu (thổ): không xung, không hợp là trạng thái cân bằng, tự chủ.\nĐịa Chi:Tỵ (hoả) Ngọ (hoả)  tự chủ, bình hòa nhau; không hại, hình, xung nhau, cũng không tương hợp.\n\nTháng 5 – Nhâm Ngọ (Dương Liễu Mộc)\nMệnh: Mộc sinh Hoả:  bản mệnh được tương sinh tốt cho sức khoẻ, phúc tinh và tài tinh được hưởng lợi\nThiên Can: Mậu (thổ) khắc Nhâm (thuỷ), thiên can khắc tháng công việc gặp nhiều chống phá cẩn thận tiểu nhân lợi dụng trong cv.\nĐịa Chi: Ngọ (hoả), gặp Ngọ (hoả) thuộc nhóm Tự hình, năm sinh tháng tuổi cẩn thận gia đạo không vui vẻ.\n\n\nTháng 6 – Quý Mùi (Dương Liễu Mộc)\nMệnh: Mộc sinh Hoả:  bản mệnh được tương sinh tốt cho sức khoẻ, phúc tinh và tài tinh được hưởng lợi\nThiên Can: Mậu (thổ), hợp Quý (thuỷ): thiên can thuộc ngũ hợp rất tốt cho công danh, tài lộc.\nĐịa Chi: Mùi,  gặp Ngọ nhóm lục hợp là dấu hiệu của nhiều may mắn không chỉ cho gia đạo mà còn cho cả công việc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hI-HWi6aQKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hI-HWi6aQKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hI-HWi6aQKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linh Bắp",
+                "playlistId": "PLCTBJpq_hJCrztrEBNR51kQQ_B3cQnm3T",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hI-HWi6aQKc"
+                },
+                "videoOwnerChannelTitle": "Anh Ba Tử Vi",
+                "videoOwnerChannelId": "UCNYKHRz9oHjlhXauqwClnKw"
+            },
+            "contentDetails": {
+                "videoId": "hI-HWi6aQKc",
+                "videoPublishedAt": "2019-12-21T01:30:00Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 11,
+        "resultsPerPage": 50
+    }
+}

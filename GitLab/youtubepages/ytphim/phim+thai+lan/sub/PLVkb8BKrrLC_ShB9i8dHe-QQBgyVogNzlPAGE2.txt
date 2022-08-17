@@ -1,0 +1,591 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "mcIrw48lhKywijkQ8fY_seD0ZTw",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rDoyTErvEqcv1U_9MDBnuGhQas8",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5CODNEOTFERDNCQjU2ODhE",
+            "snippet": {
+                "publishedAt": "2018-10-29T01:08:01Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OlTFDIra_rM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OlTFDIra_rM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bt1ZLpQbugRm1Xlr1FfEVPk7uTM",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5EQTdFNDU3M0Y3MTM1QjlG",
+            "snippet": {
+                "publishedAt": "2018-09-21T14:50:12Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7dQeqDh-d_0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7dQeqDh-d_0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sNNOoxJTNRvXnmyf53bE24pc9iw",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC4wQjA4QkVEQ0RFREIzMjFC",
+            "snippet": {
+                "publishedAt": "2018-09-21T14:49:50Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_iAKN4nFSII"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_iAKN4nFSII"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H9MN13kyf4cfIP5gx32fCKAvNdY",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5CRjBFOTUzQTE4Mjg3RUJF",
+            "snippet": {
+                "publishedAt": "2018-09-17T14:40:18Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JmG3iLX1rmg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JmG3iLX1rmg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lHSAGjYbIITZbxR4wB6MVFOKyEY",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC43RjdBQTMwNUUwRTA1QkE3",
+            "snippet": {
+                "publishedAt": "2018-09-14T04:11:44Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "el9SdRQIBFw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "el9SdRQIBFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Uy6c_mqaNoe7a4WkHyF0rcljcwQ",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC44NzQ1OTI1OUFFM0NFRTc5",
+            "snippet": {
+                "publishedAt": "2018-09-11T14:40:35Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4QkB0_vv_nk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4QkB0_vv_nk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KKf_NWr9AaU0ZCtMLqtKZeDutuo",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC40MzEwNkU4RUE0MjhBRjg4",
+            "snippet": {
+                "publishedAt": "2018-09-10T15:17:04Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Hậu Cung Như Ý Truyện - Tập 1 Full | Phim Cổ Trang Trung Quốc Hay Nhất 2018",
+                "description": "🔶Xem trọn bộ:\nLồng Tiếng: http://bit.ly/haucungnhuytruyen\nVietSub: http://bit.ly/nhuytruyensub\n\n\nBộ phim được chuyển thể từ bộ tiểu thuyết cùng tên của tác giả kiêm biên kịch của bộ phim, Lưu Liễm Tử, và bản thân Lưu Liễm Tử đồng thời cũng là tác giả kiêm biên kịch của Chân Hoàn truyện trước đó. Các ngôi sao tham gia bộ phim bao gồm: Châu Tấn, Hoắc Kiến Hoa, Trương Quân Ninh, Đổng Khiết, Lý Thuần, cùng một số diễn viên khách mời danh giá như Trương Phong Nghị, Trần Xung và Ô Quân Mai. \nNhững năm Ung Chính hoàng đế (Trương Phong Nghị) còn tại vị, sau khi bị Tam a ca Hoằng Thời khước từ nạp làm Phúc tấn, thiếu nữ Ô Lạp Na Lạp Thanh Anh (Châu Tấn), cháu của Cảnh Nhân cung Hoàng hậu Ô Lạp Na Lạp thị (Trần Xung), được Hoàng hậu sắp xếp ban hôn nàng cho Tứ A ca Hoằng Lịch (Hoắc Kiến Hoa), con trai nuôi của người mà bà rất mâu thuẫn là Hi Quý phi Nữu Hỗ Lộc thị (Ô Quân Mai), một phi tần rất được Ung Chính Đế yêu thích.\n\nHi Quý phi tỏ vẻ không hài lòng, nhưng Hoàng đế đã có chủ ý, nên bà cũng không thể nào ngăn cản. Trong đợt đó, Hi Quý phi rất có nhãn quan đối với Phú Sát Lang Hoa (Đổng Khiết), xuất thân danh môn, tuy nhiên Hoằng Lịch lại vừa mắt Thanh Anh, quyết định chọn Thanh Anh làm Đích Phúc tấn, còn Phú Sát thị chỉ là Trắc Phúc tấn. Ngay lúc đó, biến cố xảy ra, Ô Lạp Na Lạp Hoàng hậu của Ung Chính bị khép tội và cấm túc trong Cảnh Nhân cung, Thanh Anh cũng vì thế không thể trở thành Đích Phúc tấn, mà phải nhường lại cho Phú Sát thị, còn nàng chỉ đành nhận vị trí Trắc Phúc tấn.\n\nSau khi Ung Chính Đế băng hà, Tứ a ca Hoằng Lịch đăng vị, tức Càn Long Đế, Hi Quý phi trở thành Hoàng thái hậu. Cô ruột là Cảnh Nhân cung Hoàng hậu thất thế, Thanh Anh ý thức được vị thế của mình nên quyết định cố gắng yên ổn sống trong cung, thành ý đó của Thanh Anh được Thái hậu chấp thuận, và nàng được Thái hậu ban tên mới là Như Ý\n\nNội dung sau đó của câu chuyện xoay quanh những âm mưu, tranh đấu trong hậu cung, những mối quan hệ của Như Ý và các phi tần, thù địch lẫn đồng minh, và xuyên suốt câu chuyện là mối tình lâu dài đầy những thăng trầm giữa Càn Long Đế và Như Ý. Đến bước cuối cùng, Như Ý hoàn toàn thất vọng về con người của Hoàng đế, người đã thay đổi từ rất lâu so với trước đây, và Như Ý không chọn bất kì sự hòa hoãn nào khác, mà dứt khoát ra đi.\n\nCái kết của Kế hoàng hậu trong lịch sử cũng là một vấn đề gây tranh cãi trong lịch sử của Thanh triều, và Lưu Liễm Tử đã dựa vào đó thể hiện những trái ngang và lý do mà nhân vật Như Ý phẫn uất cắt tóc.\n\nSUBCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l0dLV9ddhj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l0dLV9ddhj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l0dLV9ddhj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l0dLV9ddhj8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l0dLV9ddhj8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l0dLV9ddhj8"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "l0dLV9ddhj8",
+                "videoPublishedAt": "2018-09-06T05:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wBih9SBAdItNnrXg7Jh_QO3jfnQ",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC42RDgxQ0M2OUIwREZCNjZF",
+            "snippet": {
+                "publishedAt": "2018-09-10T15:03:33Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yuZ0Ncq9I_w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yuZ0Ncq9I_w"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FgGnWXUXRT8lueHywTyBQvGfTaY",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC40ODU2MTBGM0M5MkIwQzU0",
+            "snippet": {
+                "publishedAt": "2018-09-09T00:56:45Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "#8 Lâm Khánh Chi kiện chồng vì không cho ăn cơm | PHIÊN TÒA TÌNH YÊU | FVATVA08",
+                "description": "❤️ Lâm Khánh Chi kiện chồng Phi Hùng ra tòa vì bắt nhin ăn để giữ vòng eo 55.\n🍉 Đón xem Phiên Tòa Tình Yêu Full tại: https://goo.gl/3hWgKs\n\n📣 Đăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Phiên tòa tình yêu: https://goo.gl/3hWgKs\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ksG3E6Y2a6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ksG3E6Y2a6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ksG3E6Y2a6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ksG3E6Y2a6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ksG3E6Y2a6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ksG3E6Y2a6g"
+                },
+                "videoOwnerChannelTitle": "Vie Channel - HTV2",
+                "videoOwnerChannelId": "UCkna2OcuN1E6u5I8GVtdkOw"
+            },
+            "contentDetails": {
+                "videoId": "ksG3E6Y2a6g",
+                "videoPublishedAt": "2018-06-06T15:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mmu7ruNotvZKaT2BjBCrF68I_1g",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC4wMEMyQTBBOTUwNTM0OUFG",
+            "snippet": {
+                "publishedAt": "2018-08-31T14:24:10Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y84JV9ohljE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "y84JV9ohljE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "63Rmec7SiB6JpPCrZBjh453kp8o",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC40OTQ5QjlEMDgzN0FBNUIw",
+            "snippet": {
+                "publishedAt": "2018-07-21T11:15:09Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bPlA1D2cGAw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bPlA1D2cGAw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Kq3XtEgAFuSBc--nRdpLpdiZPUs",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5GMDBDNkJGMzYzREUyMTYw",
+            "snippet": {
+                "publishedAt": "2018-07-12T15:34:37Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "NAM PHI LIÊN HOÀN KẾ - TẬP 1 | Nam Thư, BB Trần, Hải Triều, Quang Trung, Minh Dự, Nguyễn Anh Tú",
+                "description": "NAM PHI LIÊN HOÀN KẾ - TẬP 1 | Nam Thư, BB Trần, Hải Triều, Quang Trung, Minh Dự, Nguyễn Anh Tú\n“Nam Phi Liên Hoàn Kế” là dự án hài cổ trang xoay được Nam Thư đầu tư sản xuất.\nNội dung phim xoay quanh những câu chuyện trong chốn hậu cung, những âm mưu trong việc tranh quyền đoạt vị, sự ganh ghét, đố kỵ, cùng các tâm kế nhằm hãm hại nhau sẽ được lột tả dưới một góc nhìn đầy hài hước. \n“Nam Phi Liên Hoàn Kế” quy tụ dàn diễn viên được yêu thích: Nam Thư, BB Trần, Hải Triều, Quang Trung, Nguyễn Anh Tú, Minh Dự, Dương Thanh Vàng, Huỳnh Thanh Trực, Ngọc Hùng,…\nTrong phim có sử dụng ca khúc \"Bùa Yêu\", sáng tác Tiên Cockie, thể hiện: Bích Phương. \nMusic by Javix from Vũ Nông Dân by Quang Đăng.\n\n------------\n\nSeries Nam Phi Liên Hoàn Kế:\n👑 Nam Phi Liên Hoàn Kế - Tập 1: https://youtu.be/p6J1Cnj35_o\n👑 Nam Phi Liên Hoàn Kế - Tập 2: https://youtu.be/u3YV0oFQ8lo\n👑 Nam Phi Liên Hoàn Kế - Tập 3: https://youtu.be/uSseom3pxlE\n👑 Nam Phi Liên Hoàn Kế - Tập 4: https://youtu.be/RPLE4ed81zU\n👑 Nam Phi Liên Hoàn Kế - Tập 5: https://youtu.be/n1i6ygPZXnw\n👑 Nam Phi Liên Hoàn Kế - Tập 6: https://youtu.be/D0mFlFXq6_U\n\nSeries Ai Là Người Thứ Ba:\n👩‍❤️‍👨 Ai Là Người Thứ Ba? - Tập 1: https://youtu.be/FlON6bHDzRc\n👩‍❤️‍👨 Ai Là Người Thứ Ba? - Tập 2: https://youtu.be/_lyca5RTock\n👩‍❤️‍👨 Ai Là Người Thứ Ba? - Tập 3: https://youtu.be/4k4XcjKtYtM\n👩‍❤️‍👨 Ai Là Người Thứ Ba? - Tập 4: https://youtu.be/_YK-5hwmU-0\n\nSeries Thập Tứ Cô Nương:\n🌵 Thập Tứ Cô Nương - Tập 1: https://youtu.be/j4YlFJKbjSs\n🌵 Thập Tứ Cô Nương - Tập 2: https://youtu.be/HkHXlsuwOqk\n🌵 Thập Tứ Cô Nương - Tập 3: https://youtu.be/341zPgHMhGQ\n🌵 Thập Tứ Cô Nương - Tập 4: https://youtu.be/dZsZRMAsDRo\n\nĐây là kênh YouTube chính thức của Nghệ sĩ Nam Thư. Mọi người đăng ký theo dõi để cập nhật thật nhanh các tiểu phẩm hài mới nhất của nghệ sĩ Nam Thư cùng nhiều nghệ sĩ khác nhé!!! \n\n🌟 Đăng kí theo dõi: http://www.youtube.com/c/NamThưOfficial\n🌟 Theo dõi Facebook: https://www.facebook.com/namthu.tran\n🌟 FanPage: https://www.facebook.com/NamThu.Official/\n--------------------------------------------------------------------------------------------\n#NamThư #NamThưOfficial #NamPhiLienHoanKe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p6J1Cnj35_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p6J1Cnj35_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p6J1Cnj35_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p6J1Cnj35_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p6J1Cnj35_o"
+                },
+                "videoOwnerChannelTitle": "Nam Thư Official",
+                "videoOwnerChannelId": "UCXJN4HWruRI2arSb4X_yLJQ"
+            },
+            "contentDetails": {
+                "videoId": "p6J1Cnj35_o",
+                "videoPublishedAt": "2018-07-11T13:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "73lCCQ4bE0t9HemYL-2iCcWnJDE",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2018-07-04T05:42:15Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kuA0_bwaHLA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kuA0_bwaHLA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MBYoNP-oDNovUE3Qusma1cMfzM8",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2018-07-02T01:07:19Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zadL9in77gA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zadL9in77gA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kDgxQYX49bg3m0kYpNweDT2H2_g",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2018-06-30T04:03:32Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "‪[TLV] Mộng_Uyên_Ương - Rang Tawan - Tập 1 -‬ [VIETSUB FULL HD] [Raeng Tawan]",
+                "description": "Đăng ký để theo dõi phim Mộng_Uyên_Ương - Rang Tawan / Raeng Tawan\nThông tin: https://www.facebook.com/ThaiLakornVietsub\n\n\nNội dung: Phim Mộng Uyên Ương là câu chuyện về sự gặp gỡ đầy định mệnh giữa Suriyanyn và Taandtawan. Giữa họ chỉ có hiểu lầm, nước mắt và sự thù hận, phía trước của cả hai chỉ là màn đêm đen đặc, thế nhưng trái tim họ lại thổn thức vì nhau. Họ yêu nhau... ngay cả khi biết rõ mãi mãi chẳng thế nào đến bên nhau. Một quá khứ đau buồn, một hiện tại đầy nước mắt... Một tình yêu như giấc mơ giữa ban ngày. Liệu có thể có phép màu nào giúp họ được làm một đôi uyên ương nắm tay nhau đi hết cuộc đời dưới ánh dương rực rỡ không?\nNguồn sub: ZingTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qg-zW6IlBG8"
+                },
+                "videoOwnerChannelTitle": "Thai Lakorn Vietsub",
+                "videoOwnerChannelId": "UCQiwM7qKrKM9fJUJQdfu-Dg"
+            },
+            "contentDetails": {
+                "videoId": "Qg-zW6IlBG8",
+                "videoPublishedAt": "2016-08-08T15:53:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eZ5T1Os9jZxEelDlyUBeYysJDsI",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2018-06-29T15:13:05Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VdOGGQoZHlo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "VdOGGQoZHlo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yhE3c9rFaH3_7xh8qmo4HatL07c",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2018-06-29T08:23:26Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XJE35TyAZpQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XJE35TyAZpQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u0FPRz1qCIg0KEi2zS6hH95Eivw",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2018-06-26T07:28:36Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8nc9WyJYTqU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8nc9WyJYTqU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ckniS1jp8aY5m5DIJGYZb2rGuwo",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2018-06-25T02:41:56Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ubgvEXALwn8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ubgvEXALwn8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4pCacMed7Se4qN7_wTR19VyMkvA",
+            "id": "UExWa2I4QktyckxDX1NoQjlpOGRIZS1RUUJneVZvZ056bC43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2018-06-25T02:41:49Z",
+                "channelId": "UCujN1WW13_-e08aEab3WXbQ",
+                "title": "‪[TLV] Mộng_Uyên_Ương - Rang Tawan - Tập 1 -‬ [VIETSUB FULL HD] [Raeng Tawan]",
+                "description": "Đăng ký để theo dõi phim Mộng_Uyên_Ương - Rang Tawan / Raeng Tawan\nThông tin: https://www.facebook.com/ThaiLakornVietsub\n\n\nNội dung: Phim Mộng Uyên Ương là câu chuyện về sự gặp gỡ đầy định mệnh giữa Suriyanyn và Taandtawan. Giữa họ chỉ có hiểu lầm, nước mắt và sự thù hận, phía trước của cả hai chỉ là màn đêm đen đặc, thế nhưng trái tim họ lại thổn thức vì nhau. Họ yêu nhau... ngay cả khi biết rõ mãi mãi chẳng thế nào đến bên nhau. Một quá khứ đau buồn, một hiện tại đầy nước mắt... Một tình yêu như giấc mơ giữa ban ngày. Liệu có thể có phép màu nào giúp họ được làm một đôi uyên ương nắm tay nhau đi hết cuộc đời dưới ánh dương rực rỡ không?\nNguồn sub: ZingTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qg-zW6IlBG8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nam Pham Bao",
+                "playlistId": "PLVkb8BKrrLC_ShB9i8dHe-QQBgyVogNzl",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qg-zW6IlBG8"
+                },
+                "videoOwnerChannelTitle": "Thai Lakorn Vietsub",
+                "videoOwnerChannelId": "UCQiwM7qKrKM9fJUJQdfu-Dg"
+            },
+            "contentDetails": {
+                "videoId": "Qg-zW6IlBG8",
+                "videoPublishedAt": "2016-08-08T15:53:17Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 70,
+        "resultsPerPage": 50
+    }
+}

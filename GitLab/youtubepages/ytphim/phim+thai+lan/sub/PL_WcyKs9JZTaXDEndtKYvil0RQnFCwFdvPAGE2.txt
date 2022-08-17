@@ -1,0 +1,263 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "3kPvCw0vv6HRncEMi4Wt6deRqzg",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "st3Phb4aI23Jlvkk4HT0rab9JcY",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2021-02-26T12:41:03Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "Phim Thuyết Minh Mới 2021 - TAM ĐẠI TẶC VƯƠNG | Phim Hành Động Chiếu Rạp Hay Nhất",
+                "description": "Phim Hành Động Võ Thuật Chiếu Rạp Hay Nhất 2021 Thuyết Minh - Tam Đại Tặc Vương.\n\nChân thành cảm ơn các nhãn hàng đã tài trợ: #pepsi #shopee #lazada #tiki #samsung #iphone #apple #Microsoft #Amazon #Nestle #Unilever #Gojek #Bee #Honda #Yamaha #Toyota TAM ĐẠI TẶC VƯƠNG - Phim Hành Động Hay Nhất - Phim Thuyết Minh Mới\n\nBa băng cướp khét tiếng liên tục gây nên vô số vụ trộm cướp, trong đó Trác Tử Cường thông minh lanh lợi luôn vạch kế hoạch chu toàn, Diệp Quốc Hoan dũng mãnh hung tàn, Quý Chính Hùng hành sự cẩn trọng, ba tên cầm đầu này đều được phong biệt danh Tam Đại Tặc Vương. Sau thời gian yên lặng thì gần đây trong giới giang hồ lại dấy lên tin đồn cả ba tên này sẽ hợp tác và thực hiện một phi vụ hoành tráng.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AVrywdR6V68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AVrywdR6V68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AVrywdR6V68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AVrywdR6V68"
+                },
+                "videoOwnerChannelTitle": "PUBLIC MOVIE",
+                "videoOwnerChannelId": "UCPa5tlO_v1GAVWvfxuf1TAw"
+            },
+            "contentDetails": {
+                "videoId": "AVrywdR6V68",
+                "videoPublishedAt": "2019-12-06T12:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HQz9lAwMmtVfq9jHG7u_PajazzE",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2021-02-26T12:41:03Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "VOI THẦN CHIẾN   Phim Hành Động Kinh Dị Thái Lan 2018   Vietsub",
+                "description": "Cảm ơn các bạn đã quan tâm và xem video, hãy like, share, đăng kí kênh ủng hộ mình nhé.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Old20gINooY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Old20gINooY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Old20gINooY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Old20gINooY"
+                },
+                "videoOwnerChannelTitle": "Hoàng Trần",
+                "videoOwnerChannelId": "UCi0DtjV7wLrzoFM5Hm394fw"
+            },
+            "contentDetails": {
+                "videoId": "Old20gINooY",
+                "videoPublishedAt": "2018-08-20T14:41:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7ehhLCGNp6edDXIjtQdSMXctwTk",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2021-02-26T12:41:03Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "Rắn Báo Thù  . Kinh Dị nhất 2017",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U-GLaYuXmGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U-GLaYuXmGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U-GLaYuXmGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U-GLaYuXmGs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "U-GLaYuXmGs"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Tv",
+                "videoOwnerChannelId": "UCy-2IcUj-ujgQ59h51XuKkw"
+            },
+            "contentDetails": {
+                "videoId": "U-GLaYuXmGs",
+                "videoPublishedAt": "2017-10-23T23:22:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yADnF0VW0Db0RMO0RTgyVwDuiDI",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-12-26T00:21:08Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NkXLeHgL_8Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NkXLeHgL_8Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lCzyNQ31nG6BqR80NCxRWOdQppQ",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-12-26T00:21:08Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "Chuyến Đi Định Mệnh Phim Tâm Lý Hành Động Cực Hay Thuyết Minh",
+                "description": "Chuyến Đi Định Mệnh Phim Tâm Lý Hành Động Cực Hay Thuyết Minh.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hyKTktFRV0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hyKTktFRV0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hyKTktFRV0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hyKTktFRV0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hyKTktFRV0U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hyKTktFRV0U"
+                },
+                "videoOwnerChannelTitle": "Chuyện Lạ Có Thật",
+                "videoOwnerChannelId": "UCfVb1HruQ4XwdNmYnk25BdQ"
+            },
+            "contentDetails": {
+                "videoId": "hyKTktFRV0U",
+                "videoPublishedAt": "2019-10-05T03:12:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YDp_RASQEB2wc5Vjj3PKUMlVtfc",
+            "id": "UExfV2N5S3M5SlpUYVhERW5kdEtZdmlsMFJRbkZDd0Zkdi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-12-26T00:21:08Z",
+                "channelId": "UCLylEmvTTRlauJDVk2uMxjw",
+                "title": "Chiếc Lá Cuốn Bay - Tập 1 [Vietsub - HD] | Phim Thái Lan Hay Nhất | Phim Mới 2019",
+                "description": "🍃TẬP 14 FULL XEM NGAY: http://bit.ly/CHIECLA14B\n\n🍃 Xem trọn bộ: http://bit.ly/chieclacuonbayvietsub\n\n#Chiếc_Lá_Cuốn_Bay xoay quanh cuộc đời bi kịch của cô nàng chuyển giới Nira (Baifern). Niranam từ nhỏ đã nhận thức được giới tính thật của bản thân mình, nên cậu luôn nhận sự đối xử tệ bạc từ người bố lăng nhăng và ông cũng thường xuyên đánh đập mẹ của mình. Sâu thẳm trong lòng Niranam luôn khao khát được sống với giới tính thật của bản thân và duy chỉ mẹ của cậu là người yêu thương và chấp nhận con người thật của con mình. Niranam muốn bố mình giống như người chú Chatchavee (Push), người đàn ông ấm áp luôn đứng về phía mẹ mình, chăm sóc và hiểu cho mình. Niranam cùng với sự ủng hộ của mẹ, đã quyết định làm một việc thay đổi cuộc đời của mình. Niranam thực hiện phẫu thuật chuyển giới, và trở nên một người phụ nữ xinh đẹp và quyến rũ tên Nira.\n\nTuy nhiên, mẹ cô đã qua đời trong lúc cô thực hiện phẫu thuật và từ đó cô sống với sự giúp đỡ của bác sĩ Benjang (Aun) với tư cách là em gái của anh ta. Trớ trêu thay, không chỉ người chú Chatchavee mà ngay cả người bố của Nira cũng say mê nhan sắc xinh đẹp của Nira, mà không biết đó chính là người thân, là đứa con mà mình ruồng bỏ năm nào. Mối tình oan nghiệt này cũng trở nên càng phức tạp hơn khi Nira cũng phải lòng người chú Chatchavee và Rungrong (Tangmo), vợ của Chatchavee và là dì của Nira, người luôn coi thường tình yêu của Nira và ghen tị với cô, phát hiện ra sự thật và tìm cách ngăn cản Nira bằng mọi cách.\n\n#Phim_Thái_Lan_Hay_Nhất #Phim_Mới_2019\n\nSUBSCRIBE NGAY, XEM PHIM HAY MỖI NGÀY!\n\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/\n\n© Bản quyền thuộc về TKL\n© Copyright by TKL ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NmITSFsX9b4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NmITSFsX9b4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NmITSFsX9b4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NmITSFsX9b4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NmITSFsX9b4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JalyBabii",
+                "playlistId": "PL_WcyKs9JZTaXDEndtKYvil0RQnFCwFdv",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NmITSFsX9b4"
+                },
+                "videoOwnerChannelTitle": "Phim HOT TK-L",
+                "videoOwnerChannelId": "UCtsrmo89ctjbtENanK40yTQ"
+            },
+            "contentDetails": {
+                "videoId": "NmITSFsX9b4",
+                "videoPublishedAt": "2019-07-27T05:11:15Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 56,
+        "resultsPerPage": 50
+    }
+}

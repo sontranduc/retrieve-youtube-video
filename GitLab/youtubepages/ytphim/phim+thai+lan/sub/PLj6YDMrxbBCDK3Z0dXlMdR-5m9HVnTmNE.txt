@@ -1,0 +1,306 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "mps8cmdRKDQUxmeu-T5nJ4ECLvA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IBUTSLDjtEFwettt3WX80-jlXOw",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-10-01T03:24:29Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập 1. #PhimTháiLan",
+                "description": "#phim nói về anh chàng #Laaising(Push),chủ tiệm hoa \"Sing Dok Mai\" độc thân vui tính, #Weanpetch(Gypso) cô phóng viên năng động tôn thờ chủ nghĩa độc thân.Mối nhân duyên của họ bắt đầu từ đám cưới của người họ hàng.Hai con người hai thế giới hoàn toàn khác nhau đều tôn thờ chủ nghĩa độc thân, khi yêu nhau sẽ ra sao?Mọi người xem,ủng hộ và theo dõi nhé.\nhttps://youtu.be/ytfXbV5sqzE\n-Thể loại: #phim, #tâmlý_lãngmạn, #thầntượng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ytfXbV5sqzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ytfXbV5sqzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ytfXbV5sqzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ytfXbV5sqzE"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "ytfXbV5sqzE",
+                "videoPublishedAt": "2021-09-15T05:34:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hpnUQxVQcOSo8NyBlTvUb_8rCkU",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-09-19T17:56:01Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập 2. Phần 1",
+                "description": "#phimthailan , #tinhcam , #langman , #thantuong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lJ9Y5T_5jyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lJ9Y5T_5jyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lJ9Y5T_5jyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lJ9Y5T_5jyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lJ9Y5T_5jyU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lJ9Y5T_5jyU"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "lJ9Y5T_5jyU",
+                "videoPublishedAt": "2021-09-16T02:09:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "T12WAGtJlYzSv0jMVqT1fPAXByI",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-09-19T17:56:23Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập 2. phần 2",
+                "description": "#phimthailan, #tamly, #tinhcam, #langman",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MK838DPay7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MK838DPay7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MK838DPay7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MK838DPay7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MK838DPay7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MK838DPay7o"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "MK838DPay7o",
+                "videoPublishedAt": "2021-09-16T08:25:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IhreSGzr4NeFGv3-zCT0Qr-GwS4",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-09-19T17:56:47Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập2. Phần 3",
+                "description": "#phimthailan ,#phimtamly ,#phimtinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ss-mqjPrG-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ss-mqjPrG-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ss-mqjPrG-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ss-mqjPrG-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ss-mqjPrG-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ss-mqjPrG-o"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "ss-mqjPrG-o",
+                "videoPublishedAt": "2021-09-17T00:31:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FV4EtvRxJI5XDWnYEud3J1JHIDs",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-09-19T17:57:06Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập2. phần 4",
+                "description": "#phimhay, #phimthailan, #phimtamly, #tinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YfKDFcai7O0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YfKDFcai7O0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YfKDFcai7O0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YfKDFcai7O0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YfKDFcai7O0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YfKDFcai7O0"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "YfKDFcai7O0",
+                "videoPublishedAt": "2021-09-17T11:44:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yXoBe6iWy-gb7F5gY0_6PvQsiZc",
+            "id": "UExqNllETXJ4YkJDREszWjBkWGxNZFItNW05SFZuVG1ORS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-09-19T17:57:32Z",
+                "channelId": "UCGiMv0pIGChVsri8AiyVDYg",
+                "title": "Nhẫn Hoa - Tập 2. Phần 5",
+                "description": "#waendokmai, #phimthailan, #phimtinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcXH8EwD3KU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcXH8EwD3KU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcXH8EwD3KU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wcXH8EwD3KU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wcXH8EwD3KU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tuefan Film",
+                "playlistId": "PLj6YDMrxbBCDK3Z0dXlMdR-5m9HVnTmNE",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wcXH8EwD3KU"
+                },
+                "videoOwnerChannelTitle": "Tuefan Film",
+                "videoOwnerChannelId": "UCGiMv0pIGChVsri8AiyVDYg"
+            },
+            "contentDetails": {
+                "videoId": "wcXH8EwD3KU",
+                "videoPublishedAt": "2021-09-17T12:15:56Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 6,
+        "resultsPerPage": 50
+    }
+}

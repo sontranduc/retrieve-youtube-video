@@ -1,0 +1,215 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "LGsiTkiEjBM0o16G4iMNQ3J2T4g",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fYAN37LcBMUfvptMd4rg6JkoC9k",
+            "id": "UEx6dEhfc0JVaGs4VFlKOVYxOHExcGI5ZVpPMHhyRzlsVC41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2021-10-24T19:10:47Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Phim Thái Lan 2021 | CÁNH HOA DANH VỌNG - Tập 51 | Phim Bộ Thái Lan Mới Nhất 2021",
+                "description": "❖Trọn bộ: https://bit.ly/3yNmWID\n❖Xem các phim hay khác: https://bit.ly/2RNgNLx\n❖Tên phim: CÁNH HOA DANH VỌNG (54 Tập)\n❖Nội dung: Cánh Hoa Danh Vọng | Reya (2021) kể về Reya - một phụ nữ xinh đẹp không hề ngần ngại những cuộc đấu đá, thậm chí những đêm tình nóng bỏng để có được tất cả những gì mình muốn. Sau một cuộc hôn nhân lừa dối khiến Reya mất trắng cả tiền tài lẫn hạnh phúc, cô tức tốc lao vào cuộc chiến \"săn chồng\" mới. Cô đã để mắt tới David (Mardthong Sarawut), người đàn ông đã có vị hôn phu là Yaowarat (Yardthip Rajpal).\nTrận chiến giữa hai người phụ nữ bắt đầu và Reya sớm có được David. Thế nhưng, anh ta lại sớm bị đẩy ra nước ngoài bởi chính cha của Yaowarat. Chuyện này đã đẩy cả Reya và Yaowarat lao vào cuộc chiến báo thù, giành giật tình yêu còn khốc liệt hơn trước.\n\n\n#PhimThaiLan   #PhimHay2021   #PhimMoi2021",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtfxS5yFJfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtfxS5yFJfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtfxS5yFJfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GtfxS5yFJfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GtfxS5yFJfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8TYJ9V18q1pb9eZO0xrG9lT",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GtfxS5yFJfc"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Châu Á",
+                "videoOwnerChannelId": "UCtA1kgE_q4dpYzRjXixSy0Q"
+            },
+            "contentDetails": {
+                "videoId": "GtfxS5yFJfc",
+                "videoPublishedAt": "2021-06-06T14:45:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GkSWmVdtZU1eieeHu54d4s7QEpo",
+            "id": "UEx6dEhfc0JVaGs4VFlKOVYxOHExcGI5ZVpPMHhyRzlsVC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2021-10-24T19:10:47Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Phim Thái Lan 2021 | CÁNH HOA DANH VỌNG - Tập 52 | Phim Bộ Thái Lan Mới Nhất 2021",
+                "description": "❖Trọn bộ: https://bit.ly/3yNmWID\n❖Xem các phim hay khác: https://bit.ly/2RNgNLx\n❖Tên phim: CÁNH HOA DANH VỌNG (54 Tập)\n❖Nội dung: Cánh Hoa Danh Vọng | Reya (2021) kể về Reya - một phụ nữ xinh đẹp không hề ngần ngại những cuộc đấu đá, thậm chí những đêm tình nóng bỏng để có được tất cả những gì mình muốn. Sau một cuộc hôn nhân lừa dối khiến Reya mất trắng cả tiền tài lẫn hạnh phúc, cô tức tốc lao vào cuộc chiến \"săn chồng\" mới. Cô đã để mắt tới David (Mardthong Sarawut), người đàn ông đã có vị hôn phu là Yaowarat (Yardthip Rajpal).\nTrận chiến giữa hai người phụ nữ bắt đầu và Reya sớm có được David. Thế nhưng, anh ta lại sớm bị đẩy ra nước ngoài bởi chính cha của Yaowarat. Chuyện này đã đẩy cả Reya và Yaowarat lao vào cuộc chiến báo thù, giành giật tình yêu còn khốc liệt hơn trước.\n\n\n#PhimThaiLan   #PhimHay2021   #PhimMoi2021",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mV0OB3Bpf8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mV0OB3Bpf8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mV0OB3Bpf8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mV0OB3Bpf8c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mV0OB3Bpf8c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8TYJ9V18q1pb9eZO0xrG9lT",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mV0OB3Bpf8c"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Châu Á",
+                "videoOwnerChannelId": "UCtA1kgE_q4dpYzRjXixSy0Q"
+            },
+            "contentDetails": {
+                "videoId": "mV0OB3Bpf8c",
+                "videoPublishedAt": "2021-06-06T15:17:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6erx8e9fWU_7u-mIewOWMEJOWFE",
+            "id": "UEx6dEhfc0JVaGs4VFlKOVYxOHExcGI5ZVpPMHhyRzlsVC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2021-10-24T19:10:47Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Phim Thái Lan 2021 | CÁNH HOA DANH VỌNG - Tập 53 | Phim Bộ Thái Lan Mới Nhất 2021",
+                "description": "❖Trọn bộ: https://bit.ly/3yNmWID\n❖Xem các phim hay khác: https://bit.ly/2RNgNLx\n❖Tên phim: CÁNH HOA DANH VỌNG (54 Tập)\n❖Nội dung: Cánh Hoa Danh Vọng | Reya (2021) kể về Reya - một phụ nữ xinh đẹp không hề ngần ngại những cuộc đấu đá, thậm chí những đêm tình nóng bỏng để có được tất cả những gì mình muốn. Sau một cuộc hôn nhân lừa dối khiến Reya mất trắng cả tiền tài lẫn hạnh phúc, cô tức tốc lao vào cuộc chiến \"săn chồng\" mới. Cô đã để mắt tới David (Mardthong Sarawut), người đàn ông đã có vị hôn phu là Yaowarat (Yardthip Rajpal).\nTrận chiến giữa hai người phụ nữ bắt đầu và Reya sớm có được David. Thế nhưng, anh ta lại sớm bị đẩy ra nước ngoài bởi chính cha của Yaowarat. Chuyện này đã đẩy cả Reya và Yaowarat lao vào cuộc chiến báo thù, giành giật tình yêu còn khốc liệt hơn trước.\n\n\n#PhimThaiLan   #PhimHay2021   #PhimMoi2021",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eOD4tao2kyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eOD4tao2kyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eOD4tao2kyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eOD4tao2kyA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eOD4tao2kyA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8TYJ9V18q1pb9eZO0xrG9lT",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eOD4tao2kyA"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Châu Á",
+                "videoOwnerChannelId": "UCtA1kgE_q4dpYzRjXixSy0Q"
+            },
+            "contentDetails": {
+                "videoId": "eOD4tao2kyA",
+                "videoPublishedAt": "2021-06-06T14:45:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NxyBgO7jxJyY2tsgqyvhOGVAwH4",
+            "id": "UEx6dEhfc0JVaGs4VFlKOVYxOHExcGI5ZVpPMHhyRzlsVC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2021-10-24T19:10:47Z",
+                "channelId": "UC8mIYXgNTp410CiD2nKTnCA",
+                "title": "Phim Thái Lan 2021 | CÁNH HOA DANH VỌNG - Tập 54 | Phim Bộ Thái Lan Mới Nhất 2021",
+                "description": "❖Trọn bộ: https://bit.ly/3yNmWID\n❖Xem các phim hay khác: https://bit.ly/2RNgNLx\n❖Tên phim: CÁNH HOA DANH VỌNG (54 Tập)\n❖Nội dung: Cánh Hoa Danh Vọng | Reya (2021) kể về Reya - một phụ nữ xinh đẹp không hề ngần ngại những cuộc đấu đá, thậm chí những đêm tình nóng bỏng để có được tất cả những gì mình muốn. Sau một cuộc hôn nhân lừa dối khiến Reya mất trắng cả tiền tài lẫn hạnh phúc, cô tức tốc lao vào cuộc chiến \"săn chồng\" mới. Cô đã để mắt tới David (Mardthong Sarawut), người đàn ông đã có vị hôn phu là Yaowarat (Yardthip Rajpal).\nTrận chiến giữa hai người phụ nữ bắt đầu và Reya sớm có được David. Thế nhưng, anh ta lại sớm bị đẩy ra nước ngoài bởi chính cha của Yaowarat. Chuyện này đã đẩy cả Reya và Yaowarat lao vào cuộc chiến báo thù, giành giật tình yêu còn khốc liệt hơn trước.\n\n\n#PhimThaiLan   #PhimHay2021   #PhimMoi2021",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cl9QFpOdYx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cl9QFpOdYx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cl9QFpOdYx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cl9QFpOdYx8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cl9QFpOdYx8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miền Tây 1989",
+                "playlistId": "PLztH_sBUhk8TYJ9V18q1pb9eZO0xrG9lT",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cl9QFpOdYx8"
+                },
+                "videoOwnerChannelTitle": "Phim Hay Châu Á",
+                "videoOwnerChannelId": "UCtA1kgE_q4dpYzRjXixSy0Q"
+            },
+            "contentDetails": {
+                "videoId": "cl9QFpOdYx8",
+                "videoPublishedAt": "2021-06-06T15:19:09Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 50
+    }
+}

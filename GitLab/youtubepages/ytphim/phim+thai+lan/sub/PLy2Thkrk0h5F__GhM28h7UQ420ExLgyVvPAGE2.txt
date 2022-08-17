@@ -1,0 +1,57 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "7Iqias8SGGfTb6DNzZkGwo_JFA8",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tLh1pmxf1BKFRBzTbXxOePv0vcU",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5GMDBDNkJGMzYzREUyMTYw",
+            "snippet": {
+                "publishedAt": "2018-09-03T12:50:25Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Vì tôi là chàng ngốc",
+                "description": "Ủng hộ kênh mới của mình nhé mọi người \n\nhttps://www.youtube.com/channel/UC_JxpVQkO9FvanMa8mWxQRA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zna5b1CqA-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zna5b1CqA-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zna5b1CqA-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zna5b1CqA-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zna5b1CqA-U"
+                },
+                "videoOwnerChannelTitle": "Chuong Le",
+                "videoOwnerChannelId": "UCsjCnpLQAth52EOkMVuJYEA"
+            },
+            "contentDetails": {
+                "videoId": "Zna5b1CqA-U",
+                "videoPublishedAt": "2011-04-29T06:03:37Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,596 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "wHpYGJSVOuw2Lqo16oayQi6P-JY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KWvvC2yf9dz0p3hZ0yh6O11A--A",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-03-10T07:46:29Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2CvBAuPUBe0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2CvBAuPUBe0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E0igu8L-o1RHn4B4iRPkHzVuDbM",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-03-10T10:18:54Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JqF_eRJgm1Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JqF_eRJgm1Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IqAyZKbt20GrpmVWt3hyR_fQ5EI",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-03-10T10:19:02Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Fe0Csy2qKp8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Fe0Csy2qKp8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OHr0sg5212DOKavJuVK9EyDz2LA",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-03-11T15:38:35Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C_6OJIEiTLg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "C_6OJIEiTLg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o8EkmSzghpdFvaIHD6cIl9YUssA",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-03-11T16:04:24Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AmzkUCUxGsQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AmzkUCUxGsQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QqZ6BEWvsY99yty5mz-ePJZKlYM",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-08-17T07:37:18Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "เพียงชายคนนี้ไม่ใช่ผู้วิเศษ cut. ศตวรรษ - อนุศนิยา Ep 15 (4) ตอนจบ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1IM1ilK9bp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1IM1ilK9bp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1IM1ilK9bp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1IM1ilK9bp4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1IM1ilK9bp4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1IM1ilK9bp4"
+                },
+                "videoOwnerChannelTitle": "Kimberley_Area",
+                "videoOwnerChannelId": "UCDvNZl9YIt6V-ZkZrDqwhnw"
+            },
+            "contentDetails": {
+                "videoId": "1IM1ilK9bp4",
+                "videoPublishedAt": "2016-06-10T03:09:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vwjRo776ud2TfFzEwPS-sb9e810",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-08-17T09:11:55Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "VICKY NHUNG - VIỆT NAM NHỮNG CHUYẾN ĐI (OFFICIAL MV) | VÌ CUỘC ĐỜI LÀ NHỮNG CHUYẾN ĐI",
+                "description": "* Link Mp3: http://mp3.zing.vn/bai-hat/Viet-Nam-Nhung-Chuyen-Di-Vicky-Nhung/ZW8060OI.html\n\n♪ Bài hát: Việt Nam Những Chuyến Đi\n♪ Composer: Vicky Nhung\n♪ Ca sĩ: Vicky Nhung\n* Đây là MV chính thức đầu tiên Vicky tự quay phim, làm đạo diễn, biên tập, dựng phim. MV được quay dọc Việt Nam trong gần một tháng và theo một phong cach hoàn toàn khác so với chuẩn MV thông thường. Hãy cùng xem, like, share để ủng hộ vicky nhiều hơn nhé ^^\nVicky cũng xin chân thành cảm ơn sự giúp đỡ của anh chị em bạn bà và cả những người mới quen trong chuyến đi đã không quản khó khăn để giúp Vicky hoàn thành MV đầy tâm huyết này.\n-------------------------------------------------------------------------------------\nLyrics \"Việt Nam Những Chuyến Đi\":\n\n♪ VIỆT NAM NHỮNG CHUYẾN ĐI – VICKY NHUNG:\nLâu nay tôi vẫn sống giữa phố xá đông vui\nTiếng xe che tiếng nói\nLâu nay tôi vẫn sống với laptop TV\nNgười đi qua nhau chẳng một câu\n\nHôm nay tôi muốn đến những góc phố xa xôi\nNhững nơi chưa ai tới\nHôm nay tôi muốn đến những ngóc ngách thôn quê\nGiờ đây tôi cất hết bao nỗi buồn xách balo lên và đi\nKhông nghĩ suy âu lo về ngày mai\n\nBon bon trên những chuyến xe cất hết bao nỗi buồn\nPhá không gian giam cầm ta trong những ưu tư mỗi ngày\nĐón lấy thế giới tôi đang nhìn\n\nKìa trông ra đằng xa xa\nBa bốn anh đang dắt trâu ra đồng\nKìa trông theo thuyền lênh đênh\nTôm cá tươi bác ngư dân cười vui\n\nKìa cô em miền trung du\nTrên núi cao đôi má hây hồng đào\nKìa sông sâu rừng hoang vu\nMang nét riêng\nKhông nơi đâu sánh bằng\nÔi Việt Nam\n\nHôm nay tôi mới biết đám cưới chốn thôn quê\nMừng nhau ba đêm vẫn chưa hết\nHôm nay tôi mới biết những vách núi cheo leo\nChợ khuya Sapa tình lai láng\n\nHôm nay tôi mới biết lúa nếp gói cơm lam\nNgọt thơm hương Tây Bắc\nHôm nay tôi mới biết mái ngói vách tranh xưa\nGiờ đây tôi cất hết bao nỗi buồn\n\nXách balo lên và đi\nKhông nghĩ suy âu lo về ngày mai\nBon bon trên những chuyến xe\nCất hết bao nỗi buồn phá không gian giam cầm ta\nTrong những ưu tư mỗi ngày\n\nĐón lấy thế giới tôi đang nhìn\nKìa trông ra đằng xa xa\nBa bốn anh đang dắt trâu ra đồng\nKìa trông theo thuyền lênh đênh\nTôm cá tươi bác ngư dân cười vui\n\nKìa cô em miền trung du\nTrên núi cao đôi má hây hồng đào\nKìa sông sâu rừng hoang vu\nMang nét riêng\nKhông nơi đâu sánh bằng\nÔi Việt Nam\n\nKìa trông ra đằng xa xa\nBa bốn anh đang dắt trâu ra đồng\nKìa trông theo thuyền lênh đênh\nTôm cá tươi bác ngư dân cười vui\n\nKìa cô em miền trung du\nTrên núi cao đôi má hây hồng đào\nKìa sông sâu rừng hoang vu\nMang nét riêng\nKhông nơi đâu sánh bằng\nÔi Việt Nam\nÔi Việt Nam\n\n-------------------------------------------------------------------------------------\n➥ Liên Hệ:\n» email: lienhe.vickynhung@gmail.com\n» facebook: https://www.facebook.com/nhungemo/\n» fanPage : https://www.facebook.com/vickynhung.kom\n➥ #VickyNhung #MashupKiepVeSau\n----------------------------------------------/-------------\n© Bản quyền thuộc về Vicky Nhung\n© Copyright by Vicky Nhung ☞ Do not Reup\n\nVICKY NHUNG - VIỆT NAM NHỮNG CHUYẾN ĐI (OFFICIAL MV) | VÌ CUỘC ĐỜI LÀ NHỮNG CHUYẾN ĐI",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/46EjkkDo00g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/46EjkkDo00g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/46EjkkDo00g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/46EjkkDo00g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/46EjkkDo00g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "46EjkkDo00g"
+                },
+                "videoOwnerChannelTitle": "Vicky Nhung",
+                "videoOwnerChannelId": "UC-3rhOpK0QUbHPm45GX_TLA"
+            },
+            "contentDetails": {
+                "videoId": "46EjkkDo00g",
+                "videoPublishedAt": "2017-06-27T01:29:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E9ey_NWO2WIKf9c55zy-csLwhkg",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-08-21T04:15:32Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Con Trai Bất Hiếu Nghe Lời Con Dâu Bỏ Mẹ Già Bơ Vơ Và Rồi.. | Phim Ngắn Cảm Động 2019 | ChaoTrang 65",
+                "description": "Con Trai Bất Hiếu Nghe Lời Con Dâu Bỏ Mẹ Già Bơ Vơ Và Rồi.. | Phim Ngắn Cảm Động 2019 | ChaoTrang 65\n➡️ Xem Trộn Bộ \"ChaoTrang\" Tại Đây: http://bit.ly/ChaoTrangFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/Yeah1tv\n\n© Các video trên kênh \" http://bit.ly/Yeah1tv \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nInstagram: https://www.instagram.com/yeah1_tv/\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :          http://bit.ly/Yeah1music\nYEAH1 MOVIE :          http://bit.ly/Yeah1movies\nYEAH1 KIDS :              http://bit.ly/Yeah1kids\nNgọc Thảo :                 http://bit.ly/Ngocthao\n---------------------------------------------\n#Yeah1TV  #ChaoTrang #PhimNgan2019",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QubPltw3fUE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QubPltw3fUE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QubPltw3fUE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QubPltw3fUE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QubPltw3fUE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QubPltw3fUE"
+                },
+                "videoOwnerChannelTitle": "YEAH1TV",
+                "videoOwnerChannelId": "UCxVbAgOxi2HtYFmptzvILrA"
+            },
+            "contentDetails": {
+                "videoId": "QubPltw3fUE",
+                "videoPublishedAt": "2019-08-15T11:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xKXR6QiMmwm2DJZK7hEYWv2XMns",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-08-31T14:54:40Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Kết Thúc Lâu Rồi - Lê Bảo Bình (MV OFFICIAL)",
+                "description": "MV Kết Thúc Lâu Rồi của ca sỹ Lê Bảo Bình #KetThucLauRoi #LeBaoBinh \n\n♫ Fanpage : https://www.facebook.com/lebaobinh.fan\n\n♫ Sáng tác (Composer) : Lê Bảo Bình\n\n♫ Ca sỹ (Singer) : Lê Bảo Bình\n\n♫ Đạo diễn (Director) : Hữu Công\n\n♫ Sản xuất (Producer): Hữu Công\n\n♫ Kịch bản (Script writer) : Hữu Công\n\n♫ Diễn viên (Cast) : Huu Cong, Hai Le, Le Bao Binh\n\n♫ Đạo diễn hình ảnh (Director Of Photography) : Trong Anh\n\n♫ Quay phim (Camera Operators) : Bao Bap - Huy Mx\n\n♫ Trang điểm (Makeup) : Loan Nguyen\n\n♫ Ghi âm (Record) : Chien Le\n\n♫ Âm thanh (Music) : Minh Thuy\n\n♫ Thiết kế (Editor & Colorist Artist) : Hữu Công\n\n♫ Thiết bị (Equipment) : K26\n\n➨ Click Subscribe kênh NhacPro Tube để cập nhật Video Mới, Nonstop  || Remix  || Những Ca Khúc Nhạc Trẻ Hay Nhất 2017 || Liên Khúc Nhạc Trẻ Hay Nhất || Mới Nhất 2017\n© Độc Quyền Trên Youtube Bởi NhacPro Tube. Đề Nghị Không Reup MV Này !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jIl-reZksdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jIl-reZksdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jIl-reZksdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jIl-reZksdM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jIl-reZksdM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jIl-reZksdM"
+                },
+                "videoOwnerChannelTitle": "NhacPro Tube",
+                "videoOwnerChannelId": "UCBZjBKNMZoFih4ubdiIDWLw"
+            },
+            "contentDetails": {
+                "videoId": "jIl-reZksdM",
+                "videoPublishedAt": "2017-05-13T12:56:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Wbv3R4omjpEBrg84sBpCinAcUa8",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-09-03T14:43:31Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Pitbull - Timber (Official Video) ft. Ke$ha",
+                "description": "Official Video for ”Timber” by Pitbull featuring Ke$ha\nListen to Pitbull: https://Pitbull.lnk.to/listenYD\nWatch more videos by Pitbull: https://Pitbull.lnk.to/listenYD/youtube\n\nSubscribe to the official Pitbull YouTube channel: https://Pitbull.lnk.to/subscribeYD\n\nFollow Pitbull\nFacebook: https://Pitbull.lnk.to/followFI\nInstagram: https://Pitbull.lnk.to/followII\nTwitter: https://Pitbull.lnk.to/followTI\nWebsite: https://Pitbull.lnk.to/followWI\nSpotify: https://Pitbull.lnk.to/followSI\nYouTube https://Pitbull.lnk.to/subscribeYD\n\nAsk your voice device to play Pitbull!\n\nLyrics:\nIt's goin' down, I'm yellin' timber\nYou better move, you better dance\nLet's make a night you won't remember\nI'll be the one you won't forget\n\n#Pitbull #Timber #Kesha #OfficialVideo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hHUbLv4ThOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hHUbLv4ThOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hHUbLv4ThOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hHUbLv4ThOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hHUbLv4ThOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hHUbLv4ThOo"
+                },
+                "videoOwnerChannelTitle": "PitbullVEVO",
+                "videoOwnerChannelId": "UCVWA4btXTFru9qM06FceSag"
+            },
+            "contentDetails": {
+                "videoId": "hHUbLv4ThOo",
+                "videoPublishedAt": "2013-11-25T18:19:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GTsfcYKc9zAuPtJY62iXO1jWdJ8",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-09-03T15:10:36Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "BTS & BLACKPINK - 피 땀 눈물 BLOOD, SWEAT & TEARS X 휘파람 WHISTLE (MASHUP)",
+                "description": "trans cr: popgasa\n\nSubscribe for more mashups: youtube.com/jyeoms ​\nFor business enquiries only: hellojyeoms(at)gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aoFaqkzGX2o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aoFaqkzGX2o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aoFaqkzGX2o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aoFaqkzGX2o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aoFaqkzGX2o"
+                },
+                "videoOwnerChannelTitle": "jyeoms",
+                "videoOwnerChannelId": "UCK0EcK6XCMMr5MDobgGUYEw"
+            },
+            "contentDetails": {
+                "videoId": "aoFaqkzGX2o",
+                "videoPublishedAt": "2016-10-13T11:48:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jEshNWA6aUP5O5ECqRUKfMGoJks",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-09-15T05:44:54Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "LA LA SCHOOL | TẬP CUỐI  |  Season 4 : TRẠI HÈ ÂM NHẠC | Phim Học Đường Âm Nhạc 2019",
+                "description": "LA LA SCHOOL | TẬP CUỐI  |  Season 4 : TRẠI HÈ ÂM NHẠC | Phim Học Đường Âm Nhạc 2019\n\nMọi người nhấn vào đây : http://bit.ly/lalaschool để đăng ký nhận thông báo khi ra Clip nha^^\n#LaLaSchool #Season4 #traiheamnhac\n-------------------------------------------------------------------------\nLiên hệ hợp tác : hocviensieusao@gmail.com\n►Đăng ký để nhận thông báo : https://goo.gl/joMNWH\n►Facebook : https://www.facebook.com/LaLaSchool.Official \n►Website : www.bigcat.vn\n-----------------------------------------------------------------------------------\nĐạo Diễn : https://www.facebook.com/AT.DIRECTOR\nFacebook diễn viên nha : \nThu Nga (SGO48) \nhttps://www.facebook.com/SGO48ThuNga/\nTrùng Dương (SGO48) https://www.facebook.com/SGO48TrungDuong/\nMochi (SGO48)\nhttps://www.facebook.com/SGO48Mochi/\nLệ Trang (SGO48)\nhttps://www.facebook.com/SGO48LeTrang/\nÁnh Sáng (SGO48)\nhttps://www.facebook.com/SGO48AnhSang/\nAnna (SGO48)\nhttps://www.facebook.com/SGO48Anna/\nLinh Mai (SGO48)\nhttps://www.facebook.com/SGO48LinhMai/\nPhở Đặc Biệt \nhttps://www.facebook.com/tobuupho\nVõ Minh Khải\nhttps://www.facebook.com/minhkhai.vo.562\nBá Vương\nhttps://www.facebook.com/ba.vuong.184\n\nphim tinh yeu hoc duong, phim tinh cam, phim drama viet trai he am nhac, phim hoc duong, phim ngan hay 2019, phim hai huoc moi, phim tinh cam hoc duong\n-------------------------------------------------------------------------\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup\n© Bản quyền thuộc về BIG CAT Production, Việt Nam\n© Copyright by BIG CAT Production ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JNB4mLikNmY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JNB4mLikNmY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JNB4mLikNmY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JNB4mLikNmY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JNB4mLikNmY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JNB4mLikNmY"
+                },
+                "videoOwnerChannelTitle": "LA LA SCHOOL",
+                "videoOwnerChannelId": "UC_np0YZuvNMIJceE6jHeggQ"
+            },
+            "contentDetails": {
+                "videoId": "JNB4mLikNmY",
+                "videoPublishedAt": "2019-09-15T05:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1Swy5tOW_DQjmFi5XL8JmgSZlCg",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-09-16T12:20:00Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Thâm nhập chợ hải sản lớn nhất Busan - Khoa Pug lạnh mình với các loại hải sản không giống ai",
+                "description": "Thâm nhập chợ hải sản lớn nhất Busan - Khoa Pug lạnh mình với các loại hải sản không giống ai.\n- Nằm ở trung tâm Busan là chợ hải sản lớn nhất ở đây, nhìn bề ngoài thì nó giống siêu thị đó, vào trong thì khá là sạch sẽ :D\n- Trong chợ là các quầy hải sản độc lập do các hộ gia đình tự quản lý, các bạn lựa hải sản xong thì họ sẽ chế biến tại chỗ luôn.\n- Vì không gian chật hẹp nên khu bếp khá nhỏ, 2 cái bếp ga mini là để sơ chế tất cả các loại hải sản tại đây, từ kingcrab đến cua tuyết, bào ngư, lươn xào lăng...cả sashimi cá mú đến cu biển haha\n- Hải sản Hàn quốc khá độc lạ, mình lần đầu tiên thấy, chả biết tên là gì luôn :D\n- Giá cả hải sản ở đây khá rẻ so với mặt bằng chung Hàn Quốc cũng như ở Việt Nam, các bạn ăn thoải mái cả chục loại hải sản chỉ vài triệu thôi, bao công chế biến.\n- Tuy bán ở trong chợ nhưng chế biến khá ngon, phải nói là ngon luôn đó :P\n- Giá hải sản các sạp trong chợ như nhau, duy chỉ có ông nội bán đầu cổng là thấy mình VN nên kê giá mình ghét không ăn :D\n- Đăng kí kênh và bật thông báo để đón xem những video mới nhất nhé :P",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZVI_2DOVPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZVI_2DOVPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZVI_2DOVPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EZVI_2DOVPg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EZVI_2DOVPg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EZVI_2DOVPg"
+                },
+                "videoOwnerChannelTitle": "Khoa Pug",
+                "videoOwnerChannelId": "UCAGikSCgqbeIXCvoXixWovQ"
+            },
+            "contentDetails": {
+                "videoId": "EZVI_2DOVPg",
+                "videoPublishedAt": "2019-09-16T10:03:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kaFyYxzg37yGVgt8REe8BAbMd-Q",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-10-21T13:05:08Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "COVER | Trời giấu trời mang đi - Amee & Viruss | Hoàng Yến Chibi",
+                "description": "#Troigiautroimangdi #HoangYenChibi #Amee #Viruss\n\nMọi người xem, like và share thật nhiều nhé và cũng đừng quên bản MV của Amee nữa nha : https://youtu.be/YXkp77tR9vw\n---------------------\nĐăng ký kênh để xem nhiều video mới tại :  http://metub.net/hoangyenchibi\nTheo dõi Hoàng Yến Chi Bi trên\n►FANPAGE : https://www.facebook.com/hoangyenfan/\n---------------------\n© Bản quyền thuộc về Hoàng Yến Chi Bi\n© Copyright by Hoang Yen Chi Bi ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sMMwjQlasTQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sMMwjQlasTQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sMMwjQlasTQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sMMwjQlasTQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sMMwjQlasTQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sMMwjQlasTQ"
+                },
+                "videoOwnerChannelTitle": "Hoàng Yến Chibi Official",
+                "videoOwnerChannelId": "UCQ28VJsfsd0LZvE7fKuNfEQ"
+            },
+            "contentDetails": {
+                "videoId": "sMMwjQlasTQ",
+                "videoPublishedAt": "2019-10-21T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M28Fkv_lUyEsBU-mztyXvgBWwDY",
+            "id": "UExLS0VqNnhsZ2IydXJYdmd0RWswZHJFTEdVT1ZRMEtDRS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-11-19T15:08:16Z",
+                "channelId": "UCwoAsjYax7Yi7MgoBjK5kjA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Thị Thu Phạm",
+                "playlistId": "PLKKEj6xlgb2urXvgtEk0drELGUOVQ0KCE",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QIDr-I2simY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QIDr-I2simY"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 15,
+        "resultsPerPage": 50
+    }
+}

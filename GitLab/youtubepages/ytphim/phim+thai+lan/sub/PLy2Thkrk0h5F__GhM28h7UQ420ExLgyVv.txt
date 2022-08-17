@@ -1,0 +1,2331 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "hiUGXLqqutvBW-ZxdfIylT2DuM8",
+    "nextPageToken": "EAAaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gmOxyMVbq3GOJTL-POQW-vA5Kfk",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2017-04-28T12:30:49Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "[MV]Weir & Min - Gliad Dtua Eng",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EGajfRNt-Cc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EGajfRNt-Cc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EGajfRNt-Cc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EGajfRNt-Cc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EGajfRNt-Cc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EGajfRNt-Cc"
+                },
+                "videoOwnerChannelTitle": "D C",
+                "videoOwnerChannelId": "UCD8ZJfK4aqW5I86pZLM0vrw"
+            },
+            "contentDetails": {
+                "videoId": "EGajfRNt-Cc",
+                "videoPublishedAt": "2012-09-16T19:46:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "45DXcHaAC9Qbrx5bCJhsPWt3djY",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2017-07-29T13:48:39Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "เพลงนิทรา - มิน พีชญา Ost.ล่ารักสุดขอบฟ้า [Official MV]",
+                "description": "เพลงนิทรา - มิน พีชญา Ost.ล่ารักสุดขอบฟ้า\nDigital Download *123 1111",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LWR3oN0HcOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LWR3oN0HcOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LWR3oN0HcOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LWR3oN0HcOM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LWR3oN0HcOM"
+                },
+                "videoOwnerChannelTitle": "Grammy Big",
+                "videoOwnerChannelId": "UC150NxpFj0WLC38uhX8F-Rw"
+            },
+            "contentDetails": {
+                "videoId": "LWR3oN0HcOM",
+                "videoPublishedAt": "2014-09-01T08:22:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nrn7aQvuJ6mItd8_Ms77DVywen8",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2017-07-29T14:05:17Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "1 2 3 4 5 I LOVE YOU : GIVE ME 5 【OFFICIAL LYRIC VIDEO】",
+                "description": "1 2 3 4 5 I LOVE YOU เป็นเพลงแรกที่ห้าพระเอกสุดฮอตร้องร่วมกัน  เพื่อเป็นเพลงธีมสำคัญของ GIVE ME 5 concert rate A \n\nณเดชน์ คูกิมิยะ, มาริโอ้  เมาเร่อ, เวียร์ ศุกลวัฒน์ , เคน ภูภูมิ และ เจมส์ มาร์  กับความตั้งใจที่จะมอบความสุขผ่านเสียงเพลงให้กับทุกคน  ดาวน์โหลดได้แล้ววันนี้ *1235959  ITUNES STORE และ KKBOXS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/edFHEW0ZNGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/edFHEW0ZNGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/edFHEW0ZNGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/edFHEW0ZNGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/edFHEW0ZNGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "edFHEW0ZNGM"
+                },
+                "videoOwnerChannelTitle": "GMM GRAMMY OFFICIAL",
+                "videoOwnerChannelId": "UCG9gfnA5UDoLvz-tC9B-HKw"
+            },
+            "contentDetails": {
+                "videoId": "edFHEW0ZNGM",
+                "videoPublishedAt": "2014-08-30T10:55:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cx2X4GCBBsSg7MBM8s5nJff7moM",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2017-09-14T12:42:43Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "T-ARA (티아라) - Don't Leave (떠나지마) SBS Inkigayo Comeback Stage",
+                "description": "Special thanks to TanVuSBS (http://www.youtube.com/user/TanVuSBS)\nSource: http://www.youtube.com/watch?v=xqwvjnDyRBA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wVtE9h8Ucvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wVtE9h8Ucvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wVtE9h8Ucvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wVtE9h8Ucvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wVtE9h8Ucvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wVtE9h8Ucvs"
+                },
+                "videoOwnerChannelTitle": "sexyboys040",
+                "videoOwnerChannelId": "UCZs4ZOft1b9EgVfki-iBdSg"
+            },
+            "contentDetails": {
+                "videoId": "wVtE9h8Ucvs",
+                "videoPublishedAt": "2012-08-16T20:14:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C4dFSMeqW2jIfIcriVAS90OpHU8",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2017-09-14T13:07:45Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Davichi & T-ara(다비치&티아라) _ We were in love(우리 사랑했잖아) MV",
+                "description": "Davichi & T-ara(다비치&티아라) _ We were in love(우리 사랑했잖아) MV \n\nLOEN MUSIC changes the name to '1theK[wʌnðəkeɪ]' to be a global K-POP hub!\n로엔뮤직이 새 이름 '1theK(원더케이)'과 함께 글로벌 K-POP 허브채널로 도약합니다.\n\nDavichi and T-ARA have released their duet song \"We were in love\". It is included in the 23-minute long \"Lovey-Dovey\" music video, prior to the release of the [Lovey-Dovey] album, adding to the tragedy of the death of Jiyeon and Cha Seung-Won in the story. A sad melody with the violin and piano as its main theme, \"We were in love\" was written by composer Cho Young-Soo and the lyricist K-Smith. \n\n▶1theK FB  : https://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK G+  : http://goo.gl/mJCt9c\n\nダビチ＆ティアラ（Davichi & T-ara） _ ウリ・サランヘッザナ（私たち愛したじゃない/We were in love）\nダビチとティアラが一緒にデュエット曲「私たちの愛したじゃない」を発表した。アルバム [Lovey- Dovey（ラビダビ）]の発表前、電撃公開される「私たち愛したじゃない」は、公開予定の23分ほどの\"Lovey-Dovey（ラビダビ）」のミュージックビデオに挿入され、ストーリーの中ジヨンとチャ・スンウォンの死の場面で流れ出て切なさを一層増してくれる。 「私たちの愛したじゃない」は、バイオリンとピアノをメインテーマにした悲しいメロディーの曲で、作曲家チョ・ヨンスと作詞家K-Smithが参加した。\n\n다비치와 티아라가 함께 듀엣 곡 \"우리 사랑했잖아\"를 발표했다. [Lovey-Dovey (러비더비)] 앨범 발표 전, 깜짝 공개되는 \"우리 사랑했잖아\"는 공개 예정인 23분짜리 \"Lovey-Dovey (러비더비)\" 뮤직비디오에 삽입되어, 극 중 지연과 차승원의 죽음 앞에 흘러나와 애절함을 한층 더해준다고. \"우리 사랑했잖아\"는 바이올린과 피아노를 메인 테마로 한 슬픈 멜로디의 곡으로, 작곡가 조영수와 작사가 K-Smith가 참여했다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nJ31sMmytHU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nJ31sMmytHU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nJ31sMmytHU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nJ31sMmytHU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nJ31sMmytHU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nJ31sMmytHU"
+                },
+                "videoOwnerChannelTitle": "1theK (원더케이)",
+                "videoOwnerChannelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw"
+            },
+            "contentDetails": {
+                "videoId": "nJ31sMmytHU",
+                "videoPublishedAt": "2011-12-22T05:54:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1HagI0E-h0W38I56FRRbUEqXT0w",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2017-09-20T12:25:38Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "พี่เห็นน้องทุกข์ใจ พี่ก็ทุกข์ใจไปด้วย | รากนครา | Ch3Thailand",
+                "description": "ติดตามชมละครย้อนหลังทาง YouTube ได้ทุกวันหลังเที่ยงคืน\nชม Online ได้ที่เว็บไซต์ : http://www.ch3thailand.com  หรือ\nApplication : 3LIVE ดาวน์โหลดได้ที่  http://bit.ly/3LIVEapp\n\nติดตามข่าวสารและความเคลื่อนไหวก่อนใครที่นี่\nFacebook : http://www.facebook.com/ch3thailand\nInstagram : http://www.instagram.com/ch3thailand\nTwitter : http://www.twitter.com/ch3thailand\n\nและสำหรับเพลงประกอบละคร คลิกฟัง ที่นี่ https:/goo.gl/7Uucmb\n\nนำแสดงโดย : หมาก ปริญ, แต้ว ณฐพร, มิว นิษฐา, นิว ชัยพล, พลอย ภัทรากร, บอล จิตรภาณุ, น้ำฝน พัชรินทร์, เอ็ม อภินันท์, อู๋ ธนากร, น้ำฝน สรวงสุดา, โย ทัศน์วรรณ, อเล็กซ์ ทวีศักดิ์, ถนอม สามโทน, อร อรอนงค์, และนักแสดงมากฝีมือคับคั่ง\nบทประพันธ์โดย : ปิยะพร ศักดิ์เกษม\nบทโทรทัศน์โดย : ยิ่งยศ ปัญญา\nกำกับการแสดงโดย : พงษ์พัฒน์ วชิรบรรจง\nผลิตโดย : บริษัท แอค-อาร์ต เจเนเรชั่น จำกัด\nควบคุมการผลิตโดย : ธัญญา-พงษ์พัฒน์ วชิรบรรจง\nดูคลิปย้อนหลังได้ที่ : https://www.youtube.com/playlist?list=PL0VVVtBqsouqOkrqxjdbEwYnN0WH5uC1n\n\n[เพลงประกอบละคร]\n\nหัวใจรอคำว่ารัก Ost.รากนครา | กัน นภัทร อินทร์ใจเอื้อ | Official MV\nhttps://www.youtube.com/watch?v=UKn2Qs5Rblg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RJZbc8c_nds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RJZbc8c_nds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RJZbc8c_nds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RJZbc8c_nds/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RJZbc8c_nds/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RJZbc8c_nds"
+                },
+                "videoOwnerChannelTitle": "Ch3Thailand",
+                "videoOwnerChannelId": "UC48h7Dst_hX82HxOf3xJw_w"
+            },
+            "contentDetails": {
+                "videoId": "RJZbc8c_nds",
+                "videoPublishedAt": "2017-09-20T02:54:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "23LovFukfyE7YcYesdrPPDW02Bc",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2017-09-23T11:39:12Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "30 Bài Hát Một Thời Đi Quán Cà Phê Nào Cũng Nghe | BXH Những Ca Khúc Nhạc Trẻ Đình Đám 1 Thời",
+                "description": "➨ 30 Bài Hát Một Thời Đi Quán Cà Phê Nào Cũng Nghe | BXH Những Ca Khúc Nhạc Trẻ Đình Đám 1 Thời\n➨ Google Plus : https://goo.gl/Iq1Yld\n➨ Subscribe : https://goo.gl/6yYbrs\n\n \n© Độc Quyền Trên Youtube Bởi Nhạc Mới Tuyển Chọn. Đề Nghị Không Reup MV Này !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aQpiXXKeWrs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aQpiXXKeWrs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aQpiXXKeWrs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aQpiXXKeWrs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aQpiXXKeWrs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aQpiXXKeWrs"
+                },
+                "videoOwnerChannelTitle": "Nhạc Mới Tuyển Chọn",
+                "videoOwnerChannelId": "UCQ6V0muMKzkJGJDx_2rfAUA"
+            },
+            "contentDetails": {
+                "videoId": "aQpiXXKeWrs",
+                "videoPublishedAt": "2017-09-09T10:37:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PSgQCSRjiwQzOiboRH-IozfHEVg",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2017-09-23T11:53:44Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Khóc Vì Người Dưng - Sam Sam [ 1 Giờ ]",
+                "description": "#NhacTre #NhacTreMoiNhat\n\n► Đăng kí kênh tại: https://goo.gl/cH3gtZ\n► Fanpage: https://www.facebook.com/baohongofficial\n\nBài hát: Khóc Vì Người Dưng \nCa sĩ: Sam Sam\nLời bài hát:",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3O2gXDZT9wg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3O2gXDZT9wg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3O2gXDZT9wg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3O2gXDZT9wg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3O2gXDZT9wg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3O2gXDZT9wg"
+                },
+                "videoOwnerChannelTitle": "INCOM",
+                "videoOwnerChannelId": "UCQbIYi0H9qMDwhOcTW_So6w"
+            },
+            "contentDetails": {
+                "videoId": "3O2gXDZT9wg",
+                "videoPublishedAt": "2017-09-11T23:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AT94MJac56mP_MwlsDXqE1F9UyY",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2017-09-26T12:05:17Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "170429 คู่คอง (nadech ken taew) Love is in the Air Chanel3 Charity Concert",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwSKe9UXCFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwSKe9UXCFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwSKe9UXCFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AwSKe9UXCFw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AwSKe9UXCFw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AwSKe9UXCFw"
+                },
+                "videoOwnerChannelTitle": "aant_ant",
+                "videoOwnerChannelId": "UCstfLSO5uE03ZEOqzCpRuAw"
+            },
+            "contentDetails": {
+                "videoId": "AwSKe9UXCFw",
+                "videoPublishedAt": "2017-05-02T05:25:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "m2NkhzhZpolGlAVkQ5xe3iRuPxA",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2017-09-26T12:06:49Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "FMV ร้ายมารักไป - หมอณนต์ ภัทริน (ลมซ่อนรัก) Nadech & Taew Lomsonrak",
+                "description": "ลมซ่อนรัก Lomsonrak (หมอณนต์ - ภัทริน)\nณเดชน์ คูกิมิยะ , แต้ว ณฐพร | Nadech Kugimiya , Taew Natapohn\nhttps://www.youtube.com/playlist?list=PLbfoIniw6n2OrFPUYwOOXtRR83h0Nyr4o\n\n\n\n\n#ณเดชน์แต้ว #ลมซ่อนรัก #Lomsonrak",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v380AtzpuGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v380AtzpuGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v380AtzpuGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v380AtzpuGk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v380AtzpuGk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v380AtzpuGk"
+                },
+                "videoOwnerChannelTitle": "Snoopy Kitty",
+                "videoOwnerChannelId": "UClUfZKiEQV5Mj9LIQ_2fAyA"
+            },
+            "contentDetails": {
+                "videoId": "v380AtzpuGk",
+                "videoPublishedAt": "2015-06-20T05:11:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "33OXsEkn1WYSzVtZqzIIVJAs1-8",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2017-10-09T11:07:16Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Sến Nhảy Song Ca Remix | Nhạc Sàn | Nonstop | Khưu Huy Vũ ft Saka Trương Tuyền",
+                "description": "Sến Nhảy Song Ca Remix [Nonstop] - Khưu Huy Vũ ft Saka Trương Tuyền\n\nTracklist:\n01. Tương Tư Nàng Ca Sĩ\n02. Chuyện Tình Không Dĩ Vãng\n03. Hình Bóng Quê Nhà\n04. Đường Tình Đôi Ngã\n05. Tình Đã Bay Xa\n06. Dù Anh Nghèo\n07. Thuyền Hoa\n08. Đừng Nói Xa Nhau\n09. Phải Lòng Cô Gái Bến Tre\n10. Khung Trời Tuổi Mộng\n11. Nói Với Người Tình\n12. Trách Ai Vô Tình\n13. Ngày Xưa Anh Nói\n14. Vọng Cổ Tình Xuân\n15. Câu Chuyện Đầu Năm\n\nNhạc Sàn là kênh nhạc sàn trực tuyến lớn nhất tại Việt Nam. Giới thiệu đến người xem những sản phẩm mới và hot nhất thị trường âm nhạc hiện nay. Hãy đồng hành cùng chúng tôi để thưởng thức những sản phẩm âm nhạc tuyệt vời nhất.\" #SenNhay #KhuuHuyVu #BoleroRemix",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Z_w2ql3n8I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Z_w2ql3n8I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Z_w2ql3n8I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Z_w2ql3n8I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Z_w2ql3n8I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8Z_w2ql3n8I"
+                },
+                "videoOwnerChannelTitle": "Nhạc Sàn",
+                "videoOwnerChannelId": "UCf1FcgGbvXd7NMak1mq7QAQ"
+            },
+            "contentDetails": {
+                "videoId": "8Z_w2ql3n8I",
+                "videoPublishedAt": "2017-08-31T09:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "g-B6n0Ri565fN9jqSLVzHxTBfK4",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2017-10-30T12:56:33Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "이혜리   당신은 바보야",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O8Tqx_bNZ5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O8Tqx_bNZ5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O8Tqx_bNZ5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O8Tqx_bNZ5w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O8Tqx_bNZ5w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O8Tqx_bNZ5w"
+                },
+                "videoOwnerChannelTitle": "Vernet Angel",
+                "videoOwnerChannelId": "UC94LaD_IQVPm2s0UBXzSI9w"
+            },
+            "contentDetails": {
+                "videoId": "O8Tqx_bNZ5w",
+                "videoPublishedAt": "2011-05-25T05:56:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ngyyx5TeAFVzZKNB4fvFYLpYGus",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2017-10-30T12:57:11Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2bu5sgPWJ-M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2bu5sgPWJ-M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LYEBz5b5VK_a8J0F_KMsnQN6mHg",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2017-11-03T06:25:30Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "We Were In Love 우리사랑했잖아_Davichi & T-ara 다비치,티아라_TJ노래방 (Karaoke/lyrics/romanization/KOREAN)",
+                "description": "We Were In Love -- Davichi & T-ara -- TJ Karaoke Song NO. 34807\n우리사랑했잖아 -- 다비치,티아라 -- TJ노래방 곡번호 34807\n\nIf you want more K-Pop Karaoke? Subscribe TJ KARAOKE !!\nhttp://www.youtube.com/user/ziller\nK-Pop Karaoke will be updated everyweek\n\nもっと多いkpopカラオケが欲しいなら？\nTJカラオケを購読してください！\nK-pop カラオケは毎週アップデートします。\n\n▣ Another TJ Karaoke Service?\n▶ WEBSITE Visit : http://www.ziller.co.kr (WEB Karaoke) \n▶ ZillerSong Mobile : Android/IOS\n▶ K-POP STAR Global Package : Android/IOS\n▶ TJ TV Karaoke (Korean ONLY) : KT OllehTV , LG U+TV, SK BTV \n▶ 'DREAM SINGER VS' with ZILLERSONG\n('DREAM  SINGER VS' is the Kind of TV Shows that produced by TVN KOREA)\n\n▣ 더 많은 TJ 노래방을 즐기시려면?\n▶ 웹 : http://www.ziller.co.kr\n▶ 드림싱어 VS with 질러송\n▶ 질러 TV 노래방",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jUIhx3AjFlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jUIhx3AjFlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jUIhx3AjFlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jUIhx3AjFlc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jUIhx3AjFlc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jUIhx3AjFlc"
+                },
+                "videoOwnerChannelTitle": "TJ KARAOKE TJ 노래방 공식 유튜브채널",
+                "videoOwnerChannelId": "UCZUhx8ClCv6paFW7qi3qljg"
+            },
+            "contentDetails": {
+                "videoId": "jUIhx3AjFlc",
+                "videoPublishedAt": "2015-01-19T04:41:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dtiE1OsogGctUhhqIP9MfXde9js",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2017-11-03T11:41:41Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Karaoke -Đoản Khúc Lam Giang - Phi Vân Điệp Khúc - Tựa: Mộng Chung Đôi ( đào)",
+                "description": "Tác Gỉa: Thùy Trang",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jKmpL62Ll1M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jKmpL62Ll1M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jKmpL62Ll1M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jKmpL62Ll1M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jKmpL62Ll1M"
+                },
+                "videoOwnerChannelTitle": "Thùy Trang",
+                "videoOwnerChannelId": "UCiobTc3MkjWWPdO6m7VitYg"
+            },
+            "contentDetails": {
+                "videoId": "jKmpL62Ll1M",
+                "videoPublishedAt": "2017-08-03T04:38:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5hjeHuXH12c5AfjJcejcpGI4D2g",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2017-11-03T11:42:23Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Vọng Kim Lang 303",
+                "description": "Vọng Kim Lang - Phi Vân Điệp Khúc 0 Đoản Khúc Lam Giang\n\nDanh Sách\n\n01. Đoản Khúc Lam Giang\n02. Bến Sông Chờ\n03 Lk Vọng Kim Lang - Phi Van Điệp Khúc  - Đoản Khúc Lam Giang\n04. Mục Kiền Liên - Lý Trang Soi\n06. Lk Thương Nội\n07. Sầu Đâu Quê Ngoại\n08. Tình Mẹ\n09. Tình Cha\n10. Nhớ Thương Quê Nhà\n11. Đêm Mưa Nhớ Mẹ\n12. Thương Lắm Quê Tôi\n13. Lưu Bình Dương Lễ - Tân Cổ\n\n\n- Cám ơn anh /chị đã ủng hộ Kênh ad thời gian qua !  Chúc Anh/chị nghe nhạc vui vẻ, !  \"T7 25/3/2017\"\nNgô Hoàng Đạt\nThank for watching !\n\nKênh chính:\n꧁༺ Brian Bạch Dương༻꧂",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-8Lpq1A86Ps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-8Lpq1A86Ps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-8Lpq1A86Ps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-8Lpq1A86Ps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-8Lpq1A86Ps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-8Lpq1A86Ps"
+                },
+                "videoOwnerChannelTitle": "Brian Bạch Dương",
+                "videoOwnerChannelId": "UCDgaYaCeVGDYi4T9DICIyVg"
+            },
+            "contentDetails": {
+                "videoId": "-8Lpq1A86Ps",
+                "videoPublishedAt": "2017-03-25T13:27:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CAZfTWK0vEpMdl9uWQ7SeHfOxy0",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2017-11-07T12:53:45Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "(Vietsub)Khun Chai Rachanon Tập 1",
+                "description": "Vietsub được thực hiện bởi Chuồn Chuồn Cánh Sen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/izxAwPIF4rM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/izxAwPIF4rM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/izxAwPIF4rM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "izxAwPIF4rM"
+                },
+                "videoOwnerChannelTitle": "Taew Natapohn Vietnam",
+                "videoOwnerChannelId": "UCTumsR9dCq23YOoqi_ltFiw"
+            },
+            "contentDetails": {
+                "videoId": "izxAwPIF4rM",
+                "videoPublishedAt": "2016-03-28T15:17:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sLgPFtKcx19I1pADPCG1r4G4_Pc",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2017-11-07T12:56:15Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "(Vietsub)Khun Chai Rachanon Tập 7",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fTUVE2SEkUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fTUVE2SEkUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fTUVE2SEkUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fTUVE2SEkUI"
+                },
+                "videoOwnerChannelTitle": "Taew Natapohn Vietnam",
+                "videoOwnerChannelId": "UCTumsR9dCq23YOoqi_ltFiw"
+            },
+            "contentDetails": {
+                "videoId": "fTUVE2SEkUI",
+                "videoPublishedAt": "2016-03-21T15:45:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zXE4uSi5IUHP-TL59Y-fd4I7M2E",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2017-11-07T12:56:30Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "(Vietsub)Khun Chai Rachanon Tập 9",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SIgI_ROJ-2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SIgI_ROJ-2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SIgI_ROJ-2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SIgI_ROJ-2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SIgI_ROJ-2A"
+                },
+                "videoOwnerChannelTitle": "Taew Natapohn Vietnam",
+                "videoOwnerChannelId": "UCTumsR9dCq23YOoqi_ltFiw"
+            },
+            "contentDetails": {
+                "videoId": "SIgI_ROJ-2A",
+                "videoPublishedAt": "2016-04-18T11:46:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kxEQEN2phVyOx_xy_TNSC7Of3wo",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2017-11-08T11:53:42Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "[Vietsub by MKVN] Abb Ruk Online - 09/10/2014 - TLKT - Cải tạo đầm lầy (Part 2/2)",
+                "description": "Hậu trường phim Ab Rak Online phân cảnh Cải tạo đầm lầy tại rừng ngập mặn ở Samut Songkram phần 2.\nĐể biết thêm thông tin về phim cũng như tin tức về MK, xin mời các bạn ghé page Markprin & Kimberley Vietnam Fanpage\nhttps://www.facebook.com/MarkprinKimberleyVietnamfanpage\n\nVietsub bởi Subteam của nhà MKVN.\n\nBản quyền video thuộc về nhà sản xuất được upload bởi myshowproduction3.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tZDbXPWCpRU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tZDbXPWCpRU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tZDbXPWCpRU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tZDbXPWCpRU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tZDbXPWCpRU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tZDbXPWCpRU"
+                },
+                "videoOwnerChannelTitle": "Mark Kim Vietnam",
+                "videoOwnerChannelId": "UCYab-qx68ajy7wCtcgFXBiQ"
+            },
+            "contentDetails": {
+                "videoId": "tZDbXPWCpRU",
+                "videoPublishedAt": "2014-10-14T04:23:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8juOXcflFOSCcvnkGNGkDBEH2Fg",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2017-12-25T11:52:34Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Vùng Lá Me Bay Remix - SaKa Trương Tuyền",
+                "description": "Bài hát: Vùng Lá Me Bay\nSáng tác: Trần Quang Lộc\nCa sỹ: SaKa Trương Tuyền\nLời bài hát:\nNhìn lá me bay nhớ kỷ niệm hai chúng mình\nNgày đó quen nhau vương chút tình trên tóc mây\nÐôi mắt thơ ngây, hoa nắng ươm đầy\nÐẹp tựa như lá me bay nên tình anh trót vay\nNgày đó yêu nhau chúng ta thường qua lối này\nTừng lá me bay vương gót hài hoa bướm\n say\nTơ nắng đơm bông, trên má em hồng\nÐẹp tựa như lá me rơi khung trời xanh ước mơ\nTa xa nhau\nLúc hè về rơi xác phượng buồn\nNẻo thành đô khói ngập trời\nVùng luyến thương ơi...\nMùa thu dâng cao\nBiết là người yêu đang mong\nXin hiểu giùm\nLửa còn đốt cháy quê hương...\nGiờ đã xa nhau những kỷ niệm xin vẫy chào\nVùng lá me bay năm tháng dài thương nhớ ai\nEm cố quên đi, thương nhớ làm gì\nTình mình như lá me rơi trên giòng xuôi biển khơi....\n\n▶Bolero Remix 2017 SaKa Trương Tuyền\n▶https://www.facebook.com/SakaTruongTuyen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hu7gULKSlbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hu7gULKSlbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hu7gULKSlbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hu7gULKSlbs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Hu7gULKSlbs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hu7gULKSlbs"
+                },
+                "videoOwnerChannelTitle": "SaKa Trương Tuyền Music",
+                "videoOwnerChannelId": "UCVKMmdpOGvFJmjoW_gYQV0Q"
+            },
+            "contentDetails": {
+                "videoId": "Hu7gULKSlbs",
+                "videoPublishedAt": "2017-06-14T15:48:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cOJNVtG5G8pnYLHI68rwdbIhW0Y",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2017-12-29T13:44:31Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "NGẠC NHIÊN CHƯA 2016 | TẬP 63 FULL HD: HUYỀN TRANG, MINH AN - THIÊN KIM, MINH NHỰT",
+                "description": "Nhấn subcribe để xem tiếp những video tuyệt vời khác: \n\n✥ Subscribe: https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1\n✥ Website: http://dongtay.com.vn\n✥ Facebook : https://www.facebook.com/DongTayPromotion",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eBU9XIf6CGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eBU9XIf6CGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eBU9XIf6CGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eBU9XIf6CGw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eBU9XIf6CGw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eBU9XIf6CGw"
+                },
+                "videoOwnerChannelTitle": "ĐÔNG TÂY PROMOTION OFFICIAL",
+                "videoOwnerChannelId": "UCFMEYTv6N64hIL9FlQ_hxBw"
+            },
+            "contentDetails": {
+                "videoId": "eBU9XIf6CGw",
+                "videoPublishedAt": "2016-12-14T14:39:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MMF3A1UC_aYQhIrCvUonVm2gmE0",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2017-12-31T10:49:51Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "[지니TV] 세자빈이 될래요! | 공주놀이 | 한복패션 옷입히기 | 꾸미기놀이 | 미니게임",
+                "description": "[지니TV] 세자빈이 될래요! ★매주 금요일에 만나요!\n♥구독♥지니키즈 동요동화 유튜브 채널 https://goo.gl/lkXUoJ\n지니키즈 동요동화 지니TV는 매주 금요일 4시에 업로드!\n\n세자빈이 되기 위해서 알아야 할 것들!\n예쁜 한복도 중요하지만 고운 마음씨가 있어야\n세자빈이 될 수 있대요~\n지니언니와 함께 더 자세히 알아볼까요?!\n\n지니키즈의 새로운 소식과 교육 정보도 함께 받아 보세요!\n♥ 페이스북: https://www.facebook.com/genikids0\n♥ 인스타그램: @GENIKIDS_KOREA\n♥ 카카오스토리: https://story.kakao.com/ch/genikids\n♥ 네이버블로그: http://blog.naver.com/genikids0\n\nCopyright ⓒ2016 Genikids Co., Ltd. All Rights Reserved.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kcq2emmpVrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kcq2emmpVrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kcq2emmpVrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kcq2emmpVrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kcq2emmpVrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kcq2emmpVrY"
+                },
+                "videoOwnerChannelTitle": "지니키즈 Genikids (인기 동요・동화)",
+                "videoOwnerChannelId": "UC-8xPSlb0xDYqSuIWcdcPAQ"
+            },
+            "contentDetails": {
+                "videoId": "kcq2emmpVrY",
+                "videoPublishedAt": "2016-05-27T07:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vRqSEq_TQvJEsOC2kIUqIW4TYVw",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2018-01-01T04:11:13Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hTkyM8_RViM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hTkyM8_RViM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zH5YZm-9FGwBKko_XfhMf9erApU",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2018-01-04T11:44:14Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "How to draw Simple Scenery for Kids | Village Scenery Drawing - Draw Countryside",
+                "description": "draw country house\nThanks for watching this video\nLike vs Subscribe and Shar\nfacebook ➤  https://goo.gl/Jdj4eA\ntwtter ➤  https://twitter.com/marksspch\ninstagram  ➤  https://www.instagram.com/Markss.Phan/\nhttps://plus.google.com/u/0/101969175708029180317",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f3GvvwrHHKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f3GvvwrHHKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f3GvvwrHHKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f3GvvwrHHKc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f3GvvwrHHKc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f3GvvwrHHKc"
+                },
+                "videoOwnerChannelTitle": "Shaitani Ideas-tv",
+                "videoOwnerChannelId": "UCR3i0V1Fz0AzVtDCRIbVTYQ"
+            },
+            "contentDetails": {
+                "videoId": "f3GvvwrHHKc",
+                "videoPublishedAt": "2017-07-10T17:20:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CqTp6MESAUm1Qu0cVABLq0yLM6s",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2018-01-04T11:44:47Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "How to draw Landscape || Scenery of beautiful nature / scenery of summer season - step by step",
+                "description": "How to draw scenery of summer season - step by step \n\nI used FABER-CASTELL OIL PASTEL & STAEDTLER water colour pencil in this drawing. Click \"subscribe\" to watching more videos.\n\n▽ Visit to my channel :\n➞ https://www.youtube.com/channel/UCd3s7BuoOlu4bRJL6RdGWXw\n\n▽ My Facebook Page Link \n➞https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923\n\n▽ My Twitter Link \n➞https://twitter.com/FarjanaDrawing\n\nSubscribe to my other channels: https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw\n\nif u like this video please like share & subscribe.\n\nThank You",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BgIJ45HKDpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BgIJ45HKDpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BgIJ45HKDpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BgIJ45HKDpw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BgIJ45HKDpw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BgIJ45HKDpw"
+                },
+                "videoOwnerChannelTitle": "Farjana Drawing Academy",
+                "videoOwnerChannelId": "UCd3s7BuoOlu4bRJL6RdGWXw"
+            },
+            "contentDetails": {
+                "videoId": "BgIJ45HKDpw",
+                "videoPublishedAt": "2017-07-31T15:21:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ojld6ezJdDTNfA7XNloafmND2Kk",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2018-01-04T11:57:21Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Trách Ai Bây Giờ - Khưu Huy Vũ ft Dương Hồng Loan [Official]",
+                "description": "Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPSmusic-1\n. Bài hát: Trách Ai Bây Giờ\nCa sỹ: Khưu Huy Vũ ft Dương Hồng Loan\n\nPOPS Music - Kênh âm nhạc trực tuyến hàng đầu Việt Nam. \n\nFollow POPS Music: \n\n♫ Subscribe: https://www.youtube.com/user/POPSVIETNAM?sub_confirmation=1\n♫ Website: http://www.pops.vn\n♫ Facebook : https://www.facebook.com/popsvietnamchannel\n♫ Google Plus : https://plus.google.com/+PopsVnpage\n♫ Apps: http://company.pops.vn/popsworldwide/vietnam/music/games-apps \n \nPOPS Music là kênh giải trí âm nhạc trực tuyến lớn nhất tại Việt Nam. Giới thiệu đến người xem những sản phẩm mới và hot nhất thị trường âm nhạc hiện nay. Hãy đồng hành cùng chúng tôi để thưởng thức những sản phẩm âm nhạc tuyệt vời nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kdFaysoYzGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kdFaysoYzGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kdFaysoYzGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kdFaysoYzGs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kdFaysoYzGs"
+                },
+                "videoOwnerChannelTitle": "POPS MUSIC",
+                "videoOwnerChannelId": "UCUgXK2UjZ8G_EM438aYkGrw"
+            },
+            "contentDetails": {
+                "videoId": "kdFaysoYzGs",
+                "videoPublishedAt": "2016-03-09T00:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XCSZa-8yAZGeA2EcWx9Ho664PyA",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2018-01-07T08:27:16Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "YuDian",
+                "description": "雨点 - 郑斌辉 \r\n_ Always on my minds 无炎的爱\r\n_ Directed by Bonny",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cPW23hulRNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cPW23hulRNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cPW23hulRNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cPW23hulRNc"
+                },
+                "videoOwnerChannelTitle": "bonnyanh",
+                "videoOwnerChannelId": "UCmgF0m84SWvgPOaQ67-Arjw"
+            },
+            "contentDetails": {
+                "videoId": "cPW23hulRNc",
+                "videoPublishedAt": "2006-04-23T08:11:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_BXdVFj3tatb0xKxqfqtsxjL2Ug",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2018-01-18T12:16:11Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "[Học tiếng Hàn qua phim] Đừng lo lắng - 신경 쓰지마",
+                "description": "Cập nhật thêm tài liệu học tiếng Hàn tại Fb:\nhttps://www.facebook.com/masterkorean.vn/\n-------------------------------------------------------------\n🔐팁 - Tip: CÁCH SỬ DỤNG VIDEO 1 CÁCH HIỆU QUẢ NHẤT\nMục tiêu của học ngôn ngữ là giao tiếp nên mình khuyên các bạn LƯU Ý:\nSau khi xem video 1 lượt và nắm bắt được hết nghĩa của từ vựng. Để biến những từ vựng và biểu hiện giao tiếp này trở thành CỦA BẠN thì mình khuyên là nên vừa nghe vừa NHẠI LẠI/ĐỌC TO/ĐỌC ĐI ĐỌC LẠI(cố gắng nghe và nhại lại \"cách phát âm\", \"ngữ điệu\" của người Hàn trong video nhé)... đọc cho tới khi bạn có thể nói câu đấy 1 cách trôi chảy, tự nhiên, không cần nghĩ. Đó là cách để đưa câu tiếng Hàn đó vào tiềm thức, biến nó trở thành cái \"CỦA BẠN\". \nChúc các bạn giao tiếp tiếng Hàn thành công!!!\n--------------------------------------------------------------\nMASTER KOREAN \nChia sẻ tài liệu #học_tiếng_Hàn qua phim, video có phụ đề. Học từ vựng, biểu hiện, cách #giao_tiếp_tiếng_hàn theo từng tình huống cụ thể.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OszU4ME9fAE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OszU4ME9fAE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OszU4ME9fAE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OszU4ME9fAE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OszU4ME9fAE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OszU4ME9fAE"
+                },
+                "videoOwnerChannelTitle": "MASTER KOREAN",
+                "videoOwnerChannelId": "UCCIRyiMwYyC6UKzkLRGNyXw"
+            },
+            "contentDetails": {
+                "videoId": "OszU4ME9fAE",
+                "videoPublishedAt": "2017-11-06T16:42:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zp4dwZhN1bB6QerSboY4uLePXW8",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2018-02-01T13:05:13Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "หมาก ปริญ x มิน พีชญา -  Breathe | Mark Prin x Min Pechaya | Crossover AU | MV Lakorn",
+                "description": "HD Pls.\nTHANK FOR WATCHING\n---------\nIf you want to help support/donate me, you can do it via Paypal  link as below. *THX*\nหากคุณต้องการสนับสนุนผลงานของช่อง สามารถทำได้ผ่านทางลิงก์ Paypal ด้านล่างนี้นะคะ *ขอบคุณค่า*\n https://www.paypal.me/ICZS\n---------\n\n#fanvid\n\n*All Clips and Song belong to their respective owners*\n\n---------------------------------------\n\nSong : Breathe by Fleurie\nhttps://www.youtube.com/watch?v=JQVop3-OOXc\n\n---------------------------------------\nrecommended videos:\n\nโป๊ป x มิน | Pope  Thanawat x Min Pechaya | ลาวคำหอม (MV Lakorn)\nhttps://www.youtube.com/watch?v=lDB2U_gohtM\n\nMike Pattaradet x Min Pechaya\nhttps://www.youtube.com/watch?v=PSUVndBIjyg\n---------------------------------------\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fE3aellhPzU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fE3aellhPzU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fE3aellhPzU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fE3aellhPzU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fE3aellhPzU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fE3aellhPzU"
+                },
+                "videoOwnerChannelTitle": "maipenrai",
+                "videoOwnerChannelId": "UCyiBBZuEBHhwZ83StoOcHGA"
+            },
+            "contentDetails": {
+                "videoId": "fE3aellhPzU",
+                "videoPublishedAt": "2018-01-01T09:44:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hXqkZ_Y5tPmNcebK83WvpMSqs6E",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2018-04-20T14:27:44Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "MUON MANG 3",
+                "description": "Minh Cảnh - Vũ Linh - Bảo Quốc - Thanh Ngân - Thanh Hằng - Ngọc Giàu - Ngân Quỳnh - Bình Tinh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DUfwTe99McI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DUfwTe99McI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DUfwTe99McI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DUfwTe99McI"
+                },
+                "videoOwnerChannelTitle": "conhacmiennam",
+                "videoOwnerChannelId": "UC73ZA7N-GpoHvAjr-LGpb4g"
+            },
+            "contentDetails": {
+                "videoId": "DUfwTe99McI",
+                "videoPublishedAt": "2009-11-23T05:20:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FJpqhxoDG3m2MDPQM5VyGrRQuKM",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:12:53Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "2015 SNSD Funny Moments 1/2",
+                "description": "https://mega.nz/#!4SowTDrA!ycRuDsbD-6j147kK5LV0WYTraP38GvniRpVpuinTGKU\n\nSEREBRO - Mi Mi Mi, Girls' Generation - party, 상도(SangDo) OST - 천하제일관(天下第一官), Coldplay -  Lovers in Japan, The Antlers - Kettering, Righteous Brothers - Unchained Melody,\nRudimental - Not Giving In",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ayUm3big_Sg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ayUm3big_Sg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ayUm3big_Sg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ayUm3big_Sg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ayUm3big_Sg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ayUm3big_Sg"
+                },
+                "videoOwnerChannelTitle": "shoutwithoutasound",
+                "videoOwnerChannelId": "UC6iEwqfSBfmRiEZaqZgr5Hw"
+            },
+            "contentDetails": {
+                "videoId": "ayUm3big_Sg",
+                "videoPublishedAt": "2015-08-04T13:53:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Tvo2fLDGagvYfujqJhCwlYcFY08",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:13:43Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "2015 SNSD Funny Moments 2/2",
+                "description": "https://mega.nz/#!0PohzYhB!adrO9HgOIQk4cf7iUPr3qPwouVB-ia1E3DByYrK00Nw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nDlKHIMQh0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nDlKHIMQh0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nDlKHIMQh0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nDlKHIMQh0E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nDlKHIMQh0E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nDlKHIMQh0E"
+                },
+                "videoOwnerChannelTitle": "shoutwithoutasound",
+                "videoOwnerChannelId": "UC6iEwqfSBfmRiEZaqZgr5Hw"
+            },
+            "contentDetails": {
+                "videoId": "nDlKHIMQh0E",
+                "videoPublishedAt": "2015-09-19T10:29:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WHrPfLSEoPZ-LD0LzTRSqBrefhQ",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:17:08Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "[런닝맨] 막춤의 고수 등장, '여자친구' 예린 / 'Runningman' Clip",
+                "description": "막춤의 고수 등장! 여자친구 예린~ 정말 이런 막춤은 처음이야\n춤추다 코 부러질 뻔 ㅠㅠㅠㅠㅠ \n\nSBS NOW channel is communicating with you on Youtube.\nPlease subscribe our channel and have more fun!\nRight now, SBS NOW\n\n#Kpop #예린 #여자친구\n\n▶ Facebook :  https://www.facebook.com/sbsfactory/\n▶ Instagram : https://www.instagram.com/sbsnow_insta/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FGtbYjfJyhE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FGtbYjfJyhE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FGtbYjfJyhE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FGtbYjfJyhE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FGtbYjfJyhE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FGtbYjfJyhE"
+                },
+                "videoOwnerChannelTitle": "SBS NOW / SBS 공식 채널",
+                "videoOwnerChannelId": "UCcOYEm78CpaZQvPE6LtoSeA"
+            },
+            "contentDetails": {
+                "videoId": "FGtbYjfJyhE",
+                "videoPublishedAt": "2015-03-10T05:59:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BM16iSxHlSW04JJ7l8z1Ym_bQ40",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:18:22Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "SNSD　2015 YuRi Funny Cut Edited Ver.",
+                "description": "https://twitter.com/sasukeTAICHOU\n151205 Happy Birthday YuRi \n2015 YuRi Funny Cut Edited Ver.\n\nSong\n『Mi Mi Mi』SEREBRO\n\n151205\n#303",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DHihCmChsIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DHihCmChsIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DHihCmChsIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DHihCmChsIM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DHihCmChsIM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DHihCmChsIM"
+                },
+                "videoOwnerChannelTitle": "sasukeTAICHOU05",
+                "videoOwnerChannelId": "UCvyjLU63O9ZmQKrfzFIUmCw"
+            },
+            "contentDetails": {
+                "videoId": "DHihCmChsIM",
+                "videoPublishedAt": "2015-12-04T15:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SN_E-0XA4ii-9ZEUBgQ8KqwC4So",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:20:51Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "#1 SNSD dance cover MiMiMi.",
+                "description": "Audio : MiMiMi.\nMusic video : Catch Me If You Can.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WjLaCuQiyyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WjLaCuQiyyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WjLaCuQiyyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WjLaCuQiyyg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WjLaCuQiyyg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WjLaCuQiyyg"
+                },
+                "videoOwnerChannelTitle": "Ping Cheng",
+                "videoOwnerChannelId": "UCvg3Gy0HGXUI1MDe5vq1YbQ"
+            },
+            "contentDetails": {
+                "videoId": "WjLaCuQiyyg",
+                "videoPublishedAt": "2018-02-23T10:45:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EFwFvsaCzu8l6DKuw0cqSOK774I",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2018-04-23T13:25:47Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "꽃미남 재하, 술 취해서 유리에게 기습키스! -  고호의 별이 빛나는 밤에 1회",
+                "description": "고호의 별이 빛나는 밤에 1회\n클럽에서 만난 꽃미남 후배, 술 취해서 유리에게 \"내 스타일이야!\", 기습키스!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5E4mhBTDnxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5E4mhBTDnxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5E4mhBTDnxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5E4mhBTDnxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5E4mhBTDnxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5E4mhBTDnxQ"
+                },
+                "videoOwnerChannelTitle": "다날엔터테인먼트",
+                "videoOwnerChannelId": "UCsLHgn0UpTke8Fusg1SDiwg"
+            },
+            "contentDetails": {
+                "videoId": "5E4mhBTDnxQ",
+                "videoPublishedAt": "2016-10-22T14:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WpUeGFxUZc2pr0aNe3I4IXh528Y",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2018-04-26T12:08:24Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Trấn hồn nhai vetsud tập 12 [phim hay mỗi ngày]",
+                "description": "#phim_hay_mỗi_ngày",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K-ghmUKzhY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K-ghmUKzhY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K-ghmUKzhY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K-ghmUKzhY4"
+                },
+                "videoOwnerChannelTitle": "Thảo Mộc",
+                "videoOwnerChannelId": "UC_lib7gZocLo2BUr3mK2s4Q"
+            },
+            "contentDetails": {
+                "videoId": "K-ghmUKzhY4",
+                "videoPublishedAt": "2017-10-13T08:10:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PEUNVl7WfxF4lQFIQQPrh9tah-A",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2018-04-27T12:36:20Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dnB_8g41yKM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dnB_8g41yKM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dd-P85QPvTqJer4r4F9F49rXjfY",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2018-05-05T12:21:08Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Weir Sukollawat & Min Pechaya - Vẫn Là Bạn Thân [Vietsub]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vNqaDDHyMcQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vNqaDDHyMcQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vNqaDDHyMcQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vNqaDDHyMcQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vNqaDDHyMcQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vNqaDDHyMcQ"
+                },
+                "videoOwnerChannelTitle": "Rùa Con Mơ Mộng / Trương Đình Đình",
+                "videoOwnerChannelId": "UC_wAFaDkzVbFOIADHxwsnkQ"
+            },
+            "contentDetails": {
+                "videoId": "vNqaDDHyMcQ",
+                "videoPublishedAt": "2015-05-15T07:25:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cREOjK4Kloo-ZYddxrHgeC_tNU8",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2018-08-25T03:09:03Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Cách Nấu CHÈ KHOAI LANG DẺO ngon ngon đơn giản - Món Ăn Ngon",
+                "description": "Cách làm chè khoai lang dẻo thơm ngon đơn giản, dễ dàng thực hiện và rất là hấp dẫn luôn các bạn ơi!\n\n- NGUYÊN LIỆU:\n600g khoai lang\n100g đường\n7 muỗng bột năng (7 tbsp)\nMuối (1/2 tsp)\n500ml nước cốt dừa (2 cup)\n2 Hạt mè trắng (2 tbsp)\n20g Lá dứa thơm\n\nDanh mục món ăn ngon: http://bit.ly/2YDAtiT\n\nCách nấu chè ngon: http://bit.ly/30DNNWo\n\nCách làm bánh ngon: http://bit.ly/2WgSXIn\n\nThích ăn vặt: http://bit.ly/30yFbjS\n\nThích ăn lẩu: http://bit.ly/2QdoSEd\n\nThích ăn thịt sườn: http://bit.ly/2YDg1ys\n\nCác loại kẹo mứt: http://bit.ly/2JvMyDh\n\nVideo Món Ăn Nhiều Người Xem Nhất: http://bit.ly/2VSpaGD\n\nThanks for watching!\nFanpage: https://fb.com/LikeMonAnNgon\nHội Món Ăn Ngon: https://fb.com/groups/MonAnNgonGroup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QNib4a6nYCE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QNib4a6nYCE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QNib4a6nYCE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QNib4a6nYCE"
+                },
+                "videoOwnerChannelTitle": "Món Ăn Ngon",
+                "videoOwnerChannelId": "UCr-xBeF_obqaf1X_1to9DxQ"
+            },
+            "contentDetails": {
+                "videoId": "QNib4a6nYCE",
+                "videoPublishedAt": "2018-04-07T07:46:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QYUei3ksgMMbrj-gguxqoU0mtwA",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2018-08-25T03:11:22Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "InKCR-81lL0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "InKCR-81lL0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZphkttAxVZftt6N3APp9QQyogDA",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2018-08-25T11:49:46Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "MASHUP HƯ KHÔNG - MÚI XÙ BI BẢO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lUYfiEBw4KQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lUYfiEBw4KQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lUYfiEBw4KQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lUYfiEBw4KQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lUYfiEBw4KQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lUYfiEBw4KQ"
+                },
+                "videoOwnerChannelTitle": "Bi Bảo-Múi Xù Official",
+                "videoOwnerChannelId": "UCCiwLNbKq_G_zPccq8Pd2bg"
+            },
+            "contentDetails": {
+                "videoId": "lUYfiEBw4KQ",
+                "videoPublishedAt": "2018-01-20T13:11:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LwbgOjbumZkepgeCKd0rfO0uA-4",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2018-08-25T11:54:07Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Way Back Home Cover - Tô Trần Di Bảo [Lời Việt]",
+                "description": "Way Back Home Cover - Tô Trần Di Bảo [Lời Việt]\nHi guys ! My name is MuiMUi  here is my\n► Facebook : https://www.facebook.com/mui.m.mui.3\n► Yahoo : giacmotuyet95\n► Subscribe : http://goo.gl/FudMxa\n\n\n───────────────────\n\nLời Bài Hát (Lyrics): \n\n\n───────────────────\n\n✔ IMPORTANT\n\nI do not own the original songs. I just made a cover. The credits go to their respectful owners and if you're a producer/record label and would like any uploads to be removed, renamed, or otherwise changed, please send me a message and I will do that immediately. :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z-ShjbZk5Oo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z-ShjbZk5Oo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z-ShjbZk5Oo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z-ShjbZk5Oo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z-ShjbZk5Oo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z-ShjbZk5Oo"
+                },
+                "videoOwnerChannelTitle": "Bi Bảo-Múi Xù Official",
+                "videoOwnerChannelId": "UCCiwLNbKq_G_zPccq8Pd2bg"
+            },
+            "contentDetails": {
+                "videoId": "z-ShjbZk5Oo",
+                "videoPublishedAt": "2018-08-14T12:52:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tuAQ6GGopWQFv26pjLI4si0TiYk",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2018-08-27T11:42:24Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Việt Nam tươi đẹp | Gin Tuấn Kiệt đưa Han Sara đi câu cá sấu | HTV VNTD",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hAtZf8IXQOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hAtZf8IXQOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hAtZf8IXQOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hAtZf8IXQOM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hAtZf8IXQOM"
+                },
+                "videoOwnerChannelTitle": "HTV Giải Trí",
+                "videoOwnerChannelId": "UCmPdu28PZdURVqb9deV38lw"
+            },
+            "contentDetails": {
+                "videoId": "hAtZf8IXQOM",
+                "videoPublishedAt": "2018-08-19T11:29:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "piHIXaGXXKMRBDifB-gZVDnatQU",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2018-08-30T03:22:30Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Ngôi sao khoai tây |tập 18 full: Gin Tuấn Kiệt quyết định bỏ đi sau khi hoàn thành kế hoạch của mình",
+                "description": "#NGOISAOKHOAITAY #NGOISAOKHOAITAYTAP18\n\n ⭐ NGÔI SAO KHOAI TÂY (TẬP FULL): https://goo.gl/4EyfZv\n\nVào gia tộc họ Huỳnh dưới sự sắp xếp của Đàm Bang (Tiểu Bảo Quốc) để tìm USB trong vòng 3 ngày đợi kết quả xét nghiệm ADN, Hoàng Vũ (Gin Tuấn Kiệt) đã bỏ đi vào hừng sáng với suy nghĩ mình sẽ bị phát hiện không phải là con của gia tộc họ Huỳnh. \n\nSitcom Ngôi Sao Khoai Tây là bộ phim nói về một hiện tượng thiên văn học đã xảy ra- một Ngôi Sao Khoai Tây đã rơi xuống Trái Đất, khắc họa cuộc sống hài hước của một gia đình qua những mâu thuẫn, tình huống đầy bất ngờ. Cùng với đó là câu chuyện tình yêu tay ba lãng mạn, nhiều lúc hài hước, khó đỡ của bộ ba Song Nghi, Hoàng Vũ và Khánh Toàn. \n\n✨ Đón xem Tập 17 full: https://youtu.be/6ayKsJxKYuM\n👉 Theo dõi Fanpage: https://business.facebook.com/ngoisaokhoaitaysitcom/\n-------------\n📣 Cùng Subscribe các kênh Youtube của Điền Quân để xem những bộ phim cùng chương trình hấp dẫn khác:\n► Dien Quan Entertainment: https://www.youtube.com/dienquanentertainment\n►Dien Quan Films :https://www.youtube.com/dienquanfilm\n►Dien Quan Kids: https://www.youtube.com/dienquankids",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tM3VLZte1_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tM3VLZte1_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tM3VLZte1_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tM3VLZte1_E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tM3VLZte1_E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tM3VLZte1_E"
+                },
+                "videoOwnerChannelTitle": "DIEN QUAN Comedy / Hài",
+                "videoOwnerChannelId": "UCwmurIyZ6FHyVPtKppe_2_A"
+            },
+            "contentDetails": {
+                "videoId": "tM3VLZte1_E",
+                "videoPublishedAt": "2018-08-29T14:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w_EEJ0vFH3VhoYr93TnUQw-7qSU",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2018-08-30T03:43:41Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XbPzDStcWr4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XbPzDStcWr4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ee2AN_jhNW0vbQihZBzkHdOfQBQ",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2018-08-31T13:18:25Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "THVL | Tía ơi con muốn vợ rồi - Tập 8[2]: Kim Sao lén lút theo dõi Quốc Anh",
+                "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn \n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLPhim/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV\nGoogle Plus: https://www.google.com/+THVLPhim",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/abi-EAzFcH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/abi-EAzFcH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/abi-EAzFcH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/abi-EAzFcH4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/abi-EAzFcH4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "abi-EAzFcH4"
+                },
+                "videoOwnerChannelTitle": "THVL Phim",
+                "videoOwnerChannelId": "UCrS7tv883mVqv07HKgVuwAA"
+            },
+            "contentDetails": {
+                "videoId": "abi-EAzFcH4",
+                "videoPublishedAt": "2018-02-19T12:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "56CuXrp2kSZ4y7AxfZQP425pZwQ",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2018-09-01T11:55:08Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "ĐỪNG NHƯ THÓI QUEN (나의 습관) - SARA LƯU | Korean Version | Official MV",
+                "description": "Sara Lưu thể hiện bài hát \"Đừng Như Thói Quen\" version Korean\n#ĐNTQ #나의습관  #SaraLưu #ĐừngNhưThóiQuen \n►SUBSCRIBE: http://short.viva.vn/d9WD9UK\n\n나의 습관 - Đừng Như Thói Quen (Korean Version)\nComposer: Duong Khac Linh\nSinger: Sara Luu\n\n\nVERSE 1\n\n\n\n흐려져가는 추억속 니모습\n\n난 여전히 또 이렇게 너를 지워가\n\n이제는 너와 ~ 아닌것만 같아\n\n니사랑이 니 마음이 날 힘들게만해\n\n\n\nCHORUS\n\n이렇게 널보고있는데 두손에 너를 담아서\n\n시간이 지나서 날 만나면 웃을수 있을까\n\n아파도 너에게 가겠지 너를 감싸 안으며\n\n꿈에서라도 니 모습을 찾을수 있을까\n\n\n\nBRIDGE\n\n\n\n또 이렇게 널 지울래 지나가버린 날들에\n\n우리가 사랑했던 순간이 다 사라진다 말해도\n\n\n\nCHORUS\n\n이렇게 널보고있는데 두손에 너를 담아서\n\n시간이 지나서 널 만나면 웃을수 있을까\n\n아파도 널향해 가겠지 너를 가득 안으며~\n\n꿈에서라도 네 모습을 찾을수 있을까.\n\n\n🌸 Đây là kênh YouTube chính thức của Sara Luu \" Giai Điệu Chung Đôi\" \n🌸 Tên: Lưu Ngọc Duyên - Sinh năm 1993\n🌸 Sara Luu là một cô gái trẻ hoạt bát, năng nổ trong hoạt động ca hát & sáng tác nhạc. Kênh Youtube chính thức này cũng chính là lời cảm ơn Sara Luu muốn gửi đến tất cả các khán giả yêu quý Sara Luu trong thời gian vừa qua. Cũng như tất cả các sản phẩm âm nhạc chính của Sara Luu sẽ luôn được cập nhật trên kênh này.\n\n🌻🌻🌻Chúc các bạn luôn vui vẻ và hãy luôn ủng hộ Sara Luu xinh đẹp này nhé!\n\n►Đăng ký kênh (Subscribe) để xem nhiều video mới tại: http://short.viva.vn/d9WD9UK\n► Facebook: https://www.facebook.com/duyensaraluu\n► Instagram: https://www.instagram.com/sara.luungocduyen\n► Fanpage: https://facebook.com/saraluu.official\n---------------------\n© Bản quyền thuộc về Cat Tien Sa\n© Copyright by Cat Tien Sa ☞ Do not Reup\n---------------------\nThumbnail designed by #khiemvu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C5eP9yJQFVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C5eP9yJQFVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C5eP9yJQFVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C5eP9yJQFVc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C5eP9yJQFVc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C5eP9yJQFVc"
+                },
+                "videoOwnerChannelTitle": "Sara Luu & DKL Family",
+                "videoOwnerChannelId": "UCrEhcIfKTg3VqVZP59nfI1Q"
+            },
+            "contentDetails": {
+                "videoId": "C5eP9yJQFVc",
+                "videoPublishedAt": "2018-07-27T13:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xhhxfqs-OCXTDKZOYWL2Ij3GNk0",
+            "id": "UEx5MlRoa3JrMGg1Rl9fR2hNMjhoN1VRNDIwRXhMZ3lWdi5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2018-09-02T11:00:10Z",
+                "channelId": "UCsPqpmfTXG-nhjpnmSa5Ujw",
+                "title": "5 Mẹo làm đẹp cực đỉnh chỉ bằng 1 quả chanh và 1 ít kem đánh răng",
+                "description": "5 Mẹo làm đẹp cực đỉnh chỉ bằng 1 quả chanh và 1 ít kem đánh răng.\nRất đơn giản nhưng bạn có thể làm đẹp móng tay, trị mụn, trị vết thâm...\nCác bạn hãy thử những cách đơn giản này nhé. \nChúc các bạn sớm thành công..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TxsC0UbCD_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TxsC0UbCD_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TxsC0UbCD_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TxsC0UbCD_E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TxsC0UbCD_E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김석승 부인",
+                "playlistId": "PLy2Thkrk0h5F__GhM28h7UQ420ExLgyVv",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TxsC0UbCD_E"
+                },
+                "videoOwnerChannelTitle": "Kênh Phái Đẹp. ORG",
+                "videoOwnerChannelId": "UCsY2wKm1mjWQGDTbHiIKPrw"
+            },
+            "contentDetails": {
+                "videoId": "TxsC0UbCD_E",
+                "videoPublishedAt": "2018-08-09T12:30:55Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

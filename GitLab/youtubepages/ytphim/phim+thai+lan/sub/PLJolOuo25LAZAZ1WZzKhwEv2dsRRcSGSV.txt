@@ -1,0 +1,399 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yDbC-gMrJFTBF8_nG00Y2QmGLHo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yC2gtNARuvux31mRlF8MxXbL4RA",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2018-12-30T12:18:02Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VkKiPUanHRA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "VkKiPUanHRA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d71PGaFfpxYTpsPrjhTWwZvDT2g",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2018-12-30T12:18:35Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fJG2fhhqMx8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fJG2fhhqMx8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oBaeMBMihCXiTSGs7MZhJWaJhAY",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2018-12-30T12:18:49Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3GQ-MYd4Me4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3GQ-MYd4Me4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qhlnoYyTyRz4bA_3ncmuDBx95iY",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2018-12-30T12:19:27Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Rg9WN-Kbs3c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Rg9WN-Kbs3c"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oQUMTAjmM2xSpejaTcQO1UwTUYo",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-02-10T08:42:45Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Baby Monkey | Doo And Tom Love Watermelon",
+                "description": "Baby Monkey | Doo And Tom Love Watermelon\nPlease subscribe for more videos: http://yeah1.net/MONKEYDOO\nThank you so much!\nDoo and Tom love watermelon. They eat with Dad so cute..\nFacebook: https://www.facebook.com/tom.tony.161...\nGoogle +: https://plus.google.com/u/0/+MonKeyDoo\n#monkey_doo #baby_monkey_doo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cnTnPpdNh-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cnTnPpdNh-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cnTnPpdNh-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cnTnPpdNh-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cnTnPpdNh-Y"
+                },
+                "videoOwnerChannelTitle": "MONKEY DOO",
+                "videoOwnerChannelId": "UCS_BQjyp0_62lO09p5ZfYLg"
+            },
+            "contentDetails": {
+                "videoId": "cnTnPpdNh-Y",
+                "videoPublishedAt": "2018-11-16T12:28:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0oyEDxu9igFUJ0BxpPH4iqJREso",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-02-14T10:58:44Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Trò Chơi Món Quà Tết Của Bố- Xe Máy Điện - Bé Nhím TV - Đồ Chơi Trẻ Em Thiếu Nhi",
+                "description": "Video mới Bé Nhím và Tuấn Anh cùng các bạn chơi nhưng trò chơi vui nhộn ,hài hước và tinh nghịch. Nội dung video dành cho trẻ em thân thiện với các em nhỏ và hoàn toàn thân thuộc với sinh hoạt hàng ngày của các bé!\n\n✫ Kênh Giải Trí Dành cho Trẻ Em \" Bé Nhím TV \"\n\n✫ Các bạn nhớ ĐĂNG KÝ (SUBSCRIBLE) theo dõi kênh “Bé Nhím TV ” để xem nhìu video mới nhé! Trân trọng cám ơn!\n\n✫ Và Đừng Quên Bình Luận các video nhé!\n\n      \n\n ✫ ✫ ✫ ✫ ✫ ✫ Cảm Ơn Tất Cả Mọi Người !✫ ✫ ✫ ✫ ✫ ✫ ✫ \n\n\n\nĐĂNG KÝ KÊNH:http://bit.ly/2JvaHJO\n\n\n© Bản quyền thuộc về Bé Nhím TV.\n© Copyright by Bé Nhím TV.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nusTJHK1LUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nusTJHK1LUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nusTJHK1LUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nusTJHK1LUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nusTJHK1LUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nusTJHK1LUg"
+                },
+                "videoOwnerChannelTitle": "Bé Nhím",
+                "videoOwnerChannelId": "UC8POxwuwPC_8CtyPcxwXY9Q"
+            },
+            "contentDetails": {
+                "videoId": "nusTJHK1LUg",
+                "videoPublishedAt": "2019-02-07T10:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OER4faeYXyZavwhmePBqP-62rvM",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-05-13T02:41:13Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Vlad và Nikita trốn và tìm trái cây trong trang trại",
+                "description": "Vlad và Nikita dùng bữa sáng. Bọn trẻ hết dâu và chúng muốn nhiều quả hơn. Mẹ chở lũ trẻ đến nông trại, nơi chúng đang tìm trái cây và quả mọng.\n\nHãy đăng ký!\nTrực tuyến của chúng tôi torg https://vladandniki.com/\n\nỨng dụng Google Play:\nhttps://play.google.com/store/apps/details?id=me.apptivise.vladnikita\nỨng dụng App Store: \nhttps://apps.apple.com/us/app/vlad-niki/id1497525407\n\nInstagram VLAD - https://www.instagram.com/Vlad.super.Vlad/\nInstagram của Nikita - https://www.instagram.com/nikitoys_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dtHTMfI-DY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dtHTMfI-DY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dtHTMfI-DY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dtHTMfI-DY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dtHTMfI-DY8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dtHTMfI-DY8"
+                },
+                "videoOwnerChannelTitle": "Vlad và Nikita",
+                "videoOwnerChannelId": "UCcOMTVILq-yIqtFmOqt-QOg"
+            },
+            "contentDetails": {
+                "videoId": "dtHTMfI-DY8",
+                "videoPublishedAt": "2019-04-24T02:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8hzWmX48383CWG31u-PZxU3XBOg",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-05-25T15:08:52Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "DibusYmas Sand dinosaur 💕Superhero ClayStop motion cartoons - Vengatoon",
+                "description": "Plushy Stop Motion Play Doh videos. Cartoon for kids!\n\n#Plushy #Playdoh #cartoon",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AFNKvRSvAK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AFNKvRSvAK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AFNKvRSvAK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AFNKvRSvAK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AFNKvRSvAK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AFNKvRSvAK4"
+                },
+                "videoOwnerChannelTitle": "Funny Stop Motion videos",
+                "videoOwnerChannelId": "UCXLw_h6bFfPOKbDJXDUjA-Q"
+            },
+            "contentDetails": {
+                "videoId": "AFNKvRSvAK4",
+                "videoPublishedAt": "2019-03-29T21:11:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K7fI5iwuThfHsvn3l3h1JCHwMtE",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-05-28T04:26:24Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Trò Chơi Bơm Ô tô Phao ♥ Bé Bún - Bé Bắp ♥ Đồ Chơi Trẻ Em",
+                "description": "Cám Ơn Tất Cả Các Bạn Đã Xem Video:Trò Chơi Bơm Ô tô Phao ♥ Bé Bún - Bé Bắp ♥ Đồ Chơi Trẻ Em\n☞Đăng ký để xem nhiều video hơn tại đây : https://goo.gl/yJBrZP\n\n☞♥Creative Kid's là kênh giải trí cho bé ♥\nÐến với Creative Kid's các bé sẽ được xem những Video vui nhộn và cùng chơi đồ chơi với Bé Bún và Bé Bắp! Các Bé nhớ theo dõi kênh Creative Kid's nhé ! \nVà đừng quên like , comment , share nhé! Yêu các bạn rất nhiêu♥♥\n\n☞ Facebook : https://goo.gl/vdOziv\n\n☞ Google + : https://goo.gl/8i9qgt\n\n© Bản quyền thuộc về Creative Kid's\n\n© Copyright by Creative Kid's ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WtqWlNzohvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WtqWlNzohvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WtqWlNzohvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WtqWlNzohvo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WtqWlNzohvo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WtqWlNzohvo"
+                },
+                "videoOwnerChannelTitle": "Bún Bắp Family",
+                "videoOwnerChannelId": "UC8nEg6dPxjzImSask77-rNA"
+            },
+            "contentDetails": {
+                "videoId": "WtqWlNzohvo",
+                "videoPublishedAt": "2018-06-11T09:04:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vhyUf5AAouN93bdu1vFy6h4kAZ0",
+            "id": "UExKb2xPdW8yNUxBWkFaMVdaektod0V2MmRzUlJjU0dTVi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-05-29T16:00:46Z",
+                "channelId": "UCWl4niI2HWAOfEuBNCdlkNw",
+                "title": "Bagger Kinderfilm - Der Gelbe Bagger POL auf dem Bauernhof - Maschinen-Team - Cartoon für Kinder",
+                "description": "Treffen Sie Bagger Kinderfilm - Der Gelbe Bagger POL auf dem Bauernhof - Maschinen-Team - Cartoon für Kinder!\r\n\r\nAbonniere unseren Kanal: https://www.youtube.com/channel/UCT5zh2plzEdSmGRVm-R06-g\r\n\r\nSich dieses Video ansehen: https://www.youtube.com/watch?v=3xe4Fo1iaIQ\r\n\r\nUnsere Kanäle, die Ihnen gefallen können:\r\nKinder Zeichentrick: https://goo.gl/NNrI1c\r\nWelt von Autos - Cartoons für Kinder: https://goo.gl/dYnlnZ\r\nMaschinen-Team Kinder: https://goo.gl/KURzxb\r\n\r\nVideo für Kinder — https://seeziskids.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3xe4Fo1iaIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3xe4Fo1iaIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3xe4Fo1iaIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3xe4Fo1iaIQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3xe4Fo1iaIQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ngoc thu kim",
+                "playlistId": "PLJolOuo25LAZAZ1WZzKhwEv2dsRRcSGSV",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3xe4Fo1iaIQ"
+                },
+                "videoOwnerChannelTitle": "Maschinen-Team Kinder",
+                "videoOwnerChannelId": "UCT5zh2plzEdSmGRVm-R06-g"
+            },
+            "contentDetails": {
+                "videoId": "3xe4Fo1iaIQ",
+                "videoPublishedAt": "2018-03-16T07:27:43Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}

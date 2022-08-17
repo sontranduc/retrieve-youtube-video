@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "TiGVC1I2RDKe2xYc7Y2fsBN6RCs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b8Z0hOwO7avJma-6RWsJkoVzubg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8AlsvEndCWU"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-05T17:14:46Z",
+                "channelId": "UCR5Q_CDmTHiPlxvyI-K3_PQ",
+                "title": "Phóng Sự Du Lịch Miền Tây",
+                "description": "Title :Phóng Sự Du Lịch Miền Tây ▻The type :Du Lịch Miền Tây ▻Time : 45:31 ▻Chat Quantity: 720p HD ▻Video by : Travel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AlsvEndCWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AlsvEndCWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AlsvEndCWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Travel Việt Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-01-05T17:14:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Dqu5cO0v5gOrHNJ-xcvIhjWT5Rc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BHWWq7qUu0U"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-26T06:32:12Z",
+                "channelId": "UCD03TnJrP0ASaS0lhMSN7vw",
+                "title": "vê thăm TÂY ĐÔ Cần Thơ (Phóng Sự)",
+                "description": "Diễn Đọc: Tú Trinh Cầu Cần Thơ Bến Ninh Kiều Vườn Cây Ăn Trái Khu Du Lịch Phù Sa Đình Bình Thủy Khu Vực Văn Hóa Thới ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BHWWq7qUu0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BHWWq7qUu0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BHWWq7qUu0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "wearsunscr33n",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-03-26T06:32:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F0ZC1rPphXd0C-VavsUAzd7WY-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WgOkAVdcOYY"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-17T03:55:40Z",
+                "channelId": "UCVW4q85npQTPg7f25EWrZlQ",
+                "title": "Du Lịch Phú Quốc Ngày 1  : Khám Phá Cafe Trên Đồi , Chợ Đêm Và Ẩm Thực",
+                "description": "Video này là về Du Lich Phu Quoc Ngay 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WgOkAVdcOYY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WgOkAVdcOYY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WgOkAVdcOYY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phuong Nguyen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-17T03:55:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8hUJgEYY6oUizQoOj3xRWDu2v68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cDAOuo9xec8"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-22T19:17:35Z",
+                "channelId": "UC5LqfXvhYZsaJ1uz3AcSvpw",
+                "title": "Phóng sự du lịch: Tượng Đại Phật lớn nhất Thế Giới",
+                "description": "Phóng sự du lịch của Công Ty Du Lịch ATNT Được phát hình mỗi tuần trên Người Việt TV Thực hiện : Trần Nguyên Thắng ( Công ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cDAOuo9xec8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cDAOuo9xec8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cDAOuo9xec8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Người Việt Daily News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-06-22T19:17:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r-oSkKr0r6fdwqvyofWH2Eh-XUM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ArP4PdKH9LU"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-25T03:40:02Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Du ngoạn Tây Bắc 2 | Du lịch Tây Bắc | Phim tài liệu | Phóng sự du lịch",
+                "description": "Du ngoạn Tây Bắc 2 | Du lịch Tây Bắc | Phim tài liệu | Phóng sự du lịch Vùng Tây Bắc là vùng miền núi phía tây của miền Bắc Việt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ArP4PdKH9LU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ArP4PdKH9LU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ArP4PdKH9LU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-25T03:40:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hufj1H_VsYLaH34Gzz9kaiUHSgs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vg8Q9YDrMMU"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-09T04:42:40Z",
+                "channelId": "UCv37rw2HR6QS7W_lvjw1DeA",
+                "title": "Phóng Sự | Du lịch Hoa Kỳ - Giấc Mơ Mỹ - Điểm Đến Vui Chơi Ăn NGon",
+                "description": "Rộng lớn” là ấn tượng đầu tiên nảy ra trong đầu về nước Mỹ. Không chỉ có thế, so với các quốc gia có diện tích xấp xỉ hoặc tương ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vg8Q9YDrMMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vg8Q9YDrMMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vg8Q9YDrMMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Vinh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-09T04:42:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sVJ6emF4_pDjajntzDt33dP6TI8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yJFWQy0L7ro"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-27T15:32:37Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Về đất phương Nam 1 | Phóng sự du lịch | Phóng sự đặc biệt | Phim tài liệu",
+                "description": "Về đất phương Nam 1 | Phóng sự du lịch | Phóng sự đặc biệt | Phim tài liệu ===================================== Hãy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yJFWQy0L7ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yJFWQy0L7ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yJFWQy0L7ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-27T15:32:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qSzkRX2LOZXP7htbDUJdc-PWhgQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nPw3h28Qu9Y"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-27T15:18:53Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Thành phố Phan Rang Tháp Chàm | Phóng sự du lịch | Phim tài liệu",
+                "description": "Thành phố Phan Rang Tháp Chàm | Phóng sự du lịch | Phim tài liệu ===================================== Hãy Like, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nPw3h28Qu9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nPw3h28Qu9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nPw3h28Qu9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-27T15:18:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VoD4-1Qc7V8F0BDpLq-wnHNB7L0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IHNAU_78QYw"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-13T23:29:49Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Du Lịch Và Ẩm Thực 1",
+                "description": "Phóng Sự | Du Lịch Và Ẩm Thực 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IHNAU_78QYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IHNAU_78QYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IHNAU_78QYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-13T23:29:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GmiP3bUM-XEbunj7b3fAgheCrtU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5wedoNBMXLM"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-23T08:15:17Z",
+                "channelId": "UCPJfjHrW3-zIeSaZTgmckmg",
+                "title": "Phóng Sự Việt Nam: Du lịch Xanh",
+                "description": "Phóng Sự Việt Nam: Du lịch Xanh Xem #TinTuc hấp dẫn, Tổng Hợp #Video Mới nhất về #Tintuc24h Việt Nam - Quốc Tế nóng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5wedoNBMXLM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5wedoNBMXLM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5wedoNBMXLM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truyền Hình Nhân Dân",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-11-23T08:15:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "orPa7bVX8zqJr2WK6oBBmisuZOs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xc6MS_ueyoE"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-23T03:38:03Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Du lịch Đà Nẵng | Cù Lao Chàm | Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch",
+                "description": "Du lịch Đà Nẵng | Cù Lao Chàm | Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xc6MS_ueyoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xc6MS_ueyoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xc6MS_ueyoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-23T03:38:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wsxkLOxusISrWQ_VmjBK5GC0iz8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iIjfnYmOa9g"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-23T06:35:53Z",
+                "channelId": "UCPJfjHrW3-zIeSaZTgmckmg",
+                "title": "Phóng Sự Du Lịch: Quần đảo Hawaii",
+                "description": "Phóng Sự Du Lịch: Quần đảo Hawaii Xem #TinTuc hấp dẫn, Tổng Hợp #Video Mới nhất về #Tintuc24h Việt Nam - Quốc Tế nóng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iIjfnYmOa9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iIjfnYmOa9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iIjfnYmOa9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truyền Hình Nhân Dân",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-11-23T06:35:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oOahXsbH69nOmr6ByzIBT_ditLQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "edgVAWyZTdo"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-14T07:00:00Z",
+                "channelId": "UCR5Q_CDmTHiPlxvyI-K3_PQ",
+                "title": "Phóng Sự Du Lịch - Mùa Cá Ra Miền Tây 2017",
+                "description": "Title :Phóng Sự Du Lịch - Mùa Cá Ra Miền Tây ▻The type :Mùa Cá Ra Miền Tây ▻Time : 8:20 ▻Chat Quantity: 720p HD ▻Video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/edgVAWyZTdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/edgVAWyZTdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/edgVAWyZTdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Travel Việt Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-14T07:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c7KQPj31piJCy_gSPAgJFTC29cM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bl0pwBGdFgA"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-19T12:27:13Z",
+                "channelId": "UCwDWYgmKg5UZKLHi54XrzQQ",
+                "title": "Việt Nam Vùng Đất Diệu Kì phóng Sự Du lịch Miệt Vườn Cần  thơ",
+                "description": "Việt Nam Vùng Đất Diệu Kì phóng Sự Du lịch Miệt Vườn Cần thơ Việt Nam có một sức sống diệu kỳ của vùng đất đầy tiền lực ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bl0pwBGdFgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bl0pwBGdFgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bl0pwBGdFgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lee Nga",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-19T12:27:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xa1cIHhrjuHAnVAF3QNT3LrSWRM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UZNDrRfyqQM"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-16T23:29:18Z",
+                "channelId": "UCxow2c4XfzAq9iXqXuriRkQ",
+                "title": "Phóng sự du lịch: Vòng quanh đảo ngọc Phú Quốc, Việt Nam",
+                "description": "Đảo Phú Quốc nằm giữa biển khơi, sở hữu những bãi biển đẹp cùng với những lợi thế khác nên được xem là đảo ngọc, thiên ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UZNDrRfyqQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UZNDrRfyqQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UZNDrRfyqQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mekong Discovery",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-16T23:29:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QC3ZHY772ns_Vci7WxLlZgh9_oM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h1jBDri8Bjs"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-19T12:18:01Z",
+                "channelId": "UCdejT50QqB6J264uZBqf2_A",
+                "title": "Trip Documentary - Nha Trang I",
+                "description": "Phóng sự du lịch - Nha Trang vui chơi ăn uống 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h1jBDri8Bjs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h1jBDri8Bjs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h1jBDri8Bjs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trí",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-19T12:18:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2pH07W3jg72wZgABfDt4Yw_eA9A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gQSWpqWA7qs"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-23T00:00:05Z",
+                "channelId": "UCWnOG09q7JXW-cZQrNEGQWg",
+                "title": "DU LỊCH và KHÁM PHÁ 10 Địa Điểm Nổi Tiếng, Vui và Đẹp Nhất tại Việt Nam. Top 10 Places in Vietnam.",
+                "description": "Du Lịch và Khám Phá 10 Địa Điểm Nổi Tiếng Nhất Việt Nam: 1. Bến Ninh Kiều, Cần Thơ 2. Cồn Thới Sơn, Cồn Phụng, Bến Tre ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gQSWpqWA7qs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gQSWpqWA7qs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gQSWpqWA7qs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VACA Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-23T00:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DQFb9Nitejf8dVt-62bcwkQTRUE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F0DBs99heEA"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-06T16:33:25Z",
+                "channelId": "UCR5Q_CDmTHiPlxvyI-K3_PQ",
+                "title": "Phóng Sự Du Lịch Miền Tây - Khám Phá Miệt Vườn Cần Thơ",
+                "description": "Title :Phóng Sự Du Lịch Miền Tây - Khám Phá Miệt Vườn Cần Thơ ▻The type :Khám Phá Miệt Vườn Cần Thơ ▻Time : 29:54 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F0DBs99heEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F0DBs99heEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F0DBs99heEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Travel Việt Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-01-06T16:33:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_Gy7pk3sFtcCeo7pwLi0Wnhlv5U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e6x1P1X4ndk"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-14T07:17:06Z",
+                "channelId": "UCR5Q_CDmTHiPlxvyI-K3_PQ",
+                "title": "Phóng Sự Du Lịch - Mùa Dỡ Chà Miền Tây 2017",
+                "description": "Title :Phóng Sự Du Lịch - Mùa Dỡ Chà Miền Tây 2017 ▻The type :Mùa Dỡ Chà Miền Tây 2017 ▻Time : 8:44 ▻Chat Quantity: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e6x1P1X4ndk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e6x1P1X4ndk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e6x1P1X4ndk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Travel Việt Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-14T07:17:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Yfaqscyj8JlZo2B7FvHpgLXkajE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gC2gt7idmeg"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-13T12:45:31Z",
+                "channelId": "UCdejT50QqB6J264uZBqf2_A",
+                "title": "Phóng sự Hà Tiên - Miệt Thứ -  Tắc Cậu",
+                "description": "Phóng sự Hà Tiên - Miệt Thứ - Tắc Cậu.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gC2gt7idmeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gC2gt7idmeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gC2gt7idmeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trí",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-03-13T12:45:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jTMWJM9lbdGSsv0oSPywepiYzGM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wn-DRcWw5hs"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-23T02:52:17Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Du lịch An Giang 1 | Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch",
+                "description": "Du lịch An Giang 1 | Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wn-DRcWw5hs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wn-DRcWw5hs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wn-DRcWw5hs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-23T02:52:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "flFD18qHbDqeSk0eWabqdVPbavo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G25oyCFdHtY"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-26T17:28:35Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Du Ngoạn Long Xuyên, Rạch Giá, Hà Tiên 1",
+                "description": "Phóng Sự | Du Ngoạn Long Xuyên, Rạch Giá, Hà Tiên 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G25oyCFdHtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G25oyCFdHtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G25oyCFdHtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-26T17:28:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xsTwCpVyFAJLA_jI3cplIGwCk5U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G1iPLp8IBj0"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-09T14:27:59Z",
+                "channelId": "UCp3S63iVnvb0PuMw86ETrrQ",
+                "title": "Phóng sự tài liệu Du Lịch An Giang Tập 1",
+                "description": "Phóng sự tài liệu Du Lịch An Giang Tập 1. Do Công ty Du Lịch Bảo Long Đồng Khởi sản xuất quảng bá du lịch an giang.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G1iPLp8IBj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G1iPLp8IBj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G1iPLp8IBj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngọc Trinh Trịnh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-11-09T14:27:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Nu0MGTaU7vxXetWjSUGb_qZQh1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U-8gQCxH-3w"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-24T01:00:00Z",
+                "channelId": "UCFamGUxdEmOpaCeLkiZAAFw",
+                "title": "PHÓNG SỰ DU LỊCH Hà Tiên Miệt Thứ Tắc Cậu",
+                "description": "Cảm ơn tất cả mọi người đã xem video của em, hãy chia sẻ và đăng ký để ủng hộ kênh Quang Teo của em nhé! ĐĂNG KÝ KÊNH ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U-8gQCxH-3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U-8gQCxH-3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U-8gQCxH-3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang teo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-24T01:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xzlbp9seC0BcfSgxwuLegw3dslk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NluL5iaGxwQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-29T06:49:23Z",
+                "channelId": "UCK4CSZTlDuCDDN2BudS8AVg",
+                "title": "Phóng sự - Cảnh Đẹp Phú Quốc và Những Đặc Sản Nổi Tiếng",
+                "description": "Phóng sự - Cảnh Đẹp Phú Quốc và Những Đặc Sản Nổi Tiếng ---------------------------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NluL5iaGxwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NluL5iaGxwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NluL5iaGxwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nicky Bùi Channel ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-11-29T06:49:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NrdNVyAGGeBVQ0TSXML5gtZs6KY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zMTPaaTWeQo"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-04T20:29:52Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Ký Sự Du Lịch Hoa Kỳ 1",
+                "description": "Phóng Sự | Ký Sự Du Lịch Hoa Kỳ 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zMTPaaTWeQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zMTPaaTWeQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zMTPaaTWeQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-04T20:29:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UbFjxM8jFWI5-KEnHehLP9fMBF0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZABCGwPluP8"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-17T19:28:31Z",
+                "channelId": "UCv37rw2HR6QS7W_lvjw1DeA",
+                "title": "Phóng Sự | Du Lịch Đà Nẵng - Ngao Du Ăn Món Ngon ở Thành Phố Đáng Sống",
+                "description": "Được mệnh danh là thành phố đáng sống, Đà Nẵng hàng năm đón hàng ngàn lượt du khách ghé đến và tham quan. Với lợi thế ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZABCGwPluP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZABCGwPluP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZABCGwPluP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Vinh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-17T19:28:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZMF4umUHfM7fcTfmCM3cOnmsohM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ftngSffzsaE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-08T15:11:19Z",
+                "channelId": "UCrTm4gQU2ka7Bqctm8GMQMw",
+                "title": "Ký sự lần theo vết tích Võ Tắc Thiên | Cai trị An Nam",
+                "description": "Phóng sự kỳ công đi nhiều địa điểm tại Trung Quốc & Nhật Bản để lần theo những di tích Võ Tắc Thiên để lại. Bà là nữ hoàng đế ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ftngSffzsaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ftngSffzsaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ftngSffzsaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FAHOKA Xê Dịch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-08T15:11:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gycwp3XG9psG_5boFU7pLmxpd5U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zfRqTPa46X0"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-02T03:12:40Z",
+                "channelId": "UCv37rw2HR6QS7W_lvjw1DeA",
+                "title": "Phóng Sự | Khám Phá - Những Đặc Sản Dân Dã Ngon Nhất Miền Tây",
+                "description": "Ẩm thực luôn là nét văn hóa đặc sắc của các vùng miền. Nếu bạn nói đã đi du lịch đến nơi nào đó trên Việt Nam mà chưa thưởng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zfRqTPa46X0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zfRqTPa46X0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zfRqTPa46X0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Vinh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-02T03:12:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pW4g9LeuMzUxLtyH2mosl7eD974",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dGgakf2XdXY"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-04T19:41:07Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Du Lịch Hong Kong 1, Hương Cảng Ngày Nay 1",
+                "description": "Phóng Sự | Du Lịch Hong Kong 1, Hương Cảng Ngày Nay 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dGgakf2XdXY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dGgakf2XdXY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dGgakf2XdXY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-04T19:41:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TOoqmzWDWhyimjx91A9ZslYOkno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PeS1qRbv17k"
+            },
+            "snippet": {
+                "publishedAt": "2011-11-23T21:53:17Z",
+                "channelId": "UCrzSkkepKeNjXjFJZU2IWvA",
+                "title": "DU LICH DA NANG 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PeS1qRbv17k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PeS1qRbv17k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PeS1qRbv17k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PhongSuViet",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-11-23T21:53:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S0u7va42xHPPMs7SbRjTfVcWIBI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oalT9NZUEJM"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-04T20:50:33Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Ký Sự Du Lịch Hoa Kỳ 2",
+                "description": "Phóng Sự | Ký Sự Du Lịch Hoa Kỳ 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oalT9NZUEJM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oalT9NZUEJM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oalT9NZUEJM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-04T20:50:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a7CE66PBA2I-u9Nq3Iexpr1orjY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y0nvhYDDVz0"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-01T00:07:41Z",
+                "channelId": "UCjTgGxgbtAUhFXiMvRi26MA",
+                "title": "Phóng sự Món Ngon Miền Tây 3",
+                "description": "http://www.scorebig.com/Referral/xpugim?ref_tag=raf.def.lnk Make ScoreBig your go-to source for the best live sports, music and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y0nvhYDDVz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y0nvhYDDVz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y0nvhYDDVz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DL iEntreatment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-08-01T00:07:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p6wp9uCGVX936kADjR6MI6PLR9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vkfLdXz8Poo"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-20T09:59:50Z",
+                "channelId": "UCYgeAueSA-SW_S_vcLvDQvw",
+                "title": "Phóng Sự Du Lịch Hội An",
+                "description": "Phóng Sự Du Lịch Hội An; NHỮNG CA KHÚC HAY NHẤT VỀ PHỐ CỔ HỘI AN Đêm hội an - Mai hoa Bồng bềnh hội an - Nguyễn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vkfLdXz8Poo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vkfLdXz8Poo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vkfLdXz8Poo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alpha Real",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-20T09:59:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T7SCBhDhOZty4xHbmnd5O6pxEtM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SJaabTY-33o"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-13T22:00:04Z",
+                "channelId": "UCWnOG09q7JXW-cZQrNEGQWg",
+                "title": "DU LỊCH MỸ đến 10 Địa Điểm Nổi Tiếng, Hùng Vĩ  và Đẹp Nhất nước Mỹ. Top 10 Places to visit in USA.",
+                "description": "VACA truyền hình thực tế tại 10 địa điểm danh tiếng và vĩ đại nhất tại nước Mỹ: Làng Pháp tại New Orleans, Thủ Đô Hoa Thịnh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJaabTY-33o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJaabTY-33o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJaabTY-33o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VACA Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-13T22:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ogo48vnRvphGxl5NNXQc2kkvDFE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "muJlRArlQEk"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-17T13:43:29Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Phóng sự du lịch | Ký sự hỏa xa | Hành trình xuyên lục địa - Phần 2",
+                "description": "Phóng sự du lịch | Ký sự hỏa xa | Hành trình xuyên lục địa - Phần 2 Ký sự Hỏa xa – Hành trình xuyên lục địa là một phim ký sự ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/muJlRArlQEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/muJlRArlQEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/muJlRArlQEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-17T13:43:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "exWAMlPKvDqfsh7euxRTe9HHDVY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FD4bEZNwTnM"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-07T09:21:10Z",
+                "channelId": "UCFiV3Xn4bEN7lJl98MDNghg",
+                "title": "Phóng Sự: Quy Nhơn Bình Định",
+                "description": "Bản quyền thuộc về Châu Productions giới thiệu về các danh lam thắng cảnh có tại Bình Định và cũng như phong tục tập quán ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FD4bEZNwTnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FD4bEZNwTnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FD4bEZNwTnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chau Tan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-12-07T09:21:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VTZG1nymBZfNtIyx68RNFZtj5Js",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lT6DQGNwZfI"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-25T01:00:06Z",
+                "channelId": "UCPJfjHrW3-zIeSaZTgmckmg",
+                "title": "Phóng Sự Du Lịch Việt Nam: Xuân Liên - Vùng đất say lòng du khách",
+                "description": "Phóng Sự Du Lịch Việt Nam 2017: Xuân Liên - Vùng đất say lòng du khách Xem #TinTuc hấp dẫn, Tổng Hợp #Video Mới nhất về ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lT6DQGNwZfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lT6DQGNwZfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lT6DQGNwZfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truyền Hình Nhân Dân",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-25T01:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uYb3SVs_LSHQtcHjUe04WgM1mbk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qflpx_U6Pa0"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-03T16:14:11Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Du Lịch Việt Nam 1",
+                "description": "Phóng Sự | Du Lịch Việt Nam 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qflpx_U6Pa0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qflpx_U6Pa0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qflpx_U6Pa0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-03T16:14:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oCpDjoTcQLAllWl-bBrphqoL-zg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mSuTRzpTZCY"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-17T13:33:03Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Phóng sự du lịch | Ký sự hỏa xa | Hành trình xuyên lục địa - Phần 1",
+                "description": "Phóng sự du lịch | Ký sự hỏa xa | Hành trình xuyên lục địa - Phần 1 Ký sự Hỏa xa – Hành trình xuyên lục địa là một phim ký sự ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mSuTRzpTZCY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mSuTRzpTZCY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mSuTRzpTZCY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-17T13:33:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hfMQqLXQgGz7gZp8vvHQbGmDHqM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "heOpNsHGNIE"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-27T08:18:08Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Phóng sự du lịch | Phim tài liệu | Dạo quanh Hồng Ngự Campuchia",
+                "description": "Phóng sự du lịch | Phim tài liệu | Dạo quanh Hồng Ngự Campuchia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/heOpNsHGNIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/heOpNsHGNIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/heOpNsHGNIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-27T08:18:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "izusiaSLEZAw0d8kz4dvEicY3AY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pDPjsFemTlo"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-26T04:49:02Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch | Dạo chơi miệt vườn 2",
+                "description": "Phim tài liệu | Phóng sự đặc biệt | Phóng sự du lịch | Dạo chơi miệt vườn 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pDPjsFemTlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pDPjsFemTlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pDPjsFemTlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-26T04:49:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FOPI28WTwrOs6ZIqlQq6goZ5Vfk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TEfMeUG4veo"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-26T16:45:07Z",
+                "channelId": "UChv5Rz9kSWV4wEk8V8Ql5jA",
+                "title": "Phóng sự du lịch | Du ngoạn Hà Nội - Lào Cai - Sapa - Vân Nam - Phú Thọ 1",
+                "description": "Phóng sự du lịch | Du ngoạn Hà Nội - Lào Cai - Sapa - Vân Nam - Phú Thọ 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TEfMeUG4veo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TEfMeUG4veo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TEfMeUG4veo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discovery TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-26T16:45:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Mcen-bT3uPZGnx6fhfbtG9gUow",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zlyn5ZbgY7U"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-04T17:18:55Z",
+                "channelId": "UCnVrbcVpdKY-Rz7zOPWlx_w",
+                "title": "Vòng cung Tây Bắc - Phóng sự tài liệu HTV7.",
+                "description": "Một trong những tour mà tôi đã tham gia, đã để lại cho tôi nhiều kỉ niệm choáng ngợp trước khung cảnh thiên nhiên hùng vĩ của ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zlyn5ZbgY7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zlyn5ZbgY7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zlyn5ZbgY7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hoang Phu Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-12-04T17:18:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pzdCyAg6TiPf8e93N6185qFgmyQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DF_ULbHNpZ0"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-28T09:34:44Z",
+                "channelId": "UCk7Se6UR2AxxEfzlwJjCH3w",
+                "title": "Phóng sự trải nghiệm du lịch Mộc Châu",
+                "description": "Tour du lịch đặc biệt sẽ mang đến cho bạn những trải nghiệm thú vị về miền đất của sự lãng mạn và những điều hạnh phúc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DF_ULbHNpZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DF_ULbHNpZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DF_ULbHNpZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mộc Châu Truyền hình",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-28T09:34:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Nsniw0DFyFldBJgte34QjbQkdUQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_z_7faw8R2Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-24T01:36:40Z",
+                "channelId": "UCBdze9CCUlUn-miYqX6Am4A",
+                "title": "Phóng sự đài HTV7 - Du lịch an toàn mùa Tết 2022 - BenThanh Tourist",
+                "description": "Chia sẻ cùng phóng viên đài HTV 7 trong phóng sự chuyên đề Du lịch an toàn mùa Tết 2022, đại diện BenThanh Tourist nhận ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_z_7faw8R2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_z_7faw8R2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_z_7faw8R2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BenThanh Tourist",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-24T01:36:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WA45WW7sREvXJfYeGfkV8B68o4w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hem4-vockKA"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-07T12:02:21Z",
+                "channelId": "UCPJfjHrW3-zIeSaZTgmckmg",
+                "title": "Phóng Sự Du Lịch: Điệp Sơn - Đẹp, Gần Nhưng Sao &quot;Xa&quot; Đến Vậy",
+                "description": "Phóng Sự Du Lịch: Điệp Sơn - Đẹp, Gần Nhưng Sao \"Xa\" Đến Vậy TOP #TinTuc hấp dẫn, Tổng Hợp #Video Mới về #Tintuc24h ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hem4-vockKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hem4-vockKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hem4-vockKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truyền Hình Nhân Dân",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-07T12:02:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hvK0ylOOY49COiF36ENSLRGkN3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K3ShZ4Hvy2A"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-03T16:51:26Z",
+                "channelId": "UCrby5IKNr4XjCEejjWYOngQ",
+                "title": "Phóng Sự | Du Lịch Việt Nam 4",
+                "description": "Phóng Sự | Du Lịch Việt Nam 4.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K3ShZ4Hvy2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K3ShZ4Hvy2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K3ShZ4Hvy2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuộc Sống Tại Mỹ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-03T16:51:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R7fW1bjgEjzWKCe4tieRgtNtnPc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gtRWizlAKHE"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-22T13:40:28Z",
+                "channelId": "UCG_5SEevPRvyr0ZS1gZvuNg",
+                "title": "PHÓNG SỰ DU LỊCH - KHÁM PHÁ MÓN NGON CẢNH ĐẸP &quot;BIỂN KIÊNG LƯƠNG",
+                "description": "Đi về cuối phương Nam, đến Kiên Giang, tỉnh cuối cùng phía tây nam, ghé lại huyện duyên hải Kiên Lương thăm thú, tham quan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gtRWizlAKHE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gtRWizlAKHE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gtRWizlAKHE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Du Lịch Quê Hương",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-22T13:40:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VuUQTgwxVa7B-4ODm175Ji7YZNc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q9Fn3-u2zCg"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-24T23:00:30Z",
+                "channelId": "UC3jHBv414UOQ4ApT3m7gG2Q",
+                "title": "Phóng sự: Du lịch miền Tây cần nét riêng",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9Fn3-u2zCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9Fn3-u2zCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9Fn3-u2zCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tấn Hưng",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-24T23:00:30Z"
+            }
+        }
+    ]
+}

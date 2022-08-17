@@ -1,0 +1,431 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "iM9dDhDbJ97WWGB2roVrTHQbAN4",
+    "prevPageToken": "EAEaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Us-HLEg8LmwnLBq_atnumoOemII",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:20Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 50",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9Oi4CHd__A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9Oi4CHd__A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9Oi4CHd__A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q9Oi4CHd__A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q9Oi4CHd__A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q9Oi4CHd__A"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "q9Oi4CHd__A",
+                "videoPublishedAt": "2018-10-02T16:35:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZZc1NW3yy54WBk09vhgpxC-O3jI",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:24Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 51",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/38cAqF-q9nU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/38cAqF-q9nU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/38cAqF-q9nU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/38cAqF-q9nU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/38cAqF-q9nU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "38cAqF-q9nU"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "38cAqF-q9nU",
+                "videoPublishedAt": "2018-10-02T16:35:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7FbnfnTQV1iMci6Ou778jWhV1Aw",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:28Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 52",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KoQ3LxIOC-A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KoQ3LxIOC-A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KoQ3LxIOC-A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KoQ3LxIOC-A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KoQ3LxIOC-A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KoQ3LxIOC-A"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "KoQ3LxIOC-A",
+                "videoPublishedAt": "2018-10-02T16:35:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E0Ff1FMFVwuF8Stj02jXJzEc95Y",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:33Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 53",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBf9RIC7Kuo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBf9RIC7Kuo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBf9RIC7Kuo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vBf9RIC7Kuo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vBf9RIC7Kuo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vBf9RIC7Kuo"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "vBf9RIC7Kuo",
+                "videoPublishedAt": "2018-10-03T02:54:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O7QiDWxAK6FC-YVvmG-sLbdXC64",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:38Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 54",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sXq0ooiupK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sXq0ooiupK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sXq0ooiupK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sXq0ooiupK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sXq0ooiupK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sXq0ooiupK4"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "sXq0ooiupK4",
+                "videoPublishedAt": "2018-10-03T02:54:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R6tMR9c6MX0EqLp6ZtW13cs63ME",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:43Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 55",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AoWE9lOAb48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AoWE9lOAb48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AoWE9lOAb48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AoWE9lOAb48/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AoWE9lOAb48/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AoWE9lOAb48"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "AoWE9lOAb48",
+                "videoPublishedAt": "2018-10-03T02:54:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MFibtOdJ7Y0Yluu7DXb7IgqwKZc",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:47Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kzLhht0bI3c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kzLhht0bI3c"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SNREznzULrXuxxTgQxIzVux1MEo",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:51Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 57",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X_6_JJnpAd8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X_6_JJnpAd8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X_6_JJnpAd8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X_6_JJnpAd8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X_6_JJnpAd8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X_6_JJnpAd8"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "X_6_JJnpAd8",
+                "videoPublishedAt": "2018-10-03T16:58:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MR4U0oNmx1DC4aAXnXOxe8eOZBM",
+            "id": "UExWeV83aERMQldIeUxodTlkU3BPdWNtZzdicnNwZkdXMS4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2019-04-02T11:10:55Z",
+                "channelId": "UCr9fls8zeC1PlkvbCfhmq1A",
+                "title": "Ánh Dương Tình Yêu Tập 58 End - Tập Cuối",
+                "description": "Phim Ánh Dương Tình Yêu Trọn Bộ - https://www.youtube.com/watch?v=r_Jwo3-Heyg&list=PLcjbeD40gTGKhhj9m1Yy_fTDtBLofrfTj&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KE6PV34LJOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KE6PV34LJOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KE6PV34LJOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thái Quốc Nguyễn",
+                "playlistId": "PLVy_7hDLBWHyLhu9dSpOucmg7brspfGW1",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KE6PV34LJOA"
+                },
+                "videoOwnerChannelTitle": "Soi Cầu XSMB",
+                "videoOwnerChannelId": "UCI6WX4KGA5bm0vKBKIWaetA"
+            },
+            "contentDetails": {
+                "videoId": "KE6PV34LJOA",
+                "videoPublishedAt": "2018-10-04T08:10:48Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 59,
+        "resultsPerPage": 50
+    }
+}

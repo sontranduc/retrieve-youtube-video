@@ -1,0 +1,254 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "UWRraFvvYoI4lxiTOMW4xHvzDQ8",
+    "prevPageToken": "EAEaB1BUOkNQSU0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jGcQ7niR-AiKyhptH7nNnYB8zG8",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy5FRTgyMkE0QjQ3RkQxMTMz",
+            "snippet": {
+                "publishedAt": "2022-07-18T01:20:11Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1650,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8c--xh9TE-c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8c--xh9TE-c"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gDLFbQ3DYYkkm12MhEkU22vXDpM",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy5EODMwQ0MyQjgwQTVGRTg2",
+            "snippet": {
+                "publishedAt": "2022-07-18T01:20:11Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "XX XXX XXXX XXXXX XXXXXX XXXXXXX",
+                "description": "This video shows you XX XXX XXXX XXXXX XXXXXX XXXXXXX, pronunciation guide.\r\nLearn MORE CONFUSING NAMES/WORDS: https://www.youtube.com/watch?v=dyncGi5eWz0&list=PLd_ydU7Boqa2TWjHeVDMd_w6b4bDlwA2- \r\nListen how to say this word/name correctly with Julien (English vocabulary videos), \"how do you pronounce\" free pronunciation audio/video tutorials.\r\nIf you're interested in supporting me, please consider becoming a member: https://www.youtube.com/channel/UCYsWqViUNFkLaXKNR9clGLQ/join\r\nLearn how to say words in English, French, Spanish, German, Italian, and many other languages with Julien Miquel and his pronunciation tutorials! In the world of words and the diversity of accents and local dialects, some words can be extremely hard to pronounce. There are mobile apps, online tools, dictionary websites to help you as well, but this dedicated channel is you go-to directory to improve your diction, voicing elocution, enunciation, and intonation.\r\n00:00 - Pronunciation Intro\r\n00:08 - XX XXX XXXX XXXXX XXXXXX XXXXXXX\r\n00:23 - More Difficult Pronunciations\r\nJulien’s instructional and educational videos make pronunciation easier as I detail the correct pronunciation as fluent speaker many languages such as French, English, Spanish, or Italian, and curious student of world idioms such as Chinese, Japanese, Portuguese, Polish, or Russian.\r\n-If you found this video helpful please like the video to support my work.\r\n-If you would like help with any future pronunciations, be sure to subscribe!\r\n-Thanks for Watching How To Pronounce with Julien and happy pronouncing.\r\nhoe om te sê, si të thuash, እንዴት እንደሚናገር, wie sagt man, comment dire, come dire, como dizer, как сказать, nasıl denir, cómo decir, 怎么说, πώς να το πω, hoe zeg je\r\n\r\n#EnglishWithJulien  \r\n\r\nWhat does this word/name mean? Words’ meaning, dictionary definition, explanation.\r\nInformation & Source\r\nVideo Tags:\r\nxx, xxx, xxxx, xxxxx, xxxxxx, xxxxxxx, meaning, definition, what does it mean, vocabulary, american, english, word, improve, beginners, united states, british, pronunciation guide, how do you say, tutorial, how to say, learn, how do you pronounce, dictionary, explained, context, sentences, examples, speech, training, course, uk, language, native speaker, synonyms, study, sounds, speak, speaking, audio, australia, india, accent",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/go_poBCRRUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/go_poBCRRUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/go_poBCRRUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/go_poBCRRUM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/go_poBCRRUM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1651,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "go_poBCRRUM"
+                },
+                "videoOwnerChannelTitle": "Julien Miquel",
+                "videoOwnerChannelId": "UCYsWqViUNFkLaXKNR9clGLQ"
+            },
+            "contentDetails": {
+                "videoId": "go_poBCRRUM",
+                "videoPublishedAt": "2022-03-21T18:07:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pV_RQtTWuJ_JDtKNoLOn88BetNg",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy5GQjQyMjRFQUYyOUQ5QTFF",
+            "snippet": {
+                "publishedAt": "2022-07-18T01:20:11Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "Xxxxxxxxx",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o3SxNO1paEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o3SxNO1paEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o3SxNO1paEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o3SxNO1paEQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o3SxNO1paEQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1652,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o3SxNO1paEQ"
+                },
+                "videoOwnerChannelTitle": "Faruk Kehe",
+                "videoOwnerChannelId": "UCF9jyf6A11Dkw6HhCW1xc1A"
+            },
+            "contentDetails": {
+                "videoId": "o3SxNO1paEQ",
+                "videoPublishedAt": "2017-08-09T13:30:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jQWEpdB-IL7Pue5-ewznJumz_Is",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy41OEJGODk1MTRGOTEzRDk2",
+            "snippet": {
+                "publishedAt": "2022-07-18T01:20:11Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "Xxxxxxxxx",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0dPoBW53z0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0dPoBW53z0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0dPoBW53z0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0dPoBW53z0Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0dPoBW53z0Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1653,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0dPoBW53z0Q"
+                },
+                "videoOwnerChannelTitle": "Mdsalim dumka Ansari",
+                "videoOwnerChannelId": "UCT-PdZea504smdx73_KMhxA"
+            },
+            "contentDetails": {
+                "videoId": "0dPoBW53z0Q",
+                "videoPublishedAt": "2018-05-12T13:08:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "053Tym5b4iZh2y4jsD6F15vxQpA",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy4zQUVBODMwN0QxOTVFMjkx",
+            "snippet": {
+                "publishedAt": "2022-07-18T01:20:11Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "xxx",
+                "description": "xxx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a1erUHsWEBM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a1erUHsWEBM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a1erUHsWEBM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a1erUHsWEBM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1654,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "a1erUHsWEBM"
+                },
+                "videoOwnerChannelTitle": "Virdha ram suthar",
+                "videoOwnerChannelId": "UCobXraNS4cIMB-QEnECdWkg"
+            },
+            "contentDetails": {
+                "videoId": "a1erUHsWEBM",
+                "videoPublishedAt": "2019-10-20T19:55:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h1mMCpOOpHyZUOsnY3LgNjwYM_w",
+            "id": "UExDMUJ0Vk80VFhXWUFWZnUwZmczRmNYLXBxWmEyalp0Vy42RkY3NkQ5NUQwODM2Q0RE",
+            "snippet": {
+                "publishedAt": "2022-07-19T07:33:41Z",
+                "channelId": "UCE1ldgPgfDiwek8BvanWD_w",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "জ",
+                "playlistId": "PLC1BtVO4TXWYAVfu0fg3FcX-pqZa2jZtW",
+                "position": 1655,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xTgPz33-_2Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xTgPz33-_2Y"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1656,
+        "resultsPerPage": 50
+    }
+}

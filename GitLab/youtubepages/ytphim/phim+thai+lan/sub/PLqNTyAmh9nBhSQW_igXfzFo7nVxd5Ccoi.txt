@@ -1,0 +1,576 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "RBUgCzQMT_Q4f9Pk_VLhL7GcO0Q",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n8moZe0LbFjYTkn1KPmJyfeoV34",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:22:14Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Koun Brasa 3-1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-2PL64Kk5TY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-2PL64Kk5TY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-2PL64Kk5TY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-2PL64Kk5TY"
+                },
+                "videoOwnerChannelTitle": "MrMakaranylay",
+                "videoOwnerChannelId": "UCZ8b4r-6dPbbWmekYOkZz-A"
+            },
+            "contentDetails": {
+                "videoId": "-2PL64Kk5TY",
+                "videoPublishedAt": "2011-05-31T12:22:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aTCy4RW0Y2bGmEIp3j8g7QePAz4",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:22:49Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Wayupak Montra Khmer dubbed 6",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1kMxBEG9TrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1kMxBEG9TrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1kMxBEG9TrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1kMxBEG9TrE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1kMxBEG9TrE"
+                },
+                "videoOwnerChannelTitle": "Puka nique",
+                "videoOwnerChannelId": "UCB8Dk_SrnmyK8x_QaVmbnIg"
+            },
+            "contentDetails": {
+                "videoId": "1kMxBEG9TrE",
+                "videoPublishedAt": "2013-05-04T15:42:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TlawFXl4c71KnYHOqew_B_HfkR8",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:23:03Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gGvE1hZSXLE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gGvE1hZSXLE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n2tk8fxk9Dymz8-2KgeoZb1z5Vg",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:23:23Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rSogN1BUIxQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rSogN1BUIxQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tzVJiPqyxKqQJaVwOPZmTgxoRoQ",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:23:38Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BRfUe2M6H8M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BRfUe2M6H8M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AsWF4Krix_b30SlRObAkwxhH2Tg",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:24:04Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7FyWFuzWgAQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7FyWFuzWgAQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XmJeI6SyhVQ5rn1GliipjntkXTY",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:24:14Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Besdoung Srey La-or - Part 10 - TH Drama",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZnW5kAOmptg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZnW5kAOmptg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZnW5kAOmptg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZnW5kAOmptg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZnW5kAOmptg"
+                },
+                "videoOwnerChannelTitle": "Puka nique",
+                "videoOwnerChannelId": "UCB8Dk_SrnmyK8x_QaVmbnIg"
+            },
+            "contentDetails": {
+                "videoId": "ZnW5kAOmptg",
+                "videoPublishedAt": "2013-04-15T09:27:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Qmr6JoC36vCVLSwmzI6zLCfdQgY",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:24:43Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Korkrouk Mek Romjoy Snaeh 12f",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_I6yLtV1ibw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_I6yLtV1ibw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_I6yLtV1ibw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_I6yLtV1ibw"
+                },
+                "videoOwnerChannelTitle": "ares",
+                "videoOwnerChannelId": "UCFn6NYXd0E1GOZv6TUN3cWA"
+            },
+            "contentDetails": {
+                "videoId": "_I6yLtV1ibw",
+                "videoPublishedAt": "2013-02-05T19:01:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jyboRZJds5qb3JwOfSWYAk6tyvE",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:26:49Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G42t_6hV4Ts"
+                }
+            },
+            "contentDetails": {
+                "videoId": "G42t_6hV4Ts"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jq_r7JLZDrylEIv4aQWwYXRM7hk",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:35:36Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "ព្រៃភ្នំជំរុំស្នេហ៍ Thai drama",
+                "description": "Thai drama",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ewrflcGV2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ewrflcGV2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ewrflcGV2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8ewrflcGV2Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8ewrflcGV2Y"
+                },
+                "videoOwnerChannelTitle": "Nafa Ya",
+                "videoOwnerChannelId": "UCwGYikIlfkFTQjnEakS3Q0w"
+            },
+            "contentDetails": {
+                "videoId": "8ewrflcGV2Y",
+                "videoPublishedAt": "2016-03-31T02:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gl1jhyepo4C1iHcvRN4ODrcCS8k",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:35:57Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aucjhf2_rKA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aucjhf2_rKA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lYRDJy7XMTPJUpEGsJhgMjR_HVw",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:36:04Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "《西游记》（86版）第1集 猴子穿衣戴帽大闹集市 （主演： 六小龄童，汪粤，徐少华，迟重瑞，马德华）【CCTV电视剧】",
+                "description": "Highlights：在东胜神州傲来国海滨的花果山顶有一块仙石。一日，仙石轰然迸裂，惊天动地，化出了一个石猴。这石猴灵敏聪慧，他交结群猴，在水帘洞找到安家的好所在。群猴尊石猴为美猴王。美猴王为寻找长生不老的仙方，独自驾筏，漂洋过海，来到一所渔村。他拾得衣衫，偷来鞋帽，并去饭馆饮酒吃面，闹了许多笑话，也学了几分人样。猴王一路寻访，终于登上灵台方寸上，在斜月三星洞拜见了菩提祖师。祖师为他取名孙悟空。 \n【欢迎订阅CCTV电视剧频道】https://bit.ly/CCTVdrama\n《西游记》官方高清播放列表：https://goo.gl/6KME2h\n\n■□剧情简介■□\n该剧讲述的是孙悟空、猪八戒、沙僧辅保大唐高僧玄奘去西天取经，师徒四人一路抢滩涉险，降妖伏怪，历经八十一难，取回真经，终修正果的故事。\n\n■□更多精彩电视剧■□\n《妈祖》https://goo.gl/A51ocg\n《擒狼》https://bit.ly/qinlang\n《打狗棍》https://bit.ly/dagougun\n《大风歌》https://bit.ly/dafengge\n《开封府》https://bit.ly/kaifengfu\n《非缘勿扰》https://goo.gl/U8oY9P\n《雍正王朝》https://goo.gl/HQSr6j\n《风云年代》https://bit.ly/fengyunniandai\n《大明宫词》https://bit.ly/daminggongci\n《郑和下西洋》http://bit.ly/zhenghexiaxiyang\n\n■□Subscribe For More■□ \nCCTV中国中央电视台 https://bit.ly/2ZX81dD \nCCTV热播剧场 https://bit.ly/CCTVhitdrama\nCCTV中文国际 https://bit.ly/37FGmk8 \nCCTV社会与法 https://bit.ly/CCTVsocietyandlaw\nCCTV纪录 https://bit.ly/CCTVdocumentary \n\n■□Our Social Media■□\nFacebook（中文）https://www.facebook.com/CCTV.CH\nFacebook（English）https://www.facebook.com/cctvcom\n■□更多精彩内容欢迎关注CCTV Global■□https://global.cctv.com/\n\n #西游记 #孙悟空 #六小龄童",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BqmtOT5ltXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BqmtOT5ltXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BqmtOT5ltXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BqmtOT5ltXg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BqmtOT5ltXg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BqmtOT5ltXg"
+                },
+                "videoOwnerChannelTitle": "CCTV电视剧",
+                "videoOwnerChannelId": "UC7Vl0YiY0rDlovqcCFN4yTA"
+            },
+            "contentDetails": {
+                "videoId": "BqmtOT5ltXg",
+                "videoPublishedAt": "2017-08-09T09:17:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sZ_pvUg9nV9fr3zHOmq4I3-Jums",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:39:23Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "u4vkm5WXroo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "u4vkm5WXroo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u2_jyRrouy9OxbiYci5O5iGRkJ0",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:41:12Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NS8MiRBPFa0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NS8MiRBPFa0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7N0HwZbYQQHYEpF53mF99Krkszw",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:42:13Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "រឿងភាគថៃ ដែលល្បីខ្លាំងកាល ១៥ឆ្នាំមុន  «រឿង អ្នកណាកំណត់»",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UFa80kI6JjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UFa80kI6JjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UFa80kI6JjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UFa80kI6JjI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UFa80kI6JjI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UFa80kI6JjI"
+                },
+                "videoOwnerChannelTitle": "SING Entertainment",
+                "videoOwnerChannelId": "UCrm-HyYcNUnXru7Q0vjVFMw"
+            },
+            "contentDetails": {
+                "videoId": "UFa80kI6JjI",
+                "videoPublishedAt": "2016-12-16T14:11:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2yUMidqPI_xuQgGfYZe8j8O8nBs",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-08-31T08:44:08Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "53PN7T5Z_iE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "53PN7T5Z_iE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QJND-ZGajj70R5v0I-_39BFmzFo",
+            "id": "UExxTlR5QW1oOW5CaFNRV19pZ1hmekZvN25WeGQ1Q2NvaS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-09-27T06:53:29Z",
+                "channelId": "UCtKbK9aeuRtoYfW0olCWvTA",
+                "title": "Phim Ca Nhạc ĐIỆP VỤ HOA HỒNG 2 | Kim Ny Ngọc, Lâm Minh Thắng | Phim Xã Hội Đen Hot Nhất",
+                "description": "BẤM SUBCRIBE ĐỂ THEO DÕI SẢN PHẨM MỚI NHẤT CỦA KÊNH NHÉ! PHIM CA NHẠC HAY NHẤT, MỚI NHẤT. \nCa sĩ Kim Ny Ngọc\n➤ Nhấp  vào link subcribes Youtube: https://goo.gl/Z56E63 \n➤Facebook Kim  Ny Ngọc : https://www.facebook.com/kimnyngocofficial30\n Fanpage: https://www.facebook.com/casi.kimnyngoc \n Liên hệ quảng cáo :  knnproduction1@gmail.com\n➤ ➤ Mv ca nhạc mới nhất của Kim Ny Ngọc (Rối bời):https://www.youtube.com/watch?v=Tsbya5TDgWk\n➤Phim ca nhạc\n★ Điêp vụ hoa hồng 1:https://www.youtube.com/watch?v=zhX8lnsGhBY\n*********✦**************✦******************✦*******\n➤Phim  ca nhạc, hành động mới nhất Điệp vụ hoa hồng (Phần 2)- Kim Ny Ngọc,Lâm Minh Thắng\nPhim ca nhạc giang hồ,xã hội đen hay nhất\nPhim ca nhạc hay nhat 2018\n➤Nhà sản xuất : KNN PRODUCTION\n ➤Diễn  viên:   Kim Ny Ngọc,Lâm Minh Thắng,Khôi Trần,Minh Nhựt,Mai Ngọc,Hà Anh Tấn, Vũ Lâm,David Nguyễn,Bảo Nhi,Cu Lì,Nhung Dona ,Quách Phú Thành,Võ Hoàng Quân,Diệp Quốc Tuấn...\nCùng Cascader Axn và một số diễn viên khác,Fc Kim Ny Ngọc\n➤Kich bản& Đạo diễn: Diệp Quốc Tuấn\n➤Đạo diễn hành động: Hồ Hiếu\n➤Trợ  lí: Hà Anh Tấn\n➤ Quay phim: Nguyễn Hoàng\n➤D.O.P: Nguyễn Hoàng \n➤ Thiết kế:Phi Long(Cu Lì),Văn Lợi,Xuân Tiến,Mai Ngọc,Tân Nguyễn\n➤  Phụ quay: Hoàng Quân,Trần Thanh Trung\n➤ Ánh sáng,dolly,bomb: nhóm Lương Sơn Bạc \n➤ Dựng phim& Kỹ xảo: Unn Thành, Matma Hoang Tuan Anh \n➤Hậu trường: Matma HoàngTuấn Anh\n➤Make up: Diễm Á \n➤Đơn vị tài trợ: Club 141 \nĐc: 141 Nguyễn Đình Chính,quận Phú Nhuận\n➤Bài hát trong phim:\n1.Lầm tưởng anh yêu em\nSáng tác: Nhi Thoại \n2.Để anh rời xa\nSáng tác: Kim Ny Ngọc\n➤ Nhạc trong phim\nem sợ định mệnh Remix beat (34:00)(1:10:20)\nĐối với anh em không còn cảm giác remix beat(9:36)\n➤ Kim Ny Ngọc chân thành cảm ơn tất cả ekip Axn Film , các diễn viên và các cascader \nCảm ơn nhà tài trợ club 141",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ttghu Gghikop",
+                "playlistId": "PLqNTyAmh9nBhSQW_igXfzFo7nVxd5Ccoi",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jUhL0yVkWH0"
+                },
+                "videoOwnerChannelTitle": "Kim Ny Ngoc Music",
+                "videoOwnerChannelId": "UCVMWC9-yUqrgqixarsbDYKQ"
+            },
+            "contentDetails": {
+                "videoId": "jUhL0yVkWH0",
+                "videoPublishedAt": "2016-11-18T21:01:55Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 17,
+        "resultsPerPage": 50
+    }
+}
