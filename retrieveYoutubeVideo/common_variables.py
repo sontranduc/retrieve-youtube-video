@@ -4,13 +4,10 @@
 
 import requests
 
-
-key = [ "AIzaSyDHJDdRdq9YfMr2RGtWfPjykk4DDUjymLw",	#nailbookingmonitor
-        "AIzaSyAVrDarPdlKoW38zZX1buTBVrEiAeqmGvg",	#vibdummy
-        "AIzaSyACTxgdOL4R1oo79GhZWRU6VxENDJiSWi4",	#vibappdummy
-        "AIzaSyDaN2Sj6YK_Hcf88wugHDsPvtMk46K2PRE",	#vietipbox
-        "AIzaSyC4T6_S6Ec2MCwnANLLO4DTLWenVSSIUE0",	#tranducsolutions
-        "AIzaSyCb6tmf5dS5tI1Z7noyUZBVuvQxHfJVN2Y"  #sontranduc33
+# sample API
+key = [ "xxx",	#key1
+        "yyy",	#key2
+        "zzz"	#key3
         ]
 
 
