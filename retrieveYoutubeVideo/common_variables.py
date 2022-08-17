@@ -5,7 +5,7 @@
 import requests
 
 # sample API
-key = [ "xxx",	#key1
+key = [ "xxxx",	#key1
         "yyy",	#key2
         "zzz"	#key3
         ]
